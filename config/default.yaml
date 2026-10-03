@@ -1,0 +1,26 @@
+# Weights, thresholds, allowlist, caps. Presets: balanced (default), strict.
+presets:
+  balanced:
+    weights: { S1: 3, S2: 3, S3: 2, S4: 4, S5: 4, S6: 0 }
+    thresholds: { suspicious: 1, flagged: 3, blocked: 6 }
+    context_discount: -2
+  strict:
+    weights: { S1: 3, S2: 3, S3: 2, S4: 4, S5: 4, S6: 0 }
+    thresholds: { suspicious: 1, flagged: 2, blocked: 5 }
+    context_discount: 0
+
+budget:
+  cache_ttl_seconds: 3600
+  session_cap: 20
+  daily_cap: 50
+  hard_max: 100
+
+engines: [google, google_news]   # bing only if tested live
+
+trust:
+  allowlist: [wikipedia.org, github.com, owasp.org]
+  allowlist_tld: [.gov.in, .edu, .ac.in]
+
+audit:
+  path: logs/audit.jsonl
+  max_bytes: 5000000

@@ -1,0 +1,10 @@
+[project]
+name = "serpshield"
+version = "0.1.0"
+description = "Prompt-injection-safe search gateway (MCP server) for SerpApi"
+requires-python = ">=3.11"
+license = { text = "MIT" }
+dependencies = []  # mirror requirements.txt once pinned
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

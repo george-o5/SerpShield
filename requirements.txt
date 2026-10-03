@@ -1,0 +1,8 @@
+# Pin exact versions after installing (Day 1).
+mcp[cli]
+httpx
+pydantic
+PyYAML
+pytest
+# optional
+rich
