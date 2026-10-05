@@ -1,0 +1,1533 @@
+{
+  "search_metadata": {
+    "id": "6ac378aeb6a867dbc7027d2e",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/i-8BDEnzBDZAxj8RLc4P9pNV6iya1abuAiHvGfoFeeU/6ac378aeb6a867dbc7027d2e.json",
+    "markdown_endpoint": "https://serpapi.com/searches/i-8BDEnzBDZAxj8RLc4P9pNV6iya1abuAiHvGfoFeeU/6ac378aeb6a867dbc7027d2e.md",
+    "created_at": "2026-10-05 10:15:10 UTC",
+    "processed_at": "2026-10-05 10:15:10 UTC",
+    "google_news_url": "https://news.google.com/search?q=prompt+injection+LLM",
+    "raw_html_file": "https://serpapi.com/searches/i-8BDEnzBDZAxj8RLc4P9pNV6iya1abuAiHvGfoFeeU/6ac378aeb6a867dbc7027d2e.html",
+    "total_time_taken": 1.25
+  },
+  "search_parameters": {
+    "engine": "google_news",
+    "q": "prompt injection LLM"
+  },
+  "news_results": [
+    {
+      "position": 1,
+      "title": "Prompt Injection Remains Biggest LLM Risk, Despite Limited Incidents",
+      "source": {
+        "name": "Infosecurity Magazine",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.infosecurity-magazine.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "James Coker"
+        ]
+      },
+      "link": "https://www.infosecurity-magazine.com/news/prompt-injection-llm-risk/",
+      "thumbnail": "https://assets.infosecurity-magazine.com/webpage/og/83928c6f-5f2e-451b-a4a1-f08723bdd838.jpeg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHliR1JIT1ZORlluRTNUVmhEVFJDc0FoaXNBaWdLTWdZQk1aTFJNQWM",
+      "date": "08/05/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-05T07:00:00Z"
+    },
+    {
+      "position": 2,
+      "title": "Notes from Underground: Adversarial Prompt Injection",
+      "source": {
+        "name": "proofpoint.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.proofpoint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Yaniv Miron"
+        ]
+      },
+      "link": "https://www.proofpoint.com/us/blog/threat-insight/notes-underground-adversarial-prompt-injection",
+      "thumbnail": "https://www.proofpoint.com/sites/default/files/styles/image_768_300/public/blog-banners/pfpt-us-connect-city.jpg.webp?itok=1_dp4Yxk",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUhTSGRHT1ZadU1qaDBNak52VFJDc0FoaUFCaWdLTWdhQmdZTE96UU0",
+      "date": "07/28/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-28T07:00:00Z"
+    },
+    {
+      "position": 3,
+      "title": "Detection and analysis of prompt injection in indian multilingual large language models",
+      "source": {
+        "name": "Nature",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.nature.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.nature.com/articles/s41598-026-43883-0",
+      "thumbnail": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-026-43883-0/MediaObjects/41598_2026_43883_Fig1_HTML.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDBTV05YU1c5aVMyWlBhMDVvVFJEMkFoaXRCU2dLTWdrQkFJYkdFQ2FTRkFF",
+      "date": "04/04/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-04T07:00:00Z"
+    },
+    {
+      "position": 4,
+      "title": "Breaking Trust with Words: Prompt Injection Leading to Simulated /etc/passwd Disclosure",
+      "source": {
+        "name": "Resecurity",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.resecurity.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.resecurity.com/blog/article/breaking-trust-with-words-prompt-injection-leading-to-simulated-etcpasswd-disclosure",
+      "thumbnail": "https://www.resecurity.com/uploads/post/593/593.jpg?5fbf93ea2f8a3038fd9de115b36d01f8",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXJSVTl4TFZjNE9XNVlURW81VFJDZkF4ampCU2dLTWdZUmNwQU1MUWM",
+      "date": "01/25/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-01-25T08:00:00Z"
+    },
+    {
+      "position": 5,
+      "title": "Now, defenders are embracing the prompt injection, too",
+      "source": {
+        "name": "Ars Technica",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://arstechnica.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Dan Goodin"
+        ]
+      },
+      "link": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/ai-agent-robot-guardrail.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNUhhRnB4WjBOdVRIaE9MV05uVFJDZkF4ampCU2dLTWdNQldBdw",
+      "date": "07/13/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-13T07:00:00Z"
+    },
+    {
+      "position": 6,
+      "title": "Fooling AI Agents: Web-Based Indirect Prompt Injection Observed in the Wild",
+      "source": {
+        "name": "Unit 42",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://unit42.paloaltonetworks.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Oleksii Starov",
+          "Mohamed Nabeel",
+          "Shehroze Farooqi"
+        ]
+      },
+      "link": "https://unit42.paloaltonetworks.com/ai-agent-prompt-injection/",
+      "thumbnail": "https://www.paloaltonetworks.com/content/dam/pan/en_US/target/2025/u42-ai_frontier_briefing-blog-banner_255x296.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUJRVEZqVHpGcU0xVnZNVmhVVFJEUUJCai1BeWdLTWdZQjBZZ0VTUVE",
+      "date": "03/03/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-03-03T08:00:00Z"
+    },
+    {
+      "position": 7,
+      "title": "Prompt Injection Attacks: The LLM Security Risk IT Leaders Must Address",
+      "source": {
+        "name": "BizTech Magazine",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://biztechmagazine.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Nathan Eddy"
+        ]
+      },
+      "link": "https://biztechmagazine.com/article/2026/04/prompt-injection-attacks-llm-security-risk-it-leaders-must-address-perfcon",
+      "thumbnail": "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/articles/202604/GettyImages-1789843732.jpg?itok=uinPydFp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUViRE5pTkdKVVVrNW1PVlpyVFJDRUFSajlBaWdCTWdtQkFZQW5VZUtwelFF",
+      "date": "04/14/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-14T07:00:00Z"
+    },
+    {
+      "position": 8,
+      "title": "Indirect prompt injection is taking hold in the wild",
+      "source": {
+        "name": "Help Net Security",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.helpnetsecurity.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Zeljka Zorz"
+        ]
+      },
+      "link": "https://www.helpnetsecurity.com/2026/04/24/indirect-prompt-injection-in-the-wild/",
+      "thumbnail": "https://img2.helpnetsecurity.com/posts2026/IPI%20attack%20kill%20chain.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNUJPVTlGV1RFM1l6bDZUWFpZVFJDb0F4alVCU2dLTWdPSlFRdw",
+      "date": "04/24/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-24T07:00:00Z"
+    },
+    {
+      "position": 9,
+      "title": "Person Hides Prompt Injection in Legal Filing Telling AI to Side With Them",
+      "source": {
+        "name": "404media.co",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.404media.co&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Jason Koebler"
+        ]
+      },
+      "link": "https://www.404media.co/person-hides-prompt-injection-in-legal-filing-telling-ai-to-side-with-them/",
+      "thumbnail": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w2000/2026/08/CleanShot-2026-08-13-at-10.40.56@2x.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW5XazgzZURGaWMxcFBNRXBXVFJDM0FSaVVBaWdCTWdhcElvb1NuUWc",
+      "date": "08/13/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-13T07:00:00Z"
+    },
+    {
+      "position": 10,
+      "title": "Prompt injection protection: Detecting and blocking malicious AI instructions",
+      "source": {
+        "name": "Acronis",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.acronis.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Alexander Ivanyuk"
+        ]
+      },
+      "link": "https://www.acronis.com/en/blog/posts/prompt-injection-protection-detecting-and-blocking-malicious-ai-instructions/",
+      "thumbnail": "https://staticfiles.acronis.com/images/content/3a2651f950265bf9facf4f9285b56e74.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU5YMFJKZFhScmJrZFpXVFkyVFJDNUF4anZCQ2dLTWdZQkFJajFuQVU",
+      "date": "09/07/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-07T07:00:00Z"
+    },
+    {
+      "position": 11,
+      "title": "Prompt Injection at the Drive-Through",
+      "source": {
+        "name": "spectrum.ieee.org",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://spectrum.ieee.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Bruce Schneier",
+          "Barath Raghavan"
+        ]
+      },
+      "link": "https://spectrum.ieee.org/prompt-injection-attack",
+      "thumbnail": "https://spectrum.ieee.org/media-library/cartoon-arms-holding-cash-and-burger-connected-by-tubes-to-a-machine-on-a-green-grid-background.png?id=62858670&width=400&height=268",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVROblE1WlhaYVoxUmxlVTFZVFJDTkFoaVFBeWdLTWdZTk1aVE1IUWs",
+      "date": "01/21/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-01-21T08:00:00Z"
+    },
+    {
+      "position": 12,
+      "title": "Prompt injection searches jump 141 percent as LLM attack research leaves the lab",
+      "source": {
+        "name": "technology.org",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.technology.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.technology.org/2026/08/25/prompt-injection-searches-jump-141-percent-as-llm-attack-research-leaves-the-lab/",
+      "thumbnail": "https://www.technology.org/texorgwp/wp-content/uploads/2023/11/hacker-1944688_960_720.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNVVXVGxQZVRoTlZVbGhhbWN0VFJERUF4aW1CU2dLTWdB",
+      "date": "08/25/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-25T07:00:00Z"
+    },
+    {
+      "position": 13,
+      "title": "Prompt Injection tops 2026 OWASP GenAI / LLM Top Ten vulnerabilities",
+      "source": {
+        "name": "SD Times",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://sdtimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://sdtimes.com/security/prompt-injection-tops-2026-owasp-genai-llm-top-ten-vulnerabilities/",
+      "thumbnail": "https://sdtimes.com/wp-content/uploads/2026/08/Screenshot-2026-08-04-at-2.03.14-PM.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHhiMGROYTJsbU9GOVFOa0ZGVFJDN0JCaVpCQ2dLTWdhVkk1Q3NzUVk",
+      "date": "08/04/2026, 06:32 PM, +0000 UTC",
+      "iso_date": "2026-08-04T18:32:10Z"
+    },
+    {
+      "position": 14,
+      "title": "How to Prevent Prompt Injection Attacks: 12 Steps, 90 Min [2026]",
+      "source": {
+        "name": "tech-insider.org",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://tech-insider.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://tech-insider.org/how-to-prevent-prompt-injection-attacks-2026/",
+      "thumbnail": "https://tech-insider.org/wp-content/uploads/2026/08/how-to-prevent-prompt-injection-attacks-2026-1.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVpObEUzVVRsTFlteFFZMlpwVFJDaUF4amRCU2dLTWdtQkVaRFRtT21oaGdJ",
+      "date": "08/25/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-25T07:00:00Z"
+    },
+    {
+      "position": 15,
+      "title": "RoLLMRec: a robust LLM-based recommender system for defending against shilling and prompt injection attacks",
+      "source": {
+        "name": "Frontiers",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.frontiersin.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Rasha Kashef"
+        ]
+      },
+      "link": "https://www.frontiersin.org/journals/computer-science/articles/10.3389/fcomp.2026.1735253/full",
+      "thumbnail": "https://www.frontiersin.org/files/Articles/1735253/xml-images/fcomp-08-1735253-g0001.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTNUVWhRTVdjdFZraDBTV1pWVFJEc0FoakxCaWdLTWdZQkFJYnR0UWM",
+      "date": "02/13/2026, 04:00 PM, +0000 UTC",
+      "iso_date": "2026-02-13T16:00:48Z"
+    },
+    {
+      "position": 16,
+      "title": "Poisoned pixels, phishing, prompt injection: Cybersecurity threats in AI-driven radiology",
+      "source": {
+        "name": "healthcare-in-europe.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://healthcare-in-europe.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://healthcare-in-europe.com/en/news/cybersecurity-threats-llm-radiology.html",
+      "thumbnail": "https://healthcare-in-europe.com/media/story/32017/rect-01-ct-hidden-prompt-rect.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXlXVmsyVDNZd2RWRlVVWEZ3VFJEd0FSaVFBeWdLTWdZZFU0NXRwUVU",
+      "date": "04/02/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-02T07:00:00Z"
+    },
+    {
+      "position": 17,
+      "title": "How Vulnerable Are AI Agents to Indirect Prompt Injections? Insights from a Large-Scale Public Competition",
+      "source": {
+        "name": "alphaXiv",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.alphaxiv.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.alphaxiv.org/abs/2603.15714",
+      "thumbnail": "https://thumbnails.assets.alphaxiv.org/2603.15714v1.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXBWRXB5UldwNWRuUlZSbkY2VFJEX0FSakZBU2dCTWdZTlE0cXFLUWc",
+      "date": "07/06/2026, 08:52 AM, +0000 UTC",
+      "iso_date": "2026-07-06T08:52:00Z"
+    },
+    {
+      "position": 18,
+      "title": "Prompt Injection Vulnerability Detection: Tools & Techniques",
+      "source": {
+        "name": "Augment Code",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.augmentcode.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.augmentcode.com/guides/prompt-injection-detection",
+      "thumbnail": "https://cdn.sanity.io/images/oraw2u2c/production/c49514942448524f8f105d77b2f06a9502255269-1600x900.svg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNVJURVF3T0VGYVdtOXNiMUpSVFJDb0FSaXNBaWdCTWdOOUFEdw",
+      "date": "05/18/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-18T07:00:00Z"
+    },
+    {
+      "position": 19,
+      "title": "Prompt injection attacks on educational large language models for higher and vocational education",
+      "source": {
+        "name": "Nature",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.nature.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.nature.com/articles/s41598-026-46563-1",
+      "thumbnail": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-026-46563-1/MediaObjects/41598_2026_46563_Fig1_HTML.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNW5aazVyY2pBMlJWaENWREo2VFJDY0FSakVBaWdCTWdrQklJcW1wS1hRclFF",
+      "date": "03/31/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-03-31T07:00:00Z"
+    },
+    {
+      "position": 20,
+      "title": "OWASP 2026 LLM Top 10: \"The model will be fooled\"",
+      "source": {
+        "name": "Help Net Security",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.helpnetsecurity.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Zeljka Zorz"
+        ]
+      },
+      "link": "https://www.helpnetsecurity.com/2026/08/06/owasp-2026-llm-top-10-released/",
+      "thumbnail": "https://img2.helpnetsecurity.com/posts2026/OWASP%202026%20LLM%20Top%2010.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNUlPVXd3WXpGTlVrSmZZUzFTVFJDQ0JCalVCQ2dLTWdB",
+      "date": "08/06/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-06T07:00:00Z"
+    },
+    {
+      "position": 21,
+      "title": "Prompt injection risks in enterprise AI",
+      "source": {
+        "name": "VentureBeat",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://venturebeat.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://venturebeat.com/security/prompt-injection-is-exploiting-enterprise-ais-biggest-design-flaws-by-targeting-agents-rag-pipelines-and-model-routers",
+      "thumbnail": "https://images.ctfassets.net/jdtwqhzvc2n1/761C8qLyC2XS0ZV0CCiPFE/d92b04f5a5c0cec56a5612a13d3f7e35/u7277289442_A_modern_interpretation_of_cybersecurity._3D_--ar_f806db26-b93b-427c-b0c9-42caa83dfe92_0.png?w=1200&h=675&fit=fill&f=center&q=80",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUJibkpMWVRONU1UTnJkSEkzVFJDb0FSaXNBaWdCTWdZQlFJcHNMUVk",
+      "date": "06/28/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-28T07:00:00Z"
+    },
+    {
+      "position": 22,
+      "title": "Prompt Injection Attacks on LLM Generated Reviews of Scientific Publications",
+      "source": {
+        "name": "Springer Nature Link",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://link.springer.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Janis Keuper"
+        ]
+      },
+      "link": "https://link.springer.com/chapter/10.1007/978-3-032-31335-5_9",
+      "date": "08/04/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-04T07:00:00Z"
+    },
+    {
+      "position": 23,
+      "title": "The Promptware Kill Chain",
+      "source": {
+        "name": "Lawfare",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.lawfaremedia.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Bruce Schneier",
+          "Ben Nassi",
+          "Oleg Brodt"
+        ]
+      },
+      "link": "https://www.lawfaremedia.org/article/the-promptware-kill-chain",
+      "thumbnail": "https://lawfare-assets-new.azureedge.net/assets/images/default-source/article-images/ai-tech-malware-red.jpeg?sfvrsn=8fadb0a9_5",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNVNVRWR6VkRadVJGSllPRVpCVFJEU0F4aVRCU2dLTWdPdFV4UQ",
+      "date": "02/13/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-02-13T08:00:00Z"
+    },
+    {
+      "position": 24,
+      "title": "Prompt Injection: The Hidden Threat Hijacking Your LLMs (and How to Stop It)",
+      "source": {
+        "name": "lookout.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.lookout.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.lookout.com/blog/prompt-injection",
+      "thumbnail": "https://cdn.prod.website-files.com/64ad8cecda5417d65d91a8b7/691e27be510aa4dcd88fd029_prompt-injection.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVNaM0ozWW5JeVZWcDRXblExVFJDUUF4ai1CU2dLTWdhcElvZ3lFUXM",
+      "date": "11/19/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-19T08:00:00Z"
+    },
+    {
+      "position": 25,
+      "title": "You Cannot Filter Your Way Out of Prompt Injection",
+      "source": {
+        "name": "HackerNoon",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://hackernoon.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://hackernoon.com/you-cannot-filter-your-way-out-of-prompt-injection",
+      "thumbnail": "https://hackernoon.imgix.net/images/NnlG2LBJpiQQKi84jb2wme9UuiR2-du83bsa.png?auto=format%2Ccompress&w=3840",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDBXVTVUUVVSc09YTnphelZPVFJDZ0F4amhCU2dLTWdhQlk1UW1yZ2M",
+      "date": "08/02/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-02T07:00:00Z"
+    },
+    {
+      "position": 26,
+      "title": "PromptGuard a structured framework for injection resilient language models",
+      "source": {
+        "name": "Nature",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.nature.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ahmed M Alzahrani"
+        ]
+      },
+      "link": "https://www.nature.com/articles/s41598-025-31086-y",
+      "thumbnail": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-025-31086-y/MediaObjects/41598_2025_31086_Fig1_HTML.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNVhibVoxZFhjeWVsaE1VR3Q2VFJDZUJSaktBeWdLTWdPVkV3bw",
+      "date": "01/09/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-01-09T08:00:00Z"
+    },
+    {
+      "position": 27,
+      "title": "UK cyber agency warns LLMs will always be vulnerable to prompt injection",
+      "source": {
+        "name": "cyberscoop.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://cyberscoop.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Derek Johnson"
+        ]
+      },
+      "link": "https://cyberscoop.com/uk-warns-ai-prompt-injection-unfixable-security-flaw/",
+      "thumbnail": "https://cyberscoop.com/wp-content/uploads/sites/3/2025/12/GettyImages-2217849521-min.jpg?w=1180",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNU1iRW93T0MxQ1JEVk5TbVpKVFJDakF4amNCU2dLTWdQSlVpSQ",
+      "date": "12/08/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-12-08T08:00:00Z"
+    },
+    {
+      "position": 28,
+      "title": "Indirect Prompt Injection Exposes a Universal AI Security Flaw, No Deployment Model Is Immune",
+      "source": {
+        "name": "The Futurum Group",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://futurumgroup.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://futurumgroup.com/insights/indirect-prompt-injection-exposes-a-universal-ai-security-flaw-no-deployment-model-is-immune/",
+      "thumbnail": "https://futurumgroup.com/wp-content/uploads/2026/06/stock_0033.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXRZVVV4TjBsZlFsaEhaQzAyVFJDZkF4ampCU2dLTWdNQm9BZw",
+      "date": "06/09/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-09T07:00:00Z"
+    },
+    {
+      "position": 29,
+      "title": "CrowdStrike identifies five new prompt injection threats to AI",
+      "source": {
+        "name": "csoonline.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.csoonline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Maxwell Cooter"
+        ]
+      },
+      "link": "https://www.csoonline.com/article/4195670/crowdstrike-identifies-five-new-prompt-injection-threats-to-ai.html",
+      "thumbnail": "https://www.csoonline.com/wp-content/uploads/2026/07/4195670-0-27573900-1783693921-shutterstock_2518359167.jpg?quality=50&strip=all",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVJaR3RSU0Y5c0xVSmxaWE5ZVFJDU0F4ajdCU2dLTWdhQk1Zd3lJUWs",
+      "date": "07/10/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-10T07:00:00Z"
+    },
+    {
+      "position": 30,
+      "title": "How indirect prompt injection attacks on AI work – and 6 ways to shut them down",
+      "source": {
+        "name": "ZDNET",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.zdnet.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Charlie Osborne"
+        ]
+      },
+      "link": "https://www.zdnet.com/article/how-indirect-prompt-injection-attacks-on-ai-work-and-6-ways-to-shut-them-down/",
+      "thumbnail": "https://www.zdnet.com/wp-content/uploads/sites/3/gettyimages-1376579671_5cc983.jpg?w=300",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNU9kbkpoTUdad1JVaDNZMGxoVFJESUFSaXNBaWdLTWdNMTF4UQ",
+      "date": "04/23/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-23T07:00:00Z"
+    },
+    {
+      "position": 31,
+      "title": "EchoLeak: The First Real-World Zero-Click Prompt Injection Exploit in a Production LLM System",
+      "source": {
+        "name": "The Association for the Advancement of Artificial Intelligence",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://ojs.aaai.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://ojs.aaai.org/index.php/AAAI-SS/article/view/36899",
+      "thumbnail": "https://ojs.aaai.org/public/journals/8/fss25.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHdRV1JRTkZsNWVGOWtWSFpuVFJEMkJCam5BeWdLTWdhQkVKYW1sQW8",
+      "date": "11/23/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-23T08:00:00Z"
+    },
+    {
+      "position": 32,
+      "title": "Researchers Uncover 10 In-the-Wild Prompt Injection Payloads Targeting AI Agents",
+      "source": {
+        "name": "Infosecurity Magazine",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.infosecurity-magazine.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Phil Muncaster"
+        ]
+      },
+      "link": "https://www.infosecurity-magazine.com/news/researchers-10-wild-indirect/",
+      "thumbnail": "https://assets.infosecurity-magazine.com/webpage/og/cb3e39e9-34b0-4007-a20b-7f080038454a.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNWhaR2cxZG1nMlMyVkhVak5wVFJDc0FoaXNBaWdLTWdNQmNRdw",
+      "date": "04/23/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-23T07:00:00Z"
+    },
+    {
+      "position": 33,
+      "title": "The OWASP LLM Top 10: What Application Security Teams Need to Know About LLM Vulnerabilities",
+      "source": {
+        "name": "SC Media",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.scworld.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ankit Bhutani"
+        ]
+      },
+      "link": "https://www.scworld.com/tech-explainer/the-owasp-llm-top-10-what-application-security-teams-need-to-know-about-llm-vulnerabilities",
+      "thumbnail": "https://www.scworld.com/api/thumbor-proxy?width=1920&src=https%3A%2F%2Ffiles.cyberriskalliance.com%2Fwp-content%2Fuploads%2F2025%2F07%2F072525_llm_ai.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUNZVWxtYW0wM1NHTlFXVVpJVFJERUF4aW1CU2dLTWdhZFE0eU1yUVU",
+      "date": "08/24/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-24T07:00:00Z"
+    },
+    {
+      "position": 34,
+      "title": "Open, Closed and Broken: Prompt Fuzzing Finds LLMs Still Fragile Across Open and Closed Models",
+      "source": {
+        "name": "Unit 42",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://unit42.paloaltonetworks.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://unit42.paloaltonetworks.com/genai-llm-prompt-fuzzing/",
+      "thumbnail": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/03/AdobeStock_652069707.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW9RMmN5WkMxSVIwOXVTbTgyVFJDZUF4amtCU2dLTWdZQkVJanFuQVk",
+      "date": "03/17/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-03-17T07:00:00Z"
+    },
+    {
+      "position": 35,
+      "title": "How prompt injection broke Nvidia's sandboxed OpenClaw agent",
+      "source": {
+        "name": "Substack",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://bdtechtalks.substack.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ben Dickson"
+        ]
+      },
+      "link": "https://bdtechtalks.substack.com/p/how-prompt-injection-broke-nvidias",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!VFxF!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5152c680-da4a-461e-b368-bfb327684946_1440x900.jpeg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNVdWM0ZtTUY5WVlsVXhSblJOVFJDMkF4aTlCU2dLTWdB",
+      "date": "05/19/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-19T07:00:00Z"
+    },
+    {
+      "position": 36,
+      "title": "The OWASP Top 10 for LLM Applications 2026: From Model Risks to Agentic Security",
+      "source": {
+        "name": "Akamai",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.akamai.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.akamai.com/blog/ai/owasp-top-10-llm-applications-2026-realistic-security-model",
+      "thumbnail": "https://www.akamai.com/site/en/images/blog/2025/thumbnail-image-varition-ten.png?impolicy=text-overlay&imtext1=The%20newly%20released%20OWASP%20Top%2010%20for%20LLM&imtext2=Applications%202026%20represents%20more&imtext3=evolution%20than%20revolution.&imtext4=%20&font=50&Gravity=West",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDFSWGhEYlVzMGJtMWhhVkZYVFJDcUFSaXBBaWdCTWdhQnRKVGt1UVk",
+      "date": "08/14/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-14T07:00:00Z"
+    },
+    {
+      "position": 37,
+      "title": "Cisco study finds major frontier models susceptible to multi-turn prompt injection attacks",
+      "source": {
+        "name": "SC Media",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.scworld.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.scworld.com/news/cisco-study-finds-major-frontier-models-susceptible-to-multi-turn-prompt-injection-attacks",
+      "thumbnail": "https://www.scworld.com/api/thumbor-proxy?width=1920&src=https%3A%2F%2Ffiles.cyberriskalliance.com%2Fwp-content%2Fuploads%2F2026%2F05%2FAdobeStock_1861069758.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW5lSGhmYURCMU1YUmphMFExVFJERUF4aW1CU2dLTWdhWkJKQ3RJUWM",
+      "date": "05/28/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-28T07:00:00Z"
+    },
+    {
+      "position": 38,
+      "title": "\"Context bombs\" can frustrate AI-driven attacks, researchers found",
+      "source": {
+        "name": "Help Net Security",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.helpnetsecurity.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Zeljka Zorz"
+        ]
+      },
+      "link": "https://www.helpnetsecurity.com/2026/07/14/context-bombs-for-defensive-prompt-injection/",
+      "thumbnail": "https://img2.helpnetsecurity.com/posts2026/context_bombs_defensive_prompt_injection.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWZhbk4zVkhWdmJHcGpkVzl0VFJEc0FoaUtCU2dLTWdZTlU0cklKUVk",
+      "date": "07/14/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-14T07:00:00Z"
+    },
+    {
+      "position": 39,
+      "title": "Cortex AI Guardrails: Prompt Injection & Jailbreak Prevention",
+      "source": {
+        "name": "Snowflake",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.snowflake.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.snowflake.com/en/blog/engineering/cortex-ai-guardrails-prompt-injection-prevention/",
+      "thumbnail": "https://www.snowflake.com/adobe/dynamicmedia/deliver/dm-aid--cc092a50-6db2-40a7-b106-c4713a0b5246/sf-eng-blog-ml-1.png?preferwebp=true&quality=85",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNWpNR1ZxT1VFdGExUm5ObEZIVFJEcUFoak9CaWdLTWdNcFZBdw",
+      "date": "05/01/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-01T07:00:00Z"
+    },
+    {
+      "position": 40,
+      "title": "Taming OpenClaw: Security Analysis and Mitigation of Autonomous LLM Agent Threats",
+      "source": {
+        "name": "alphaXiv",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.alphaxiv.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.alphaxiv.org/abs/2603.11619",
+      "date": "08/17/2026, 03:47 AM, +0000 UTC",
+      "iso_date": "2026-08-17T03:47:00Z"
+    },
+    {
+      "position": 41,
+      "title": "Fed up with vibe coders, dev sneaks data-nuking prompt injection into their code",
+      "source": {
+        "name": "Ars Technica",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://arstechnica.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Dan Goodin"
+        ]
+      },
+      "link": "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/coding_robots_agents-640x360.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNHhUbEk1ZWs5b2MxZ3pZMlpCVFJEb0FoaUFCU2dLTWdzQkVJS0NIS010SkV1dUpn",
+      "date": "05/28/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-28T07:00:00Z"
+    },
+    {
+      "position": 42,
+      "title": "CVE-2025-32711: Zero-Click 'EchoLeak' Vulnerability in Microsoft 365 Copilot Enables Stealth Data Exfiltration via Prompt Injection",
+      "source": {
+        "name": "Rescana",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.rescana.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.rescana.com/post/cve-2025-32711-zero-click-echoleak-vulnerability-in-microsoft-365-copilot-enables-stealth-data-exfiltration-via-prompt-i",
+      "thumbnail": "https://www.rescana.com/post/img/cve-2025-32711-zero-click-echoleak-vulnerability-in-microsoft-365-copilot-enables-stealth-data-exfiltration-via-prompt-i-cover.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVhOMng2WjFFd01FTmxXWFEyVFJERUF4aW1CU2dLTWdrQk1vZ1FHU25Ka0FF",
+      "date": "06/16/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-16T07:00:00Z"
+    },
+    {
+      "position": 43,
+      "title": "Prompt Injection Statistics 2026: Hidden Risks Now",
+      "source": {
+        "name": "SQ Magazine",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://sqmagazine.co.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://sqmagazine.co.uk/prompt-injection-statistics/",
+      "thumbnail": "https://sqmagazine.co.uk/wp-content/uploads/2026/03/prompt-injection-statistics.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWZMVXh0WlRVM1gzSllhM0pJVFJDZkF4ampCU2dLTWdhTlFvZ05vZ28",
+      "date": "03/26/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-03-26T07:00:00Z"
+    },
+    {
+      "position": 44,
+      "title": "The Unsolvable Problem: Why Prompt Injection May Define the AI Security Era",
+      "source": {
+        "name": "Medium",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://medium.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://medium.com/@shashwatabhattacharjee9/the-unsolvable-problem-why-prompt-injection-may-define-the-ai-security-era-94a0433318a4",
+      "thumbnail": "https://miro.medium.com/v2/da:true/resize:fit:1200/0*TbpZidHG6k3Nyl5P",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXZVSGhsVUhGNlUwRjFVbEk1VFJERUF4aW1CU2dLTWdZbFZvb01wZ2c",
+      "date": "12/12/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-12-12T08:00:00Z"
+    },
+    {
+      "position": 45,
+      "title": "Mend.io launches AI system prompt hardening solution to secure LLM instructions",
+      "source": {
+        "name": "SiliconANGLE",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://siliconangle.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Kyt Dotson"
+        ]
+      },
+      "link": "https://siliconangle.com/2026/03/10/mend-io-launches-ai-system-prompt-hardening-solution-secure-llm-instructions/",
+      "thumbnail": "https://images.siliconangle.com/blogs.dir/1/files/2024/09/Designer-15.jpeg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTNPVEJhTXpGcFFsSnhSRVpKVFJDcUJCaXFCQ2dLTWdrQmdJUnJNYVl0Y1FF",
+      "date": "03/10/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-03-10T07:00:00Z"
+    },
+    {
+      "position": 46,
+      "title": "LLM Security: Protecting Models, RAG & Data Pipelines",
+      "source": {
+        "name": "wiz.io",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wiz.io&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.wiz.io/academy/ai-security/llm-security",
+      "thumbnail": "https://www.datocms-assets.com/75231/1734616066-llm-security.webp?fm=webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU1kbTVIWm01SGJEaFZWbkJhVFJDSEF4aVBCaWdLTWdhSlVZeHRNUVk",
+      "date": "02/27/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-02-27T08:00:00Z"
+    },
+    {
+      "position": 47,
+      "title": "Three AI coding agents leaked secrets through a single prompt injection. One vendor's system card predicted it",
+      "source": {
+        "name": "VentureBeat",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://venturebeat.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Louis Columbus"
+        ]
+      },
+      "link": "https://venturebeat.com/security/ai-agent-runtime-security-system-card-audit-comment-and-control-2026",
+      "thumbnail": "https://images.ctfassets.net/jdtwqhzvc2n1/338TKAZmGg0eamRggz05Kq/fdc8465b217fab704067d122300d6da7/hero_model_comparison.png?w=1200&h=1200&fit=fill&f=center&q=80",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUdUV1JzU3paS2F6VXlkekUxVFJEaEFSamhBU2dCTWdZQlVJckZIZ2s",
+      "date": "04/21/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-21T07:00:00Z"
+    },
+    {
+      "position": 48,
+      "title": "Prompt injection attacks on vision-language models for surgical decision support",
+      "source": {
+        "name": "Nature",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.nature.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Jan Clusmann",
+          "Jakob Nikolas Kather",
+          "Zheyuan Zhang"
+        ]
+      },
+      "link": "https://www.nature.com/articles/s44484-026-00014-6",
+      "date": "07/27/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-27T07:00:00Z"
+    },
+    {
+      "position": 49,
+      "title": "‘GitLost’ Flaw Lets Attackers Trick GitHub AI Agent Into Leaking Private Repos",
+      "source": {
+        "name": "DevOps.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://devops.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Jeff Burt"
+        ]
+      },
+      "link": "https://devops.com/gitlost-flaw-lets-attackers-trick-github-ai-agent-into-leaking-private-repos/",
+      "thumbnail": "https://devops.com/wp-content/uploads/2026/07/Untitled-design-2026-07-08T090516.587.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVVhakp2Y0ZWVVVHRkpaa3d3VFJES0FoaUNCaWdLTWdrQlVJN3JMT2VvS3dJ",
+      "date": "07/08/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-08T07:00:00Z"
+    },
+    {
+      "position": 50,
+      "title": "Chain-of-Thought Spoofing Targets Reasoning AI Models",
+      "source": {
+        "name": "Hackaday",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://hackaday.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Donald Papp"
+        ]
+      },
+      "link": "https://hackaday.com/2026/07/02/chain-of-thought-spoofing-targets-reasoning-ai-models/",
+      "thumbnail": "https://hackaday.com/wp-content/uploads/2018/06/machinetalk.jpg?w=800",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVJTMkZNY3pWUmJuRTNZakZvVFJDdkF4aklCU2dLTWdhVllvNG9yZ2M",
+      "date": "07/02/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-02T07:00:00Z"
+    },
+    {
+      "position": 51,
+      "title": "Continuously hardening ChatGPT Atlas against prompt injection attacks",
+      "source": {
+        "name": "OpenAI",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://openai.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://openai.com/index/hardening-atlas-against-prompt-injection/",
+      "thumbnail": "https://images.ctfassets.net/kftzwdyauwt9/5h613RyJ0LYkcqNE7qRecc/b276ec3cf7cad4047d4a5bc63bef3485/Prompt_Injection_SEO.png?w=1600&h=900&fit=fill",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHphbWRRTnpWVmRISmxXRzlJVFJDZkF4ampCU2dLTWdhVms0clBNUWc",
+      "date": "12/22/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-12-22T08:00:00Z"
+    },
+    {
+      "position": 52,
+      "title": "Apple Intelligence protections bypassed with prompt injection",
+      "source": {
+        "name": "9to5Mac",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://9to5mac.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Marcus Mendes"
+        ]
+      },
+      "link": "https://9to5mac.com/2026/04/09/researchers-detail-how-a-prompt-injection-attack-bypassed-apple-intelligence-protections/",
+      "thumbnail": "https://9to5mac.com/wp-content/uploads/sites/6/2025/09/apple-intelligence-liquid-glass-shattered.jpg?quality=82&strip=all&w=1600",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTVjRjh5YWxkTVpYTkRWSFkyVFJDSEF4aVBCaWdLTWdZbElvd3hNUVU",
+      "date": "04/09/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-09T07:00:00Z"
+    },
+    {
+      "position": 53,
+      "title": "7 AI Security Testing Tools for LLMs, Agents, and AI Pipelines (2026)",
+      "source": {
+        "name": "OX Security",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.ox.security&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.ox.security/blog/ai-security-testing-tools/",
+      "thumbnail": "https://www.ox.security/wp-content/uploads/2026/05/tool-1-300x157.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUJUMG8zZDBSUE0yTlRVVFJ6VFJDZEFSaXNBaWdLTWdZaEpKQ0xHUWc",
+      "date": "05/29/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-29T07:00:00Z"
+    },
+    {
+      "position": 54,
+      "title": "A Prompt Injection Attack One Cannot Prevent: Wishful Thinking or Real Concern?",
+      "source": {
+        "name": "Unite.AI",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.unite.ai&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Eli Vovsha"
+        ]
+      },
+      "link": "https://www.unite.ai/unpreventable-prompt-injection-superhuman-ai-risk/",
+      "thumbnail": "https://www.unite.ai/wp-content/uploads/2026/03/promptinjection-e1774462395486.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVpaMDVpT0hKd05FdG1hWEpqVFJDdEF4akxCU2dLTWdraFVJd3RxV1VlU1FJ",
+      "date": "03/26/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-03-26T07:00:00Z"
+    },
+    {
+      "position": 55,
+      "title": "Multilingual Prompt Injection Exposes Gaps in LLM Safety Nets",
+      "source": {
+        "name": "HackerNoon",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://hackernoon.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://hackernoon.com/multilingual-prompt-injection-exposes-gaps-in-llm-safety-nets",
+      "thumbnail": "https://hackernoon.imgix.net/images/5wpKgV75aONqkTJlafw2yQmK9yd2-c483cd0.jpeg?auto=format%2Ccompress&w=3840",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXlhMFEyU0ZsdlJtWmZiV2R2VFJDdUFSaWlBaWdCTWdrWk00SnFuU2QwMVFB",
+      "date": "02/15/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-02-15T08:00:00Z"
+    },
+    {
+      "position": 56,
+      "title": "New Prompt Injection Attack Vectors Through MCP Sampling",
+      "source": {
+        "name": "Unit 42",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://unit42.paloaltonetworks.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Akshata Rao",
+          "Wenjun Hu",
+          "Yongzhe Huang"
+        ]
+      },
+      "link": "https://unit42.paloaltonetworks.com/model-context-protocol-attack-vectors/",
+      "thumbnail": "https://unit42.paloaltonetworks.com/wp-content/uploads/2025/12/AdobeStock_992950050-300x300.jpeg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNVZOMmRJUkVWcVYyWnlUbW93VFJDc0FoaXNBaWdLTWdNeGNBdw",
+      "date": "12/05/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-12-05T08:00:00Z"
+    },
+    {
+      "position": 57,
+      "title": "What is context bombing, a new AI defence technique turning hackers’ tricks against them?",
+      "source": {
+        "name": "The Indian Express",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://indianexpress.com/article/technology/artificial-intelligence/what-is-context-bombing-ai-technique-hackers-10793703/",
+      "thumbnail": "https://images.indianexpress.com/2026/07/Tech-featured-image305.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVRhVWwwU0hVeU5HaDFiMDVpVFJDZkF4ampCU2dLTWdhTlE0NlJyUVU",
+      "date": "07/20/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-20T07:00:00Z"
+    },
+    {
+      "position": 58,
+      "title": "New Gaslight macOS Malware Uses Prompt Injection to Disrupt AI-Assisted Analysis",
+      "source": {
+        "name": "The Hacker News",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://thehackernews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ravie Lakshmanan"
+        ]
+      },
+      "link": "https://thehackernews.com/2026/06/new-gaslight-macos-malware-uses-prompt.html",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbTrOy7FP80AfVcwyuiLtJx1T9YECQ6fxHaelQKUn3MNwSV9P3tiVq4_-pOB-gmU3lF9GpWnc5ebVSAbp0MZMZpHHZkdpTK_HX40hfg3KbusQS5bD0kRYjYVyRzffkUpWBsblvGULiZnnOj6e0NF-dg49It3Wn8p9WqD2TNEz0ruG1XrnqCckAXqsDAOTn/s1700-nu-rw-lo-l85-e365/ai-full-disk.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHdjMVZvVjBOWk1VNXhkbWxCVFJDUUF4ai1CU2dLTWdhTmNKU25NZ2M",
+      "date": "06/25/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-25T07:00:00Z"
+    },
+    {
+      "position": 59,
+      "title": "What are the OWASP Top 10 risks for LLMs?",
+      "source": {
+        "name": "trendmicro.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.trendmicro.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.trendmicro.com/en/what-is/ai/owasp-top-10.html",
+      "thumbnail": "https://www.trendmicro.com/content/dam/trendmicro/global/en/what-is/tball-what-is-tn.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTFMVGh4VjNCeWFHNU1SMWMxVFJESUFSaS1BeWdLTWdZSlJJem9IUWM",
+      "date": "02/05/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-02-05T08:00:00Z"
+    },
+    {
+      "position": 60,
+      "title": "Strengthening LLM guardrails with synthetic data generation",
+      "source": {
+        "name": "JPMorganChase",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.jpmorganchase.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Fran Silavong",
+          "Ruibo Shi"
+        ]
+      },
+      "link": "https://www.jpmorganchase.com/about/technology/blog/fence-framework",
+      "thumbnail": "https://www.jpmorganchase.com/content/dam/jpmorganchase/images/technology/blog/fence-framework.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXlWVUZzTlZFeVFVNXRNbmxUVFJDZkF4ampCU2dLTWdhaEE1clBCUTA",
+      "date": "04/02/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-02T07:00:00Z"
+    },
+    {
+      "position": 61,
+      "title": "Context bombing heralds a new AI era of deceptive defense",
+      "source": {
+        "name": "csoonline.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.csoonline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Lucian Constantin"
+        ]
+      },
+      "link": "https://www.csoonline.com/article/4198524/context-bombing-heralds-a-new-ai-era-of-deceptive-defense.html",
+      "thumbnail": "https://www.csoonline.com/wp-content/uploads/2026/07/4198524-0-79275700-1785346655-shutterstock_2425725119.jpg?quality=50&strip=all",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXRiRkJtZGtoZmNYSnpVMVozVFJERUF4aW1CU2dLTWdtUkpZNEludWFoY3dF",
+      "date": "07/21/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-21T07:00:00Z"
+    },
+    {
+      "position": 62,
+      "title": "Manipulating AI memory for profit: The rise of AI Recommendation Poisoning",
+      "source": {
+        "name": "Microsoft",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.microsoft.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/02/10/ai-recommendation-poisoning/",
+      "date": "02/10/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-02-10T08:00:00Z"
+    },
+    {
+      "position": 63,
+      "title": "Snyk Finds Prompt Injection in 36%, 1467 Malicious Payloads in a ToxicSkills Study of Agent Skills Supply Chain Compromise",
+      "source": {
+        "name": "Snyk",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://snyk.io&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://snyk.io/blog/toxicskills-malicious-ai-agent-skills-clawhub/",
+      "thumbnail": "https://snyk.io/_next/image/?url=https%3A%2F%2Fres.cloudinary.com%2Fsnyk%2Fimage%2Fupload%2Fv1770311539%2Fblog%2Feonl3iggfefwgovn7gmq.png&w=2560&q=75",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHRYMVI0WkU1U09IWkRSbW96VFJESEFoandCQ2dLTWdhVmc1Q09zUVk",
+      "date": "02/05/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-02-05T08:00:00Z"
+    },
+    {
+      "position": 64,
+      "title": "LLM Guardrails Explained: Securing AI Applications in Production",
+      "source": {
+        "name": "wiz.io",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wiz.io&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.wiz.io/academy/ai-security/llm-guardrails",
+      "thumbnail": "https://www.datocms-assets.com/75231/1734616066-llm-security.webp?fm=webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU1kbTVIWm01SGJEaFZWbkJhVFJDSEF4aVBCaWdLTWdhSlVZeHRNUVk",
+      "date": "12/31/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-12-31T08:00:00Z"
+    },
+    {
+      "position": 65,
+      "title": "NCSC warns of confusion over true nature of AI prompt injection",
+      "source": {
+        "name": "Computer Weekly",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.computerweekly.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Alex Scroxton"
+        ]
+      },
+      "link": "https://www.computerweekly.com/news/366636155/NCSC-warns-of-confusion-over-true-nature-of-AI-prompt-injection",
+      "thumbnail": "https://cdn.ttgtmedia.com/visuals/ComputerWeekly/Hero%20Images/LLM-language-model-AI-adobe.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZTMk5LTUZGV1dVaFBhRUo0VFJEQUFoakFCeWdLTWdhaEk0YU5IUVE",
+      "date": "12/08/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-12-08T08:00:00Z"
+    },
+    {
+      "position": 66,
+      "title": "Cybercriminals Use Adversarial Prompt Injection to Evade AI-Powered Security Tools",
+      "source": {
+        "name": "gbhackers.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://gbhackers.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Mayura Kathir"
+        ]
+      },
+      "link": "https://gbhackers.com/adversarial-prompt-injection/",
+      "thumbnail": "https://gbhackers.com/wp-content/uploads/2026/07/a0c1bf3c-04d7-43e9-98ae-af23d0f987f2.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNVhVak4zYW1oUmJGZHFSRzFvVFJDZkF4amlCU2dLTWdB",
+      "date": "07/29/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-29T07:00:00Z"
+    },
+    {
+      "position": 67,
+      "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
+      "source": {
+        "name": "MIT Technology Review",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.technologyreview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Will Douglas Heaven"
+        ]
+      },
+      "link": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+      "thumbnail": "https://wp.technologyreview.com/wp-content/uploads/2026/07/spar-red.jpg?resize=854,569",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXRlaTFJUW01S1VFZGZkREJxVFJERUF4aW5CU2dLTWdhQmpKU2dNd2M",
+      "date": "07/15/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-15T07:00:00Z"
+    },
+    {
+      "position": 68,
+      "title": "Vulnerability in Perplexity’s BrowseSafe shows why single models can’t stop prompt injection",
+      "source": {
+        "name": "bdtechtalks.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://bdtechtalks.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://bdtechtalks.com/2026/01/19/perplexity-browsesafe-prompt-injection/",
+      "thumbnail": "https://i0.wp.com/bdtechtalks.com/wp-content/uploads/2026/01/AI-browser-prompt-injection.jpg?fit=1440%2C900&ssl=1",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNVdiRlZVZDE5WloxSjRVREZ3VFJDMkF4aTlCU2dLTWdB",
+      "date": "01/19/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-01-19T08:00:00Z"
+    },
+    {
+      "position": 69,
+      "title": "Star Trek Was Right About Prompt Injection, Sorta",
+      "source": {
+        "name": "Hackaday",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://hackaday.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://hackaday.com/2026/07/13/star-trek-was-right-about-prompt-injection-sorta/",
+      "thumbnail": "https://hackaday.com/wp-content/uploads/2023/02/ChatGPT-1.jpg?w=800",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWxkRXBtYUZWVGJYQjRXRWcxVFJDbEF4allCU2dLTWdhbFE0NXRJUVk",
+      "date": "07/13/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-13T07:00:00Z"
+    },
+    {
+      "position": 70,
+      "title": "OpenClaw AI Agent Flaws Could Enable Prompt Injection and Data Exfiltration",
+      "source": {
+        "name": "The Hacker News",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://thehackernews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ravie Lakshmanan"
+        ]
+      },
+      "link": "https://thehackernews.com/2026/03/openclaw-ai-agent-flaws-could-enable.html",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2mVucJhli25A25joXcap-ewfeMT1Vh-95wQKQfGOue7PwZJ1_55YsG8OQ1DQF7WVOU8tsOy73kGDzgfpTLLeqTYQ1k9LqrFWTNavDmfvCV-9IIER9PfrRsdg1wA5UzpIMrer3xC1mBClBzKkaT6pfczDbppMjZM7afcWu-RURquDGrEfjq3vVBsmlltLm/s1700-nu-rw-lo-l85-e365/open-clawss.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVVhMEpKWldweWVGOTVZa00zVFJDUUF4ai1CU2dLTWdZWlpJYk9vUWc",
+      "date": "03/14/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-03-14T07:00:00Z"
+    },
+    {
+      "position": 71,
+      "title": "Agentic LLM Browsers Expose New Attack Surface for Prompt Injection and Data Theft",
+      "source": {
+        "name": "cybersecuritynews.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://cybersecuritynews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://cybersecuritynews.com/agentic-llm-browsers-expose-new-attack-surface/",
+      "thumbnail": "https://cybersecuritynews.com/wp-content/uploads/2026/04/Agentic-LLM-Browsers-Expose-New-Attack-Surface-for-Prompt-Injection-and-Data-Theft.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNTBhVVU0TlhGV2NYQnFjVWxzVFJDZkF4ampCU2dLTWdB",
+      "date": "04/15/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-15T07:00:00Z"
+    },
+    {
+      "position": 72,
+      "title": "The OWASP LLM Top 10 Was the Warm-Up: What Comes Next",
+      "source": {
+        "name": "Security Boulevard",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://securityboulevard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://securityboulevard.com/2026/08/the-owasp-llm-top-10-was-the-warm-up-what-comes-next/",
+      "date": "08/16/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-16T07:00:00Z"
+    },
+    {
+      "position": 73,
+      "title": "Prompt Injection and LLM Jailbreaks in Production",
+      "source": {
+        "name": "Blockchain Council",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.blockchain-council.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Suyash Raizada"
+        ]
+      },
+      "link": "https://www.blockchain-council.org/ai/prompt-injection-llm-jailbreaks-securing-generative-ai-applications-production/",
+      "thumbnail": "https://www.blockchain-council.org/blog-media/posts/792a3598-57e/prompt-injection-and-llm-jailbreaks-securing-generative-ai-applications-in-produ.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNU1kRU5JZUZadFYwVkRWR2h3VFJDUkF4ajhCU2dLTWdB",
+      "date": "04/05/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-05T07:00:00Z"
+    },
+    {
+      "position": 74,
+      "title": "Three Prompt Injection Patterns Your AI Security Detection Stack Misses",
+      "source": {
+        "name": "Cybersecurity Insiders",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.cybersecurity-insiders.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Holger Schulze"
+        ]
+      },
+      "link": "https://www.cybersecurity-insiders.com/ai-security-prompt-injection-detection-gaps/",
+      "thumbnail": "https://www.cybersecurity-insiders.com/wp-content/uploads/Prompt-injection-chat.jpeg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNURWblJIYTJocmVVWmFPVU5hVFJDZkF4amlCU2dLTWdB",
+      "date": "05/24/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-24T07:00:00Z"
+    },
+    {
+      "position": 75,
+      "title": "Disentangling Adversarial Prompts: A Semantic-Graph Defense for Robust LLM Security",
+      "source": {
+        "name": "The Association for the Advancement of Artificial Intelligence",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://ojs.aaai.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Xiang Fang"
+        ]
+      },
+      "link": "https://ojs.aaai.org/index.php/AAAI/article/view/37389",
+      "date": "03/14/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-03-14T07:00:00Z"
+    },
+    {
+      "position": 76,
+      "title": "How to Secure LLM Apps With OWASP Top 10: 12 Steps [2026]",
+      "source": {
+        "name": "tech-insider.org",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://tech-insider.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Marcus Chen"
+        ]
+      },
+      "link": "https://tech-insider.org/how-to-secure-llm-apps-owasp-top-10-2026/",
+      "thumbnail": "https://tech-insider.org/wp-content/uploads/2026/08/how-to-secure-llm-apps-owasp-top-10-2026-1.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVlWeTFTWjFBdFVYbGpWRGQxVFJDaUF4amRCU2dLTWdtcFFZNnVLV2MxWndJ",
+      "date": "08/30/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-30T07:00:00Z"
+    },
+    {
+      "position": 77,
+      "title": "AI researchers trick chatbots into sharing how to make cocaine as long as they believe a user is wearing a green shirt — 'CoT Forgery' exploit spurs LLMs to divulge forbidden info by faking trusted chains of thought",
+      "source": {
+        "name": "Tom's Hardware",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.tomshardware.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-models-handed-over-a-cocaine-recipe-after-being-told-the-user-was-wearing-a-green-shirt",
+      "thumbnail": "https://cdn.mos.cms.futurecdn.net/brkfyzRQavGtCSXJFF799W-1200-80.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNHlVbmxQVlZrM2FXUjRWM1oxVFJDZkF4ampCU2dLTWdzSkFvajBCT3hyTTJtc1BR",
+      "date": "07/01/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-01T07:00:00Z"
+    },
+    {
+      "position": 78,
+      "title": "Prompt Injection and LLM Jailbreaks: Defenses",
+      "source": {
+        "name": "Blockchain Council",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.blockchain-council.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Suyash Raizada"
+        ]
+      },
+      "link": "https://www.blockchain-council.org/ai/prompt-injection-llm-jailbreaks-practical-defenses-secure-generative-ai-systems/",
+      "thumbnail": "https://www.blockchain-council.org/_next/image/?url=%2Fblog-media%2Fposts%2FnVFsBP2oGAAb%2Fprompt-injection-and-llm-jailbreaks-practical-defenses-for-secure-generative-ai.png&w=1920&q=75",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUhaVkJ1UTBwRVozUXRjbGswVFJDUUF4ai1CU2dLTWdtSmdaUVRyV2V4endF",
+      "date": "04/02/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-04-02T07:00:00Z"
+    },
+    {
+      "position": 79,
+      "title": "Improving instruction hierarchy in frontier LLMs",
+      "source": {
+        "name": "OpenAI",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://openai.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://openai.com/index/instruction-hierarchy-challenge/",
+      "thumbnail": "https://images.ctfassets.net/kftzwdyauwt9/1hgOrtUKV9JbWpgIZLElGG/f1e68fcb747aeb0cb87633a34bb71bb3/SEO_Card__1_.png?w=1600&h=900&fit=fill",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDNiR2RRU2pWdlpGQkRlRWRVVFJDZkF4ampCU2dLTWdrcGRZaU1TZU43eXdF",
+      "date": "03/10/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-03-10T07:00:00Z"
+    },
+    {
+      "position": 80,
+      "title": "People are using prompt injection to trick Meta's AI into handing over Instagram accounts",
+      "source": {
+        "name": "Neowin",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.neowin.net&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "David Uzondu"
+        ]
+      },
+      "link": "https://www.neowin.net/news/people-are-using-prompt-injection-to-trick-metas-ai-into-handing-over-instagram-accounts/",
+      "thumbnail": "https://cdn.neowin.com/news/images/uploaded/2025/07/1751342103_instagram.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUxkRkY0ZURaUk1sbGtZbVk0VFJDZkF4ampCU2dLTWdZcGxZVE9OUVk",
+      "date": "06/01/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-01T07:00:00Z"
+    },
+    {
+      "position": 81,
+      "title": "Promptware kill chain: a new framework for AI LLM attacks",
+      "source": {
+        "name": "SC Media",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.scworld.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.scworld.com/brief/promptware-kill-chain-a-new-framework-for-ai-llm-attacks",
+      "thumbnail": "https://www.scworld.com/api/thumbor-proxy?width=1920&src=https%3A%2F%2Ffiles.cyberriskalliance.com%2Fwp-content%2Fuploads%2F2025%2F09%2FAdobeStock_1527964115.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWFhV1psVUhGS01VdEJjM3BhVFJERkF4aWxCU2dLTWdhdGNvcVFNUVU",
+      "date": "02/17/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-02-17T08:00:00Z"
+    },
+    {
+      "position": 82,
+      "title": "“Tell Claude It’s a Bug Bounty”: A Case in AI‑Enabled Intrusion with LLM as Attack Multiplier",
+      "source": {
+        "name": "Medium",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://medium.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Adnan Masood"
+        ]
+      },
+      "link": "https://medium.com/@adnanmasood/tell-claude-its-a-bug-bounty-a-case-in-ai-enabled-intrusion-with-llm-as-attack-multiplier-5e8bb09e6758",
+      "thumbnail": "https://miro.medium.com/v2/resize:fit:2000/1*jdinK-iHu6nRUCz-wcrdnQ.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNW5VV0pVTFdaWFkyY3lhMnhEVFJDWEF4anhCU2dLTWdrQkFJcGtwcWF4NHdJ",
+      "date": "02/27/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-02-27T08:00:00Z"
+    },
+    {
+      "position": 83,
+      "title": "OpenAI Acquires Promptfoo to Strengthen LLM Security Testing",
+      "source": {
+        "name": "thelec.net",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.thelec.net&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.thelec.net/news/articleView.html?idxno=5792",
+      "thumbnail": "https://cdn.thelec.net/news/photo/202603/5792_6154_1115.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXdVa05JT1RSR0xXY3pSV2cyVFJEbkFoallCQ2dLTWdZQm9KSUd2UVk",
+      "date": "03/13/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-03-13T07:00:00Z"
+    },
+    {
+      "position": 84,
+      "title": "Unseeable prompt injections in screenshots: more vulnerabilities in Comet and other AI browsers",
+      "source": {
+        "name": "Brave",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://brave.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Shivan Kaul"
+        ]
+      },
+      "link": "https://brave.com/blog/unseeable-prompt-injections/",
+      "thumbnail": "https://brave.com/blog/unseeable-prompt-injections/images/featured-st.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNUpXR1ZMZDBScmVFNDVMV3RYVFJDUUF4ai1CU2dLTWdPVll4QQ",
+      "date": "10/21/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-10-21T07:00:00Z"
+    },
+    {
+      "position": 85,
+      "title": "Disentangling Adversarial Prompts: A Semantic-Graph Defense for Robust LLM Security",
+      "source": {
+        "name": "The Association for the Advancement of Artificial Intelligence",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://ojs.aaai.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://ojs.aaai.org/index.php/AAAI/article/view/37389/47128",
+      "thumbnail": "https://assets.underline.io/lecture/139600/poster/medium-ee3eb83cc4ff25aa6199e0cb8f4aaf97.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDJjbkIzWTFKTVZ6RkJkR1JHVFJEU0FoallCQ2dLTWdhTlE1aG1vUWs",
+      "date": "03/18/2026, 08:03 PM, +0000 UTC",
+      "iso_date": "2026-03-18T20:03:59Z"
+    },
+    {
+      "position": 86,
+      "title": "The Ultimate Guide to LLM Security in 2026",
+      "source": {
+        "name": "Security Boulevard",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://securityboulevard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://securityboulevard.com/2026/03/the-ultimate-guide-to-llm-security-in-2026/",
+      "thumbnail": "https://www.a10networks.com/wp-content/uploads/Figure-A10-AI-Firewall-Architecture.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTZSMmhMVUZSV1NsZHlSRzl5VFJDMkF4aTlCU2dLTWdZWk5Jck5wUVk",
+      "date": "03/16/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-03-16T07:00:00Z"
+    },
+    {
+      "position": 87,
+      "title": "ChatGPhish Reveals ChatGPT Browser Prompt Injection Risk",
+      "source": {
+        "name": "The Cyber Express",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://thecyberexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ashish Khaitan"
+        ]
+      },
+      "link": "https://thecyberexpress.com/chatgphish-prompt-injection-vulnerability/",
+      "thumbnail": "https://thecyberexpress.com/wp-content/uploads/ChatGPhish.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNU9SRm90UkVObWF6RjNVemN5VFJDbUF4aldCU2dLTWdB",
+      "date": "06/01/2026, 08:35 AM, +0000 UTC",
+      "iso_date": "2026-06-01T08:35:08Z"
+    },
+    {
+      "position": 88,
+      "title": "Prompt injection is not SQL injection (it may be worse)",
+      "source": {
+        "name": "National Cyber Security Centre",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ncsc.gov.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.ncsc.gov.uk/blog-post/prompt-injection-is-not-sql-injection",
+      "thumbnail": "https://www.ncsc.gov.uk/sites/default/files/styles/uncropped_2xs/public/images/sql-confused-robot-20251208.jpg?itok=MP62KL6C",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVRYM2xFY2poQ1ExcFRPWE5RVFJDRkFSaklBU2dCTWdZaFJZYXRJUWc",
+      "date": "12/08/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-12-08T08:00:00Z"
+    },
+    {
+      "position": 89,
+      "title": "LLM Security Vulnerabilities and Chain-of-Thought Forgery Exposure",
+      "source": {
+        "name": "The Cryptonomist",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://en.cryptonomist.ch&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Francesco Antonio Russo",
+          "Antonio Russo"
+        ]
+      },
+      "link": "https://en.cryptonomist.ch/2026/07/30/llm-security-vulnerabilities-exposure/",
+      "thumbnail": "https://en.cryptonomist.ch/wp-content/uploads/2026/07/llm-security-vulnerabilities-696x464.jpeg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNW9ZMGx1VUZSTVNreFNlVGhMVFJERUF4aW1CU2dLTWdB",
+      "date": "07/30/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-30T07:00:00Z"
+    },
+    {
+      "position": 90,
+      "title": "Upwind Unveils Novel Approach to High-Speed, Precise Detection of Malicious AI Prompts with Nvidia AI",
+      "source": {
+        "name": "Business Wire",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesswire.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.businesswire.com/news/home/20260323142408/en/Upwind-Unveils-Novel-Approach-to-High-Speed-Precise-Detection-of-Malicious-AI-Prompts-with-Nvidia-AI",
+      "thumbnail": "https://mms.businesswire.com/media/20260323142408/en/2753896/22/upwind_logo.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWhUSEpYVlhWck4zSktkalpUVFJDSEF4aVBCaWdLTWdZQmNKTEZ2Z2M",
+      "date": "03/23/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-03-23T07:00:00Z"
+    },
+    {
+      "position": 91,
+      "title": "OpenAI Announces Unnerving New ChatGPT Feature Named ‘Lockdown Mode’",
+      "source": {
+        "name": "Gizmodo",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://gizmodo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Mike Pearl"
+        ]
+      },
+      "link": "https://gizmodo.com/openai-announces-unnerving-new-chatgpt-feature-named-lockdown-mode-2000768425",
+      "thumbnail": "https://gizmodo.com/app/uploads/2026/04/OpenAI-AI-device-phone.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTBiMUpQZVhOeWVtdDZMV2RuVFJERUF4aW1CU2dLTWdZcGRaS3VMUWM",
+      "date": "06/07/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-06-07T07:00:00Z"
+    },
+    {
+      "position": 92,
+      "title": "PlaqueCap: lesion-centered captioning of atherosclerotic plaques in intravascular ultrasound using vision-language models and prompt injection",
+      "source": {
+        "name": "Nature",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.nature.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Honghua Ye",
+          "Ming Hou",
+          "Pengfei Liu"
+        ]
+      },
+      "link": "https://www.nature.com/articles/s41746-025-02044-9",
+      "thumbnail": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41746-025-02044-9/MediaObjects/41746_2025_2044_Fig1_HTML.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNURTMFZpYkVKRFdHMTVVMXBvVFJDbUJCaXVCQ2dLTWdZQkVJcUZsQVU",
+      "date": "11/20/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-20T08:00:00Z"
+    },
+    {
+      "position": 93,
+      "title": "Prompt Injection via OCR: How a Facsimile Document Fools AI Identity Verification",
+      "source": {
+        "name": "Pasquale Pillitteri",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://pasqualepillitteri.it&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://pasqualepillitteri.it/en/news/10887/prompt-injection-ocr-identity-verification-kyc-facsimile",
+      "date": "08/13/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-08-13T07:00:00Z"
+    },
+    {
+      "position": 94,
+      "title": "EchoGram tokens like ‘=coffee’ flip AI guardrail verdicts",
+      "source": {
+        "name": "The Register",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.theregister.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Thomas Claburn"
+        ]
+      },
+      "link": "https://www.theregister.com/software/2025/11/14/echogram-tokens-like-coffee-flip-ai-guardrail-verdicts/2044945",
+      "thumbnail": "https://image.theregister.com/1684213.webp?width=400",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUpWR3AzVWtreU1YUkZUSEJwVFJDZkFSaS1BaWdCTWdhZE1vb3luUWc",
+      "date": "11/14/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-14T08:00:00Z"
+    },
+    {
+      "position": 95,
+      "title": "LangChain core vulnerability allows prompt injection and data exposure",
+      "source": {
+        "name": "Security Affairs",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://securityaffairs.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Pierluigi Paganini"
+        ]
+      },
+      "link": "https://securityaffairs.com/186185/hacking/langchain-core-vulnerability-allows-prompt-injection-and-data-exposure.html",
+      "thumbnail": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2025/12/image-46.png?fit=900%2C600&ssl=1&resize=1280%2C720",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTViSGxmVkV0MWNVVTFWRTFNVFJDZkF4ampCU2dLTWdrQm9KVGtPcWNrMEFF",
+      "date": "12/27/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-12-27T08:00:00Z"
+    },
+    {
+      "position": 96,
+      "title": "Critical Cursor IDE RCE Vulnerabilities Enable Prompt Injection in Zero-Click",
+      "source": {
+        "name": "cybersecuritynews.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://cybersecuritynews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Guru Baran"
+        ]
+      },
+      "link": "https://cybersecuritynews.com/cursor-ide-rce-vulnerabilities/",
+      "thumbnail": "https://cybersecuritynews.com/wp-content/uploads/2026/07/Cursor-IDE-RCE-Vulnerabilities-1.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW5aa290T0RkM2NIZFhTMFJUVFJDZkF4ampCU2dLTWdZWmRJaXJyUU0",
+      "date": "07/01/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-01T07:00:00Z"
+    },
+    {
+      "position": 97,
+      "title": "Hackers can use 9 of the most popular AI tools to assemble massive botnets",
+      "source": {
+        "name": "Ars Technica",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://arstechnica.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Dan Goodin"
+        ]
+      },
+      "link": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/rogue-ai-agent.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVNOM1ppUm1sdGFVSXplWHBqVFJERUF4aW1CU2dLTWdZQllwQ3NLUVk",
+      "date": "07/08/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-07-08T07:00:00Z"
+    },
+    {
+      "position": 98,
+      "title": "ServiceNow AI Agents Can Be Tricked Into Acting Against Each Other via Second-Order Prompts",
+      "source": {
+        "name": "The Hacker News",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://thehackernews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ravie Lakshmanan"
+        ]
+      },
+      "link": "https://thehackernews.com/2025/11/servicenow-ai-agents-can-be-tricked.html",
+      "thumbnail": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoPK3N8k6tgxGcB7a-bCV3NfNUyR_iJuH7RxJJjya0hePCXNoQDQhZvHWDcsunCpNlA9F4uhk0EzWA1sFw5rCRa6zd4hUH3SzRcDusauukG-GA-tGfmex2HFTndPiTT1LeexpWsNBfmv70tiAB04J1yTIXSdnpm2_-Q12RaCfBzkr3aG_Icv5pEe-NI-ed/s1700-e365/ai-agents.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNWFRM1E0VTBNdFQyUjRVa0l0VFJDUUF4ai1CU2dLTWdB",
+      "date": "11/19/2025, 08:00 AM, +0000 UTC",
+      "iso_date": "2025-11-19T08:00:00Z"
+    },
+    {
+      "position": 99,
+      "title": "AI browsers wide open to attack via prompt injection",
+      "source": {
+        "name": "The Register",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.theregister.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Avram Piltch"
+        ]
+      },
+      "link": "https://www.theregister.com/software/2025/10/28/ai-browsers-wide-open-to-attack-via-prompt-injection/327406",
+      "thumbnail": "https://image.theregister.com/182928.webp?imageId=182928&width=960&height=476&format=jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDVVbEp2ZEdoSU5qVlJUbTlYVFJDZUFSaV9BaWdCTWdrQkU1UXdEYXVLTEFJ",
+      "date": "10/28/2025, 07:00 AM, +0000 UTC",
+      "iso_date": "2025-10-28T07:00:00Z"
+    },
+    {
+      "position": 100,
+      "title": "Beyond the hype: A CIO's guide to LLM risk management",
+      "source": {
+        "name": "TechTarget",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.techtarget.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Kashyap Kompella"
+        ]
+      },
+      "link": "https://www.techtarget.com/it-strategy/tip/Beyond-the-hype-A-CIOs-guide-to-LLM-risk-management",
+      "thumbnail": "https://cdn.ttgtmedia.com/rms/onlineimages/security_a303570139.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU9WRWhrZDA5WU0zVmtkVEV6VFJEQUFoakFCeWdLTWdhQlk0cGlKd2s",
+      "date": "05/26/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-05-26T07:00:00Z"
+    }
+  ],
+  "menu_links": [
+    {
+      "title": "U.S.",
+      "topic_token": "CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE"
+    },
+    {
+      "title": "World",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Your local news",
+      "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+    },
+    {
+      "title": "Business",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Technology",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Entertainment",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Sports",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Science",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Health",
+      "topic_token": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ"
+    }
+  ]
+}

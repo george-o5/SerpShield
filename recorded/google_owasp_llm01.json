@@ -1,0 +1,364 @@
+{
+  "search_metadata": {
+    "id": "6ac378734632b5e892ac0671",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/UkIs7rgifSw6fpd-lGlpIbYTX4nx7fwvR4jBxQevOLk/6ac378734632b5e892ac0671.json",
+    "markdown_endpoint": "https://serpapi.com/searches/UkIs7rgifSw6fpd-lGlpIbYTX4nx7fwvR4jBxQevOLk/6ac378734632b5e892ac0671.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/UkIs7rgifSw6fpd-lGlpIbYTX4nx7fwvR4jBxQevOLk/6ac378734632b5e892ac0671.json_with_pixel_position",
+    "created_at": "2026-10-05 10:14:11 UTC",
+    "processed_at": "2026-10-05 10:14:11 UTC",
+    "google_url": "https://www.google.com/search?q=OWASP+LLM01&oq=OWASP+LLM01&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/UkIs7rgifSw6fpd-lGlpIbYTX4nx7fwvR4jBxQevOLk/6ac378734632b5e892ac0671.html",
+    "total_time_taken": 11.44
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "OWASP LLM01",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "OWASP LLM01",
+    "total_results": 6200,
+    "time_taken_displayed": 0.46,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "OWASP LLM01: 2025 Prompt Injection Explained",
+      "link": "https://www.youtube.com/watch?v=zDZqLyhLAa0",
+      "thumbnail": "https://serpapi.com/searches/6ac378734632b5e892ac0671/images/bTd55moC69imYca_uw1kwdbzTFP1kh6IUs8ZbNLNQAQ.jpeg",
+      "channel": "Giskard",
+      "duration": "1:31",
+      "platform": "YouTube",
+      "date": "Jun 17, 2026",
+      "snippet": "Prompt injection, the #1 AI security risk, enables automated attacks like direct & indirect injection, achieving near 100% success rates.",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQ8lJOrXg86iHZk6T_g7qF4HyA1NpHQH6nc_A"
+    },
+    {
+      "position": 2,
+      "title": "OWASP LLM01:2025 Prompt Injection Explained",
+      "link": "https://www.youtube.com/watch?v=yTUaOiCaHLY",
+      "thumbnail": "https://serpapi.com/searches/6ac378734632b5e892ac0671/images/7glaACgus2Uqw6CnlaBRUZGlobpYfNzscm0_jN8k4R4.jpeg",
+      "channel": "IT Bulls",
+      "duration": "25:26",
+      "platform": "YouTube",
+      "date": "May 1, 2026"
+    },
+    {
+      "position": 3,
+      "title": "OWASP Top 10 for LLMs | AI Security Course | Fabio Cerullo",
+      "link": "https://www.linkedin.com/posts/fcerullo_llm01-prompt-injection-explained-owasp-activity-7461324463960174592-KJ7Q",
+      "thumbnail": "https://serpapi.com/searches/6ac378734632b5e892ac0671/images/6qBsLhGO8TofWxSry61Fm9aTxQnIoYSiHUR2z48QtYA.png",
+      "channel": "Cycubix LTD",
+      "duration": "7:01",
+      "platform": "LinkedIn",
+      "date": "May 16, 2026"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "MKTr_niczVXbkrI4EH6AfY7lZkdBdBSnivorRFQcPOBxnBsKAwYRxCEqOnf7Gnu9T7VPswFB8TT_4WJrU4UhSXfT3fk-vz__dher5T-__WVvNmvywrJhGOax72PXyiPfYw1yWCF27rskQPY34m8DZC1MEdmB71kMdsUtYWxXtFbMYScWGUREjrEW4nzl1Ay_N1a222d7pvQ-lfKyrAlMHE7UZwaxHPq1vUNYnaU_y9-LNbrIk7y1yjcqw7WT40fNppLnOb6Y77KGRw3AfzqwAjQgAUgfoDy0oofwR6LJMrVVgJzxlOIp443psRRNihav64-jKXEgxT4F0J2m1wgB6JxiaQ-9W9mFepyU9jEb6iXJNx5fjmMCECepfdfy_mZc-nE0MqcPOy9Tv2yJtFlyD9OmyqkLvvyMlrWPbML4ramAnlQGWqg9bnfkrgDogU5L-7pCECGi_4Zf09UMcHSHNTHFL8fOAjoV2AWyUfwSkAjWcFjl_Pph-jrl3yfPRqm_JDxcSLVi3-kOXnkEWDSjdq5vmJap2zr3LV4X-MIzVy1WhKeYT4icCEWyhJqG9nS24EmnBfJqXiqkbILZ5mY7Ge2O7qEnIkNUvXTnLHG8cYPQv1gml0IRbshAvuwlrDej4xPP6cseg-3lRaYelCU3bEqgdIZZzCYpSap_vruLNBUZnhOBFyDt3tQoXeOK-iu19Kyd7oWnRC6ahVsRENMvwOt-0VwlSFuD4z6NkXwMdeaDJrUl2E-_e0qARoq88EXtCS0z3lEq49i-IVP6QKk_AFgDg6SiKBc_Ka4Or8vEN3Ufx4Q-6iNEfD2kO3i5Z5XS5ooFWfbI5bHM70YTbiwrixHhfLu4GzU-gl5HAPfZ4nuzn9Af9H_jU6pO-KhOj_kEf4RPVJ3wHXVKyHBE0kmdWok6PebTa5xIok6Rd6pOvcTkrE63fGpl-ZSqk3As6FqdfppP8hd8Ov1n3-ETLf0en5RHfErVKcOn5bU6Zes-q1PKp19TJ-3X1Cmml3WcLqVq6-DHkpXDb7nppO6sw3qYa6heZdD45PrTN78dfley5t7mxTNM90lfmC8S39oczCedbvgvlsl8iN0JGPT-UNU2V2A8N_BFzqhMVtxiuXRzZH5AZk0ddGR37H-W34XRsKmgD9I27I_WPNBWgjBp9xBfEprd_cqpjPROmWjljW1bztZQe-a7vlclgaw3VW4IyjyvYXWDN0Jlb86BRA7Q6k8FpHuV6aHhFgzvfVEvV1ZDuzhfOuZ8tiyXgpyWa6I4MSLmmvWa9t7jlFKb8QIkUvCUdiFlRwMDBOAUaBR9GuWtBkP60NuUJZ7eE0OQoVtkJz4XC0LJrFqcWbQswaJx8eawFqscQ1aBWPgXHetDNg",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=MKTr_niczVXbkrI4EH6AfY7lZkdBdBSnivorRFQcPOBxnBsKAwYRxCEqOnf7Gnu9T7VPswFB8TT_4WJrU4UhSXfT3fk-vz__dher5T-__WVvNmvywrJhGOax72PXyiPfYw1yWCF27rskQPY34m8DZC1MEdmB71kMdsUtYWxXtFbMYScWGUREjrEW4nzl1Ay_N1a222d7pvQ-lfKyrAlMHE7UZwaxHPq1vUNYnaU_y9-LNbrIk7y1yjcqw7WT40fNppLnOb6Y77KGRw3AfzqwAjQgAUgfoDy0oofwR6LJMrVVgJzxlOIp443psRRNihav64-jKXEgxT4F0J2m1wgB6JxiaQ-9W9mFepyU9jEb6iXJNx5fjmMCECepfdfy_mZc-nE0MqcPOy9Tv2yJtFlyD9OmyqkLvvyMlrWPbML4ramAnlQGWqg9bnfkrgDogU5L-7pCECGi_4Zf09UMcHSHNTHFL8fOAjoV2AWyUfwSkAjWcFjl_Pph-jrl3yfPRqm_JDxcSLVi3-kOXnkEWDSjdq5vmJap2zr3LV4X-MIzVy1WhKeYT4icCEWyhJqG9nS24EmnBfJqXiqkbILZ5mY7Ge2O7qEnIkNUvXTnLHG8cYPQv1gml0IRbshAvuwlrDej4xPP6cseg-3lRaYelCU3bEqgdIZZzCYpSap_vruLNBUZnhOBFyDt3tQoXeOK-iu19Kyd7oWnRC6ahVsRENMvwOt-0VwlSFuD4z6NkXwMdeaDJrUl2E-_e0qARoq88EXtCS0z3lEq49i-IVP6QKk_AFgDg6SiKBc_Ka4Or8vEN3Ufx4Q-6iNEfD2kO3i5Z5XS5ooFWfbI5bHM70YTbiwrixHhfLu4GzU-gl5HAPfZ4nuzn9Af9H_jU6pO-KhOj_kEf4RPVJ3wHXVKyHBE0kmdWok6PebTa5xIok6Rd6pOvcTkrE63fGpl-ZSqk3As6FqdfppP8hd8Ov1n3-ETLf0en5RHfErVKcOn5bU6Zes-q1PKp19TJ-3X1Cmml3WcLqVq6-DHkpXDb7nppO6sw3qYa6heZdD45PrTN78dfley5t7mxTNM90lfmC8S39oczCedbvgvlsl8iN0JGPT-UNU2V2A8N_BFzqhMVtxiuXRzZH5AZk0ddGR37H-W34XRsKmgD9I27I_WPNBWgjBp9xBfEprd_cqpjPROmWjljW1bztZQe-a7vlclgaw3VW4IyjyvYXWDN0Jlb86BRA7Q6k8FpHuV6aHhFgzvfVEvV1ZDuzhfOuZ8tiyXgpyWa6I4MSLmmvWa9t7jlFKb8QIkUvCUdiFlRwMDBOAUaBR9GuWtBkP60NuUJZ7eE0OQoVtkJz4XC0LJrFqcWbQswaJx8eawFqscQ1aBWPgXHetDNg"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "What Is a Malicious Prompt? | OWASP LLM Security Guide",
+      "link": "https://www.levo.ai/resources/blogs/what-is-a-malicious-prompt",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeQHrOzAVD7X12LdhVjdxliY8x9u4383-IPBoU7YwA1XwU1rHkoYzDr8PlBXZ6hFf__5oNoz3qmHuHym62YpwrWeOJun7A7Aav5MzzGN3ZsC1CU1zqQoOUmie2Qi0lTaDVTpPE-t5qd3Fe7OfTfR8KlfOmxl0i5bbk0k&ved=2ahUKEwiDjOWq0qKXAxXrXEEAHUwHKf0QFnoECA8QAQ&uoh=1",
+      "displayed_link": "https://www.levo.ai › Blog",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAATlBMVEVHcEwJHkIJHkIJHkIJHkIJHkIJHkIJHkIJHkIJHkIJHkEJHkIAEDwAAC0AAkJ3fYv____Y2d2ffyr_yQCPcy6jp7CUmKP09faHjJlKUmepD9VbAAAADHRSTlMAMofD5f3CYPH_Fj8rM6KlAAAAsElEQVR4AX2TRQIDIQwAE9zr9v-Htl2cFeY6SBQqSCjjnAmCsEYqXVFyUIbpAWaas3qDnbhqjd4lvZz-c95rFyIu_RvjTO50vvjrLXJPdolZHUkFgLrJ-mwCgXRSjxAQx5ICO36WAe_k4xx5Bh3hg3yeX3_Ob5fl8GzwkfYsPQ5IDKm4REsFm_xkisSufIkWreoL_yrkaGXfskpybNrs2ZjMB2w-mvOhbiARyzrQbh1-Ekoatx7hw70AAAAASUVORK5CYII.png",
+      "date": "Feb 17, 2026",
+      "snippet": "Within the OWASP LLM framework, malicious prompts serve as the initiating vector for risks categorized under LLM01: Prompt Injection and may ...",
+      "snippet_highlighted_words": [
+        "malicious prompts serve as the initiating vector for risks categorized under LLM01"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Within the OWASP LLM framework, malicious prompts serve as the initiating vector for risks categorized under LLM01: Prompt Injection and may ...",
+          "source_info_link": "https://www.levo.ai/resources/blogs/what-is-a-malicious-prompt",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAATlBMVEVHcEwJHkIJHkIJHkIJHkIJHkIJHkIJHkIJHkIJHkIJHkEJHkIAEDwAAC0AAkJ3fYv____Y2d2ffyr_yQCPcy6jp7CUmKP09faHjJlKUmepD9VbAAAADHRSTlMAMofD5f3CYPH_Fj8rM6KlAAAAsElEQVR4AX2TRQIDIQwAE9zr9v-Htl2cFeY6SBQqSCjjnAmCsEYqXVFyUIbpAWaas3qDnbhqjd4lvZz-c95rFyIu_RvjTO50vvjrLXJPdolZHUkFgLrJ-mwCgXRSjxAQx5ICO36WAe_k4xx5Bh3hg3yeX3_Ob5fl8GzwkfYsPQ5IDKm4REsFm_xkisSufIkWreoL_yrkaGXfskpybNrs2ZjMB2w-mvOhbiARyzrQbh1-Ekoatx7hw70AAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVkQ3WDEyTGRoVmpkeGxpWTh4OXU0MzgzLUlQQm9VN1l3QTFYd1Uxckhrb1l6RHI4UGxCWFo2aEZmX181b05vejNxbUh1SHltNjJZcHdyV2VPSnVuN0E3QWF2NU16ekdOM1pzQzFDVTF6cVFvT1VtaWUyUWkwbFRhRFZUcFBFLXQ1cWQzRmU3T2ZUZlI4S2xmT214bDBpNWJiazBrEgQaAggAGvwDEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA1gMIABAAGAAgACoYCgVvd2FzcBXs9ypAGgppdjtwO293YXNwKiAKBWxsbTAxFb50Hz8aBmxsbSAwMRoKaXY7cDtsbG0wMTKxAS9nb3RvP3VybD1DQUVTZVFIck96QVZEN1gxMkxkaFZqZHhsaVk4eDl1NDM4My1JUEJvVTdZd0ExWHdVMXJIa29ZekRyOFBsQlhaNmhGZl9fNW9Ob3ozcW1IdUh5bTYyWXB3cldlT0p1bjdBN0FhdjVNenpHTjNac0MxQ1UxenFRb09VbWllMlFpMGxUYURWVHBQRS10NXFkM0ZlN09mVGZSOEtsZk9teGwwaTViYmswazo9V2hhdCBJcyBhIE1hbGljaW91cyBQcm9tcHQ_IHwgPGI-T1dBU1A8L2I-IExMTSBTZWN1cml0eSBHdWlkZUKcAVdpdGhpbiB0aGUgT1dBU1AgTExNIGZyYW1ld29yaywgPGI-bWFsaWNpb3VzIHByb21wdHMgc2VydmUgYXMgdGhlIGluaXRpYXRpbmcgdmVjdG9yIGZvciByaXNrcyBjYXRlZ29yaXplZCB1bmRlciBMTE0wMTwvYj46IFByb21wdCBJbmplY3Rpb24gYW5kIG1heSZuYnNwOy4uLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVkQ3WDEyTGRoVmpkeGxpWTh4OXU0MzgzLUlQQm9VN1l3QTFYd1Uxckhrb1l6RHI4UGxCWFo2aEZmX181b05vejNxbUh1SHltNjJZcHdyV2VPSnVuN0E3QWF2NU16ekdOM1pzQzFDVTF6cVFvT1VtaWUyUWkwbFRhRFZUcFBFLXQ1cWQzRmU3T2ZUZlI4S2xmT214bDBpNWJiazBrEgQaAggAGvwDEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA1gMIABAAGAAgACoYCgVvd2FzcBXs9ypAGgppdjtwO293YXNwKiAKBWxsbTAxFb50Hz8aBmxsbSAwMRoKaXY7cDtsbG0wMTKxAS9nb3RvP3VybD1DQUVTZVFIck96QVZEN1gxMkxkaFZqZHhsaVk4eDl1NDM4My1JUEJvVTdZd0ExWHdVMXJIa29ZekRyOFBsQlhaNmhGZl9fNW9Ob3ozcW1IdUh5bTYyWXB3cldlT0p1bjdBN0FhdjVNenpHTjNac0MxQ1UxenFRb09VbWllMlFpMGxUYURWVHBQRS10NXFkM0ZlN09mVGZSOEtsZk9teGwwaTViYmswazo9V2hhdCBJcyBhIE1hbGljaW91cyBQcm9tcHQ_IHwgPGI-T1dBU1A8L2I-IExMTSBTZWN1cml0eSBHdWlkZUKcAVdpdGhpbiB0aGUgT1dBU1AgTExNIGZyYW1ld29yaywgPGI-bWFsaWNpb3VzIHByb21wdHMgc2VydmUgYXMgdGhlIGluaXRpYXRpbmcgdmVjdG9yIGZvciByaXNrcyBjYXRlZ29yaXplZCB1bmRlciBMTE0wMTwvYj46IFByb21wdCBJbmplY3Rpb24gYW5kIG1heSZuYnNwOy4uLiICEAFIAFgAaAA",
+      "source": "Levo.ai",
+      "read_more_link": "https://www.levo.ai/resources/blogs/what-is-a-malicious-prompt#:~:text=Within%20the%20OWASP%20LLM%20framework%2C,is%20returned%20without%20adequate%20safeguards."
+    },
+    {
+      "position": 2,
+      "title": "GitHub MCP (OWASP LLM01:2026 Prompt Injection): a ...",
+      "link": "https://www.reddit.com/r/pwnhub/comments/1vq6kny/github_mcp_owasp_llm012026_prompt_injection_a/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmgEB6zswFeYhADuSaWYgjOhwQjBikUppJjNxABlXFWlGe7xCni0t13Z1r9DIJ76etnv3IZaJsO_YAsG8IhRnELAKu-LoV9o8vDlcPeBqL6foJrADqGxjW0E5U0l8VxWW_tTPjKBj_pleg3OLUOWvluRYdrC3a91MeKP_gWk040wl5Njvd9Ni07ukc1Dv0rYzvGtnx3ShhDYgl6vS&ved=2ahUKEwiDjOWq0qKXAxXrXEEAHUwHKf0QFnoECCsQAQ&uoh=1",
+      "displayed_link": "1 comment · 1 month ago",
+      "favicon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
+      "snippet": "GitHub MCP (OWASP LLM01:2026 Prompt Injection): a prompt injection filed as a public issue made an agent open a pull request containing the ...",
+      "snippet_highlighted_words": [
+        "a prompt injection filed as a public issue"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "GitHub MCP (OWASP LLM01:2026 Prompt Injection): a prompt injection filed as a public issue made an agent open a pull request containing the ...",
+          "source_info_link": "https://www.reddit.com/r/pwnhub/comments/1vq6kny/github_mcp_owasp_llm012026_prompt_injection_a/",
+          "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Ct4BL2dvdG8_dXJsPUNBRVNtZ0VCNnpzd0ZlWWhBRHVTYVdZZ2pPaHdRakJpa1VwcEpqTnhBQmxYRldsR2U3eENuaTB0MTNaMXI5RElKNzZldG52M0laYUpzT19ZQXNHOEloUm5FTEFLdS1Mb1Y5bzh2RGxjUGVCcUw2Zm9KckFEcUd4alcwRTVVMGw4VnhXV190VFBqS0JqX3BsZWczT0xVT1d2bHVSWWRyQzNhOTFNZUtQX2dXazA0MHdsNU5qdmQ5TmkwN3VrYzFEdjByWXp2R3RueDNTaGhEWWdsNnZTEgQaAggAGqoEEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQIYECAAQABgAIAAqGAoFb3dhc3AVtG5sQBoKaXY7cDtvd2FzcCogCgVsbG0wMRXdHGlAGgZsbG0gMDEaCml2O3A7bGxtMDEy3gEvZ290bz91cmw9Q0FFU21nRUI2enN3RmVZaEFEdVNhV1lnak9od1FqQmlrVXBwSmpOeEFCbFhGV2xHZTd4Q25pMHQxM1oxcjlESUo3NmV0bnYzSVphSnNPX1lBc0c4SWhSbkVMQUt1LUxvVjlvOHZEbGNQZUJxTDZmb0pyQURxR3hqVzBFNVUwbDhWeFdXX3RUUGpLQmpfcGxlZzNPTFVPV3ZsdVJZZHJDM2E5MU1lS1BfZ1drMDQwd2w1Tmp2ZDlOaTA3dWtjMUR2MHJZenZHdG54M1NoaERZZ2w2dlM6QUdpdEh1YiBNQ1AgKDxiPk9XQVNQIExMTTAxPC9iPjoyMDI2IFByb21wdCBJbmplY3Rpb24gLi4uIC0gUmVkZGl0QpsBR2l0SHViIE1DUCAoT1dBU1AgTExNMDE6MjAyNiBQcm9tcHQgSW5qZWN0aW9uKTogPGI-YSBwcm9tcHQgaW5qZWN0aW9uIGZpbGVkIGFzIGEgcHVibGljIGlzc3VlPC9iPiBtYWRlIGFuIGFnZW50IG9wZW4gYSBwdWxsIHJlcXVlc3QgY29udGFpbmluZyB0aGUmbmJzcDsuLi4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Ct4BL2dvdG8_dXJsPUNBRVNtZ0VCNnpzd0ZlWWhBRHVTYVdZZ2pPaHdRakJpa1VwcEpqTnhBQmxYRldsR2U3eENuaTB0MTNaMXI5RElKNzZldG52M0laYUpzT19ZQXNHOEloUm5FTEFLdS1Mb1Y5bzh2RGxjUGVCcUw2Zm9KckFEcUd4alcwRTVVMGw4VnhXV190VFBqS0JqX3BsZWczT0xVT1d2bHVSWWRyQzNhOTFNZUtQX2dXazA0MHdsNU5qdmQ5TmkwN3VrYzFEdjByWXp2R3RueDNTaGhEWWdsNnZTEgQaAggAGqoEEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQIYECAAQABgAIAAqGAoFb3dhc3AVtG5sQBoKaXY7cDtvd2FzcCogCgVsbG0wMRXdHGlAGgZsbG0gMDEaCml2O3A7bGxtMDEy3gEvZ290bz91cmw9Q0FFU21nRUI2enN3RmVZaEFEdVNhV1lnak9od1FqQmlrVXBwSmpOeEFCbFhGV2xHZTd4Q25pMHQxM1oxcjlESUo3NmV0bnYzSVphSnNPX1lBc0c4SWhSbkVMQUt1LUxvVjlvOHZEbGNQZUJxTDZmb0pyQURxR3hqVzBFNVUwbDhWeFdXX3RUUGpLQmpfcGxlZzNPTFVPV3ZsdVJZZHJDM2E5MU1lS1BfZ1drMDQwd2w1Tmp2ZDlOaTA3dWtjMUR2MHJZenZHdG54M1NoaERZZ2w2dlM6QUdpdEh1YiBNQ1AgKDxiPk9XQVNQIExMTTAxPC9iPjoyMDI2IFByb21wdCBJbmplY3Rpb24gLi4uIC0gUmVkZGl0QpsBR2l0SHViIE1DUCAoT1dBU1AgTExNMDE6MjAyNiBQcm9tcHQgSW5qZWN0aW9uKTogPGI-YSBwcm9tcHQgaW5qZWN0aW9uIGZpbGVkIGFzIGEgcHVibGljIGlzc3VlPC9iPiBtYWRlIGFuIGFnZW50IG9wZW4gYSBwdWxsIHJlcXVlc3QgY29udGFpbmluZyB0aGUmbmJzcDsuLi4iAhABSABYAGgA",
+      "source": "Reddit · r/pwnhub",
+      "read_more_link": "https://www.reddit.com/r/pwnhub/comments/1vq6kny/github_mcp_owasp_llm012026_prompt_injection_a/#:~:text=GitHub%20MCP%20(OWASP%20LLM01%3A2026%20Prompt,the%20user's%20private%20repository%20data"
+    },
+    {
+      "position": 3,
+      "title": "Two witnesses disagree about prompt injection. Neither ...",
+      "link": "https://rockcyber.com/blog/two-witnesses-prompt-injection",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdAHrOzAVv8k5hAaQGxketEghFWRHI0eOBdoLlrz32BNkjykVs_cFoeOfbUxvASTEKt0a49trZtYKDhevqn4VQZsvy0Dg-RPCBFxbr9LGYtVkOGnvJpSO1NuRs9hfSJi69aNLF9Y0odCOEI_I2h_40Uymm9CU&ved=2ahUKEwiDjOWq0qKXAxXrXEEAHUwHKf0QFnoECCcQAQ&uoh=1",
+      "displayed_link": "https://rockcyber.com › RockCyber Blog",
+      "favicon": "https://serpapi.com/images/i/UklGRtQAAABXRUJQVlA4IMgAAADQBQCdASocABwAPrUurVanIacnG_DgFolsAJ0yg8oygC7AN4zRoA5WxJkztz0RIlvGbytS8Y8AAP72gdwH9FSo5WoiYXnqsbZcAASxUhxv972wV4bW2ZL7w8YSCozXvEmf-rQOMCL41l7yJQnlQmC_LwTki4qGEE9QmGnd34uPIM3h38MP3ZH0AI-AITqTH7pjJg0pvd7HJJky8LpiYhUO1JfzG6nLruME6V-tGozSIGil1uAwE4PJxrw9KP_n-V2P9uVPL9QAAA.webp",
+      "date": "Aug 26, 2026",
+      "snippet": "Prompt injection ranks first with OWASP experts and twelfth in the incident record. I talked to VentureBeat about what that gap really measures.",
+      "snippet_highlighted_words": [
+        "OWASP"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Prompt injection ranks first with OWASP experts and twelfth in the incident record. I talked to VentureBeat about what that gap really measures.",
+          "source_info_link": "https://rockcyber.com/blog/two-witnesses-prompt-injection",
+          "icon": "https://serpapi.com/images/i/UklGRtQAAABXRUJQVlA4IMgAAADQBQCdASocABwAPrUurVanIacnG_DgFolsAJ0yg8oygC7AN4zRoA5WxJkztz0RIlvGbytS8Y8AAP72gdwH9FSo5WoiYXnqsbZcAASxUhxv972wV4bW2ZL7w8YSCozXvEmf-rQOMCL41l7yJQnlQmC_LwTki4qGEE9QmGnd34uPIM3h38MP3ZH0AI-AITqTH7pjJg0pvd7HJJky8LpiYhUO1JfzG6nLruME6V-tGozSIGil1uAwE4PJxrw9KP_n-V2P9uVPL9QAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqoBL2dvdG8_dXJsPUNBRVNkQUhyT3pBVnY4azVoQWFRR3hrZXRFZ2hGV1JISTBlT0Jkb0xscnozMkJOa2p5a1ZzX2NGb2VPZmJVeHZBU1RFS3QwYTQ5dHJadFlLRGhldnFuNFZRWnN2eTBEZy1SUENCRnhicjlMR1l0VmtPR252SnBTTzFOdVJzOWhmU0ppNjlhTkxGOVkwb2RDT0VJX0kyaF80MFV5bW05Q1USBBoCCAAa8gMSABoAIgAqADIGCAESAnVzOgBCBAgBEABKAFoAcgB6AIJAzgMIABAAGAAgACoYCgVvd2FzcBXltdM_GgppdjtwO293YXNwKiAKBWxsbTAxFWY0_j4aBmxsbSAwMRoKaXY7cDtsbG0wMTKqAS9nb3RvP3VybD1DQUVTZEFIck96QVZ2OGs1aEFhUUd4a2V0RWdoRldSSEkwZU9CZG9MbHJ6MzJCTmtqeWtWc19jRm9lT2ZiVXh2QVNURUt0MGE0OXRyWnRZS0RoZXZxbjRWUVpzdnkwRGctUlBDQkZ4YnI5TEdZdFZrT0dudkpwU08xTnVSczloZlNKaTY5YU5MRjlZMG9kQ09FSV9JMmhfNDBVeW1tOUNVOkFUd28gd2l0bmVzc2VzIGRpc2FncmVlIGFib3V0IHByb21wdCBpbmplY3Rpb24uIE5laXRoZXIgb25lIGlzIC4uLkKXAVByb21wdCBpbmplY3Rpb24gcmFua3MgZmlyc3Qgd2l0aCA8Yj5PV0FTUDwvYj4gZXhwZXJ0cyBhbmQgdHdlbGZ0aCBpbiB0aGUgaW5jaWRlbnQgcmVjb3JkLiBJIHRhbGtlZCB0byBWZW50dXJlQmVhdCBhYm91dCB3aGF0IHRoYXQgZ2FwIHJlYWxseSBtZWFzdXJlcy4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqoBL2dvdG8_dXJsPUNBRVNkQUhyT3pBVnY4azVoQWFRR3hrZXRFZ2hGV1JISTBlT0Jkb0xscnozMkJOa2p5a1ZzX2NGb2VPZmJVeHZBU1RFS3QwYTQ5dHJadFlLRGhldnFuNFZRWnN2eTBEZy1SUENCRnhicjlMR1l0VmtPR252SnBTTzFOdVJzOWhmU0ppNjlhTkxGOVkwb2RDT0VJX0kyaF80MFV5bW05Q1USBBoCCAAa8gMSABoAIgAqADIGCAESAnVzOgBCBAgBEABKAFoAcgB6AIJAzgMIABAAGAAgACoYCgVvd2FzcBXltdM_GgppdjtwO293YXNwKiAKBWxsbTAxFWY0_j4aBmxsbSAwMRoKaXY7cDtsbG0wMTKqAS9nb3RvP3VybD1DQUVTZEFIck96QVZ2OGs1aEFhUUd4a2V0RWdoRldSSEkwZU9CZG9MbHJ6MzJCTmtqeWtWc19jRm9lT2ZiVXh2QVNURUt0MGE0OXRyWnRZS0RoZXZxbjRWUVpzdnkwRGctUlBDQkZ4YnI5TEdZdFZrT0dudkpwU08xTnVSczloZlNKaTY5YU5MRjlZMG9kQ09FSV9JMmhfNDBVeW1tOUNVOkFUd28gd2l0bmVzc2VzIGRpc2FncmVlIGFib3V0IHByb21wdCBpbmplY3Rpb24uIE5laXRoZXIgb25lIGlzIC4uLkKXAVByb21wdCBpbmplY3Rpb24gcmFua3MgZmlyc3Qgd2l0aCA8Yj5PV0FTUDwvYj4gZXhwZXJ0cyBhbmQgdHdlbGZ0aCBpbiB0aGUgaW5jaWRlbnQgcmVjb3JkLiBJIHRhbGtlZCB0byBWZW50dXJlQmVhdCBhYm91dCB3aGF0IHRoYXQgZ2FwIHJlYWxseSBtZWFzdXJlcy4iAhABSABYAGgA",
+      "source": "RockCyber",
+      "read_more_link": "https://rockcyber.com/blog/two-witnesses-prompt-injection#:~:text=Prompt%20injection%20ranks%20first%20with,what%20that%20gap%20really%20measures."
+    },
+    {
+      "position": 4,
+      "title": "LLM Security Testing Platform: 2026 Methodology - FilterPrompt",
+      "link": "https://filterprompt.io/blog/llm-security-testing-guide",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScgHrOzAVgZbQ6VaxgazsK3Y6_9TJQHRsZkdqfOEHQAd75PMgUccg28CfXpMCy7Kbqb8-XiIT4e9v6m5QqBNe2ffqO-ZkECpzA-3aL7D7BBoEp7XvAdvN81AFtmwSwyYq_iX33uVHnfzEBFVJNEmkT79sJQ&ved=2ahUKEwiDjOWq0qKXAxXrXEEAHUwHKf0QFnoECC4QAQ&uoh=1",
+      "displayed_link": "https://filterprompt.io › LLM Vulnerability Scanner",
+      "favicon": "https://serpapi.com/images/i/UklGRtAAAABXRUJQVlA4IMQAAADwBQCdASocABwAPtEutFooIagoGAEAGglsAJ0y43mYqvQDbAc_ALXccFdKPLLhKwtBLvaeB9wAAAD-9C294h8SyX4JeYmQQqFABompoUfg5tX3FBEHxi6ONNQh6qBzRzUqyWsKHhjXz-40bcTzQCfsRWeysP_KL8Xj4hbDUXnVo5vS1Uuk-mzkReIhysUuxWF61qI6AnI75XLMaq6ATSUb3h3MJTfQM1A2ieymbHfo9PP9XhOUOqt1W8kywd_eQYNzQ6AA.webp",
+      "date": "Jul 16, 2026",
+      "snippet": "Prompt Injection Testing: How to Test Your LLM for OWASP LLM01— A hands-on guide to prompt injection testing — how to test for prompt injection ...",
+      "snippet_highlighted_words": [
+        "How to Test Your LLM for OWASP LLM01"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.9,
+            "reviews": 12
+          },
+          "extensions": [
+            "4.9(12)",
+            "Free",
+            "Security"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Prompt Injection Testing: How to Test Your LLM for OWASP LLM01— A hands-on guide to prompt injection testing — how to test for prompt injection ...",
+          "source_info_link": "https://filterprompt.io/blog/llm-security-testing-guide",
+          "icon": "https://serpapi.com/images/i/UklGRtAAAABXRUJQVlA4IMQAAADwBQCdASocABwAPtEutFooIagoGAEAGglsAJ0y43mYqvQDbAc_ALXccFdKPLLhKwtBLvaeB9wAAAD-9C294h8SyX4JeYmQQqFABompoUfg5tX3FBEHxi6ONNQh6qBzRzUqyWsKHhjXz-40bcTzQCfsRWeysP_KL8Xj4hbDUXnVo5vS1Uuk-mzkReIhysUuxWF61qI6AnI75XLMaq6ATSUb3h3MJTfQM1A2ieymbHfo9PP9XhOUOqt1W8kywd_eQYNzQ6AA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqgBL2dvdG8_dXJsPUNBRVNjZ0hyT3pBVmdaYlE2VmF4Z2F6c0szWTZfOVRKUUhSc1prZHFmT0VIUUFkNzVQTWdVY2NnMjhDZlhwTUN5N0ticWI4LVhpSVQ0ZTl2Nm01UXFCTmUyZmZxTy1aa0VDcHpBLTNhTDdEN0JCb0VwN1h2QWR2TjgxQUZ0bXdTd3lZcV9pWDMzdVZIbmZ6RUJGVkpORW1rVDc5c0pREgQaAggAGvkDEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQNUDCAAQABgAIAAqGAoFb3dhc3AVeK0TQBoKaXY7cDtvd2FzcCogCgVsbG0wMRXD3I8_GgZsbG0gMDEaCml2O3A7bGxtMDEyqAEvZ290bz91cmw9Q0FFU2NnSHJPekFWZ1piUTZWYXhnYXpzSzNZNl85VEpRSFJzWmtkcWZPRUhRQWQ3NVBNZ1VjY2cyOENmWHBNQ3k3S2JxYjgtWGlJVDRlOXY2bTVRcUJOZTJmZnFPLVprRUNwekEtM2FMN0Q3QkJvRXA3WHZBZHZOODFBRnRtd1N3eVlxX2lYMzN1VkhuZnpFQkZWSk5FbWtUNzlzSlE6PkxMTSBTZWN1cml0eSBUZXN0aW5nIFBsYXRmb3JtOiAyMDI2IE1ldGhvZG9sb2d5IC0gRmlsdGVyUHJvbXB0QqMBUHJvbXB0IEluamVjdGlvbiBUZXN0aW5nOiA8Yj5Ib3cgdG8gVGVzdCBZb3VyIExMTSBmb3IgT1dBU1AgTExNMDE8L2I-4oCUIEEgaGFuZHMtb24gZ3VpZGUgdG8gcHJvbXB0IGluamVjdGlvbiB0ZXN0aW5nIOKAlCBob3cgdG8gdGVzdCBmb3IgcHJvbXB0IGluamVjdGlvbiZuYnNwOy4uLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqgBL2dvdG8_dXJsPUNBRVNjZ0hyT3pBVmdaYlE2VmF4Z2F6c0szWTZfOVRKUUhSc1prZHFmT0VIUUFkNzVQTWdVY2NnMjhDZlhwTUN5N0ticWI4LVhpSVQ0ZTl2Nm01UXFCTmUyZmZxTy1aa0VDcHpBLTNhTDdEN0JCb0VwN1h2QWR2TjgxQUZ0bXdTd3lZcV9pWDMzdVZIbmZ6RUJGVkpORW1rVDc5c0pREgQaAggAGvkDEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQNUDCAAQABgAIAAqGAoFb3dhc3AVeK0TQBoKaXY7cDtvd2FzcCogCgVsbG0wMRXD3I8_GgZsbG0gMDEaCml2O3A7bGxtMDEyqAEvZ290bz91cmw9Q0FFU2NnSHJPekFWZ1piUTZWYXhnYXpzSzNZNl85VEpRSFJzWmtkcWZPRUhRQWQ3NVBNZ1VjY2cyOENmWHBNQ3k3S2JxYjgtWGlJVDRlOXY2bTVRcUJOZTJmZnFPLVprRUNwekEtM2FMN0Q3QkJvRXA3WHZBZHZOODFBRnRtd1N3eVlxX2lYMzN1VkhuZnpFQkZWSk5FbWtUNzlzSlE6PkxMTSBTZWN1cml0eSBUZXN0aW5nIFBsYXRmb3JtOiAyMDI2IE1ldGhvZG9sb2d5IC0gRmlsdGVyUHJvbXB0QqMBUHJvbXB0IEluamVjdGlvbiBUZXN0aW5nOiA8Yj5Ib3cgdG8gVGVzdCBZb3VyIExMTSBmb3IgT1dBU1AgTExNMDE8L2I-4oCUIEEgaGFuZHMtb24gZ3VpZGUgdG8gcHJvbXB0IGluamVjdGlvbiB0ZXN0aW5nIOKAlCBob3cgdG8gdGVzdCBmb3IgcHJvbXB0IGluamVjdGlvbiZuYnNwOy4uLiICEAFIAFgAaAA",
+      "source": "filterprompt.io",
+      "read_more_link": "https://filterprompt.io/blog/llm-security-testing-guide#:~:text=Prompt%20Injection%20Testing%3A%20How%20to,prompt%20injection%20with%20open%20%E2%80%A6"
+    },
+    {
+      "position": 5,
+      "title": "Prompt Injection: Detect & Block LLM Attacks",
+      "link": "https://www.swept.ai/ai-prompt-injection",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVOFncr3zY6uVGtGTF2RPy26M2VWwQ8lpXoPhHx-z6LKTiVVxlotoRGaVXHVvF9mFt4WfgsH_kV86xHa5COg9dlUM0X2FtGzPXtZR4isVVjLgNeH6VTJspOX6zfyshFA&ved=2ahUKEwiDjOWq0qKXAxXrXEEAHUwHKf0QFnoECCgQAQ&uoh=1",
+      "displayed_link": "https://www.swept.ai › Knowledge Base",
+      "favicon": "https://serpapi.com/images/i/UklGRkQBAABXRUJQVlA4IDgBAACQBgCdASocABwAPtE-tFooIigoFAEAGglnAIAAa7Pm4_Mw2ZGEfxQTQOW-6R_aZHLvatNnUIjt7t5Was4AAP72E0XNR1q01qy0C68p8aoIHHFQGIGdj-z_W0T0AYMbbma1kbo2qXQ1cKy4hWvfGo_PrliY9GwTeU70WDpxgQpH4c0Nd_N6HaABCO_Og58rMZC1s7CP0ELk15xwkcTMAVu0a6utblwWMD_RnrYWFzKw4SZ8F4nhusYoil1on1GnhOZbB_Yvv1eYAG--b9ZPyS7LOeoNSP3FtC9xkPIezHUlnJQz87xh1CASv4F6L_Af4UBNMbAetZ48nIrYj_wdba7q8Trbk24WWDCsaX0_PISCv2NWN1ZdZi2X8fku8W6Br8aVL41ntT4fvglKey8iGJy3rNxFjWvPIAA.webp",
+      "snippet": "Continuous red-team tests against OWASP LLM01 scenarios. Guidance aligns with OWASP prevention: constrain behavior, filter I/O, validate formats, segregate ...",
+      "snippet_highlighted_words": [
+        "OWASP LLM01 scenarios"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Continuous red-team tests against OWASP LLM01 scenarios. Guidance aligns with OWASP prevention: constrain behavior, filter I/O, validate formats, segregate ...",
+          "source_info_link": "https://www.swept.ai/ai-prompt-injection",
+          "icon": "https://serpapi.com/images/i/UklGRkQBAABXRUJQVlA4IDgBAACQBgCdASocABwAPtE-tFooIigoFAEAGglnAIAAa7Pm4_Mw2ZGEfxQTQOW-6R_aZHLvatNnUIjt7t5Was4AAP72E0XNR1q01qy0C68p8aoIHHFQGIGdj-z_W0T0AYMbbma1kbo2qXQ1cKy4hWvfGo_PrliY9GwTeU70WDpxgQpH4c0Nd_N6HaABCO_Og58rMZC1s7CP0ELk15xwkcTMAVu0a6utblwWMD_RnrYWFzKw4SZ8F4nhusYoil1on1GnhOZbB_Yvv1eYAG--b9ZPyS7LOeoNSP3FtC9xkPIezHUlnJQz87xh1CASv4F6L_Af4UBNMbAetZ48nIrYj_wdba7q8Trbk24WWDCsaX0_PISCv2NWN1ZdZi2X8fku8W6Br8aVL41ntT4fvglKey8iGJy3rNxFjWvPIAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVk9GbmNyM3pZNnVWR3RHVEYyUlB5MjZNMlZXd1E4bHBYb1BoSHgtejZMS1RpVlZ4bG90b1JHYVZYSFZ2RjltRnQ0V2Znc0hfa1Y4NnhIYTVDT2c5ZGxVTTBYMkZ0R3pQWHRaUjRpc1ZWakxnTmVINlZUSnNwT1g2emZ5c2hGQRIEGgIIABrqAxIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDGAwgAEAAYACAAKhgKBW93YXNwFV17oz8aCml2O3A7b3dhc3AqIAoFbGxtMDEVQQ0-PxoGbGxtIDAxGgppdjtwO2xsbTAxMpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVk9GbmNyM3pZNnVWR3RHVEYyUlB5MjZNMlZXd1E4bHBYb1BoSHgtejZMS1RpVlZ4bG90b1JHYVZYSFZ2RjltRnQ0V2Znc0hfa1Y4NnhIYTVDT2c5ZGxVTTBYMkZ0R3pQWHRaUjRpc1ZWakxnTmVINlZUSnNwT1g2emZ5c2hGQTo7UHJvbXB0IEluamVjdGlvbjogRGV0ZWN0ICZhbXA7IEJsb2NrIExMTSBBdHRhY2tzIHwgU3dlcHQgQUlCqwFDb250aW51b3VzIHJlZC10ZWFtIHRlc3RzIGFnYWluc3QgPGI-T1dBU1AgTExNMDEgc2NlbmFyaW9zPC9iPi4gR3VpZGFuY2UgYWxpZ25zIHdpdGggT1dBU1AgcHJldmVudGlvbjogY29uc3RyYWluIGJlaGF2aW9yLCBmaWx0ZXIgSS9PLCB2YWxpZGF0ZSBmb3JtYXRzLCBzZWdyZWdhdGUmbmJzcDsuLi4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVk9GbmNyM3pZNnVWR3RHVEYyUlB5MjZNMlZXd1E4bHBYb1BoSHgtejZMS1RpVlZ4bG90b1JHYVZYSFZ2RjltRnQ0V2Znc0hfa1Y4NnhIYTVDT2c5ZGxVTTBYMkZ0R3pQWHRaUjRpc1ZWakxnTmVINlZUSnNwT1g2emZ5c2hGQRIEGgIIABrqAxIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDGAwgAEAAYACAAKhgKBW93YXNwFV17oz8aCml2O3A7b3dhc3AqIAoFbGxtMDEVQQ0-PxoGbGxtIDAxGgppdjtwO2xsbTAxMpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVk9GbmNyM3pZNnVWR3RHVEYyUlB5MjZNMlZXd1E4bHBYb1BoSHgtejZMS1RpVlZ4bG90b1JHYVZYSFZ2RjltRnQ0V2Znc0hfa1Y4NnhIYTVDT2c5ZGxVTTBYMkZ0R3pQWHRaUjRpc1ZWakxnTmVINlZUSnNwT1g2emZ5c2hGQTo7UHJvbXB0IEluamVjdGlvbjogRGV0ZWN0ICZhbXA7IEJsb2NrIExMTSBBdHRhY2tzIHwgU3dlcHQgQUlCqwFDb250aW51b3VzIHJlZC10ZWFtIHRlc3RzIGFnYWluc3QgPGI-T1dBU1AgTExNMDEgc2NlbmFyaW9zPC9iPi4gR3VpZGFuY2UgYWxpZ25zIHdpdGggT1dBU1AgcHJldmVudGlvbjogY29uc3RyYWluIGJlaGF2aW9yLCBmaWx0ZXIgSS9PLCB2YWxpZGF0ZSBmb3JtYXRzLCBzZWdyZWdhdGUmbmJzcDsuLi4iAhABSABYAGgA",
+      "source": "Swept AI",
+      "read_more_link": "https://www.swept.ai/ai-prompt-injection#:~:text=Continuous%20red%2Dteam%20tests%20against%20OWASP,validate%20formats%2C%20segregate%20untrusted%20content."
+    },
+    {
+      "position": 6,
+      "title": "[Security Hardening] Mitigating OWASP LLM01 Indirect ...",
+      "link": "https://github.com/langchain-ai/langchain/actions/runs/35488615262",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfQHrOzAVVgpSB5UQdJlIvGLN00sd14eiBZ9RKGdqECve0334OC61L5ICfm5dMUSOgQlrwnYxA09-DHt5YIA_Bed4e3dlUvvDEOkfDDd3PYmuFG19K_VaXhUiowWkjUPGr27yDoLgyX0jfWh3_YQA5-dmFLxasmqXBTrGQpug&ved=2ahUKEwiDjOWq0qKXAxXrXEEAHUwHKf0QFnoECDsQAQ&uoh=1",
+      "displayed_link": "https://github.com › langchain › actions › runs",
+      "favicon": "https://serpapi.com/images/i/UklGRloBAABXRUJQVlA4IE4BAABQBwCdASogACAAPtE-tFooIigoFAEAGglpABOY66msBQAhm_jie7on_u43Y8wznTq3o6RYivaXQwLqgtFvGxqSxD0AAP79L-I2CJh157_guzOImTEj4KETbf3LoXG53uwsqC7TNrPYvnj0JCbHaYHsiJ0dZxjZp00AIDh71pmydvV9rbfX7pBwD6xKTC28fi7cmmnaetDkFUKtNDh1oyUvgEJ5B0Jos2E3N5Wf9ywcn5v3_j66N4LrWwMgFUK8OJeK59_R9U8Iq0vdjaoGaiwCdWiWFqTkHXGL7cy9_twJalsMPdZeuuD4BKfDlkDiZPTQbYNs-KpL44LixNJqixiQZYn6Pg05yAzQrotV5msFHgGjybbpLCJP2Jxb24id-1ooSLAITw21MsGq7M_mh1A1SG77Y3rdqY4h760MO7-2OyFmK97IagzfP7hUwAAA.webp",
+      "snippet": "[Security Hardening] Mitigating OWASP LLM01 Indirect Prompt Injections in Web Loaders via CSS Render-Layer Obfuscation (CWE-1427) #3972.",
+      "snippet_highlighted_words": [
+        "OWASP LLM01"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "[Security Hardening] Mitigating OWASP LLM01 Indirect Prompt Injections in Web Loaders via CSS Render-Layer Obfuscation (CWE-1427) #3972.",
+          "source_info_link": "https://github.com/langchain-ai/langchain/actions/runs/35488615262",
+          "icon": "https://serpapi.com/images/i/UklGRloBAABXRUJQVlA4IE4BAABQBwCdASogACAAPtE-tFooIigoFAEAGglpABOY66msBQAhm_jie7on_u43Y8wznTq3o6RYivaXQwLqgtFvGxqSxD0AAP79L-I2CJh157_guzOImTEj4KETbf3LoXG53uwsqC7TNrPYvnj0JCbHaYHsiJ0dZxjZp00AIDh71pmydvV9rbfX7pBwD6xKTC28fi7cmmnaetDkFUKtNDh1oyUvgEJ5B0Jos2E3N5Wf9ywcn5v3_j66N4LrWwMgFUK8OJeK59_R9U8Iq0vdjaoGaiwCdWiWFqTkHXGL7cy9_twJalsMPdZeuuD4BKfDlkDiZPTQbYNs-KpL44LixNJqixiQZYn6Pg05yAzQrotV5msFHgGjybbpLCJP2Jxb24id-1ooSLAITw21MsGq7M_mh1A1SG77Y3rdqY4h760MO7-2OyFmK97IagzfP7hUwAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrYBL2dvdG8_dXJsPUNBRVNmUUhyT3pBVlZncFNCNVVRZEpsSXZHTE4wMHNkMTRlaUJaOVJLR2RxRUN2ZTAzMzRPQzYxTDVJQ2ZtNWRNVVNPZ1FscnduWXhBMDktREh0NVlJQV9CZWQ0ZTNkbFV2dkRFT2tmRERkM1BZbXVGRzE5S19WYVhoVWlvd1dralVQR3IyN3lEb0xneVgwamZXaDNfWVFBNS1kbUZMeGFzbXFYQlRyR1FwdWcSBBoCCAAa9AMSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA0AMIABAAGAAgACoYCgVvd2FzcBUuTHFAGgppdjtwO293YXNwKiAKBWxsbTAxFS5McUAaBmxsbSAwMRoKaXY7cDtsbG0wMTK2AS9nb3RvP3VybD1DQUVTZlFIck96QVZWZ3BTQjVVUWRKbEl2R0xOMDBzZDE0ZWlCWjlSS0dkcUVDdmUwMzM0T0M2MUw1SUNmbTVkTVVTT2dRbHJ3bll4QTA5LURIdDVZSUFfQmVkNGUzZGxVdnZERU9rZkREZDNQWW11RkcxOUtfVmFYaFVpb3dXa2pVUEdyMjd5RG9MZ3lYMGpmV2gzX1lRQTUtZG1GTHhhc21xWEJUckdRcHVnOj9bU2VjdXJpdHkgSGFyZGVuaW5nXSBNaXRpZ2F0aW5nIDxiPk9XQVNQIExMTTAxPC9iPiBJbmRpcmVjdCAuLi5CjwFbU2VjdXJpdHkgSGFyZGVuaW5nXSBNaXRpZ2F0aW5nIDxiPk9XQVNQIExMTTAxPC9iPiBJbmRpcmVjdCBQcm9tcHQgSW5qZWN0aW9ucyBpbiBXZWIgTG9hZGVycyB2aWEgQ1NTIFJlbmRlci1MYXllciBPYmZ1c2NhdGlvbiAoQ1dFLTE0MjcpICMzOTcyLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrYBL2dvdG8_dXJsPUNBRVNmUUhyT3pBVlZncFNCNVVRZEpsSXZHTE4wMHNkMTRlaUJaOVJLR2RxRUN2ZTAzMzRPQzYxTDVJQ2ZtNWRNVVNPZ1FscnduWXhBMDktREh0NVlJQV9CZWQ0ZTNkbFV2dkRFT2tmRERkM1BZbXVGRzE5S19WYVhoVWlvd1dralVQR3IyN3lEb0xneVgwamZXaDNfWVFBNS1kbUZMeGFzbXFYQlRyR1FwdWcSBBoCCAAa9AMSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA0AMIABAAGAAgACoYCgVvd2FzcBUuTHFAGgppdjtwO293YXNwKiAKBWxsbTAxFS5McUAaBmxsbSAwMRoKaXY7cDtsbG0wMTK2AS9nb3RvP3VybD1DQUVTZlFIck96QVZWZ3BTQjVVUWRKbEl2R0xOMDBzZDE0ZWlCWjlSS0dkcUVDdmUwMzM0T0M2MUw1SUNmbTVkTVVTT2dRbHJ3bll4QTA5LURIdDVZSUFfQmVkNGUzZGxVdnZERU9rZkREZDNQWW11RkcxOUtfVmFYaFVpb3dXa2pVUEdyMjd5RG9MZ3lYMGpmV2gzX1lRQTUtZG1GTHhhc21xWEJUckdRcHVnOj9bU2VjdXJpdHkgSGFyZGVuaW5nXSBNaXRpZ2F0aW5nIDxiPk9XQVNQIExMTTAxPC9iPiBJbmRpcmVjdCAuLi5CjwFbU2VjdXJpdHkgSGFyZGVuaW5nXSBNaXRpZ2F0aW5nIDxiPk9XQVNQIExMTTAxPC9iPiBJbmRpcmVjdCBQcm9tcHQgSW5qZWN0aW9ucyBpbiBXZWIgTG9hZGVycyB2aWEgQ1NTIFJlbmRlci1MYXllciBPYmZ1c2NhdGlvbiAoQ1dFLTE0MjcpICMzOTcyLiICEAFIAFgAaAA",
+      "source": "GitHub",
+      "read_more_link": "https://github.com/langchain-ai/langchain/actions/runs/35488615262#:~:text=%5BSecurity%20Hardening%5D%20Mitigating%20OWASP%20LLM01,CSS%20Render%2DLayer%20Obfuscation%20(CWE%2D1427)%20%233972"
+    },
+    {
+      "position": 7,
+      "title": "Mistral Prompt Injection: What the EU-Sovereign Models ...",
+      "link": "https://www.deepinspect.ai/blog/mistral-prompt-injection",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScwHrOzAV6mS6kYSdKfIzQaDhTGOVmiNeqcg6UaSkyaM6Lz5sedX0WRj6FDE2mA4RP8kXHb1CsTLzlXBCewXO9Yi__0L5uD1isdWgD3j_ZNETKJ8m32LpYPFoYXxz5yx1t__pQ94PGvyaLwxF6l1k7NBhpOg&ved=2ahUKEwiDjOWq0qKXAxXrXEEAHUwHKf0QFnoECDoQAQ&uoh=1",
+      "displayed_link": "https://www.deepinspect.ai › Blog",
+      "favicon": "https://serpapi.com/images/i/UklGRlABAABXRUJQVlA4IEQBAACQBgCdASocABwAPtEutFooIagoGAEAGglnAARAj_q-WjNX_x28zCUpKrGLwUij_UoowjUClg5KEyef9_AAAP7xBFlOOaVLXFXUaCh2inir_EXohZq6j7Buz_vMd_YMF9F17w3RsRV1UMJytevHWv_SNLtlb0y_384v0WZB-EzUwyn59Zn_hDV4zo8rr7MP-nvWzOzraBrx2gMSpvt2h1Q0nLWL5c0_nf-RzGXvz42NWZkDgvHYo7Bj1rRDuuqCY8PMt4p9flK-RK_Z8VoUyb8v73X7CYQiSBVzF-SN43T1_Vz-Gn90lxOQl_zbW14Nd_aCRgjuS2P4VCaO6eD4Bn_91OSgAZv_XTyl_nbRhnq-Uf1P9yOuh_FASNWagHDDn2YeaertUxF1d2gGSJyaekjNRVgrR_LMMkp8JspX7u_CEqBMAAA.webp",
+      "date": "Aug 18, 2026",
+      "snippet": "OWASP's LLM Top 10 ranks prompt injection at LLM01. The class covers direct prompt injection (the user submits hostile instructions in their own ...",
+      "snippet_highlighted_words": [
+        "OWASP's",
+        "LLM01"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "OWASP's LLM Top 10 ranks prompt injection at LLM01. The class covers direct prompt injection (the user submits hostile instructions in their own ...",
+          "source_info_link": "https://www.deepinspect.ai/blog/mistral-prompt-injection",
+          "icon": "https://serpapi.com/images/i/UklGRlABAABXRUJQVlA4IEQBAACQBgCdASocABwAPtEutFooIagoGAEAGglnAARAj_q-WjNX_x28zCUpKrGLwUij_UoowjUClg5KEyef9_AAAP7xBFlOOaVLXFXUaCh2inir_EXohZq6j7Buz_vMd_YMF9F17w3RsRV1UMJytevHWv_SNLtlb0y_384v0WZB-EzUwyn59Zn_hDV4zo8rr7MP-nvWzOzraBrx2gMSpvt2h1Q0nLWL5c0_nf-RzGXvz42NWZkDgvHYo7Bj1rRDuuqCY8PMt4p9flK-RK_Z8VoUyb8v73X7CYQiSBVzF-SN43T1_Vz-Gn90lxOQl_zbW14Nd_aCRgjuS2P4VCaO6eD4Bn_91OSgAZv_XTyl_nbRhnq-Uf1P9yOuh_FASNWagHDDn2YeaertUxF1d2gGSJyaekjNRVgrR_LMMkp8JspX7u_CEqBMAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqkBL2dvdG8_dXJsPUNBRVNjd0hyT3pBVjZtUzZrWVNkS2ZJelFhRGhUR09WbWlOZXFjZzZVYVNreWFNNkx6NXNlZFgwV1JqNkZERTJtQTRSUDhrWEhiMUNzVEx6bFhCQ2V3WE85WWlfXzBMNXVEMWlzZFdnRDNqX1pORVRLSjhtMzJMcFlQRm9ZWHh6NXl4MXRfX3BROTRQR3Z5YUx3eEY2bDFrN05CaHBPZxIEGgIIABr-AxIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDaAwgAEAAYACAAKhgKBW93YXNwFfYGcUAaCml2O3A7b3dhc3AqIAoFbGxtMDEVOT4UQBoGbGxtIDAxGgppdjtwO2xsbTAxMqkBL2dvdG8_dXJsPUNBRVNjd0hyT3pBVjZtUzZrWVNkS2ZJelFhRGhUR09WbWlOZXFjZzZVYVNreWFNNkx6NXNlZFgwV1JqNkZERTJtQTRSUDhrWEhiMUNzVEx6bFhCQ2V3WE85WWlfXzBMNXVEMWlzZFdnRDNqX1pORVRLSjhtMzJMcFlQRm9ZWHh6NXl4MXRfX3BROTRQR3Z5YUx3eEY2bDFrN05CaHBPZzo6TWlzdHJhbCBQcm9tcHQgSW5qZWN0aW9uOiBXaGF0IHRoZSBFVS1Tb3ZlcmVpZ24gTW9kZWxzIC4uLkKrATxiPk9XQVNQJiMzOTtzPC9iPiBMTE0gVG9wIDEwIHJhbmtzIHByb21wdCBpbmplY3Rpb24gYXQgPGI-TExNMDE8L2I-LiBUaGUgY2xhc3MgY292ZXJzIGRpcmVjdCBwcm9tcHQgaW5qZWN0aW9uICh0aGUgdXNlciBzdWJtaXRzIGhvc3RpbGUgaW5zdHJ1Y3Rpb25zIGluIHRoZWlyIG93biZuYnNwOy4uLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqkBL2dvdG8_dXJsPUNBRVNjd0hyT3pBVjZtUzZrWVNkS2ZJelFhRGhUR09WbWlOZXFjZzZVYVNreWFNNkx6NXNlZFgwV1JqNkZERTJtQTRSUDhrWEhiMUNzVEx6bFhCQ2V3WE85WWlfXzBMNXVEMWlzZFdnRDNqX1pORVRLSjhtMzJMcFlQRm9ZWHh6NXl4MXRfX3BROTRQR3Z5YUx3eEY2bDFrN05CaHBPZxIEGgIIABr-AxIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDaAwgAEAAYACAAKhgKBW93YXNwFfYGcUAaCml2O3A7b3dhc3AqIAoFbGxtMDEVOT4UQBoGbGxtIDAxGgppdjtwO2xsbTAxMqkBL2dvdG8_dXJsPUNBRVNjd0hyT3pBVjZtUzZrWVNkS2ZJelFhRGhUR09WbWlOZXFjZzZVYVNreWFNNkx6NXNlZFgwV1JqNkZERTJtQTRSUDhrWEhiMUNzVEx6bFhCQ2V3WE85WWlfXzBMNXVEMWlzZFdnRDNqX1pORVRLSjhtMzJMcFlQRm9ZWHh6NXl4MXRfX3BROTRQR3Z5YUx3eEY2bDFrN05CaHBPZzo6TWlzdHJhbCBQcm9tcHQgSW5qZWN0aW9uOiBXaGF0IHRoZSBFVS1Tb3ZlcmVpZ24gTW9kZWxzIC4uLkKrATxiPk9XQVNQJiMzOTtzPC9iPiBMTE0gVG9wIDEwIHJhbmtzIHByb21wdCBpbmplY3Rpb24gYXQgPGI-TExNMDE8L2I-LiBUaGUgY2xhc3MgY292ZXJzIGRpcmVjdCBwcm9tcHQgaW5qZWN0aW9uICh0aGUgdXNlciBzdWJtaXRzIGhvc3RpbGUgaW5zdHJ1Y3Rpb25zIGluIHRoZWlyIG93biZuYnNwOy4uLiICEAFIAFgAaAA",
+      "source": "deepinspect.ai",
+      "read_more_link": "https://www.deepinspect.ai/blog/mistral-prompt-injection#:~:text=OWASP's%20LLM%20Top%2010%20ranks,hostile%20instructions%20in%20their%20own"
+    },
+    {
+      "position": 8,
+      "title": "LLM Security: OWASP Top 10 for LLMs 2026 and How to ...",
+      "link": "https://www.testmuai.com/learning-hub/llm-security/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbgHrOzAVFWZeoDevODQdgoAPi3WYctrpcBz8_hmcHcW4Wpe4GqQMH-dRZB3BCAlUcdsIhAgnLUgF4zCDJUaSPPP0vJNbPo5sRgOXkqZqoe_qqitLgMknyTvYz-Vyoe90awIY4pNY7s6egZ792zPv&ved=2ahUKEwiDjOWq0qKXAxXrXEEAHUwHKf0QFnoECDwQAQ&uoh=1",
+      "displayed_link": "https://www.testmuai.com › Learning Hub",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAAAAABWESUoAAAAfElEQVR4Ae3TsQ2AIBRFUWego7ChYwgHcBxXoGIVVrC3hpIRGILkmfjBwsQ86b31ae8E0jfgpYJW8VIHVUmpg6SkHwwCZEsAsiEA0RCAOBOAQxOAXb-DchVyB9lKN1CSU60F0hOkjYG6EoBiCUDSBCAwAEeARABZb3xe0gkXKMBSJFOrUAAAAABJRU5ErkJggg.png",
+      "date": "5 days ago",
+      "snippet": "Planted documents - OWASP's LLM01 entry cites the PoisonedRAG study, which reached a 90% attack success rate by injecting five malicious texts ...",
+      "snippet_highlighted_words": [
+        "OWASP's LLM01 entry cites the PoisonedRAG study"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "A Security Test For Each...",
+            "link": "https://www.testmuai.com/learning-hub/llm-security/#:~:text=A%20Security%20Test%20for%20Each%20OWASP%20LLM%20Risk"
+          },
+          {
+            "title": "How To Test An Llm...",
+            "link": "https://www.testmuai.com/learning-hub/llm-security/#:~:text=How%20to%20Test%20an%20LLM%20Application%20for%20Security"
+          },
+          {
+            "title": "Testing Llm Apps That Call...",
+            "link": "https://www.testmuai.com/learning-hub/llm-security/#:~:text=Testing%20LLM%20Apps%20That%20Call%20Tools%20With%20Agent%20Assurance"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Planted documents - OWASP's LLM01 entry cites the PoisonedRAG study, which reached a 90% attack success rate by injecting five malicious texts ...",
+          "source_info_link": "https://www.testmuai.com/learning-hub/llm-security/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAAAAABWESUoAAAAfElEQVR4Ae3TsQ2AIBRFUWego7ChYwgHcBxXoGIVVrC3hpIRGILkmfjBwsQ86b31ae8E0jfgpYJW8VIHVUmpg6SkHwwCZEsAsiEA0RCAOBOAQxOAXb-DchVyB9lKN1CSU60F0hOkjYG6EoBiCUDSBCAwAEeARABZb3xe0gkXKMBSJFOrUAAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqIBL2dvdG8_dXJsPUNBRVNiZ0hyT3pBVkZXWmVvRGV2T0RRZGdvQVBpM1dZY3RycGNCejhfaG1jSGNXNFdwZTRHcVFNSC1kUlpCM0JDQWxVY2RzSWhBZ25MVWdGNHpDREpVYVNQUFAwdkpOYlBvNXNSZ09Ya3FacW9lX3FxaXRMZ01rbnlUdll6LVZ5b2U5MGF3SVk0cE5ZN3M2ZWdaNzkyelB2EgQaAggAGvoDEgAaACICCAEqADIGCAMSAnVzOgBCBAgBEABKAFoAcgIIAXoAgkDSAwgAEAAYACAAKhgKBW93YXNwFRYRVUAaCml2O3A7b3dhc3AqIAoFbGxtMDEVXHtAPxoGbGxtIDAxGgppdjtwO2xsbTAxMqIBL2dvdG8_dXJsPUNBRVNiZ0hyT3pBVkZXWmVvRGV2T0RRZGdvQVBpM1dZY3RycGNCejhfaG1jSGNXNFdwZTRHcVFNSC1kUlpCM0JDQWxVY2RzSWhBZ25MVWdGNHpDREpVYVNQUFAwdkpOYlBvNXNSZ09Ya3FacW9lX3FxaXRMZ01rbnlUdll6LVZ5b2U5MGF3SVk0cE5ZN3M2ZWdaNzkyelB2OkJMTE0gU2VjdXJpdHk6IDxiPk9XQVNQPC9iPiBUb3AgMTAgZm9yIExMTXMgMjAyNiBhbmQgSG93IHRvIFRlc3QgSXRCogFQbGFudGVkIGRvY3VtZW50cyAtIDxiPk9XQVNQJiMzOTtzIExMTTAxIGVudHJ5IGNpdGVzIHRoZSBQb2lzb25lZFJBRyBzdHVkeTwvYj4sIHdoaWNoIHJlYWNoZWQgYSA5MCUgYXR0YWNrIHN1Y2Nlc3MgcmF0ZSBieSBpbmplY3RpbmcgZml2ZSBtYWxpY2lvdXMgdGV4dHMmbmJzcDsuLi4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqIBL2dvdG8_dXJsPUNBRVNiZ0hyT3pBVkZXWmVvRGV2T0RRZGdvQVBpM1dZY3RycGNCejhfaG1jSGNXNFdwZTRHcVFNSC1kUlpCM0JDQWxVY2RzSWhBZ25MVWdGNHpDREpVYVNQUFAwdkpOYlBvNXNSZ09Ya3FacW9lX3FxaXRMZ01rbnlUdll6LVZ5b2U5MGF3SVk0cE5ZN3M2ZWdaNzkyelB2EgQaAggAGvoDEgAaACICCAEqADIGCAMSAnVzOgBCBAgBEABKAFoAcgIIAXoAgkDSAwgAEAAYACAAKhgKBW93YXNwFRYRVUAaCml2O3A7b3dhc3AqIAoFbGxtMDEVXHtAPxoGbGxtIDAxGgppdjtwO2xsbTAxMqIBL2dvdG8_dXJsPUNBRVNiZ0hyT3pBVkZXWmVvRGV2T0RRZGdvQVBpM1dZY3RycGNCejhfaG1jSGNXNFdwZTRHcVFNSC1kUlpCM0JDQWxVY2RzSWhBZ25MVWdGNHpDREpVYVNQUFAwdkpOYlBvNXNSZ09Ya3FacW9lX3FxaXRMZ01rbnlUdll6LVZ5b2U5MGF3SVk0cE5ZN3M2ZWdaNzkyelB2OkJMTE0gU2VjdXJpdHk6IDxiPk9XQVNQPC9iPiBUb3AgMTAgZm9yIExMTXMgMjAyNiBhbmQgSG93IHRvIFRlc3QgSXRCogFQbGFudGVkIGRvY3VtZW50cyAtIDxiPk9XQVNQJiMzOTtzIExMTTAxIGVudHJ5IGNpdGVzIHRoZSBQb2lzb25lZFJBRyBzdHVkeTwvYj4sIHdoaWNoIHJlYWNoZWQgYSA5MCUgYXR0YWNrIHN1Y2Nlc3MgcmF0ZSBieSBpbmplY3RpbmcgZml2ZSBtYWxpY2lvdXMgdGV4dHMmbmJzcDsuLi4iAhABSABYAGgA",
+      "source": "TestMu AI",
+      "read_more_link": "https://www.testmuai.com/learning-hub/llm-security/#:~:text=Planted%20documents%20%2D%20OWASP's%20LLM01,by%20injecting%20five%20malicious%20texts"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Owasp llm01 github",
+      "link": "https://www.google.com/search?sca_esv=53184d9e0d3ee8ec&gl=us&hl=en&sxsrf=APpeQnsjoX_IRD7TCTC4GMG-epirgTIg1g:1791195262578&q=Owasp+llm01+github&sa=X&ved=2ahUKEwiDjOWq0qKXAxXrXEEAHUwHKf0Q1QJ6BAg4EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Owasp+llm01+github"
+    },
+    {
+      "block_position": 1,
+      "query": "Owasp llm01 vulnerabilities",
+      "link": "https://www.google.com/search?sca_esv=53184d9e0d3ee8ec&gl=us&hl=en&sxsrf=APpeQnsjoX_IRD7TCTC4GMG-epirgTIg1g:1791195262578&q=Owasp+llm01+vulnerabilities&sa=X&ved=2ahUKEwiDjOWq0qKXAxXrXEEAHUwHKf0Q1QJ6BAg5EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Owasp+llm01+vulnerabilities"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=OWASP+LLM01&sca_esv=53184d9e0d3ee8ec&gl=us&hl=en&sxsrf=APpeQnsjoX_IRD7TCTC4GMG-epirgTIg1g:1791195262578&ei=fnjDaoPVIuu5hbIPzI6k6Q8&start=10&sa=N&sstk=AS6-VmIYFaPddX4ujyn1o7mN0G2FkxiSK73vaQrc_egDUfQwlTRj-b-Q4I5gT9-PwXcReCTIDWFQoZdWw9DwoVK3E7rBdUzPbmP71w&ved=2ahUKEwiDjOWq0qKXAxXrXEEAHUwHKf0Q8NMDegQINhAI",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=OWASP+LLM01&sca_esv=53184d9e0d3ee8ec&gl=us&hl=en&sxsrf=APpeQnsjoX_IRD7TCTC4GMG-epirgTIg1g:1791195262578&ei=fnjDaoPVIuu5hbIPzI6k6Q8&start=10&sa=N&sstk=AS6-VmIYFaPddX4ujyn1o7mN0G2FkxiSK73vaQrc_egDUfQwlTRj-b-Q4I5gT9-PwXcReCTIDWFQoZdWw9DwoVK3E7rBdUzPbmP71w&ved=2ahUKEwiDjOWq0qKXAxXrXEEAHUwHKf0Q8tMDegQINhAE",
+      "3": "https://www.google.com/search?q=OWASP+LLM01&sca_esv=53184d9e0d3ee8ec&gl=us&hl=en&sxsrf=APpeQnsjoX_IRD7TCTC4GMG-epirgTIg1g:1791195262578&ei=fnjDaoPVIuu5hbIPzI6k6Q8&start=20&sa=N&sstk=AS6-VmIYFaPddX4ujyn1o7mN0G2FkxiSK73vaQrc_egDUfQwlTRj-b-Q4I5gT9-PwXcReCTIDWFQoZdWw9DwoVK3E7rBdUzPbmP71w&ved=2ahUKEwiDjOWq0qKXAxXrXEEAHUwHKf0Q8tMDegQINhAG"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=OWASP+LLM01&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=OWASP+LLM01&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=OWASP+LLM01&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=OWASP+LLM01&start=20"
+    }
+  }
+}

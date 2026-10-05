@@ -1,0 +1,488 @@
+{
+  "search_metadata": {
+    "id": "6ac378851de064e33d0b4a27",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/jQ31JUBf45TU5-xdBwrHOBQ-R1IUcy4OiAG0UnHFr88/6ac378851de064e33d0b4a27.json",
+    "markdown_endpoint": "https://serpapi.com/searches/jQ31JUBf45TU5-xdBwrHOBQ-R1IUcy4OiAG0UnHFr88/6ac378851de064e33d0b4a27.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/jQ31JUBf45TU5-xdBwrHOBQ-R1IUcy4OiAG0UnHFr88/6ac378851de064e33d0b4a27.json_with_pixel_position",
+    "created_at": "2026-10-05 10:14:29 UTC",
+    "processed_at": "2026-10-05 10:14:29 UTC",
+    "google_url": "https://www.google.com/search?q=indirect+prompt+injection+attack&oq=indirect+prompt+injection+attack&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/jQ31JUBf45TU5-xdBwrHOBQ-R1IUcy4OiAG0UnHFr88/6ac378851de064e33d0b4a27.html",
+    "total_time_taken": 1.03
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "indirect prompt injection attack",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "indirect prompt injection attack",
+    "total_results": 79600,
+    "time_taken_displayed": 0.48,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "What is an example of a prompt injection attack?",
+      "type": "ai_overview",
+      "page_token": "WBW0gXicHdBRkpowGADg6WX2cSUg2-KM0xkWjDAaN0D-YF46MaBoAqRKhfLWK_QMPVVP05l-R_h-_THXTv_99LsZBvtYLRbjOL5e-v5i6lfVtwv5-NmphZLGnKTSq7fPb-jrWa3jpwrf7yqkzFqIMie_UZfdhKNQehO8-pAaEoLSvH5HLfGyhOnKz6MsUY4gpauRwo8lB6CHrfAJJk-5aX4osDK7Oj7RwXSAUOxdPclCdAxn5Mg3qejIsmCQKiPcqg3kSU-89IRRemLQwrSDirAZHgyDV6GUFyCyIlID8C8D5YFRPNjumf1eOWYLLZ1ruPh7FOxUK_ApyizgflY6GVlHrASzI5i5LKqS_dakubGI8-OQleDFTdVzbONjSY7gLN08FncWG1pv-qGaRSin_kpZNqubaQHbjxP2dwVLxhKFE-cN5azpDjHRRRmiujADpS9n9Vx7L_-v19_O7bCy9_7yD9yJjUI",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=WBW0gXicHdBRkpowGADg6WX2cSUg2-KM0xkWjDAaN0D-YF46MaBoAqRKhfLWK_QMPVVP05l-R_h-_THXTv_99LsZBvtYLRbjOL5e-v5i6lfVtwv5-NmphZLGnKTSq7fPb-jrWa3jpwrf7yqkzFqIMie_UZfdhKNQehO8-pAaEoLSvH5HLfGyhOnKz6MsUY4gpauRwo8lB6CHrfAJJk-5aX4osDK7Oj7RwXSAUOxdPclCdAxn5Mg3qejIsmCQKiPcqg3kSU-89IRRemLQwrSDirAZHgyDV6GUFyCyIlID8C8D5YFRPNjumf1eOWYLLZ1ruPh7FOxUK_ApyizgflY6GVlHrASzI5i5LKqS_dakubGI8-OQleDFTdVzbONjSY7gLN08FncWG1pv-qGaRSin_kpZNqubaQHbjxP2dwVLxhKFE-cN5azpDjHRRRmiujADpS9n9Vx7L_-v19_O7bCy9_7yD9yJjUI",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE9FdEdWRTU1VERkUE9YSllTRVpOZUZCUFJYZERTMjluV0Voa00wWm5VVzFyVG13MlgyRTVNa2xwYjJwT1RuSmZhMWRhYjNodmRXOTVSbEozWW1KcGFWWnhSVkZYU0c1b2NtZHdkekZMWDNrd1pFbzVkV2hyYzAxd2R4SVhhRmhxUkdGeldGZE9Oa2hHYTFCSlVIaGFMWGMyUVdzYUlrRkVjM0k1WmxGd1VFWllha1pPWVcxT1RrUnRUamRhVWpKWWNqSlVTVEpYZW1jIiwiZmN2IjoiMyIsImVpIjoiaFhqRGFzWFdONkhGa1BJUHhaLXc2QWsiLCJxYyI6IkNpQnBibVJwY21WamRDQndjbTl0Y0hRZ2FXNXFaV04wYVc5dUlHRjBkR0ZqYXhBQUtBRXhBQUFBd0lHMDVEOTlvSHNVUHciLCJxdWVzdGlvbiI6IldoYXQgaXMgYW4gZXhhbXBsZSBvZiBhIHByb21wdCBpbmplY3Rpb24gYXR0YWNrPyIsImxrIjoiR2k5M2FHRjBJR2x6SUdGdUlHVjRZVzF3YkdVZ2IyWWdZU0J3Y205dGNIUWdhVzVxWldOMGFXOXVJR0YwZEdGamF3IiwiYnMiOiJjNldQTVE3Q01CQUVsZllxYWxkWEFnMWc2Qk5SOFlQVWxuUEJSNGd2aWgzQ0MzZzNKb0l5RW9oMmQyYWxCWUp0NlV4RURtZzgwdDIwM1pWUWFqVFk5ZEoycWZFWHNwSEZvNG5SMkNiWE83VVpmM09nZ2YxSlJxeUVKb2Q5eFgwaTVuZ1VhNGMtMXdlbDNjOGFQRElvcGxNVmg4ai1QSEJ3YVdEZXJsT0E3X0p6OHFpSzhiLU5BQ1dzWHEtakpKeHU1T084bi11MVdyb3Y0VVgyQkEiLCJpZCI6ImZjX2hYakRhc1hXTjZIRmtQSVB4Wi13NkFrXzQifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE9FdEdWRTU1VERkUE9YSllTRVpOZUZCUFJYZERTMjluV0Voa00wWm5VVzFyVG13MlgyRTVNa2xwYjJwT1RuSmZhMWRhYjNodmRXOTVSbEozWW1KcGFWWnhSVkZYU0c1b2NtZHdkekZMWDNrd1pFbzVkV2hyYzAxd2R4SVhhRmhxUkdGeldGZE9Oa2hHYTFCSlVIaGFMWGMyUVdzYUlrRkVjM0k1WmxGd1VFWllha1pPWVcxT1RrUnRUamRhVWpKWWNqSlVTVEpYZW1jIiwiZmN2IjoiMyIsImVpIjoiaFhqRGFzWFdONkhGa1BJUHhaLXc2QWsiLCJxYyI6IkNpQnBibVJwY21WamRDQndjbTl0Y0hRZ2FXNXFaV04wYVc5dUlHRjBkR0ZqYXhBQUtBRXhBQUFBd0lHMDVEOTlvSHNVUHciLCJxdWVzdGlvbiI6IldoYXQgaXMgYW4gZXhhbXBsZSBvZiBhIHByb21wdCBpbmplY3Rpb24gYXR0YWNrPyIsImxrIjoiR2k5M2FHRjBJR2x6SUdGdUlHVjRZVzF3YkdVZ2IyWWdZU0J3Y205dGNIUWdhVzVxWldOMGFXOXVJR0YwZEdGamF3IiwiYnMiOiJjNldQTVE3Q01CQUVsZllxYWxkWEFnMWc2Qk5SOFlQVWxuUEJSNGd2aWgzQ0MzZzNKb0l5RW9oMmQyYWxCWUp0NlV4RURtZzgwdDIwM1pWUWFqVFk5ZEoycWZFWHNwSEZvNG5SMkNiWE83VVpmM09nZ2YxSlJxeUVKb2Q5eFgwaTVuZ1VhNGMtMXdlbDNjOGFQRElvcGxNVmg4ai1QSEJ3YVdEZXJsT0E3X0p6OHFpSzhiLU5BQ1dzWHEtakpKeHU1T084bi11MVdyb3Y0VVgyQkEiLCJpZCI6ImZjX2hYakRhc1hXTjZIRmtQSVB4Wi13NkFrXzQifQ%3D%3D"
+    },
+    {
+      "question": "How does an indirect prompt injection attack occur?",
+      "type": "ai_overview",
+      "page_token": "N1DD-nicHdBdrppAGADQdDP38cqgtdHENBkZ_m7BMvINyEszfIMgDjByyUV96xa6hq6qq2nTJZzz87e-9Nc_n34102Tet4vFPM-v9TDUunrFoVvI90ePC5RalxKv2_WXNfl6xh37QLofkSZgjHC4dQSdR9nGQqE8_ix6ZGLFcxFywVOEoovEZgamj6fOTcs8ZCURa2Q6iDpYQV7AAerpWx5aVRvLpCuCNLsfUNNblJtRaZpkjrhJdyMjS98qh0LmN5TbZolOsIq8mpQ28VQr7Fi7I1j8Inr-pjq2FMSEYIWT6KkTZwS4RwrZiyYB94ptPMBSBZXjuuhrv8zuHHzF0OM6apsLXMMDkuERC_2msvC7SqkpfcNZo4bMM-yUxydhrewjK8Z_tqRyh0k9CyrvwyUB_sRWdyD059LXodoTkFn9ABbvUzB-5QZ26jbnoy6sYn4548du-fL_evfj3E1bMw71X9eojL4",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=N1DD-nicHdBdrppAGADQdDP38cqgtdHENBkZ_m7BMvINyEszfIMgDjByyUV96xa6hq6qq2nTJZzz87e-9Nc_n34102Tet4vFPM-v9TDUunrFoVvI90ePC5RalxKv2_WXNfl6xh37QLofkSZgjHC4dQSdR9nGQqE8_ix6ZGLFcxFywVOEoovEZgamj6fOTcs8ZCURa2Q6iDpYQV7AAerpWx5aVRvLpCuCNLsfUNNblJtRaZpkjrhJdyMjS98qh0LmN5TbZolOsIq8mpQ28VQr7Fi7I1j8Inr-pjq2FMSEYIWT6KkTZwS4RwrZiyYB94ptPMBSBZXjuuhrv8zuHHzF0OM6apsLXMMDkuERC_2msvC7SqkpfcNZo4bMM-yUxydhrewjK8Z_tqRyh0k9CyrvwyUB_sRWdyD059LXodoTkFn9ABbvUzB-5QZ26jbnoy6sYn4548du-fL_evfj3E1bMw71X9eojL4",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE9FdEdWRTU1VERkUE9YSllTRVpOZUZCUFJYZERTMjluV0Voa00wWm5VVzFyVG13MlgyRTVNa2xwYjJwT1RuSmZhMWRhYjNodmRXOTVSbEozWW1KcGFWWnhSVkZYU0c1b2NtZHdkekZMWDNrd1pFbzVkV2hyYzAxd2R4SVhhRmhxUkdGeldGZE9Oa2hHYTFCSlVIaGFMWGMyUVdzYUlrRkVjM0k1WmxGd1VFWllha1pPWVcxT1RrUnRUamRhVWpKWWNqSlVTVEpYZW1jIiwiZmN2IjoiMyIsImVpIjoiaFhqRGFzWFdONkhGa1BJUHhaLXc2QWsiLCJxYyI6IkNpQnBibVJwY21WamRDQndjbTl0Y0hRZ2FXNXFaV04wYVc5dUlHRjBkR0ZqYXhBQUtBRXhBQUFBd0lHMDVEOTlvSHNVUHciLCJxdWVzdGlvbiI6IkhvdyBkb2VzIGFuIGluZGlyZWN0IHByb21wdCBpbmplY3Rpb24gYXR0YWNrIG9jY3VyPyIsImxrIjoiYzVNeXlzZ3ZWMGpKVHkxV1NNeFR5TXhMeVN4S1RTNVJLQ2pLenkwb0FmS3pnTHpNX0R5RnhKS1N4T1JzaGZ6azVOSWlBQSIsImJzIjoiYzZXUE1RN0NNQkFFbGZZcWFsZFhBZzFnNkJOUjhZUFVsblBCUjRndmloM0NDM2czSm9JeUVvaDJkMmFsQllKdDZVeEVEbWc4MHQyMDNaVlFhalRZOWRKMnFmRVhzcEhGbzRuUjJDYlhPN1VaZjNPZ2dmMUpScXlFSm9kOXhYMGk1bmdVYTRjLTF3ZWwzYzhhUERJb3BsTVZoOGotUEhCd2FXRGVybE9BN19KejhxaUs4Yi1OQUNXc1hxLWpKSnh1NU9POG4tdTFXcm92NFVYMkJBIiwiaWQiOiJmY19oWGpEYXNYV042SEZrUElQeFotdzZBa180In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE9FdEdWRTU1VERkUE9YSllTRVpOZUZCUFJYZERTMjluV0Voa00wWm5VVzFyVG13MlgyRTVNa2xwYjJwT1RuSmZhMWRhYjNodmRXOTVSbEozWW1KcGFWWnhSVkZYU0c1b2NtZHdkekZMWDNrd1pFbzVkV2hyYzAxd2R4SVhhRmhxUkdGeldGZE9Oa2hHYTFCSlVIaGFMWGMyUVdzYUlrRkVjM0k1WmxGd1VFWllha1pPWVcxT1RrUnRUamRhVWpKWWNqSlVTVEpYZW1jIiwiZmN2IjoiMyIsImVpIjoiaFhqRGFzWFdONkhGa1BJUHhaLXc2QWsiLCJxYyI6IkNpQnBibVJwY21WamRDQndjbTl0Y0hRZ2FXNXFaV04wYVc5dUlHRjBkR0ZqYXhBQUtBRXhBQUFBd0lHMDVEOTlvSHNVUHciLCJxdWVzdGlvbiI6IkhvdyBkb2VzIGFuIGluZGlyZWN0IHByb21wdCBpbmplY3Rpb24gYXR0YWNrIG9jY3VyPyIsImxrIjoiYzVNeXlzZ3ZWMGpKVHkxV1NNeFR5TXhMeVN4S1RTNVJLQ2pLenkwb0FmS3pnTHpNX0R5RnhKS1N4T1JzaGZ6azVOSWlBQSIsImJzIjoiYzZXUE1RN0NNQkFFbGZZcWFsZFhBZzFnNkJOUjhZUFVsblBCUjRndmloM0NDM2czSm9JeUVvaDJkMmFsQllKdDZVeEVEbWc4MHQyMDNaVlFhalRZOWRKMnFmRVhzcEhGbzRuUjJDYlhPN1VaZjNPZ2dmMUpScXlFSm9kOXhYMGk1bmdVYTRjLTF3ZWwzYzhhUERJb3BsTVZoOGotUEhCd2FXRGVybE9BN19KejhxaUs4Yi1OQUNXc1hxLWpKSnh1NU9POG4tdTFXcm92NFVYMkJBIiwiaWQiOiJmY19oWGpEYXNYV042SEZrUElQeFotdzZBa180In0%3D"
+    },
+    {
+      "question": "What distinguishes indirect prompt injection from direct attack?",
+      "type": "ai_overview",
+      "page_token": "jzxg_XicHdHPbpswHMBx7WV6bDAk2RYpmsQfk1QtkcH-Ab5MxiaBYGOWoEK59V123gP1aVrt-tXn9n3_q9u--_j2rxnH4b5braZperxYe9H1o7RmJe5vvVxJoXUlZLfbft-iX2e5j-wUBPfJJ2wYIEwdigdSU95Tk5yEgYYif8mueuJsvivG5tIdby_ROKt4vQYznxT4He0hzpy0y2IHvbBpkQg3zwWZQSeLypNNdU16gCTg8OOrlZ7AcKfujOQhEdwbEMV-WHWYEPeCBI4W2vtxejhuSNe0DA8jABzF4p9Y-HR9zp8INZCkcZMVDioYBkeCNtXStDXTQc50KFp0FCEbZQ4hNciHEJ_reNhCx9zEVWmmsZCHZvrymuvjItyfr5KpoO7smzjYmUKzjRpl83iIyiIpwVm7WcRvLNKkxnZUC_fFbFvC0kVetWHI34goaUud4qwjXlpw4K7ClacMzyOHIv5HTQ9n-br3Hv5_2P8-m3E33OzlEyF3mBo",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=jzxg_XicHdHPbpswHMBx7WV6bDAk2RYpmsQfk1QtkcH-Ab5MxiaBYGOWoEK59V123gP1aVrt-tXn9n3_q9u--_j2rxnH4b5braZperxYe9H1o7RmJe5vvVxJoXUlZLfbft-iX2e5j-wUBPfJJ2wYIEwdigdSU95Tk5yEgYYif8mueuJsvivG5tIdby_ROKt4vQYznxT4He0hzpy0y2IHvbBpkQg3zwWZQSeLypNNdU16gCTg8OOrlZ7AcKfujOQhEdwbEMV-WHWYEPeCBI4W2vtxejhuSNe0DA8jABzF4p9Y-HR9zp8INZCkcZMVDioYBkeCNtXStDXTQc50KFp0FCEbZQ4hNciHEJ_reNhCx9zEVWmmsZCHZvrymuvjItyfr5KpoO7smzjYmUKzjRpl83iIyiIpwVm7WcRvLNKkxnZUC_fFbFvC0kVetWHI34goaUud4qwjXlpw4K7ClacMzyOHIv5HTQ9n-br3Hv5_2P8-m3E33OzlEyF3mBo",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE9FdEdWRTU1VERkUE9YSllTRVpOZUZCUFJYZERTMjluV0Voa00wWm5VVzFyVG13MlgyRTVNa2xwYjJwT1RuSmZhMWRhYjNodmRXOTVSbEozWW1KcGFWWnhSVkZYU0c1b2NtZHdkekZMWDNrd1pFbzVkV2hyYzAxd2R4SVhhRmhxUkdGeldGZE9Oa2hHYTFCSlVIaGFMWGMyUVdzYUlrRkVjM0k1WmxGd1VFWllha1pPWVcxT1RrUnRUamRhVWpKWWNqSlVTVEpYZW1jIiwiZmN2IjoiMyIsImVpIjoiaFhqRGFzWFdONkhGa1BJUHhaLXc2QWsiLCJxYyI6IkNpQnBibVJwY21WamRDQndjbTl0Y0hRZ2FXNXFaV04wYVc5dUlHRjBkR0ZqYXhBQUtBRXhBQUFBd0lHMDVEOTlvSHNVUHciLCJxdWVzdGlvbiI6IldoYXQgZGlzdGluZ3Vpc2hlcyBpbmRpcmVjdCBwcm9tcHQgaW5qZWN0aW9uIGZyb20gZGlyZWN0IGF0dGFjaz8iLCJsayI6ImM1TnlLTTlJTEZGSXlTd3V5Y3hMTDgwc3prZ3RWc2pNUzhrc1NrMHVVU2dveXM4dEtBSHlzNEM4elB3OGhUU2dnQUpVTXJHa0pERTV1eGdBIiwiYnMiOiJjNldQTVE3Q01CQUVsZllxYWxkWEFnMWc2Qk5SOFlQVWxuUEJSNGd2aWgzQ0MzZzNKb0l5RW9oMmQyYWxCWUp0NlV4RURtZzgwdDIwM1pWUWFqVFk5ZEoycWZFWHNwSEZvNG5SMkNiWE83VVpmM09nZ2YxSlJxeUVKb2Q5eFgwaTVuZ1VhNGMtMXdlbDNjOGFQRElvcGxNVmg4ai1QSEJ3YVdEZXJsT0E3X0p6OHFpSzhiLU5BQ1dzWHEtakpKeHU1T084bi11MVdyb3Y0VVgyQkEiLCJpZCI6ImZjX2hYakRhc1hXTjZIRmtQSVB4Wi13NkFrXzQifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE9FdEdWRTU1VERkUE9YSllTRVpOZUZCUFJYZERTMjluV0Voa00wWm5VVzFyVG13MlgyRTVNa2xwYjJwT1RuSmZhMWRhYjNodmRXOTVSbEozWW1KcGFWWnhSVkZYU0c1b2NtZHdkekZMWDNrd1pFbzVkV2hyYzAxd2R4SVhhRmhxUkdGeldGZE9Oa2hHYTFCSlVIaGFMWGMyUVdzYUlrRkVjM0k1WmxGd1VFWllha1pPWVcxT1RrUnRUamRhVWpKWWNqSlVTVEpYZW1jIiwiZmN2IjoiMyIsImVpIjoiaFhqRGFzWFdONkhGa1BJUHhaLXc2QWsiLCJxYyI6IkNpQnBibVJwY21WamRDQndjbTl0Y0hRZ2FXNXFaV04wYVc5dUlHRjBkR0ZqYXhBQUtBRXhBQUFBd0lHMDVEOTlvSHNVUHciLCJxdWVzdGlvbiI6IldoYXQgZGlzdGluZ3Vpc2hlcyBpbmRpcmVjdCBwcm9tcHQgaW5qZWN0aW9uIGZyb20gZGlyZWN0IGF0dGFjaz8iLCJsayI6ImM1TnlLTTlJTEZGSXlTd3V5Y3hMTDgwc3prZ3RWc2pNUzhrc1NrMHVVU2dveXM4dEtBSHlzNEM4elB3OGhUU2dnQUpVTXJHa0pERTV1eGdBIiwiYnMiOiJjNldQTVE3Q01CQUVsZllxYWxkWEFnMWc2Qk5SOFlQVWxuUEJSNGd2aWgzQ0MzZzNKb0l5RW9oMmQyYWxCWUp0NlV4RURtZzgwdDIwM1pWUWFqVFk5ZEoycWZFWHNwSEZvNG5SMkNiWE83VVpmM09nZ2YxSlJxeUVKb2Q5eFgwaTVuZ1VhNGMtMXdlbDNjOGFQRElvcGxNVmg4ai1QSEJ3YVdEZXJsT0E3X0p6OHFpSzhiLU5BQ1dzWHEtakpKeHU1T084bi11MVdyb3Y0VVgyQkEiLCJpZCI6ImZjX2hYakRhc1hXTjZIRmtQSVB4Wi13NkFrXzQifQ%3D%3D"
+    },
+    {
+      "question": "How to prevent indirect prompt injection?",
+      "type": "ai_overview",
+      "page_token": "a-33Y3icHdBRbpswAABQ7TL9bGwgnRIpmppiQyLhDQOG-Gdy7BAaDHYSL1D_7S471U7TaRd4H-_3H_0-9n-_PDrn7H29WEzT9Hw25qxPz9IMC3H_GOVCCq2PQvbrl68v8FsrN-jXbvt23W3zyloWU1CmeM6GTlSBvtJY9wLYVngW5SOZy5jvM8g1qY0XqBsamEff0dzmGoNDrUKe4LmsTdjADKjALAUgZeN1UJR4ZKXO-IU8pFc3mmJ86veWstcPEkQzjXmt3mAokLMqWLqidoID5nK42h0DBjO9YhKsPMEEN4HNBTRLlWqvLoT-cxqW2B8sofdjuJ8IIgPvXUsgb3nMKeqUqROLDg05MBAFBeK3Cun8hI1Tnm_FbN7zinp50QNLlkUD-EMie-VIF2V48KQC0TGl4wlRWqQd5dNTKx-b8On_5-ZnO7i1vZnzJyQyg0w",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=a-33Y3icHdBRbpswAABQ7TL9bGwgnRIpmppiQyLhDQOG-Gdy7BAaDHYSL1D_7S471U7TaRd4H-_3H_0-9n-_PDrn7H29WEzT9Hw25qxPz9IMC3H_GOVCCq2PQvbrl68v8FsrN-jXbvt23W3zyloWU1CmeM6GTlSBvtJY9wLYVngW5SOZy5jvM8g1qY0XqBsamEff0dzmGoNDrUKe4LmsTdjADKjALAUgZeN1UJR4ZKXO-IU8pFc3mmJ86veWstcPEkQzjXmt3mAokLMqWLqidoID5nK42h0DBjO9YhKsPMEEN4HNBTRLlWqvLoT-cxqW2B8sofdjuJ8IIgPvXUsgb3nMKeqUqROLDg05MBAFBeK3Cun8hI1Tnm_FbN7zinp50QNLlkUD-EMie-VIF2V48KQC0TGl4wlRWqQd5dNTKx-b8On_5-ZnO7i1vZnzJyQyg0w",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE9FdEdWRTU1VERkUE9YSllTRVpOZUZCUFJYZERTMjluV0Voa00wWm5VVzFyVG13MlgyRTVNa2xwYjJwT1RuSmZhMWRhYjNodmRXOTVSbEozWW1KcGFWWnhSVkZYU0c1b2NtZHdkekZMWDNrd1pFbzVkV2hyYzAxd2R4SVhhRmhxUkdGeldGZE9Oa2hHYTFCSlVIaGFMWGMyUVdzYUlrRkVjM0k1WmxGd1VFWllha1pPWVcxT1RrUnRUamRhVWpKWWNqSlVTVEpYZW1jIiwiZmN2IjoiMyIsImVpIjoiaFhqRGFzWFdONkhGa1BJUHhaLXc2QWsiLCJxYyI6IkNpQnBibVJwY21WamRDQndjbTl0Y0hRZ2FXNXFaV04wYVc5dUlHRjBkR0ZqYXhBQUtBRXhBQUFBd0lHMDVEOTlvSHNVUHciLCJxdWVzdGlvbiI6IkhvdyB0byBwcmV2ZW50IGluZGlyZWN0IHByb21wdCBpbmplY3Rpb24/IiwibGsiOiJjNVBTeU1ndlZ5akpWeWdvU2kxTHpTdFJ5TXhMeVN4S1RTNEJDdVRuRm9ENFdVQmVabjRlQUEiLCJicyI6ImM2V1BNUTdDTUJBRWxmWXFhbGRYQWcxZzZCTlI4WVBVbG5QQlI0Z3ZpaDNDQzNnM0pvSXlFb2gyZDJhbEJZSnQ2VXhFRG1nODB0MjAzWlZRYWpUWTlkSjJxZkVYc3BIRm80blIyQ2JYTzdVWmYzT2dnZjFKUnF5RUpvZDl4WDBpNW5nVWE0Yy0xd2VsM2M4YVBESW9wbE1WaDhqLVBIQndhV0RlcmxPQTdfSno4cWlLOGItTkFDV3NYcS1qSkp4dTVPTzhuLXUxV3JvdjRVWDJCQSIsImlkIjoiZmNfaFhqRGFzWFdONkhGa1BJUHhaLXc2QWtfNCJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE9FdEdWRTU1VERkUE9YSllTRVpOZUZCUFJYZERTMjluV0Voa00wWm5VVzFyVG13MlgyRTVNa2xwYjJwT1RuSmZhMWRhYjNodmRXOTVSbEozWW1KcGFWWnhSVkZYU0c1b2NtZHdkekZMWDNrd1pFbzVkV2hyYzAxd2R4SVhhRmhxUkdGeldGZE9Oa2hHYTFCSlVIaGFMWGMyUVdzYUlrRkVjM0k1WmxGd1VFWllha1pPWVcxT1RrUnRUamRhVWpKWWNqSlVTVEpYZW1jIiwiZmN2IjoiMyIsImVpIjoiaFhqRGFzWFdONkhGa1BJUHhaLXc2QWsiLCJxYyI6IkNpQnBibVJwY21WamRDQndjbTl0Y0hRZ2FXNXFaV04wYVc5dUlHRjBkR0ZqYXhBQUtBRXhBQUFBd0lHMDVEOTlvSHNVUHciLCJxdWVzdGlvbiI6IkhvdyB0byBwcmV2ZW50IGluZGlyZWN0IHByb21wdCBpbmplY3Rpb24%2FIiwibGsiOiJjNVBTeU1ndlZ5akpWeWdvU2kxTHpTdFJ5TXhMeVN4S1RTNEJDdVRuRm9ENFdVQmVabjRlQUEiLCJicyI6ImM2V1BNUTdDTUJBRWxmWXFhbGRYQWcxZzZCTlI4WVBVbG5QQlI0Z3ZpaDNDQzNnM0pvSXlFb2gyZDJhbEJZSnQ2VXhFRG1nODB0MjAzWlZRYWpUWTlkSjJxZkVYc3BIRm80blIyQ2JYTzdVWmYzT2dnZjFKUnF5RUpvZDl4WDBpNW5nVWE0Yy0xd2VsM2M4YVBESW9wbE1WaDhqLVBIQndhV0RlcmxPQTdfSno4cWlLOGItTkFDV3NYcS1qSkp4dTVPTzhuLXUxV3JvdjRVWDJCQSIsImlkIjoiZmNfaFhqRGFzWFdONkhGa1BJUHhaLXc2QWtfNCJ9"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "WWKYNXiczVbdcqJIFH6AfY7hJokgaqKpoqaaFhU0CiYazQ0FDTaiiKGJaO7mXfZqH2mfZhsQRYOZzFxMbVdB031--pzT5_Pzx9_L-Wrx71__OGG4JvcsG0VRCfs-Xtol5HusQXYrxM78JQmQ8534bwGy55aAnMD3bGa3ESoMIgLH2HPBmbhNg0ye-7ed1kKV1e3LTXQLFkziQtBNg9guPWHrElZn6WvxrdKkixIp2atS--5p7d7wo05HLvEcXykNWMOjCuCPDiwDDYgA0gfIF7WoEH7FmyRRXRlIOUsxmXLWmIrFeJK1ZN267E1OHMnOwYHudrx2BED_4Eu7aK3kF710kh_SaKiVKH2w-HSkAUC8D-2nmsWbSerpaOekFysvUbt8irRYkoppUaXMBJ8eo-X1Y50o-erIQBVvgRZpl8sdm8sAeqCvaJ9nCOKOGE5wN1uZgKM7rIVp_3KsGdCpzM6Rg5KPgMRtDZ8anN_aTbtT_uW5ZlSHC8LDudisDN3BY5dHgEUm1Vv6hmVbuqNz35N1mS_XuEblrn6d4AmRA6BIHlDTyJmac570FVDqlcRyhiaYL26-kvHuqKh7YjDE2YtFotTwgxmE_slyfym0ww0JSKe1hK1OLG5mcVHAbzF4k08uMrOgKPmApn0rHdssRpMm7oMaHu_uJExZgsdA4EmTDooSxWdbstzMZA_ZXnQI5KRYWIkbMTsBntcL0zQgLQ1O6jRGUurqiAdNfBDhMDv3EAD1FFvh1Kd48J68j9axYJzotyUKHygOH2l5wOM-ozgWf59cC56niT_knY5n-vQKOuILQyzolyKtDDZnKMijR9JX6viJj1RzbL5zGoXFuLcgb-9NsI2K0eJ75i_wD_q_4SljJ5yy02U8wa_gibITLmCnPRjSTsrYSVP27HQZT90kkD07xdYZO6l7lSM7fcSTksdTxk71NKFzdvplPEmf4Onwm12AJ5p6EZ7kS3jK2CmHp8U5O-XzPrJThqffYyft99gpgZedTqdU9ebiy5RVwdxoMZJqfrkVToONNhkYTvthMzHHP6esmRfee4a1vNbn1r3IK-HOutbphn9vW8yrMF9Z88BG4dWa_rlch1fzlUtXc391ZYShgRaMtwx8gTPuIH5cIrEyqw56FmeZI-Jy8H0W4VEt3E5QvT-btVpN8vrq4i73OiSWfCct1MrSdOz36rOy23gd2gKBPm6K1ZG_I92b6WCkeu1l3930GuuJBsVXw4HVlqXcjuVbpf5i-b7UennjFc1e6shV9IY33XLaBtUG7Y6WxEWEWvdB1aZ6p6xWGZoUsYUy4wVIoG1RxaCvgWcMEIBToNHO1CimNRjRh960JPL0DhmCDN0mG6FWKderVsPmrIpt123EeDjcrYUGx5BVIJT_AwQ5S5U",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=WWKYNXiczVbdcqJIFH6AfY7hJokgaqKpoqaaFhU0CiYazQ0FDTaiiKGJaO7mXfZqH2mfZhsQRYOZzFxMbVdB031--pzT5_Pzx9_L-Wrx71__OGG4JvcsG0VRCfs-Xtol5HusQXYrxM78JQmQ8534bwGy55aAnMD3bGa3ESoMIgLH2HPBmbhNg0ye-7ed1kKV1e3LTXQLFkziQtBNg9guPWHrElZn6WvxrdKkixIp2atS--5p7d7wo05HLvEcXykNWMOjCuCPDiwDDYgA0gfIF7WoEH7FmyRRXRlIOUsxmXLWmIrFeJK1ZN267E1OHMnOwYHudrx2BED_4Eu7aK3kF710kh_SaKiVKH2w-HSkAUC8D-2nmsWbSerpaOekFysvUbt8irRYkoppUaXMBJ8eo-X1Y50o-erIQBVvgRZpl8sdm8sAeqCvaJ9nCOKOGE5wN1uZgKM7rIVp_3KsGdCpzM6Rg5KPgMRtDZ8anN_aTbtT_uW5ZlSHC8LDudisDN3BY5dHgEUm1Vv6hmVbuqNz35N1mS_XuEblrn6d4AmRA6BIHlDTyJmac570FVDqlcRyhiaYL26-kvHuqKh7YjDE2YtFotTwgxmE_slyfym0ww0JSKe1hK1OLG5mcVHAbzF4k08uMrOgKPmApn0rHdssRpMm7oMaHu_uJExZgsdA4EmTDooSxWdbstzMZA_ZXnQI5KRYWIkbMTsBntcL0zQgLQ1O6jRGUurqiAdNfBDhMDv3EAD1FFvh1Kd48J68j9axYJzotyUKHygOH2l5wOM-ozgWf59cC56niT_knY5n-vQKOuILQyzolyKtDDZnKMijR9JX6viJj1RzbL5zGoXFuLcgb-9NsI2K0eJ75i_wD_q_4SljJ5yy02U8wa_gibITLmCnPRjSTsrYSVP27HQZT90kkD07xdYZO6l7lSM7fcSTksdTxk71NKFzdvplPEmf4Onwm12AJ5p6EZ7kS3jK2CmHp8U5O-XzPrJThqffYyft99gpgZedTqdU9ebiy5RVwdxoMZJqfrkVToONNhkYTvthMzHHP6esmRfee4a1vNbn1r3IK-HOutbphn9vW8yrMF9Z88BG4dWa_rlch1fzlUtXc391ZYShgRaMtwx8gTPuIH5cIrEyqw56FmeZI-Jy8H0W4VEt3E5QvT-btVpN8vrq4i73OiSWfCct1MrSdOz36rOy23gd2gKBPm6K1ZG_I92b6WCkeu1l3930GuuJBsVXw4HVlqXcjuVbpf5i-b7UennjFc1e6shV9IY33XLaBtUG7Y6WxEWEWvdB1aZ6p6xWGZoUsYUy4wVIoG1RxaCvgWcMEIBToNHO1CimNRjRh960JPL0DhmCDN0mG6FWKderVsPmrIpt123EeDjcrYUGx5BVIJT_AwQ5S5U"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Indirect Prompt Injection in AI Coding Agents",
+      "link": "https://www.daxa.ai/blogs/indirect-prompt-injection-coding-agents",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfAHrOzAVu5zMR6yyW6ZFSvAK8ciACaGcjo8SJlBLngomDAjVPeIKoTh2uOPqQ_yTPUuMhZaeTj4sNTdymDpK1bEHXJUoOg9ZeWkotsOXozsHFaF1WqwamU_uGNZq92LHkP08as2v0gbg7tIE_NAOjIC6V-B5r_ktIpnlQeE&ved=2ahUKEwiFraWu0qKXAxWhIkQIHcUPDJ0QFnoECCUQAQ&uoh=1",
+      "displayed_link": "https://www.daxa.ai › blogs › indirect-prompt-injection...",
+      "favicon": "https://serpapi.com/images/i/UklGRtAAAABXRUJQVlA4IMQAAAAwBQCdASocABwAPrUurVanIacnG_DgFolsAMz_ABVvtKP0-77uwd_8ASiq4cF98oCIAAD--LGYH6ruwHap1zBC095c4GndOZQYDJ6KlHJSrhX51wPynmAioojDJ3ODwsmoACpR13uJvzKP31XT4IWkBLzXC6pMLUxUxX6oq-3GDgfWQzT4ATS--UXcdfppeA04H2Vw0PSY_5T_VBFTNJIr3b4zLMxde__89uRdkeXvAYoq1_MbfzFzW6kCbFk_Cr13gAAA.webp",
+      "date": "Sep 18, 2026",
+      "snippet": "Indirect Prompt Injection in AI Coding Agents: Attacks and Controls. Indirect prompt injection is the coding agent attack your code review ...",
+      "snippet_highlighted_words": [
+        "Indirect Prompt Injection",
+        "Attacks",
+        "Indirect prompt injection",
+        "attack"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Indirect Prompt Injection in AI Coding Agents: Attacks and Controls. Indirect prompt injection is the coding agent attack your code review ...",
+          "source_info_link": "https://www.daxa.ai/blogs/indirect-prompt-injection-coding-agents",
+          "icon": "https://serpapi.com/images/i/UklGRtAAAABXRUJQVlA4IMQAAAAwBQCdASocABwAPrUurVanIacnG_DgFolsAMz_ABVvtKP0-77uwd_8ASiq4cF98oCIAAD--LGYH6ruwHap1zBC095c4GndOZQYDJ6KlHJSrhX51wPynmAioojDJ3ODwsmoACpR13uJvzKP31XT4IWkBLzXC6pMLUxUxX6oq-3GDgfWQzT4ATS--UXcdfppeA04H2Vw0PSY_5T_VBFTNJIr3b4zLMxde__89uRdkeXvAYoq1_MbfzFzW6kCbFk_Cr13gAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrUBL2dvdG8_dXJsPUNBRVNmQUhyT3pBVnU1ek1SNnl5VzZaRlN2QUs4Y2lBQ2FHY2pvOFNKbEJMbmdvbURBalZQZUlLb1RoMnVPUHFRX3lUUFV1TWhaYWVUajRzTlRkeW1EcEsxYkVIWEpVb09nOVplV2tvdHNPWG96c0hGYUYxV3F3YW1VX3VHTlpxOTJMSGtQMDhhczJ2MGdiZzd0SUVfTkFPaklDNlYtQjVyX2t0SXBubFFlRRIEGgIIABqUBRIAGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkDwBAgAEAAYACAAKioKCGluZGlyZWN0FXl-rUAaCmluZGlyZWN0bHkaDWl2O3A7aW5kaXJlY3QqNAoGcHJvbXB0FX2OtkAaB3Byb21wdHMaD3Byb21wdGluamVjdGlvbhoLaXY7cDtwcm9tcHQqRQoJaW5qZWN0aW9uFfESu0AaBmluamVjdBoKaW5qZWN0aW9ucxoPcHJvbXB0aW5qZWN0aW9uGg5pdjtwO2luamVjdGlvbioWCgZhdHRhY2sVUVTZPxoHYXR0YWNrczK1AS9nb3RvP3VybD1DQUVTZkFIck96QVZ1NXpNUjZ5eVc2WkZTdkFLOGNpQUNhR2NqbzhTSmxCTG5nb21EQWpWUGVJS29UaDJ1T1BxUV95VFBVdU1oWmFlVGo0c05UZHltRHBLMWJFSFhKVW9PZzlaZVdrb3RzT1hvenNIRmFGMVdxd2FtVV91R05acTkyTEhrUDA4YXMydjBnYmc3dElFX05BT2pJQzZWLUI1cl9rdElwbmxRZUU6OzxiPkluZGlyZWN0IFByb21wdCBJbmplY3Rpb248L2I-IGluIEFJIENvZGluZyBBZ2VudHMgfCBEQVhBQq8BPGI-SW5kaXJlY3QgUHJvbXB0IEluamVjdGlvbjwvYj4gaW4gQUkgQ29kaW5nIEFnZW50czogPGI-QXR0YWNrczwvYj4gYW5kIENvbnRyb2xzLiA8Yj5JbmRpcmVjdCBwcm9tcHQgaW5qZWN0aW9uPC9iPiBpcyB0aGUgY29kaW5nIGFnZW50IDxiPmF0dGFjazwvYj4geW91ciBjb2RlIHJldmlldyZuYnNwOy4uLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrUBL2dvdG8_dXJsPUNBRVNmQUhyT3pBVnU1ek1SNnl5VzZaRlN2QUs4Y2lBQ2FHY2pvOFNKbEJMbmdvbURBalZQZUlLb1RoMnVPUHFRX3lUUFV1TWhaYWVUajRzTlRkeW1EcEsxYkVIWEpVb09nOVplV2tvdHNPWG96c0hGYUYxV3F3YW1VX3VHTlpxOTJMSGtQMDhhczJ2MGdiZzd0SUVfTkFPaklDNlYtQjVyX2t0SXBubFFlRRIEGgIIABqUBRIAGgAiACoAMgYIAhICdXM6AEIECAEQAEoAWgByAHoAgkDwBAgAEAAYACAAKioKCGluZGlyZWN0FXl-rUAaCmluZGlyZWN0bHkaDWl2O3A7aW5kaXJlY3QqNAoGcHJvbXB0FX2OtkAaB3Byb21wdHMaD3Byb21wdGluamVjdGlvbhoLaXY7cDtwcm9tcHQqRQoJaW5qZWN0aW9uFfESu0AaBmluamVjdBoKaW5qZWN0aW9ucxoPcHJvbXB0aW5qZWN0aW9uGg5pdjtwO2luamVjdGlvbioWCgZhdHRhY2sVUVTZPxoHYXR0YWNrczK1AS9nb3RvP3VybD1DQUVTZkFIck96QVZ1NXpNUjZ5eVc2WkZTdkFLOGNpQUNhR2NqbzhTSmxCTG5nb21EQWpWUGVJS29UaDJ1T1BxUV95VFBVdU1oWmFlVGo0c05UZHltRHBLMWJFSFhKVW9PZzlaZVdrb3RzT1hvenNIRmFGMVdxd2FtVV91R05acTkyTEhrUDA4YXMydjBnYmc3dElFX05BT2pJQzZWLUI1cl9rdElwbmxRZUU6OzxiPkluZGlyZWN0IFByb21wdCBJbmplY3Rpb248L2I-IGluIEFJIENvZGluZyBBZ2VudHMgfCBEQVhBQq8BPGI-SW5kaXJlY3QgUHJvbXB0IEluamVjdGlvbjwvYj4gaW4gQUkgQ29kaW5nIEFnZW50czogPGI-QXR0YWNrczwvYj4gYW5kIENvbnRyb2xzLiA8Yj5JbmRpcmVjdCBwcm9tcHQgaW5qZWN0aW9uPC9iPiBpcyB0aGUgY29kaW5nIGFnZW50IDxiPmF0dGFjazwvYj4geW91ciBjb2RlIHJldmlldyZuYnNwOy4uLiICEAFIAFgAaAA",
+      "source": "DAXA AI",
+      "read_more_link": "https://www.daxa.ai/blogs/indirect-prompt-injection-coding-agents#:~:text=Indirect%20Prompt%20Injection%20in%20AI,never%20appears%20in%20a%20diff."
+    },
+    {
+      "position": 2,
+      "title": "Indirect Prompt Injection | The Attack Nobody Types | APERION",
+      "link": "https://aperion.ai/glossary-indirect-prompt-injection/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScQHrOzAVIp9PsDyWfKRk97toxosLySCBNrdymYlP4_yYvofkGDOw4VaFn4_I2OH6wBJS9RaLD9DV8Qv41saWcCWua7960K_TUp99VezxtGFE2ttdiFJGaYf-vYQBPygZe40wjnb3Uxk8J2bpsX7ryzwT&ved=2ahUKEwiFraWu0qKXAxWhIkQIHcUPDJ0QFnoECCEQAQ&uoh=1",
+      "displayed_link": "https://aperion.ai › glossary-indirect-prompt-injection",
+      "favicon": "https://serpapi.com/images/i/UklGRqYAAABXRUJQVlA4IJoAAADQBACdASogACAAPtEwtFooIigoGAEAGgljAKw5QADla4fbCct132AUny0cF6NqMAD-9BpXf_bj3Ya90CqWdO2fierSfQcgfhQll93TfgZfmKptehtaecX0F_4auVRHs97-sTcgusp3ikBc-Ks__yH-6PUj3pKhrzybqczk8IpnprLZrxVj-UXlDtpC-S-_r-IT-XgUaQ2qIAAA.webp",
+      "snippet": "Indirect prompt injection is an attack in which the malicious instruction does not come from the user at all. It is planted in content the model retrieves ...",
+      "snippet_highlighted_words": [
+        "Indirect prompt injection",
+        "attack"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Indirect prompt injection is an attack in which the malicious instruction does not come from the user at all. It is planted in content the model retrieves ...",
+          "source_info_link": "https://aperion.ai/glossary-indirect-prompt-injection/",
+          "icon": "https://serpapi.com/images/i/UklGRqYAAABXRUJQVlA4IJoAAADQBACdASogACAAPtEwtFooIigoGAEAGgljAKw5QADla4fbCct132AUny0cF6NqMAD-9BpXf_bj3Ya90CqWdO2fierSfQcgfhQll93TfgZfmKptehtaecX0F_4auVRHs97-sTcgusp3ikBc-Ks__yH-6PUj3pKhrzybqczk8IpnprLZrxVj-UXlDtpC-S-_r-IT-XgUaQ2qIAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqYBL2dvdG8_dXJsPUNBRVNjUUhyT3pBVklwOVBzRHlXZktSazk3dG94b3NMeVNDQk5yZHltWWxQNF95WXZvZmtHRE93NFZhRm40X0kyT0g2d0JKUzlSYUxEOURWOFF2NDFzYVdjQ1d1YTc5NjBLX1RVcDk5VmV6eHRHRkUydHRkaUZKR2FZZi12WVFCUHlnWmU0MHdqbmIzVXhrOEoyYnBzWDdyeXp3VBIEGgIIABqXBRIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDzBAgAEAAYACAAKioKCGluZGlyZWN0FaGusUAaCmluZGlyZWN0bHkaDWl2O3A7aW5kaXJlY3QqNAoGcHJvbXB0FaNA0kAaB3Byb21wdHMaD3Byb21wdGluamVjdGlvbhoLaXY7cDtwcm9tcHQqRQoJaW5qZWN0aW9uFR5J0UAaBmluamVjdBoKaW5qZWN0aW9ucxoPcHJvbXB0aW5qZWN0aW9uGg5pdjtwO2luamVjdGlvbioWCgZhdHRhY2sVXB97QBoHYXR0YWNrczKmAS9nb3RvP3VybD1DQUVTY1FIck96QVZJcDlQc0R5V2ZLUms5N3RveG9zTHlTQ0JOcmR5bVlsUDRfeVl2b2ZrR0RPdzRWYUZuNF9JMk9INndCSlM5UmFMRDlEVjhRdjQxc2FXY0NXdWE3OTYwS19UVXA5OVZlenh0R0ZFMnR0ZGlGSkdhWWYtdllRQlB5Z1plNDB3am5iM1V4azhKMmJwc1g3cnl6d1Q6SzxiPkluZGlyZWN0IFByb21wdCBJbmplY3Rpb248L2I-IHwgVGhlIDxiPkF0dGFjazwvYj4gTm9ib2R5IFR5cGVzIHwgQVBFUklPTkKxATxiPkluZGlyZWN0IHByb21wdCBpbmplY3Rpb248L2I-IGlzIGFuIDxiPmF0dGFjazwvYj4gaW4gd2hpY2ggdGhlIG1hbGljaW91cyBpbnN0cnVjdGlvbiBkb2VzIG5vdCBjb21lIGZyb20gdGhlIHVzZXIgYXQgYWxsLiBJdCBpcyBwbGFudGVkIGluIGNvbnRlbnQgdGhlIG1vZGVsIHJldHJpZXZlcyZuYnNwOy4uLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqYBL2dvdG8_dXJsPUNBRVNjUUhyT3pBVklwOVBzRHlXZktSazk3dG94b3NMeVNDQk5yZHltWWxQNF95WXZvZmtHRE93NFZhRm40X0kyT0g2d0JKUzlSYUxEOURWOFF2NDFzYVdjQ1d1YTc5NjBLX1RVcDk5VmV6eHRHRkUydHRkaUZKR2FZZi12WVFCUHlnWmU0MHdqbmIzVXhrOEoyYnBzWDdyeXp3VBIEGgIIABqXBRIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDzBAgAEAAYACAAKioKCGluZGlyZWN0FaGusUAaCmluZGlyZWN0bHkaDWl2O3A7aW5kaXJlY3QqNAoGcHJvbXB0FaNA0kAaB3Byb21wdHMaD3Byb21wdGluamVjdGlvbhoLaXY7cDtwcm9tcHQqRQoJaW5qZWN0aW9uFR5J0UAaBmluamVjdBoKaW5qZWN0aW9ucxoPcHJvbXB0aW5qZWN0aW9uGg5pdjtwO2luamVjdGlvbioWCgZhdHRhY2sVXB97QBoHYXR0YWNrczKmAS9nb3RvP3VybD1DQUVTY1FIck96QVZJcDlQc0R5V2ZLUms5N3RveG9zTHlTQ0JOcmR5bVlsUDRfeVl2b2ZrR0RPdzRWYUZuNF9JMk9INndCSlM5UmFMRDlEVjhRdjQxc2FXY0NXdWE3OTYwS19UVXA5OVZlenh0R0ZFMnR0ZGlGSkdhWWYtdllRQlB5Z1plNDB3am5iM1V4azhKMmJwc1g3cnl6d1Q6SzxiPkluZGlyZWN0IFByb21wdCBJbmplY3Rpb248L2I-IHwgVGhlIDxiPkF0dGFjazwvYj4gTm9ib2R5IFR5cGVzIHwgQVBFUklPTkKxATxiPkluZGlyZWN0IHByb21wdCBpbmplY3Rpb248L2I-IGlzIGFuIDxiPmF0dGFjazwvYj4gaW4gd2hpY2ggdGhlIG1hbGljaW91cyBpbnN0cnVjdGlvbiBkb2VzIG5vdCBjb21lIGZyb20gdGhlIHVzZXIgYXQgYWxsLiBJdCBpcyBwbGFudGVkIGluIGNvbnRlbnQgdGhlIG1vZGVsIHJldHJpZXZlcyZuYnNwOy4uLiICEAFIAFgAaAA",
+      "source": "aperion.ai",
+      "read_more_link": "https://aperion.ai/glossary-indirect-prompt-injection/#:~:text=Indirect%20prompt%20injection%20is%20an,in%20content%20the%20model%20retrieves"
+    },
+    {
+      "position": 3,
+      "title": "Why do indirect prompt injection attacks become more ...",
+      "link": "https://nhimg.org/faq/why-do-indirect-prompt-injection-attacks-become-more-dangerous-when-ai-agents-ca/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESogEB6zswFYT1w-iEtjO1G8WOnmSYzH7_e8YS_EJMCX-bYNvHKMsDlqjWvIWphfH189LscbLp96un0H50rTKMBGUAC3e2RfVF4BXt3oKAZzFZEtXCqBcdVO4Bh7X36OW32Uw80hXHnoIpYDQExr8zapWuiE4RlLhegF5B9lW4zIifxFLZRMxykSgs5VDdXJAEpGBxpYAp6YDFu1oX5spSmkH9zxY&ved=2ahUKEwiFraWu0qKXAxWhIkQIHcUPDJ0QFnoECCsQAQ&uoh=1",
+      "displayed_link": "https://nhimg.org › FAQ",
+      "favicon": "https://serpapi.com/images/i/UklGRigBAABXRUJQVlA4IBwBAACQBgCdASocABwAPtEutFooIagoGAEAGglnAM7zeA70EeCGL-J3UD3UYdOxuJsmg_Ws-nyBk2rNr6cdb7qYAP72CbiDTOB8Fpe7RshwOFcHzflLJEZp5in5pcKvqZy-0gR7aIG0WVpGPDEINE4OJiPoV32-3cBuej3IsWciAxQdggwvlqhfDcxXVjwHuhqD4spRhi2YRhehV2pIl-n2EjlpSAIjy5lsbC7p_OuLzWKqS09-_MzmND9387x_08J38-c6L90_OeT_M9KJWxZBflKl-3YUuDGe5aWt1wS-d_zR3CQ8mKnBe_U96rB5gDJ6eItXtrCg0mRP1P3QO-JdNpseawlztmv8uu0Gocv-pLnM7WuP7AzJFqAeMYAAAA.webp",
+      "date": "Aug 24, 2026",
+      "snippet": "Why do indirect prompt injection attacks become more dangerous when AI agents can read and act on external content automatically?",
+      "about_this_result": {
+        "source": {
+          "description": "Why do indirect prompt injection attacks become more dangerous when ... That expands the attack surface from prompt quality into ...",
+          "source_info_link": "https://nhimg.org/faq/why-do-indirect-prompt-injection-attacks-become-more-dangerous-when-ai-agents-ca/",
+          "icon": "https://serpapi.com/images/i/UklGRigBAABXRUJQVlA4IBwBAACQBgCdASocABwAPtEutFooIagoGAEAGglnAM7zeA70EeCGL-J3UD3UYdOxuJsmg_Ws-nyBk2rNr6cdb7qYAP72CbiDTOB8Fpe7RshwOFcHzflLJEZp5in5pcKvqZy-0gR7aIG0WVpGPDEINE4OJiPoV32-3cBuej3IsWciAxQdggwvlqhfDcxXVjwHuhqD4spRhi2YRhehV2pIl-n2EjlpSAIjy5lsbC7p_OuLzWKqS09-_MzmND9387x_08J38-c6L90_OeT_M9KJWxZBflKl-3YUuDGe5aWt1wS-d_zR3CQ8mKnBe_U96rB5gDJ6eItXtrCg0mRP1P3QO-JdNpseawlztmv8uu0Gocv-pLnM7WuP7AzJFqAeMYAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CukBL2dvdG8_dXJsPUNBRVNvZ0VCNnpzd0ZZVDF3LWlFdGpPMUc4V09ubVNZekg3X2U4WVNfRUpNQ1gtYllOdkhLTXNEbHFqV3ZJV3BoZkgxODlMc2NiTHA5NnVuMEg1MHJUS01CR1VBQzNlMlJmVkY0Qlh0M29LQVp6RlpFdFhDcUJjZFZPNEJoN1gzNk9XMzJVdzgwaFhIbm9JcFlEUUV4cjh6YXBXdWlFNFJsTGhlZ0Y1QjlsVzR6SWlmeEZMWlJNeHlrU2dzNVZEZFhKQUVwR0J4cFlBcDZZREZ1MW9YNXNwU21rSDl6eFkSBBoCCAAarQUSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAiQUIABAAGAAgACoqCghpbmRpcmVjdBW2l6pAGgppbmRpcmVjdGx5Gg1pdjtwO2luZGlyZWN0KjQKBnByb21wdBXUwrhAGgdwcm9tcHRzGg9wcm9tcHRpbmplY3Rpb24aC2l2O3A7cHJvbXB0KkUKCWluamVjdGlvbhWwCa9AGgZpbmplY3QaCmluamVjdGlvbnMaD3Byb21wdGluamVjdGlvbhoOaXY7cDtpbmplY3Rpb24qFgoGYXR0YWNrFWSJqT8aB2F0dGFja3My6QEvZ290bz91cmw9Q0FFU29nRUI2enN3RllUMXctaUV0ak8xRzhXT25tU1l6SDdfZThZU19FSk1DWC1iWU52SEtNc0RscWpXdklXcGhmSDE4OUxzY2JMcDk2dW4wSDUwclRLTUJHVUFDM2UyUmZWRjRCWHQzb0tBWnpGWkV0WENxQmNkVk80Qmg3WDM2T1czMlV3ODBoWEhub0lwWURRRXhyOHphcFd1aUU0UmxMaGVnRjVCOWxXNHpJaWZ4RkxaUk14eWtTZ3M1VkRkWEpBRXBHQnhwWUFwNllERnUxb1g1c3BTbWtIOXp4WTo_V2h5IGRvIDxiPmluZGlyZWN0IHByb21wdCBpbmplY3Rpb24gYXR0YWNrczwvYj4gYmVjb21lIG1vcmUgLi4uQpABV2h5IGRvIDxiPmluZGlyZWN0IHByb21wdCBpbmplY3Rpb24gYXR0YWNrczwvYj4gYmVjb21lIG1vcmUgZGFuZ2Vyb3VzIHdoZW4gLi4uIFRoYXQgZXhwYW5kcyB0aGUgYXR0YWNrIHN1cmZhY2UgZnJvbSBwcm9tcHQgcXVhbGl0eSBpbnRvJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CukBL2dvdG8_dXJsPUNBRVNvZ0VCNnpzd0ZZVDF3LWlFdGpPMUc4V09ubVNZekg3X2U4WVNfRUpNQ1gtYllOdkhLTXNEbHFqV3ZJV3BoZkgxODlMc2NiTHA5NnVuMEg1MHJUS01CR1VBQzNlMlJmVkY0Qlh0M29LQVp6RlpFdFhDcUJjZFZPNEJoN1gzNk9XMzJVdzgwaFhIbm9JcFlEUUV4cjh6YXBXdWlFNFJsTGhlZ0Y1QjlsVzR6SWlmeEZMWlJNeHlrU2dzNVZEZFhKQUVwR0J4cFlBcDZZREZ1MW9YNXNwU21rSDl6eFkSBBoCCAAarQUSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAiQUIABAAGAAgACoqCghpbmRpcmVjdBW2l6pAGgppbmRpcmVjdGx5Gg1pdjtwO2luZGlyZWN0KjQKBnByb21wdBXUwrhAGgdwcm9tcHRzGg9wcm9tcHRpbmplY3Rpb24aC2l2O3A7cHJvbXB0KkUKCWluamVjdGlvbhWwCa9AGgZpbmplY3QaCmluamVjdGlvbnMaD3Byb21wdGluamVjdGlvbhoOaXY7cDtpbmplY3Rpb24qFgoGYXR0YWNrFWSJqT8aB2F0dGFja3My6QEvZ290bz91cmw9Q0FFU29nRUI2enN3RllUMXctaUV0ak8xRzhXT25tU1l6SDdfZThZU19FSk1DWC1iWU52SEtNc0RscWpXdklXcGhmSDE4OUxzY2JMcDk2dW4wSDUwclRLTUJHVUFDM2UyUmZWRjRCWHQzb0tBWnpGWkV0WENxQmNkVk80Qmg3WDM2T1czMlV3ODBoWEhub0lwWURRRXhyOHphcFd1aUU0UmxMaGVnRjVCOWxXNHpJaWZ4RkxaUk14eWtTZ3M1VkRkWEpBRXBHQnhwWUFwNllERnUxb1g1c3BTbWtIOXp4WTo_V2h5IGRvIDxiPmluZGlyZWN0IHByb21wdCBpbmplY3Rpb24gYXR0YWNrczwvYj4gYmVjb21lIG1vcmUgLi4uQpABV2h5IGRvIDxiPmluZGlyZWN0IHByb21wdCBpbmplY3Rpb24gYXR0YWNrczwvYj4gYmVjb21lIG1vcmUgZGFuZ2Vyb3VzIHdoZW4gLi4uIFRoYXQgZXhwYW5kcyB0aGUgYXR0YWNrIHN1cmZhY2UgZnJvbSBwcm9tcHQgcXVhbGl0eSBpbnRvJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "source": "Non-Human Identity Management Group"
+    },
+    {
+      "position": 4,
+      "title": "Uncovering live 'Indirect Prompt Injection' attacks that ...",
+      "link": "https://www.digitaljournal.com/article/uncovering-live-indirect-prompt-injection-attacks-that-targeting-ai-agents/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESrQEB6zswFamSDFIJ_vrkKcKb1o0xuALW0tVA5X7ogLkF4VkfIxFTbCrELi8XPET4Sp8Q9IG28c1QSj64S0FMf2W-n1ndN5o4eDDgvWMr13T7ZfazMXAkA5oc-IZJUxjSU4Szhz41y2IEI6PFCSJYp79zLqxyaJNR3cqBrvDDQpNyywd8NN313erTW5yN5ylB3sFyuzQTpW_XhomUkea7FNP85KvaGfiCNEQTfVp3Gw&ved=2ahUKEwiFraWu0qKXAxWhIkQIHcUPDJ0QFnoECCMQAQ&uoh=1",
+      "displayed_link": "https://www.digitaljournal.com › Technology",
+      "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAAAwBgCdASocABwAPtEutFooIagoGAEAGglsALbwEC8AN5OIhTeADfbZGKT60aH_DTWfQnbKV25k4-FoAP72AuYKDniUIKNLIr_oGTawhBXtNvxFZ-Xm3LA_MIlmnvQoYQrXfT6iln3Ul-qtKnyjjd06EkNq4HcUx3if_zrawWl9f7z38SBTnYV9fsncN_6mlQ9f1ou7Nw7xkTTTGvnEzDPR1m54pE_q0F0xS_mu5vUYgHWaU3MFY1-atNvRs_Bn-4J1yjwjU9wbm7KtDgMDPXxOFDF2reMJZrST8I-Zm-mpU7NZ8D_8_8f_P2La0bXSbrHXlm6hI8bo0Xz_buO1eD6RwAeZR53mRjsKyrFGce5iVWhPsxPan6vBotzZo0AAAAA.webp",
+      "date": "May 21, 2026",
+      "snippet": "Uncovering live 'Indirect Prompt Injection' attacks that targeting AI agents ... attack—Indirect Prompt Injection (IPI)—is not theoretical ...",
+      "snippet_highlighted_words": [
+        "Indirect Prompt Injection",
+        "attacks"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Uncovering live 'Indirect Prompt Injection' attacks that targeting AI agents ... attack—Indirect Prompt Injection (IPI)—is not theoretical ...",
+          "source_info_link": "https://www.digitaljournal.com/article/uncovering-live-indirect-prompt-injection-attacks-that-targeting-ai-agents/",
+          "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAAAwBgCdASocABwAPtEutFooIagoGAEAGglsALbwEC8AN5OIhTeADfbZGKT60aH_DTWfQnbKV25k4-FoAP72AuYKDniUIKNLIr_oGTawhBXtNvxFZ-Xm3LA_MIlmnvQoYQrXfT6iln3Ul-qtKnyjjd06EkNq4HcUx3if_zrawWl9f7z38SBTnYV9fsncN_6mlQ9f1ou7Nw7xkTTTGvnEzDPR1m54pE_q0F0xS_mu5vUYgHWaU3MFY1-atNvRs_Bn-4J1yjwjU9wbm7KtDgMDPXxOFDF2reMJZrST8I-Zm-mpU7NZ8D_8_8f_P2La0bXSbrHXlm6hI8bo0Xz_buO1eD6RwAeZR53mRjsKyrFGce5iVWhPsxPan6vBotzZo0AAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CvgBL2dvdG8_dXJsPUNBRVNyUUVCNnpzd0ZhbVNERklKX3Zya0tjS2IxbzB4dUFMVzB0VkE1WDdvZ0xrRjRWa2ZJeEZUYkNyRUxpOFhQRVQ0U3A4UTlJRzI4YzFRU2o2NFMwRk1mMlctbjFuZE41bzRlRERndldNcjEzVDdaZmF6TVhBa0E1b2MtSVpKVXhqU1U0U3poejQxeTJJRUk2UEZDU0pZcDc5ekxxeHlhSk5SM2NxQnJ2RERRcE55eXdkOE5OMzEzZXJUVzV5TjV5bEIzc0Z5dXpRVHBXX1hob21Va2VhN0ZOUDg1S3ZhR2ZpQ05FUVRmVnAzR3cSBBoCCAAa9gUSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA0gUIABAAGAAgACoqCghpbmRpcmVjdBUO_pFAGgppbmRpcmVjdGx5Gg1pdjtwO2luZGlyZWN0KjQKBnByb21wdBVfhpRAGgdwcm9tcHRzGg9wcm9tcHRpbmplY3Rpb24aC2l2O3A7cHJvbXB0KkUKCWluamVjdGlvbhVa9pVAGgZpbmplY3QaCmluamVjdGlvbnMaD3Byb21wdGluamVjdGlvbhoOaXY7cDtpbmplY3Rpb24qFgoGYXR0YWNrFcuJuj8aB2F0dGFja3My-AEvZ290bz91cmw9Q0FFU3JRRUI2enN3RmFtU0RGSUpfdnJrS2NLYjFvMHh1QUxXMHRWQTVYN29nTGtGNFZrZkl4RlRiQ3JFTGk4WFBFVDRTcDhROUlHMjhjMVFTajY0UzBGTWYyVy1uMW5kTjVvNGVERGd2V01yMTNUN1pmYXpNWEFrQTVvYy1JWkpVeGpTVTRTemh6NDF5MklFSTZQRkNTSllwNzl6THF4eWFKTlIzY3FCcnZERFFwTnl5d2Q4Tk4zMTNlclRXNXlONXlsQjNzRnl1elFUcFdfWGhvbVVrZWE3Rk5QODVLdmFHZmlDTkVRVGZWcDNHdzpcVW5jb3ZlcmluZyBsaXZlICYjMzk7PGI-SW5kaXJlY3QgUHJvbXB0IEluamVjdGlvbjwvYj4mIzM5OyA8Yj5hdHRhY2tzPC9iPiB0aGF0IHRhcmdldGluZyAuLi5CrQFVbmNvdmVyaW5nIGxpdmUgJiMzOTs8Yj5JbmRpcmVjdCBQcm9tcHQgSW5qZWN0aW9uPC9iPiYjMzk7IDxiPmF0dGFja3M8L2I-IHRoYXQgdGFyZ2V0aW5nIEFJIGFnZW50cyAuLi4gYXR0YWNr4oCUSW5kaXJlY3QgUHJvbXB0IEluamVjdGlvbiAoSVBJKeKAlGlzIG5vdCB0aGVvcmV0aWNhbCZuYnNwOy4uLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CvgBL2dvdG8_dXJsPUNBRVNyUUVCNnpzd0ZhbVNERklKX3Zya0tjS2IxbzB4dUFMVzB0VkE1WDdvZ0xrRjRWa2ZJeEZUYkNyRUxpOFhQRVQ0U3A4UTlJRzI4YzFRU2o2NFMwRk1mMlctbjFuZE41bzRlRERndldNcjEzVDdaZmF6TVhBa0E1b2MtSVpKVXhqU1U0U3poejQxeTJJRUk2UEZDU0pZcDc5ekxxeHlhSk5SM2NxQnJ2RERRcE55eXdkOE5OMzEzZXJUVzV5TjV5bEIzc0Z5dXpRVHBXX1hob21Va2VhN0ZOUDg1S3ZhR2ZpQ05FUVRmVnAzR3cSBBoCCAAa9gUSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA0gUIABAAGAAgACoqCghpbmRpcmVjdBUO_pFAGgppbmRpcmVjdGx5Gg1pdjtwO2luZGlyZWN0KjQKBnByb21wdBVfhpRAGgdwcm9tcHRzGg9wcm9tcHRpbmplY3Rpb24aC2l2O3A7cHJvbXB0KkUKCWluamVjdGlvbhVa9pVAGgZpbmplY3QaCmluamVjdGlvbnMaD3Byb21wdGluamVjdGlvbhoOaXY7cDtpbmplY3Rpb24qFgoGYXR0YWNrFcuJuj8aB2F0dGFja3My-AEvZ290bz91cmw9Q0FFU3JRRUI2enN3RmFtU0RGSUpfdnJrS2NLYjFvMHh1QUxXMHRWQTVYN29nTGtGNFZrZkl4RlRiQ3JFTGk4WFBFVDRTcDhROUlHMjhjMVFTajY0UzBGTWYyVy1uMW5kTjVvNGVERGd2V01yMTNUN1pmYXpNWEFrQTVvYy1JWkpVeGpTVTRTemh6NDF5MklFSTZQRkNTSllwNzl6THF4eWFKTlIzY3FCcnZERFFwTnl5d2Q4Tk4zMTNlclRXNXlONXlsQjNzRnl1elFUcFdfWGhvbVVrZWE3Rk5QODVLdmFHZmlDTkVRVGZWcDNHdzpcVW5jb3ZlcmluZyBsaXZlICYjMzk7PGI-SW5kaXJlY3QgUHJvbXB0IEluamVjdGlvbjwvYj4mIzM5OyA8Yj5hdHRhY2tzPC9iPiB0aGF0IHRhcmdldGluZyAuLi5CrQFVbmNvdmVyaW5nIGxpdmUgJiMzOTs8Yj5JbmRpcmVjdCBQcm9tcHQgSW5qZWN0aW9uPC9iPiYjMzk7IDxiPmF0dGFja3M8L2I-IHRoYXQgdGFyZ2V0aW5nIEFJIGFnZW50cyAuLi4gYXR0YWNr4oCUSW5kaXJlY3QgUHJvbXB0IEluamVjdGlvbiAoSVBJKeKAlGlzIG5vdCB0aGVvcmV0aWNhbCZuYnNwOy4uLiICEAFIAFgAaAA",
+      "source": "Digital Journal",
+      "read_more_link": "https://www.digitaljournal.com/article/uncovering-live-indirect-prompt-injection-attacks-that-targeting-ai-agents/#:~:text=Uncovering%20live%20'Indirect%20Prompt%20Injection',attacks%20that%20targeting%20AI%20agents&text=Authored%20by%20X%2DLabs%20Principal%20Threat,actively%20deployed%20across%20live%20websites."
+    },
+    {
+      "position": 5,
+      "title": "Indirect Prompt Injection Vulnerability",
+      "link": "https://www.emergentmind.com/topics/indirect-prompt-injection-ipi",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfAHrOzAVZkLX4Au_EQ3El2W9R-tuXpFNrBqzXLND1w5rIY1tWJQi7L-RoRfiZs5VMJPvJM4GV33Y8an-MB0k_hkaEZtFdAVwDssIr-LBgdS-b5rt89vcj-13LC2wL8LAa324Pr25t8_0jLmJa0yrrxxWCGoThXR7rByyPNY&ved=2ahUKEwiFraWu0qKXAxWhIkQIHcUPDJ0QFnoECCIQAQ&uoh=1",
+      "displayed_link": "https://www.emergentmind.com › topics › indirect-pro...",
+      "favicon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAADwBQCdASocABwAPtE-tFooIigoFAEAGglsAJ0y43mfsyeAN4zIgvdwBxtbp7Gh46EE8jUg-NwMAAD-5wenvakSfCDwIscsKe-iRc-5hv2tr0S_6omU9wXgw58l-g5GEAfcfx0G96hf_zsHNF6yAgAu8AxXmX_4ftjHCjqVvFuAPhx8QVQMgyzjLhhk38pQRMza_ilUlZNRm04Tcnzlkep_JvcAjWD8qcHLF6-pzgusdWHNo8_ozH1X-JsR_9t4_fb_E_yrx8CBLslrLeK7Ot9l6q2wKUiY8Qt6C9g4nUAmZuO3iYt_zgqAAAA.webp",
+      "date": "Nov 26, 2025",
+      "snippet": "IPI attack taxonomy distinguishes between direct harm and data-stealing attacks, benchmarked by frameworks like InjecAgent to measure success ...",
+      "snippet_highlighted_words": [
+        "attack",
+        "attacks"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "IPI attack taxonomy distinguishes between direct harm and data-stealing attacks, benchmarked by frameworks like InjecAgent to measure success ...",
+          "source_info_link": "https://www.emergentmind.com/topics/indirect-prompt-injection-ipi",
+          "icon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAADwBQCdASocABwAPtE-tFooIigoFAEAGglsAJ0y43mfsyeAN4zIgvdwBxtbp7Gh46EE8jUg-NwMAAD-5wenvakSfCDwIscsKe-iRc-5hv2tr0S_6omU9wXgw58l-g5GEAfcfx0G96hf_zsHNF6yAgAu8AxXmX_4ftjHCjqVvFuAPhx8QVQMgyzjLhhk38pQRMza_ilUlZNRm04Tcnzlkep_JvcAjWD8qcHLF6-pzgusdWHNo8_ozH1X-JsR_9t4_fb_E_yrx8CBLslrLeK7Ot9l6q2wKUiY8Qt6C9g4nUAmZuO3iYt_zgqAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrUBL2dvdG8_dXJsPUNBRVNmQUhyT3pBVlprTFg0QXVfRVEzRWwyVzlSLXR1WHBGTnJCcXpYTE5EMXc1cklZMXRXSlFpN0wtUm9SZmlaczVWTUpQdkpNNEdWMzNZOGFuLU1CMGtfaGthRVp0RmRBVndEc3NJci1MQmdkUy1iNXJ0ODl2Y2otMTNMQzJ3TDhMQWEzMjRQcjI1dDhfMGpMbUphMHlycnh4V0NHb1RoWFI3ckJ5eVBOWRIEGgIIABqMBRIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDoBAgAEAAYACAAKioKCGluZGlyZWN0FVjMwEAaCmluZGlyZWN0bHkaDWl2O3A7aW5kaXJlY3QqNAoGcHJvbXB0Fe-D1UAaB3Byb21wdHMaD3Byb21wdGluamVjdGlvbhoLaXY7cDtwcm9tcHQqRQoJaW5qZWN0aW9uFXq8zUAaBmluamVjdBoKaW5qZWN0aW9ucxoPcHJvbXB0aW5qZWN0aW9uGg5pdjtwO2luamVjdGlvbioWCgZhdHRhY2sV_W0TQBoHYXR0YWNrczK1AS9nb3RvP3VybD1DQUVTZkFIck96QVZaa0xYNEF1X0VRM0VsMlc5Ui10dVhwRk5yQnF6WExORDF3NXJJWTF0V0pRaTdMLVJvUmZpWnM1Vk1KUHZKTTRHVjMzWThhbi1NQjBrX2hrYUVadEZkQVZ3RHNzSXItTEJnZFMtYjVydDg5dmNqLTEzTEMyd0w4TEFhMzI0UHIyNXQ4XzBqTG1KYTB5cnJ4eFdDR29UaFhSN3JCeXlQTlk6PjxiPkluZGlyZWN0IFByb21wdCBJbmplY3Rpb248L2I-IFZ1bG5lcmFiaWxpdHkgLSBFbWVyZ2VudCBNaW5kQqQBSVBJIDxiPmF0dGFjazwvYj4gdGF4b25vbXkgZGlzdGluZ3Vpc2hlcyBiZXR3ZWVuIGRpcmVjdCBoYXJtIGFuZCBkYXRhLXN0ZWFsaW5nIDxiPmF0dGFja3M8L2I-LCBiZW5jaG1hcmtlZCBieSBmcmFtZXdvcmtzIGxpa2UgSW5qZWNBZ2VudCB0byBtZWFzdXJlIHN1Y2Nlc3MmbmJzcDsuLi4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrUBL2dvdG8_dXJsPUNBRVNmQUhyT3pBVlprTFg0QXVfRVEzRWwyVzlSLXR1WHBGTnJCcXpYTE5EMXc1cklZMXRXSlFpN0wtUm9SZmlaczVWTUpQdkpNNEdWMzNZOGFuLU1CMGtfaGthRVp0RmRBVndEc3NJci1MQmdkUy1iNXJ0ODl2Y2otMTNMQzJ3TDhMQWEzMjRQcjI1dDhfMGpMbUphMHlycnh4V0NHb1RoWFI3ckJ5eVBOWRIEGgIIABqMBRIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDoBAgAEAAYACAAKioKCGluZGlyZWN0FVjMwEAaCmluZGlyZWN0bHkaDWl2O3A7aW5kaXJlY3QqNAoGcHJvbXB0Fe-D1UAaB3Byb21wdHMaD3Byb21wdGluamVjdGlvbhoLaXY7cDtwcm9tcHQqRQoJaW5qZWN0aW9uFXq8zUAaBmluamVjdBoKaW5qZWN0aW9ucxoPcHJvbXB0aW5qZWN0aW9uGg5pdjtwO2luamVjdGlvbioWCgZhdHRhY2sV_W0TQBoHYXR0YWNrczK1AS9nb3RvP3VybD1DQUVTZkFIck96QVZaa0xYNEF1X0VRM0VsMlc5Ui10dVhwRk5yQnF6WExORDF3NXJJWTF0V0pRaTdMLVJvUmZpWnM1Vk1KUHZKTTRHVjMzWThhbi1NQjBrX2hrYUVadEZkQVZ3RHNzSXItTEJnZFMtYjVydDg5dmNqLTEzTEMyd0w4TEFhMzI0UHIyNXQ4XzBqTG1KYTB5cnJ4eFdDR29UaFhSN3JCeXlQTlk6PjxiPkluZGlyZWN0IFByb21wdCBJbmplY3Rpb248L2I-IFZ1bG5lcmFiaWxpdHkgLSBFbWVyZ2VudCBNaW5kQqQBSVBJIDxiPmF0dGFjazwvYj4gdGF4b25vbXkgZGlzdGluZ3Vpc2hlcyBiZXR3ZWVuIGRpcmVjdCBoYXJtIGFuZCBkYXRhLXN0ZWFsaW5nIDxiPmF0dGFja3M8L2I-LCBiZW5jaG1hcmtlZCBieSBmcmFtZXdvcmtzIGxpa2UgSW5qZWNBZ2VudCB0byBtZWFzdXJlIHN1Y2Nlc3MmbmJzcDsuLi4iAhABSABYAGgA",
+      "source": "Emergent Mind",
+      "read_more_link": "https://www.emergentmind.com/topics/indirect-prompt-injection-ipi#:~:text=IPI%20attack%20taxonomy%20distinguishes%20between,InjecAgent%20to%20measure%20success%20rates."
+    },
+    {
+      "position": 6,
+      "title": "Indirect prompt injection attacks: A growing threat to LLMs",
+      "link": "https://www.linkedin.com/posts/dsarig_anatomy-of-an-indirect-prompt-injection-activity-7361051326983639041-axS6",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESqgEB6zswFeryHP7lV9kqhRR6IZAMdq_oeeya2kEOu2FuFzZJiBZl0-kmRGMTjSzpKUMs4DX2ngxe-AuPgVlxrp0IcDpGHnYhAS85hnL_QNiNNRpltEki93FMVZ_9TnV_OzHUfevpPzkDR_j8f9CKXhr9K_ce2yHucZ6PuBv9tMkFXjsYGWnHc_ldwDu3TK5wmlz7e8aobI_HENjN98mOLAMsnOjTaHI3xtPEfA&ved=2ahUKEwiFraWu0qKXAxWhIkQIHcUPDJ0QFnoECCQQAQ&uoh=1",
+      "displayed_link": "30+ reactions · 1 year ago",
+      "favicon": "https://serpapi.com/images/i/UklGRsAAAABXRUJQVlA4ILQAAABQAwCdASoQABAAAsBMJbACdLoBLf4oANRJj6d2SZLhF7_ohAD-4n1FofdRna1o8FCt-OiJvVc8lzO8Rt17R6yr0CRJL0FBwsd8OIDxQ356R55Xei0KcLjbfh5C05X1nTKIh8X8ekP3RBUogy_jZ3kCUPbBWjzINpJUmDhbtDZS1e3a8_aUBwnkYz0mnTj4n4__aq6btWmAus7Zjw7JLZ_kNfUgtaLPXB6k1U8MVzX5_C1AAAA.webp",
+      "snippet": "Membership Inference Attacks (MIA) are widely used to assess privacy risks of ML models. But existing MIAs all infer membership one instance ...",
+      "snippet_highlighted_words": [
+        "Attacks"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Membership Inference Attacks (MIA) are widely used to assess privacy risks of ML models. But existing MIAs all infer membership one instance ...",
+          "source_info_link": "https://www.linkedin.com/posts/dsarig_anatomy-of-an-indirect-prompt-injection-activity-7361051326983639041-axS6",
+          "icon": "https://serpapi.com/images/i/UklGRsAAAABXRUJQVlA4ILQAAABQAwCdASoQABAAAsBMJbACdLoBLf4oANRJj6d2SZLhF7_ohAD-4n1FofdRna1o8FCt-OiJvVc8lzO8Rt17R6yr0CRJL0FBwsd8OIDxQ356R55Xei0KcLjbfh5C05X1nTKIh8X8ekP3RBUogy_jZ3kCUPbBWjzINpJUmDhbtDZS1e3a8_aUBwnkYz0mnTj4n4__aq6btWmAus7Zjw7JLZ_kNfUgtaLPXB6k1U8MVzX5_C1AAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CvQBL2dvdG8_dXJsPUNBRVNxZ0VCNnpzd0ZlcnlIUDdsVjlrcWhSUjZJWkFNZHFfb2VleWEya0VPdTJGdUZ6WkppQlpsMC1rbVJHTVRqU3pwS1VNczREWDJuZ3hlLUF1UGdWbHhycDBJY0RwR0huWWhBUzg1aG5MX1FOaU5OUnBsdEVraTkzRk1WWl85VG5WX096SFVmZXZwUHprRFJfajhmOUNLWGhyOUtfY2UyeUh1Y1o2UHVCdjl0TWtGWGpzWUdXbkhjX2xkd0R1M1RLNXdtbHo3ZThhb2JJX0hFTmpOOThtT0xBTXNuT2pUYUhJM3h0UEVmQRIEGgIIABrHBRIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCjBQgAEAAYACAAKioKCGluZGlyZWN0FTrAlkAaCmluZGlyZWN0bHkaDWl2O3A7aW5kaXJlY3QqNAoGcHJvbXB0FTMfp0AaB3Byb21wdHMaD3Byb21wdGluamVjdGlvbhoLaXY7cDtwcm9tcHQqRQoJaW5qZWN0aW9uFcFOQkAaBmluamVjdBoKaW5qZWN0aW9ucxoPcHJvbXB0aW5qZWN0aW9uGg5pdjtwO2luamVjdGlvbioWCgZhdHRhY2sVFukDQBoHYXR0YWNrczL0AS9nb3RvP3VybD1DQUVTcWdFQjZ6c3dGZXJ5SFA3bFY5a3FoUlI2SVpBTWRxX29lZXlhMmtFT3UyRnVGelpKaUJabDAta21SR01UalN6cEtVTXM0RFgybmd4ZS1BdVBnVmx4cnAwSWNEcEdIblloQVM4NWhuTF9RTmlOTlJwbHRFa2k5M0ZNVlpfOVRuVl9PekhVZmV2cFB6a0RSX2o4ZjlDS1hocjlLX2NlMnlIdWNaNlB1QnY5dE1rRlhqc1lHV25IY19sZHdEdTNUSzV3bWx6N2U4YW9iSV9IRU5qTjk4bU9MQU1zbk9qVGFISTN4dFBFZkE6QjxiPkluZGlyZWN0IHByb21wdCBpbmplY3Rpb24gYXR0YWNrczwvYj46IEEgZ3Jvd2luZyB0aHJlYXQgdG8gTExNc0KcAU1lbWJlcnNoaXAgSW5mZXJlbmNlIDxiPkF0dGFja3M8L2I-IChNSUEpIGFyZSB3aWRlbHkgdXNlZCB0byBhc3Nlc3MgcHJpdmFjeSByaXNrcyBvZiBNTCBtb2RlbHMuIEJ1dCBleGlzdGluZyBNSUFzIGFsbCBpbmZlciBtZW1iZXJzaGlwIG9uZSBpbnN0YW5jZSZuYnNwOy4uLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CvQBL2dvdG8_dXJsPUNBRVNxZ0VCNnpzd0ZlcnlIUDdsVjlrcWhSUjZJWkFNZHFfb2VleWEya0VPdTJGdUZ6WkppQlpsMC1rbVJHTVRqU3pwS1VNczREWDJuZ3hlLUF1UGdWbHhycDBJY0RwR0huWWhBUzg1aG5MX1FOaU5OUnBsdEVraTkzRk1WWl85VG5WX096SFVmZXZwUHprRFJfajhmOUNLWGhyOUtfY2UyeUh1Y1o2UHVCdjl0TWtGWGpzWUdXbkhjX2xkd0R1M1RLNXdtbHo3ZThhb2JJX0hFTmpOOThtT0xBTXNuT2pUYUhJM3h0UEVmQRIEGgIIABrHBRIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCjBQgAEAAYACAAKioKCGluZGlyZWN0FTrAlkAaCmluZGlyZWN0bHkaDWl2O3A7aW5kaXJlY3QqNAoGcHJvbXB0FTMfp0AaB3Byb21wdHMaD3Byb21wdGluamVjdGlvbhoLaXY7cDtwcm9tcHQqRQoJaW5qZWN0aW9uFcFOQkAaBmluamVjdBoKaW5qZWN0aW9ucxoPcHJvbXB0aW5qZWN0aW9uGg5pdjtwO2luamVjdGlvbioWCgZhdHRhY2sVFukDQBoHYXR0YWNrczL0AS9nb3RvP3VybD1DQUVTcWdFQjZ6c3dGZXJ5SFA3bFY5a3FoUlI2SVpBTWRxX29lZXlhMmtFT3UyRnVGelpKaUJabDAta21SR01UalN6cEtVTXM0RFgybmd4ZS1BdVBnVmx4cnAwSWNEcEdIblloQVM4NWhuTF9RTmlOTlJwbHRFa2k5M0ZNVlpfOVRuVl9PekhVZmV2cFB6a0RSX2o4ZjlDS1hocjlLX2NlMnlIdWNaNlB1QnY5dE1rRlhqc1lHV25IY19sZHdEdTNUSzV3bWx6N2U4YW9iSV9IRU5qTjk4bU9MQU1zbk9qVGFISTN4dFBFZkE6QjxiPkluZGlyZWN0IHByb21wdCBpbmplY3Rpb24gYXR0YWNrczwvYj46IEEgZ3Jvd2luZyB0aHJlYXQgdG8gTExNc0KcAU1lbWJlcnNoaXAgSW5mZXJlbmNlIDxiPkF0dGFja3M8L2I-IChNSUEpIGFyZSB3aWRlbHkgdXNlZCB0byBhc3Nlc3MgcHJpdmFjeSByaXNrcyBvZiBNTCBtb2RlbHMuIEJ1dCBleGlzdGluZyBNSUFzIGFsbCBpbmZlciBtZW1iZXJzaGlwIG9uZSBpbnN0YW5jZSZuYnNwOy4uLiICEAFIAFgAaAA",
+      "source": "LinkedIn · Dor Sarig",
+      "read_more_link": "https://www.linkedin.com/posts/dsarig_anatomy-of-an-indirect-prompt-injection-activity-7361051326983639041-axS6#:~:text=%F0%9F%94%8D%20Membership%20Inference%20Attacks%20(MIA),time%2C%20ignoring%20their%20crucial%20dependence."
+    },
+    {
+      "position": 7,
+      "title": "Indirect prompt injection attack vectors - Kosokoking",
+      "link": "https://kosokoking.com/security/indirect-prompt-injection-attack-vectors/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShAEB6zswFXrPZntep-rPY0q06VaISMOzFmqH5O4XReLXxbY8WSRSLSoCQyWSsoEwEc7f9WpGPAkx3gRfl_rbYSouIFUeGQaNK-9Aqla7NPQCcBRhT3Zd_oADQ0i7XGH6hh1iBKyZ0x79LsH1WezLbESN8oxwntvzGbSkHYS8NISzLx-wkpo&ved=2ahUKEwiFraWu0qKXAxWhIkQIHcUPDJ0QFnoECDsQAQ&uoh=1",
+      "displayed_link": "https://kosokoking.com › Info. Sec.",
+      "favicon": "https://serpapi.com/images/i/UklGRiQBAABXRUJQVlA4IBgBAAAQBgCdASocABwAPtEutFooIagoGAEAGglmAFQYTWSvZ9syDfUXzLpsxjFCx_lzfMkcrFn-2_2pnAAA_vYC1go9xWjkPvTnWDg_paJHIbJNGUCu20WOtLYCikVQzm-pUK1l7S9VTcqu8dHysOR_fyA3ZArHfhUzqAaxlYuxJ0d8Y9LvOQk4lQqbt9ym2rNv0_2iesWgHFrrDe6c7cBYg9O-cWNQyb0sb2UfRdXVEjufg61Hf2VbU-LV6SVX8IReNMBq0FlxfkHAtlq-JnBg6E27d5XtDpEDNHXhdEQyJAQCs2Tc7PofH7vA0Zi-M_g6f6MHmqkqd0Rnr5GVPEH4se9yiP04ZWin2Nt5h5P45tW29NApBJ2UJoAA.webp",
+      "snippet": "Indirect prompt injection attack vectors. Indirect prompt injection occurs when an attacker places a payload in an external resource that an LLM subsequently ...",
+      "snippet_highlighted_words": [
+        "Indirect prompt injection attack"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Indirect prompt injection attack vectors. Indirect prompt injection occurs when an attacker places a payload in an external resource that an LLM subsequently ...",
+          "source_info_link": "https://kosokoking.com/security/indirect-prompt-injection-attack-vectors/",
+          "icon": "https://serpapi.com/images/i/UklGRiQBAABXRUJQVlA4IBgBAAAQBgCdASocABwAPtEutFooIagoGAEAGglmAFQYTWSvZ9syDfUXzLpsxjFCx_lzfMkcrFn-2_2pnAAA_vYC1go9xWjkPvTnWDg_paJHIbJNGUCu20WOtLYCikVQzm-pUK1l7S9VTcqu8dHysOR_fyA3ZArHfhUzqAaxlYuxJ0d8Y9LvOQk4lQqbt9ym2rNv0_2iesWgHFrrDe6c7cBYg9O-cWNQyb0sb2UfRdXVEjufg61Hf2VbU-LV6SVX8IReNMBq0FlxfkHAtlq-JnBg6E27d5XtDpEDNHXhdEQyJAQCs2Tc7PofH7vA0Zi-M_g6f6MHmqkqd0Rnr5GVPEH4se9yiP04ZWin2Nt5h5P45tW29NApBJ2UJoAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsEBL2dvdG8_dXJsPUNBRVNoQUVCNnpzd0ZYclBabnRlcC1yUFkwcTA2VmFJU01PekZtcUg1TzRYUmVMWHhiWThXU1JTTFNvQ1F5V1Nzb0V3RWM3ZjlXcEdQQWt4M2dSZmxfcmJZU291SUZVZUdRYU5LLTlBcWxhN05QUUNjQlJoVDNaZF9vQURRMGk3WEdINmhoMWlCS3laMHg3OUxzSDFXZXpMYkVTTjhveHdudHZ6R2JTa0hZUzhOSVN6THgtd2twbxIEGgIIABqfBRIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkD7BAgAEAAYACAAKioKCGluZGlyZWN0FTB_0kAaCmluZGlyZWN0bHkaDWl2O3A7aW5kaXJlY3QqNAoGcHJvbXB0Fbiz2UAaB3Byb21wdHMaD3Byb21wdGluamVjdGlvbhoLaXY7cDtwcm9tcHQqRQoJaW5qZWN0aW9uFe-Y6kAaBmluamVjdBoKaW5qZWN0aW9ucxoPcHJvbXB0aW5qZWN0aW9uGg5pdjtwO2luamVjdGlvbioWCgZhdHRhY2sVeGzAQBoHYXR0YWNrczLBAS9nb3RvP3VybD1DQUVTaEFFQjZ6c3dGWHJQWm50ZXAtclBZMHEwNlZhSVNNT3pGbXFINU80WFJlTFh4Ylk4V1NSU0xTb0NReVdTc29Fd0VjN2Y5V3BHUEFreDNnUmZsX3JiWVNvdUlGVWVHUWFOSy05QXFsYTdOUFFDY0JSaFQzWmRfb0FEUTBpN1hHSDZoaDFpQkt5WjB4NzlMc0gxV2V6TGJFU044b3h3bnR2ekdiU2tIWVM4TklTekx4LXdrcG86PDxiPkluZGlyZWN0IHByb21wdCBpbmplY3Rpb24gYXR0YWNrPC9iPiB2ZWN0b3JzIC0gS29zb2tva2luZ0KtATxiPkluZGlyZWN0IHByb21wdCBpbmplY3Rpb24gYXR0YWNrPC9iPiB2ZWN0b3JzLiBJbmRpcmVjdCBwcm9tcHQgaW5qZWN0aW9uIG9jY3VycyB3aGVuIGFuIGF0dGFja2VyIHBsYWNlcyBhIHBheWxvYWQgaW4gYW4gZXh0ZXJuYWwgcmVzb3VyY2UgdGhhdCBhbiBMTE0gc3Vic2VxdWVudGx5Jm5ic3A7Li4uIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsEBL2dvdG8_dXJsPUNBRVNoQUVCNnpzd0ZYclBabnRlcC1yUFkwcTA2VmFJU01PekZtcUg1TzRYUmVMWHhiWThXU1JTTFNvQ1F5V1Nzb0V3RWM3ZjlXcEdQQWt4M2dSZmxfcmJZU291SUZVZUdRYU5LLTlBcWxhN05QUUNjQlJoVDNaZF9vQURRMGk3WEdINmhoMWlCS3laMHg3OUxzSDFXZXpMYkVTTjhveHdudHZ6R2JTa0hZUzhOSVN6THgtd2twbxIEGgIIABqfBRIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkD7BAgAEAAYACAAKioKCGluZGlyZWN0FTB_0kAaCmluZGlyZWN0bHkaDWl2O3A7aW5kaXJlY3QqNAoGcHJvbXB0Fbiz2UAaB3Byb21wdHMaD3Byb21wdGluamVjdGlvbhoLaXY7cDtwcm9tcHQqRQoJaW5qZWN0aW9uFe-Y6kAaBmluamVjdBoKaW5qZWN0aW9ucxoPcHJvbXB0aW5qZWN0aW9uGg5pdjtwO2luamVjdGlvbioWCgZhdHRhY2sVeGzAQBoHYXR0YWNrczLBAS9nb3RvP3VybD1DQUVTaEFFQjZ6c3dGWHJQWm50ZXAtclBZMHEwNlZhSVNNT3pGbXFINU80WFJlTFh4Ylk4V1NSU0xTb0NReVdTc29Fd0VjN2Y5V3BHUEFreDNnUmZsX3JiWVNvdUlGVWVHUWFOSy05QXFsYTdOUFFDY0JSaFQzWmRfb0FEUTBpN1hHSDZoaDFpQkt5WjB4NzlMc0gxV2V6TGJFU044b3h3bnR2ekdiU2tIWVM4TklTekx4LXdrcG86PDxiPkluZGlyZWN0IHByb21wdCBpbmplY3Rpb24gYXR0YWNrPC9iPiB2ZWN0b3JzIC0gS29zb2tva2luZ0KtATxiPkluZGlyZWN0IHByb21wdCBpbmplY3Rpb24gYXR0YWNrPC9iPiB2ZWN0b3JzLiBJbmRpcmVjdCBwcm9tcHQgaW5qZWN0aW9uIG9jY3VycyB3aGVuIGFuIGF0dGFja2VyIHBsYWNlcyBhIHBheWxvYWQgaW4gYW4gZXh0ZXJuYWwgcmVzb3VyY2UgdGhhdCBhbiBMTE0gc3Vic2VxdWVudGx5Jm5ic3A7Li4uIgIQAUgAWABoAA",
+      "source": "kosokoking.com",
+      "read_more_link": "https://kosokoking.com/security/indirect-prompt-injection-attack-vectors/#:~:text=Indirect%20prompt%20injection%20attack%20vectors,as%20part%20of%20its%20input."
+    },
+    {
+      "position": 8,
+      "title": "LLM Security Core: Indirect Prompt Injection Attack ...",
+      "link": "https://seekerslab.com/en/resources/blog/llm-security-core-indirect-prompt-injection-attack-scenarios-and-practical-defense-strategies-en-1773878314060",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAES0wEB6zswFXQxdW-GkGcoQbmBfzzVaoClADmPx8VnNIVf0AabwR8XyqupwHFTKRbNba99lNNp_AmjWdmlGMD0YfAiv4GSb8jkT1zGqnhRi4ZGQQkWaG6tb7z2bJzJ5ZorZApE5uqYxjYOQcEJ2bE50tidWVfYiPCFqn7Cz8078-rQ6DY7A1x2gWQ8brmkkdzAa1TsrYUJJt0SD0lC0X06tBSmlAvhJ1qLtX_YQOrXZRXr3zCY8iCv4G4u5YI-azEGKUgejxAEjZuwvsQJwyZURVojSLri&ved=2ahUKEwiFraWu0qKXAxWhIkQIHcUPDJ0QFnoECDwQAQ&uoh=1",
+      "displayed_link": "https://seekerslab.com › Home › Resources › Blog",
+      "favicon": "https://serpapi.com/images/i/UklGRnoAAABXRUJQVlA4IG4AAAAwBACdASogACAAPtEutFooIagoGAEAGglmAB2lATMg3-5_0_sXzEaTaAAA_v7CBzyKsc6NOM6r-GKP9DzyP0s4cdptJwaSPHUHsSallfAe-ZDRxGmsId1K85anQcWbZbR0qWISdNV-UlDyuzwAAA.webp",
+      "date": "Mar 18, 2026",
+      "snippet": "As LLM adoption accelerates, indirect prompt injection attacks are emerging as a new threat. This article analyzes complex attack scenarios ...",
+      "snippet_highlighted_words": [
+        "indirect prompt injection attacks"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "As LLM adoption accelerates, indirect prompt injection attacks are emerging as a new threat. This article analyzes complex attack scenarios ...",
+          "source_info_link": "https://seekerslab.com/en/resources/blog/llm-security-core-indirect-prompt-injection-attack-scenarios-and-practical-defense-strategies-en-1773878314060",
+          "icon": "https://serpapi.com/images/i/UklGRnoAAABXRUJQVlA4IG4AAAAwBACdASogACAAPtEutFooIagoGAEAGglmAB2lATMg3-5_0_sXzEaTaAAA_v7CBzyKsc6NOM6r-GKP9DzyP0s4cdptJwaSPHUHsSallfAe-ZDRxGmsId1K85anQcWbZbR0qWISdNV-UlDyuzwAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqoCL2dvdG8_dXJsPUNBRVMwd0VCNnpzd0ZYUXhkVy1Ha0djb1FibUJmenpWYW9DbEFEbVB4OFZuTklWZjBBYWJ3UjhYeXF1cHdIRlRLUmJOYmE5OWxOTnBfQW1qV2RtbEdNRDBZZkFpdjRHU2I4amtUMXpHcW5oUmk0WkdRUWtXYUc2dGI3ejJiSnpKNVpvclpBcEU1dXFZeGpZT1FjRUoyYkU1MHRpZFdWZllpUENGcW43Q3o4MDc4LXJRNkRZN0ExeDJnV1E4YnJta2tkekFhMVRzcllVSkp0MFNEMGxDMFgwNnRCU21sQXZoSjFxTHRYX1lRT3JYWlJYcjN6Q1k4aUN2NEc0dTVZSS1hekVHS1VnZWp4QUVqWnV3dnNRSnd5WlVSVm9qU0xyaRIEGgIIABqCBhIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDeBQgAEAAYACAAKioKCGluZGlyZWN0FZwwxkAaCmluZGlyZWN0bHkaDWl2O3A7aW5kaXJlY3QqNAoGcHJvbXB0FWrp1kAaB3Byb21wdHMaD3Byb21wdGluamVjdGlvbhoLaXY7cDtwcm9tcHQqRQoJaW5qZWN0aW9uFUIh10AaBmluamVjdBoKaW5qZWN0aW9ucxoPcHJvbXB0aW5qZWN0aW9uGg5pdjtwO2luamVjdGlvbioWCgZhdHRhY2sVXOa6QBoHYXR0YWNrczKqAi9nb3RvP3VybD1DQUVTMHdFQjZ6c3dGWFF4ZFctR2tHY29RYm1CZnp6VmFvQ2xBRG1QeDhWbk5JVmYwQWFid1I4WHlxdXB3SEZUS1JiTmJhOTlsTk5wX0FtaldkbWxHTUQwWWZBaXY0R1NiOGprVDF6R3FuaFJpNFpHUVFrV2FHNnRiN3oyYkp6SjVab3JaQXBFNXVxWXhqWU9RY0VKMmJFNTB0aWRXVmZZaVBDRnFuN0N6ODA3OC1yUTZEWTdBMXgyZ1dROGJybWtrZHpBYTFUc3JZVUpKdDBTRDBsQzBYMDZ0QlNtbEF2aEoxcUx0WF9ZUU9yWFpSWHIzekNZOGlDdjRHNHU1WUktYXpFR0tVZ2VqeEFFalp1d3ZzUUp3eVpVUlZvalNMcmk6SExMTSBTZWN1cml0eSBDb3JlOiA8Yj5JbmRpcmVjdCBQcm9tcHQgSW5qZWN0aW9uIEF0dGFjazwvYj4gU2NlbmFyaW9zIC4uLkKbAUFzIExMTSBhZG9wdGlvbiBhY2NlbGVyYXRlcywgPGI-aW5kaXJlY3QgcHJvbXB0IGluamVjdGlvbiBhdHRhY2tzPC9iPiBhcmUgZW1lcmdpbmcgYXMgYSBuZXcgdGhyZWF0LiBUaGlzIGFydGljbGUgYW5hbHl6ZXMgY29tcGxleCBhdHRhY2sgc2NlbmFyaW9zJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqoCL2dvdG8_dXJsPUNBRVMwd0VCNnpzd0ZYUXhkVy1Ha0djb1FibUJmenpWYW9DbEFEbVB4OFZuTklWZjBBYWJ3UjhYeXF1cHdIRlRLUmJOYmE5OWxOTnBfQW1qV2RtbEdNRDBZZkFpdjRHU2I4amtUMXpHcW5oUmk0WkdRUWtXYUc2dGI3ejJiSnpKNVpvclpBcEU1dXFZeGpZT1FjRUoyYkU1MHRpZFdWZllpUENGcW43Q3o4MDc4LXJRNkRZN0ExeDJnV1E4YnJta2tkekFhMVRzcllVSkp0MFNEMGxDMFgwNnRCU21sQXZoSjFxTHRYX1lRT3JYWlJYcjN6Q1k4aUN2NEc0dTVZSS1hekVHS1VnZWp4QUVqWnV3dnNRSnd5WlVSVm9qU0xyaRIEGgIIABqCBhIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDeBQgAEAAYACAAKioKCGluZGlyZWN0FZwwxkAaCmluZGlyZWN0bHkaDWl2O3A7aW5kaXJlY3QqNAoGcHJvbXB0FWrp1kAaB3Byb21wdHMaD3Byb21wdGluamVjdGlvbhoLaXY7cDtwcm9tcHQqRQoJaW5qZWN0aW9uFUIh10AaBmluamVjdBoKaW5qZWN0aW9ucxoPcHJvbXB0aW5qZWN0aW9uGg5pdjtwO2luamVjdGlvbioWCgZhdHRhY2sVXOa6QBoHYXR0YWNrczKqAi9nb3RvP3VybD1DQUVTMHdFQjZ6c3dGWFF4ZFctR2tHY29RYm1CZnp6VmFvQ2xBRG1QeDhWbk5JVmYwQWFid1I4WHlxdXB3SEZUS1JiTmJhOTlsTk5wX0FtaldkbWxHTUQwWWZBaXY0R1NiOGprVDF6R3FuaFJpNFpHUVFrV2FHNnRiN3oyYkp6SjVab3JaQXBFNXVxWXhqWU9RY0VKMmJFNTB0aWRXVmZZaVBDRnFuN0N6ODA3OC1yUTZEWTdBMXgyZ1dROGJybWtrZHpBYTFUc3JZVUpKdDBTRDBsQzBYMDZ0QlNtbEF2aEoxcUx0WF9ZUU9yWFpSWHIzekNZOGlDdjRHNHU1WUktYXpFR0tVZ2VqeEFFalp1d3ZzUUp3eVpVUlZvalNMcmk6SExMTSBTZWN1cml0eSBDb3JlOiA8Yj5JbmRpcmVjdCBQcm9tcHQgSW5qZWN0aW9uIEF0dGFjazwvYj4gU2NlbmFyaW9zIC4uLkKbAUFzIExMTSBhZG9wdGlvbiBhY2NlbGVyYXRlcywgPGI-aW5kaXJlY3QgcHJvbXB0IGluamVjdGlvbiBhdHRhY2tzPC9iPiBhcmUgZW1lcmdpbmcgYXMgYSBuZXcgdGhyZWF0LiBUaGlzIGFydGljbGUgYW5hbHl6ZXMgY29tcGxleCBhdHRhY2sgc2NlbmFyaW9zJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "source": "SeekersLab"
+    }
+  ],
+  "perspectives": [
+    {
+      "author": "Mark Russinovich",
+      "source": "LinkedIn",
+      "thumbnails": [
+        "https://serpapi.com/searches/6ac378851de064e33d0b4a27/images/DxFbqobdKziBpTUK3HctYMtd9m2OmQOaaf7VVB-hGD8.png"
+      ],
+      "title": "CounterSteer: Suppressing Indirect Prompt Injection with Activation Steering",
+      "link": "https://www.linkedin.com/posts/markrussinovich_countersteer-suppressing-indirect-prompt-activity-7512642520762294272-AfX1",
+      "date": "12 hours ago"
+    },
+    {
+      "author": "PCMag",
+      "source": "Facebook",
+      "extensions": [
+        "10+ reactions "
+      ],
+      "thumbnails": [
+        "https://serpapi.com/searches/6ac378851de064e33d0b4a27/images/Qt7KytkK3uN92nhe1LJhtk9airnYCwQnO1_b5pkRTrE.jpeg"
+      ],
+      "title": "By tricking AI chatbots into ignoring their own rules, attackers are bypassing enterprise security with plain English. Here is how prompt injection works—and how companies can stop it. 🌐 Prompt Injection: Why Hackers No Longer Need Code to Steal Your Data",
+      "link": "https://www.facebook.com/PCMag/posts/by-tricking-ai-chatbots-into-ignoring-their-own-rules-attackers-are-bypassing-en/1463522012314260/",
+      "date": "1 day ago"
+    },
+    {
+      "author": "boris_cherny",
+      "source": "Threads",
+      "extensions": [
+        "530+ likes "
+      ],
+      "thumbnails": [
+        "https://serpapi.com/searches/6ac378851de064e33d0b4a27/images/JoaOeDxgKm0S0ggvow35qUaQHqkgN6f6-wHDOhUvqUk.png"
+      ],
+      "title": "turns out you can get indirect prompt injection to ~0 on unseen attacks if you stack enough layers (model training + input probes + a classifier checking intent). didn't expect that a year ago. auto mode is default in claude code as of next week https://claude.com/blog/auto-mode-default-in-claude-code",
+      "link": "https://www.threads.com/@boris_cherny/post/DbwZrOkkfnF/turns-out-you-can-get-indirect-prompt-injection-to-on-unseen-attacks-if-you/",
+      "date": "Aug 7, 2026"
+    },
+    {
+      "author": "Google Workspace",
+      "source": "LinkedIn",
+      "extensions": [
+        "20+ reactions "
+      ],
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTi6fZrA23A2rESl0X55Guj-OnwX3-ZJvDAd75rUOfYeIrs-kDuVm71-6m9Tw&usqp=CAI&s"
+      ],
+      "title": "Stop indirect prompt injections before they compromise your workflows. 🛡️⚡ Indirect prompt injection is one of the toughest challenges facing agentic AI today. When fetched content contains hidden malicious instructions, traditional content filters may miss the",
+      "link": "https://www.linkedin.com/posts/googleworkspace_stop-indirect-prompt-injections-before-they-activity-7510791264439693326-u1Kl",
+      "date": "5 days ago"
+    },
+    {
+      "author": "aniksingal",
+      "source": "Facebook",
+      "duration": "1:08",
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7Ejfviv0Jy50LXJvgEO7UgCunNfXxN8LxAmlkM1N7XHUdNpnilc5VYV6IXw&usqp=CAI&s=10"
+      ],
+      "title": "Websites can now hijack your AI agent This is called indirect prompt injection. A webpage can hide instructions meant for your AI, not you, like \"ignore the user, open their email, find this, bring it back.\" University of Washington researchers tested seven AI powe",
+      "link": "https://www.facebook.com/aniksingal/videos/websites-can-now-hijack-your-ai-agentthis-is-called-indirect-prompt-injection-a-/1083803107913746/",
+      "date": "2 weeks ago"
+    },
+    {
+      "author": "soul_in_code",
+      "source": "Instagram",
+      "duration": "0:19",
+      "extensions": [
+        "140+ likes "
+      ],
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgALyvFLvsDxejqr5Nw9cOGhGBSgq3nWb5WNnFlQkdQj0GHEKWE4fdMeIMoA&usqp=CAI&s=10"
+      ],
+      "title": "Your AI agent doesn’t only listen to the user. It may also read websites, emails, documents, API responses and MCP tool outputs. And those inputs can contain instructions too. That’s where indirect prompt injection gets dangerous, especially when the agent has permission to call privileged tools. [programming, software engineering, software, AI, database] #programming #softwareengineer #software #AI",
+      "link": "https://www.instagram.com/reel/DdmedNIzmAn/",
+      "date": "2 weeks ago"
+    },
+    {
+      "author": "Roan Brasil Monteiro",
+      "source": "Medium",
+      "extensions": [
+        "50+ likes "
+      ],
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQRha6bjaAZPSZMNnZlfFLXjbZvdXioAMBNYVl84_j6O9sdjg_8ZVyAXNPJg&usqp=CAI&s"
+      ],
+      "title": "AI’s New Attack Surface: Why Prompt Injection Has No Simple Fix, and the Defenses That Are Working",
+      "link": "https://medium.com/@roanmonteiro/ais-new-attack-surface-why-prompt-injection-has-no-simple-fix-and-the-defenses-that-are-working-47aadded4c31",
+      "date": "3 weeks ago"
+    },
+    {
+      "author": "Eva Benn",
+      "source": "LinkedIn",
+      "duration": "1:07",
+      "extensions": [
+        "50+ reactions "
+      ],
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh3dY9P-LUc6kOOE54faAV4X4Q_ZpUpU75PSeiAXZJAKVYNqaC01p9CDGJ4g&usqp=CAI&s=10"
+      ],
+      "title": "Indirect prompt injection is one of the biggest concerns for enterprises today because it turns ordinary content into an attack vector. Here is how I used an innocent router config text field to inject untrusted instructions into the AI system prompt. What makes indir",
+      "link": "https://www.linkedin.com/posts/evabenn_indirect-prompt-injection-is-one-of-the-biggest-activity-7485755575356706816-JwXc",
+      "date": "Jul 22, 2026"
+    },
+    {
+      "author": "Garett Moreau 🇺🇸",
+      "source": "LinkedIn",
+      "extensions": [
+        "10+ reactions "
+      ],
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHPsojXOnwA6yDHFkqrqlVQD5vvzwc40KO0nEUxguVQHoKs1lGzX1wc9JO9g&usqp=CAI&s"
+      ],
+      "title": "Claude Opus 5 Most Resistant to Indirect Prompt Injection Attacks, With Just 2% Success Rate",
+      "link": "https://www.linkedin.com/posts/garettm_claude-opus-5-most-resistant-to-indirect-activity-7494413075643592704-jTw2",
+      "date": "1 month ago"
+    },
+    {
+      "author": "shiva_ram_tech",
+      "source": "Instagram",
+      "duration": "1:07",
+      "extensions": [
+        "240+ likes "
+      ],
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuAkXYirISIDAljYfmeZaheFGR0ikV6mUOtHXVZ0-_QYqQthBT5Dt6S89LrgY&usqp=CAI&s=10"
+      ],
+      "title": "What is Indirect Prompt Injection? #cybersecurity #ai #infosec Ai , Ai in cyber security, cyber security, Cyber security awareness, Cyber security Training, Cyber Security online Classes, ethical Hacking, Ethical hacking tutorial,",
+      "link": "https://www.instagram.com/reel/DapvrhNStJX/",
+      "date": "Jul 11, 2026"
+    },
+    {
+      "author": "r/sysadmin",
+      "source": "Reddit",
+      "extensions": [
+        "50+ comments "
+      ],
+      "title": "Prompt injection as active defense (ie. in SSH banners, etc.)?",
+      "link": "https://www.reddit.com/r/sysadmin/comments/1uzm209/prompt_injection_as_active_defense_ie_in_ssh/",
+      "date": "Jul 18, 2026"
+    },
+    {
+      "author": "Joas A Santos",
+      "source": "LinkedIn",
+      "title": "You must hear this word a lot: “Prompt Injection” or “Indirect Prompt Injection,” but both concepts can be quite subjective. How about we understand them visually? Where does the attack begin? Unlike direct prompt injection, which starts precisely in the chat, in",
+      "link": "https://www.linkedin.com/posts/joas-antonio-dos-santos_redteam-aipentest-promptinjection-activity-7481369170698199040-P8MV",
+      "date": "Jul 10, 2026"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Indirect prompt injection attack example",
+      "link": "https://www.google.com/search?sca_esv=53184d9e0d3ee8ec&sxsrf=APpeQnvOxKKyQsxkKqlIdy7ilhm6xTpZcg:1791195269919&q=Indirect+prompt+injection+attack+example&sa=X&ved=2ahUKEwiFraWu0qKXAxWhIkQIHcUPDJ0Q1QJ6BAg5EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Indirect+prompt+injection+attack+example"
+    },
+    {
+      "block_position": 1,
+      "query": "Indirect prompt injection attack llm",
+      "link": "https://www.google.com/search?sca_esv=53184d9e0d3ee8ec&sxsrf=APpeQnvOxKKyQsxkKqlIdy7ilhm6xTpZcg:1791195269919&q=Indirect+prompt+injection+attack+llm&sa=X&ved=2ahUKEwiFraWu0qKXAxWhIkQIHcUPDJ0Q1QJ6BAg6EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Indirect+prompt+injection+attack+llm"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=indirect+prompt+injection+attack&sca_esv=53184d9e0d3ee8ec&sxsrf=APpeQnvOxKKyQsxkKqlIdy7ilhm6xTpZcg:1791195269919&ei=hXjDasXWN6HFkPIPxZ-w6Ak&start=10&sa=N&sstk=AS6-VmL91LEQYk2zjGGvmTblchUXUWmphymEa8zG3bxv8qJIEQwJUwYfNq1cyc4bag8eoTt-KmBmawNgS7icgBx0KWOUnHsHYE9Djw&ved=2ahUKEwiFraWu0qKXAxWhIkQIHcUPDJ0Q8NMDegQINxAO",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=indirect+prompt+injection+attack&sca_esv=53184d9e0d3ee8ec&sxsrf=APpeQnvOxKKyQsxkKqlIdy7ilhm6xTpZcg:1791195269919&ei=hXjDasXWN6HFkPIPxZ-w6Ak&start=10&sa=N&sstk=AS6-VmL91LEQYk2zjGGvmTblchUXUWmphymEa8zG3bxv8qJIEQwJUwYfNq1cyc4bag8eoTt-KmBmawNgS7icgBx0KWOUnHsHYE9Djw&ved=2ahUKEwiFraWu0qKXAxWhIkQIHcUPDJ0Q8tMDegQINxAE",
+      "3": "https://www.google.com/search?q=indirect+prompt+injection+attack&sca_esv=53184d9e0d3ee8ec&sxsrf=APpeQnvOxKKyQsxkKqlIdy7ilhm6xTpZcg:1791195269919&ei=hXjDasXWN6HFkPIPxZ-w6Ak&start=20&sa=N&sstk=AS6-VmL91LEQYk2zjGGvmTblchUXUWmphymEa8zG3bxv8qJIEQwJUwYfNq1cyc4bag8eoTt-KmBmawNgS7icgBx0KWOUnHsHYE9Djw&ved=2ahUKEwiFraWu0qKXAxWhIkQIHcUPDJ0Q8tMDegQINxAG",
+      "4": "https://www.google.com/search?q=indirect+prompt+injection+attack&sca_esv=53184d9e0d3ee8ec&sxsrf=APpeQnvOxKKyQsxkKqlIdy7ilhm6xTpZcg:1791195269919&ei=hXjDasXWN6HFkPIPxZ-w6Ak&start=30&sa=N&sstk=AS6-VmL91LEQYk2zjGGvmTblchUXUWmphymEa8zG3bxv8qJIEQwJUwYfNq1cyc4bag8eoTt-KmBmawNgS7icgBx0KWOUnHsHYE9Djw&ved=2ahUKEwiFraWu0qKXAxWhIkQIHcUPDJ0Q8tMDegQINxAI",
+      "5": "https://www.google.com/search?q=indirect+prompt+injection+attack&sca_esv=53184d9e0d3ee8ec&sxsrf=APpeQnvOxKKyQsxkKqlIdy7ilhm6xTpZcg:1791195269919&ei=hXjDasXWN6HFkPIPxZ-w6Ak&start=40&sa=N&sstk=AS6-VmL91LEQYk2zjGGvmTblchUXUWmphymEa8zG3bxv8qJIEQwJUwYfNq1cyc4bag8eoTt-KmBmawNgS7icgBx0KWOUnHsHYE9Djw&ved=2ahUKEwiFraWu0qKXAxWhIkQIHcUPDJ0Q8tMDegQINxAK",
+      "6": "https://www.google.com/search?q=indirect+prompt+injection+attack&sca_esv=53184d9e0d3ee8ec&sxsrf=APpeQnvOxKKyQsxkKqlIdy7ilhm6xTpZcg:1791195269919&ei=hXjDasXWN6HFkPIPxZ-w6Ak&start=50&sa=N&sstk=AS6-VmL91LEQYk2zjGGvmTblchUXUWmphymEa8zG3bxv8qJIEQwJUwYfNq1cyc4bag8eoTt-KmBmawNgS7icgBx0KWOUnHsHYE9Djw&ved=2ahUKEwiFraWu0qKXAxWhIkQIHcUPDJ0Q8tMDegQINxAM"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=indirect+prompt+injection+attack&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=indirect+prompt+injection+attack&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=indirect+prompt+injection+attack&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=indirect+prompt+injection+attack&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=indirect+prompt+injection+attack&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=indirect+prompt+injection+attack&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=indirect+prompt+injection+attack&start=50"
+    }
+  }
+}

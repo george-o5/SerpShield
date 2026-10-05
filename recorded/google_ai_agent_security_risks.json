@@ -1,0 +1,619 @@
+{
+  "search_metadata": {
+    "id": "6ac37889532a177b79248c1a",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/gJwT9gJfqtIv47TP7TfdMPKzaABY80T96FMXkfqtrA4/6ac37889532a177b79248c1a.json",
+    "markdown_endpoint": "https://serpapi.com/searches/gJwT9gJfqtIv47TP7TfdMPKzaABY80T96FMXkfqtrA4/6ac37889532a177b79248c1a.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/gJwT9gJfqtIv47TP7TfdMPKzaABY80T96FMXkfqtrA4/6ac37889532a177b79248c1a.json_with_pixel_position",
+    "created_at": "2026-10-05 10:14:33 UTC",
+    "processed_at": "2026-10-05 10:14:33 UTC",
+    "google_url": "https://www.google.com/search?q=AI+agent+security+risks&oq=AI+agent+security+risks&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/gJwT9gJfqtIv47TP7TfdMPKzaABY80T96FMXkfqtrA4/6ac37889532a177b79248c1a.html",
+    "total_time_taken": 1.07
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "AI agent security risks",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "AI agent security risks",
+    "total_results": 191000,
+    "time_taken_displayed": 0.25,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "ads": [
+    {
+      "position": 1,
+      "title": "Top 3 AI Agent Risks | AI Agent Risks, Explained",
+      "link": "https://www.wiz.io/lp/securing-ai-agents-101",
+      "displayed_link": "https://www.wiz.io",
+      "thumbnail": "https://serpapi.com/searches/6ac37889532a177b79248c1a/images/ZNm2OF6-k5-iZJwjB47hnQ.png",
+      "tracking_link": "https://www.google.com/aclk?sa=L&ai=DChsSEwjZhYCw0qKXAxXIckcBHaJVMHIYACICCAIQARoCcXU&co=1&ase=2&gclid=EAIaIQobChMI2YWAsNKilwMVyHJHAR2iVTByEAMYASABEgL9z_D_BwE&cid=CAASuwHkaK8rljPc1aTLIhayIq1Dd5v-H-DgSZyebcq9XrgnshSt14Kv1vc-8wynBuGCw5JSt89jCn6guANFZ4eNNjCwrP8zngDtqCdAKD_o_yBUaBmNkHSsnd27KUbZ9LxMfuqmUOl3WGalYTzYxbDl969f_YhBScjYrHmQv5LfvynIU8m-IkNUE_gcUrV0mON0gVKSA90zY23wk1g55UUr6_J44aU9cSstQ2pVhX2039I3CPKiP84lw5mGIJJC&cce=2&category=acrcp_v1_32&sig=AOD64_2YoFmNvPxF7SYKgeHAMg5UASCmgw&q=&nis=4&ved=2ahUKEwjauPqv0qKXAxW6F1kFHfdaIwkQh78CegQIUxAB&adurl=",
+      "description": "Learn the top 3 AI agent risks and practical steps to reduce exposure. Get the one-pager. See where AI agent risk emerges and how to mitigate it. Trusted by...",
+      "extensions": [
+        "1M+ visits in past month"
+      ],
+      "source": "Wiz™"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What are the biggest security risks of AI agents?",
+      "type": "ai_overview",
+      "page_token": "cp9NhHicHdBdbqJAAADg7GX6WBmobTQxTabCIJGxDszvywYGdQQGppYV7Ftv0EP0VD3NbvYGX77P7_bcNT-_vswwuPflbDaO4_2p70_t4V73dla83zo900XbloVulo9Pj-D5qFfhVcKXi4Z76hxbEy-zBmcfJsxBkhUoDRjHV04XPBWJL9vFtvgwKg9wX3am33ITHxrSlWE0UEs2O45RisxrwdoHHpmpqPWDChc1XUPFWdQo5LaS0QmviTzwfmSgAaWATjIoUhtdc1_ONXV9Tg1R6BTghnkZd2-HOgWEsz9lYC6p3UyEYaZis8EvgJc1ToRP1nuenCs79yUdAuqNk-5YtOPTFgP8z13BCmFWRNrjYQIqOn8ldKhDoxxHLpQC3iitUi0kyO1iv8srkbeYoHMCSYxvO65oZsFZ-xPKOwj3XIkqbo-auziLyEZ40qc-CO6O-roK7v5Pr34f7bB0l_70Fz5hixI",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=cp9NhHicHdBdbqJAAADg7GX6WBmobTQxTabCIJGxDszvywYGdQQGppYV7Ftv0EP0VD3NbvYGX77P7_bcNT-_vswwuPflbDaO4_2p70_t4V73dla83zo900XbloVulo9Pj-D5qFfhVcKXi4Z76hxbEy-zBmcfJsxBkhUoDRjHV04XPBWJL9vFtvgwKg9wX3am33ITHxrSlWE0UEs2O45RisxrwdoHHpmpqPWDChc1XUPFWdQo5LaS0QmviTzwfmSgAaWATjIoUhtdc1_ONXV9Tg1R6BTghnkZd2-HOgWEsz9lYC6p3UyEYaZis8EvgJc1ToRP1nuenCs79yUdAuqNk-5YtOPTFgP8z13BCmFWRNrjYQIqOn8ldKhDoxxHLpQC3iitUi0kyO1iv8srkbeYoHMCSYxvO65oZsFZ-xPKOwj3XIkqbo-auziLyEZ40qc-CO6O-roK7v5Pr34f7bB0l_70Fz5hixI",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSSlJsUXdVeTFpVHpNM1FrZFhTRWRWTVZGV09IQXlXRzFuVURaRFFXaGtkM056TURoeWRtb3dlRFl3UjB3MlQwUTNWbmRPVURRMU9WRkdObDlSWkRSbWFtaEhVMGhYTFRWek1USlhabVIxU2tSa1NrVldibU54WVVNNFVSSVdhVmhxUkdGd2NsRkhUSEYyTlU1dlVEazNWMDVUVVJvaVFVUnpjamxtVTFZME4zaGhVRzh6U1MxeE9VSndkbTVPVDFJNFZXSkNiRkY0UVEiLCJmY3YiOiIzIiwiZWkiOiJpWGpEYXByUUdMcXY1Tm9QOTdXTlNRIiwicWMiOiJDaGRoYVNCaFoyVnVkQ0J6WldOMWNtbDBlU0J5YVhOcmN4QUFmU0xPRmo4IiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgYmlnZ2VzdCBzZWN1cml0eSByaXNrcyBvZiBBSSBhZ2VudHM/IiwibGsiOiJHakIzYUdGMElHRnlaU0IwYUdVZ1ltbG5aMlZ6ZENCelpXTjFjbWwwZVNCeWFYTnJjeUJ2WmlCaGFTQmhaMlZ1ZEhNIiwiYnMiOiJjNDJPc1E3Q01CQkR4WG9UY3dqb0JtQ0dNRVBGUmlkRzVvQ3U2UW1Kb0Z5cXFIOVBpMUNoeXNKcS05a0dCOXRMYlNQYVFCaHJ3aXM3UnhKUjZOWUVqaTBHbHJ1Z3JfQllvblgwaUZJWW96YnBQOGp5QjRJenJFWkQwVDl4MTVlT29jS3MxVExsd2E1b0hJUTk2RktRdTFWYjlTbHNoSDVQenRXTU1fXzc1d0Q2NUZPdnYzc0pXOS1FZ1NfTVF1azY5d2QtT25rQiIsImlkIjoiZmNfaVhqRGFwclFHTHF2NU5vUDk3V05TUV8zIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSSlJsUXdVeTFpVHpNM1FrZFhTRWRWTVZGV09IQXlXRzFuVURaRFFXaGtkM056TURoeWRtb3dlRFl3UjB3MlQwUTNWbmRPVURRMU9WRkdObDlSWkRSbWFtaEhVMGhYTFRWek1USlhabVIxU2tSa1NrVldibU54WVVNNFVSSVdhVmhxUkdGd2NsRkhUSEYyTlU1dlVEazNWMDVUVVJvaVFVUnpjamxtVTFZME4zaGhVRzh6U1MxeE9VSndkbTVPVDFJNFZXSkNiRkY0UVEiLCJmY3YiOiIzIiwiZWkiOiJpWGpEYXByUUdMcXY1Tm9QOTdXTlNRIiwicWMiOiJDaGRoYVNCaFoyVnVkQ0J6WldOMWNtbDBlU0J5YVhOcmN4QUFmU0xPRmo4IiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgYmlnZ2VzdCBzZWN1cml0eSByaXNrcyBvZiBBSSBhZ2VudHM%2FIiwibGsiOiJHakIzYUdGMElHRnlaU0IwYUdVZ1ltbG5aMlZ6ZENCelpXTjFjbWwwZVNCeWFYTnJjeUJ2WmlCaGFTQmhaMlZ1ZEhNIiwiYnMiOiJjNDJPc1E3Q01CQkR4WG9UY3dqb0JtQ0dNRVBGUmlkRzVvQ3U2UW1Kb0Z5cXFIOVBpMUNoeXNKcS05a0dCOXRMYlNQYVFCaHJ3aXM3UnhKUjZOWUVqaTBHbHJ1Z3JfQllvblgwaUZJWW96YnBQOGp5QjRJenJFWkQwVDl4MTVlT29jS3MxVExsd2E1b0hJUTk2RktRdTFWYjlTbHNoSDVQenRXTU1fXzc1d0Q2NUZPdnYzc0pXOS1FZ1NfTVF1azY5d2QtT25rQiIsImlkIjoiZmNfaVhqRGFwclFHTHF2NU5vUDk3V05TUV8zIn0%3D"
+    },
+    {
+      "question": "What are the top 3 AI security risks?",
+      "type": "ai_overview",
+      "page_token": "I2ZaI3icHdBfbpswHABg7TJ9bAw02YgUTaIGMhScYn42mJcK7CQk2ImT0vLnbXfZqXaaSfuO8P3-o8_X7u-3vu17-7FeLIZheD7dbid9eJY3s6g_pqtcyFrrppbdevV95fw8yk34GQav919BxqzlmCIIFQbjdDtoMbDkrSgJqdzlQC58VCzxMq0En-kniX_0HAlXdXRqnOhLIP5oYorVNhgBDWPB_SJno5BA8sqLErkl9xS1e3FRqwahOb9ErwoHNY1IzpBzPkRW0NhnJWqX4Aq32iYUPDWkZhwJVgHlGnY8sk3n04KNE2BuwSEGIn_ODDUq1hnFwYPjaMlcJ8-YTqu5pWFb2SK2oSiDiTGVylI4YPxsD6oETWh8TgK6JdO-qCAt-h25dLNwnaQ2w0sN5Mq4uuedejsU6q5Ae09H-bXxnv5vbt6Ppl_bx-30DySJga4",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=I2ZaI3icHdBfbpswHABg7TJ9bAw02YgUTaIGMhScYn42mJcK7CQk2ImT0vLnbXfZqXaaSfuO8P3-o8_X7u-3vu17-7FeLIZheD7dbid9eJY3s6g_pqtcyFrrppbdevV95fw8yk34GQav919BxqzlmCIIFQbjdDtoMbDkrSgJqdzlQC58VCzxMq0En-kniX_0HAlXdXRqnOhLIP5oYorVNhgBDWPB_SJno5BA8sqLErkl9xS1e3FRqwahOb9ErwoHNY1IzpBzPkRW0NhnJWqX4Aq32iYUPDWkZhwJVgHlGnY8sk3n04KNE2BuwSEGIn_ODDUq1hnFwYPjaMlcJ8-YTqu5pWFb2SK2oSiDiTGVylI4YPxsD6oETWh8TgK6JdO-qCAt-h25dLNwnaQ2w0sN5Mq4uuedejsU6q5Ae09H-bXxnv5vbt6Ppl_bx-30DySJga4",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSSlJsUXdVeTFpVHpNM1FrZFhTRWRWTVZGV09IQXlXRzFuVURaRFFXaGtkM056TURoeWRtb3dlRFl3UjB3MlQwUTNWbmRPVURRMU9WRkdObDlSWkRSbWFtaEhVMGhYTFRWek1USlhabVIxU2tSa1NrVldibU54WVVNNFVSSVdhVmhxUkdGd2NsRkhUSEYyTlU1dlVEazNWMDVUVVJvaVFVUnpjamxtVTFZME4zaGhVRzh6U1MxeE9VSndkbTVPVDFJNFZXSkNiRkY0UVEiLCJmY3YiOiIzIiwiZWkiOiJpWGpEYXByUUdMcXY1Tm9QOTdXTlNRIiwicWMiOiJDaGRoYVNCaFoyVnVkQ0J6WldOMWNtbDBlU0J5YVhOcmN4QUFmU0xPRmo4IiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgdG9wIDMgQUkgc2VjdXJpdHkgcmlza3M/IiwibGsiOiJHaVIzYUdGMElHRnlaU0IwYUdVZ2RHOXdJRE1nWVdrZ2MyVmpkWEpwZEhrZ2NtbHphM00iLCJicyI6ImM0Mk9zUTdDTUJCRHhYb1Rjd2pvQm1DR01FUEZSaWRHNW9DdTZRbUpvRnlxcUg5UGkxQ2h5c0pxLTlrR0I5dExiU1BhUUJocndpczdSeEpSNk5ZRWppMEdscnVncl9CWW9uWDBpRklZb3picFA4anlCNEl6ckVaRDBUOXgxNWVPb2NLczFUTGx3YTVvSElROTZGS1F1MVZiOVNsc2hINVB6dFdNTV9fNzV3RDY1Rk92djNzSlc5LUVnU19NUXVrNjl3ZC1PbmtCIiwiaWQiOiJmY19pWGpEYXByUUdMcXY1Tm9QOTdXTlNRXzMifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSSlJsUXdVeTFpVHpNM1FrZFhTRWRWTVZGV09IQXlXRzFuVURaRFFXaGtkM056TURoeWRtb3dlRFl3UjB3MlQwUTNWbmRPVURRMU9WRkdObDlSWkRSbWFtaEhVMGhYTFRWek1USlhabVIxU2tSa1NrVldibU54WVVNNFVSSVdhVmhxUkdGd2NsRkhUSEYyTlU1dlVEazNWMDVUVVJvaVFVUnpjamxtVTFZME4zaGhVRzh6U1MxeE9VSndkbTVPVDFJNFZXSkNiRkY0UVEiLCJmY3YiOiIzIiwiZWkiOiJpWGpEYXByUUdMcXY1Tm9QOTdXTlNRIiwicWMiOiJDaGRoYVNCaFoyVnVkQ0J6WldOMWNtbDBlU0J5YVhOcmN4QUFmU0xPRmo4IiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgdG9wIDMgQUkgc2VjdXJpdHkgcmlza3M%2FIiwibGsiOiJHaVIzYUdGMElHRnlaU0IwYUdVZ2RHOXdJRE1nWVdrZ2MyVmpkWEpwZEhrZ2NtbHphM00iLCJicyI6ImM0Mk9zUTdDTUJCRHhYb1Rjd2pvQm1DR01FUEZSaWRHNW9DdTZRbUpvRnlxcUg5UGkxQ2h5c0pxLTlrR0I5dExiU1BhUUJocndpczdSeEpSNk5ZRWppMEdscnVncl9CWW9uWDBpRklZb3picFA4anlCNEl6ckVaRDBUOXgxNWVPb2NLczFUTGx3YTVvSElROTZGS1F1MVZiOVNsc2hINVB6dFdNTV9fNzV3RDY1Rk92djNzSlc5LUVnU19NUXVrNjl3ZC1PbmtCIiwiaWQiOiJmY19pWGpEYXByUUdMcXY1Tm9QOTdXTlNRXzMifQ%3D%3D"
+    },
+    {
+      "question": "Is it safe to use AI agents?",
+      "type": "ai_overview",
+      "page_token": "GcSxa3icHdBRboIwAADQ7DJ-DirUTROzTG1BokWLLdCfpRQFbQUiDhx_u8tOtdMs2TvC-_4x50r_PsXl_d60M8vq-_65qOvCHJ9VfbVk-1UpS0ljMqn0bPIyAW8nNUdtu1jW_WLPmoavqB3xYLJFpGceRbIqoEpwzBBBIp6WudGA2xDutdtzNu1yloc5eIX7KmDcX8hkXGoy5hfJSRniXIiKJCxmrmAuDJfAlZ6AG85dyh6Y6sdZssJNB2QfrgKKga-lWSxDTMJkwMvIlOKggy5jdCf9YHfwRaIcw7KYdMdLOmydplUMxxFGEb6aVGpaKj-g1H488gsPM_AOCchDBpBca4yUs4bC0F0UAU6GII0TetuuxCaryGe0wuXWS_vEpoR7anRS3dwZ_YfNP07X-6y51cUfodF2vA",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=GcSxa3icHdBRboIwAADQ7DJ-DirUTROzTG1BokWLLdCfpRQFbQUiDhx_u8tOtdMs2TvC-_4x50r_PsXl_d60M8vq-_65qOvCHJ9VfbVk-1UpS0ljMqn0bPIyAW8nNUdtu1jW_WLPmoavqB3xYLJFpGceRbIqoEpwzBBBIp6WudGA2xDutdtzNu1yloc5eIX7KmDcX8hkXGoy5hfJSRniXIiKJCxmrmAuDJfAlZ6AG85dyh6Y6sdZssJNB2QfrgKKga-lWSxDTMJkwMvIlOKggy5jdCf9YHfwRaIcw7KYdMdLOmydplUMxxFGEb6aVGpaKj-g1H488gsPM_AOCchDBpBca4yUs4bC0F0UAU6GII0TetuuxCaryGe0wuXWS_vEpoR7anRS3dwZ_YfNP07X-6y51cUfodF2vA",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSSlJsUXdVeTFpVHpNM1FrZFhTRWRWTVZGV09IQXlXRzFuVURaRFFXaGtkM056TURoeWRtb3dlRFl3UjB3MlQwUTNWbmRPVURRMU9WRkdObDlSWkRSbWFtaEhVMGhYTFRWek1USlhabVIxU2tSa1NrVldibU54WVVNNFVSSVdhVmhxUkdGd2NsRkhUSEYyTlU1dlVEazNWMDVUVVJvaVFVUnpjamxtVTFZME4zaGhVRzh6U1MxeE9VSndkbTVPVDFJNFZXSkNiRkY0UVEiLCJmY3YiOiIzIiwiZWkiOiJpWGpEYXByUUdMcXY1Tm9QOTdXTlNRIiwicWMiOiJDaGRoYVNCaFoyVnVkQ0J6WldOMWNtbDBlU0J5YVhOcmN4QUFmU0xPRmo4IiwicXVlc3Rpb24iOiJJcyBpdCBzYWZlIHRvIHVzZSBBSSBhZ2VudHM/IiwibGsiOiJHaHRwY3lCcGRDQnpZV1psSUhSdklIVnpaU0JoYVNCaFoyVnVkSE0iLCJicyI6ImM0Mk9zUTdDTUJCRHhYb1Rjd2pvQm1DR01FUEZSaWRHNW9DdTZRbUpvRnlxcUg5UGkxQ2h5c0pxLTlrR0I5dExiU1BhUUJocndpczdSeEpSNk5ZRWppMEdscnVncl9CWW9uWDBpRklZb3picFA4anlCNEl6ckVaRDBUOXgxNWVPb2NLczFUTGx3YTVvSElROTZGS1F1MVZiOVNsc2hINVB6dFdNTV9fNzV3RDY1Rk92djNzSlc5LUVnU19NUXVrNjl3ZC1PbmtCIiwiaWQiOiJmY19pWGpEYXByUUdMcXY1Tm9QOTdXTlNRXzMifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSSlJsUXdVeTFpVHpNM1FrZFhTRWRWTVZGV09IQXlXRzFuVURaRFFXaGtkM056TURoeWRtb3dlRFl3UjB3MlQwUTNWbmRPVURRMU9WRkdObDlSWkRSbWFtaEhVMGhYTFRWek1USlhabVIxU2tSa1NrVldibU54WVVNNFVSSVdhVmhxUkdGd2NsRkhUSEYyTlU1dlVEazNWMDVUVVJvaVFVUnpjamxtVTFZME4zaGhVRzh6U1MxeE9VSndkbTVPVDFJNFZXSkNiRkY0UVEiLCJmY3YiOiIzIiwiZWkiOiJpWGpEYXByUUdMcXY1Tm9QOTdXTlNRIiwicWMiOiJDaGRoYVNCaFoyVnVkQ0J6WldOMWNtbDBlU0J5YVhOcmN4QUFmU0xPRmo4IiwicXVlc3Rpb24iOiJJcyBpdCBzYWZlIHRvIHVzZSBBSSBhZ2VudHM%2FIiwibGsiOiJHaHRwY3lCcGRDQnpZV1psSUhSdklIVnpaU0JoYVNCaFoyVnVkSE0iLCJicyI6ImM0Mk9zUTdDTUJCRHhYb1Rjd2pvQm1DR01FUEZSaWRHNW9DdTZRbUpvRnlxcUg5UGkxQ2h5c0pxLTlrR0I5dExiU1BhUUJocndpczdSeEpSNk5ZRWppMEdscnVncl9CWW9uWDBpRklZb3picFA4anlCNEl6ckVaRDBUOXgxNWVPb2NLczFUTGx3YTVvSElROTZGS1F1MVZiOVNsc2hINVB6dFdNTV9fNzV3RDY1Rk92djNzSlc5LUVnU19NUXVrNjl3ZC1PbmtCIiwiaWQiOiJmY19pWGpEYXByUUdMcXY1Tm9QOTdXTlNRXzMifQ%3D%3D"
+    },
+    {
+      "question": "How to secure your AI agent?",
+      "type": "ai_overview",
+      "page_token": "eJqrvXicHdBdboIwAADg7DI-KhVxzsQsY7Yqs20oUEpfFmxVhPIzYRN52112qp1myb4jfN8_5lIVvw9x1nVNu5xMbrfb-FzXZ3Mcq7qcpO29UhOVGnNIVbGcP87B80mtYNu6r_XN9aOm4WtmhRvdEsgTPBBAYwewkFdJMbtzIF028PqADFJR84kh76iQngD6SoWbE6QJHqJpajKKt82b2iDO4izHQkbCloUKjRMI3OP4yYhBz2m0cNLCYJ6bCufmctgs-gh2PbMlYGv5EUDikwFb2jZ7CfyOxrspBvwelItZAlBPKi-UFqtUAQNUmiQtWKa2HmNW3-uc0wN4cQjQNAIw3RUIKnvnSOPNjjBjR6S5Eu4-EXqjhKx1iCwae6ew9C0eq9FJfa3s0X_Y6v1UdsvmWp__APwud-Q",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=eJqrvXicHdBdboIwAADg7DI-KhVxzsQsY7Yqs20oUEpfFmxVhPIzYRN52112qp1myb4jfN8_5lIVvw9x1nVNu5xMbrfb-FzXZ3Mcq7qcpO29UhOVGnNIVbGcP87B80mtYNu6r_XN9aOm4WtmhRvdEsgTPBBAYwewkFdJMbtzIF028PqADFJR84kh76iQngD6SoWbE6QJHqJpajKKt82b2iDO4izHQkbCloUKjRMI3OP4yYhBz2m0cNLCYJ6bCufmctgs-gh2PbMlYGv5EUDikwFb2jZ7CfyOxrspBvwelItZAlBPKi-UFqtUAQNUmiQtWKa2HmNW3-uc0wN4cQjQNAIw3RUIKnvnSOPNjjBjR6S5Eu4-EXqjhKx1iCwae6ew9C0eq9FJfa3s0X_Y6v1UdsvmWp__APwud-Q",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSSlJsUXdVeTFpVHpNM1FrZFhTRWRWTVZGV09IQXlXRzFuVURaRFFXaGtkM056TURoeWRtb3dlRFl3UjB3MlQwUTNWbmRPVURRMU9WRkdObDlSWkRSbWFtaEhVMGhYTFRWek1USlhabVIxU2tSa1NrVldibU54WVVNNFVSSVdhVmhxUkdGd2NsRkhUSEYyTlU1dlVEazNWMDVUVVJvaVFVUnpjamxtVTFZME4zaGhVRzh6U1MxeE9VSndkbTVPVDFJNFZXSkNiRkY0UVEiLCJmY3YiOiIzIiwiZWkiOiJpWGpEYXByUUdMcXY1Tm9QOTdXTlNRIiwicWMiOiJDaGRoYVNCaFoyVnVkQ0J6WldOMWNtbDBlU0J5YVhOcmN4QUFmU0xPRmo4IiwicXVlc3Rpb24iOiJIb3cgdG8gc2VjdXJlIHlvdXIgQUkgYWdlbnQ/IiwibGsiOiJHaHhvYjNjZ2RHOGdjMlZqZFhKbElIbHZkWElnWVdrZ1lXZGxiblJ6IiwiYnMiOiJjNDJPc1E3Q01CQkR4WG9UY3dqb0JtQ0dNRVBGUmlkRzVvQ3U2UW1Kb0Z5cXFIOVBpMUNoeXNKcS05a0dCOXRMYlNQYVFCaHJ3aXM3UnhKUjZOWUVqaTBHbHJ1Z3JfQllvblgwaUZJWW96YnBQOGp5QjRJenJFWkQwVDl4MTVlT29jS3MxVExsd2E1b0hJUTk2RktRdTFWYjlTbHNoSDVQenRXTU1fXzc1d0Q2NUZPdnYzc0pXOS1FZ1NfTVF1azY5d2QtT25rQiIsImlkIjoiZmNfaVhqRGFwclFHTHF2NU5vUDk3V05TUV8zIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSSlJsUXdVeTFpVHpNM1FrZFhTRWRWTVZGV09IQXlXRzFuVURaRFFXaGtkM056TURoeWRtb3dlRFl3UjB3MlQwUTNWbmRPVURRMU9WRkdObDlSWkRSbWFtaEhVMGhYTFRWek1USlhabVIxU2tSa1NrVldibU54WVVNNFVSSVdhVmhxUkdGd2NsRkhUSEYyTlU1dlVEazNWMDVUVVJvaVFVUnpjamxtVTFZME4zaGhVRzh6U1MxeE9VSndkbTVPVDFJNFZXSkNiRkY0UVEiLCJmY3YiOiIzIiwiZWkiOiJpWGpEYXByUUdMcXY1Tm9QOTdXTlNRIiwicWMiOiJDaGRoYVNCaFoyVnVkQ0J6WldOMWNtbDBlU0J5YVhOcmN4QUFmU0xPRmo4IiwicXVlc3Rpb24iOiJIb3cgdG8gc2VjdXJlIHlvdXIgQUkgYWdlbnQ%2FIiwibGsiOiJHaHhvYjNjZ2RHOGdjMlZqZFhKbElIbHZkWElnWVdrZ1lXZGxiblJ6IiwiYnMiOiJjNDJPc1E3Q01CQkR4WG9UY3dqb0JtQ0dNRVBGUmlkRzVvQ3U2UW1Kb0Z5cXFIOVBpMUNoeXNKcS05a0dCOXRMYlNQYVFCaHJ3aXM3UnhKUjZOWUVqaTBHbHJ1Z3JfQllvblgwaUZJWW96YnBQOGp5QjRJenJFWkQwVDl4MTVlT29jS3MxVExsd2E1b0hJUTk2RktRdTFWYjlTbHNoSDVQenRXTU1fXzc1d0Q2NUZPdnYzc0pXOS1FZ1NfTVF1azY5d2QtT25rQiIsImlkIjoiZmNfaVhqRGFwclFHTHF2NU5vUDk3V05TUV8zIn0%3D"
+    }
+  ],
+  "ai_overview": {
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "snippet": "AI agent security risks are vulnerabilities and threats that emerge when autonomous systems execute unverified decisions, access external APIs, and retain persistent memory across platforms.",
+        "snippet_highlighted_words": [
+          "vulnerabilities and threats that emerge when autonomous systems execute unverified decisions, access external APIs, and retain persistent memory across platforms"
+        ],
+        "reference_indexes": [
+          0,
+          1,
+          2
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "According to guidance from IBM, autonomous agents expand the traditional attack surface because they operate quickly and make runtime choices without human review.",
+        "snippet_links": [
+          {
+            "text": "IBM",
+            "link": "https://www.ibm.com/think/topics/ai-agent-security"
+          }
+        ],
+        "reference_indexes": [
+          0,
+          3
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "Top Security Risks"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Prompt Injection: Attackers hide malicious instructions in emails, websites, or documents that the agent reads, forcing it to override safety rules or leak data.",
+            "reference_indexes": [
+              4,
+              5
+            ]
+          },
+          {
+            "snippet": "Excessive Privileges: Agents often hold broad permissions or shared credentials, letting a compromised tool delete files or move across corporate networks.",
+            "reference_indexes": [
+              5,
+              6
+            ]
+          },
+          {
+            "snippet": "Memory Poisoning: Flawed or malicious inputs persist in an agent's long-term memory, corrupting its reasoning across future sessions.",
+            "reference_indexes": [
+              1,
+              7
+            ]
+          },
+          {
+            "snippet": "Cascading Failures: In multi-agent setups, a logic error or compromise in one agent quickly spreads downstream to connected systems.",
+            "reference_indexes": [
+              1,
+              8
+            ]
+          },
+          {
+            "snippet": "Supply Chain Gaps: Open-source frameworks and third-party API connectors introduce hidden vulnerabilities into the agent's core toolchain."
+          }
+        ],
+        "reference_indexes": [
+          1,
+          9
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "Key Mitigation Strategies"
+      },
+      {
+        "type": "paragraph",
+        "snippet": "As outlined by McKinsey, enterprises must implement strict operational safeguards:",
+        "snippet_links": [
+          {
+            "text": "McKinsey",
+            "link": "https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/deploying-agentic-ai-with-safety-and-security-a-playbook-for-technology-leaders"
+          }
+        ],
+        "reference_indexes": [
+          8
+        ]
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Enforce least privilege access with short-lived, scoped credentials for every agent."
+          },
+          {
+            "snippet": "Treat all external data and text read by the agent as untrusted input."
+          },
+          {
+            "snippet": "Require human approval before the agent executes high-impact or destructive actions."
+          },
+          {
+            "snippet": "Monitor runtime behavior continuously using Aembit or similar identity frameworks to track non-human credentials.",
+            "snippet_links": [
+              {
+                "text": "Aembit",
+                "link": "https://aembit.io/blog/agentic-ai-cybersecurity-risks-security-guide/"
+              }
+            ]
+          }
+        ],
+        "reference_indexes": [
+          1,
+          4,
+          6,
+          7,
+          10
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "If you'd like, let me know:"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "What type of AI agents you plan to deploy"
+          },
+          {
+            "snippet": "Which systems or tools they will connect to"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "I can help you build a custom risk checklist or mitigation plan."
+      }
+    ],
+    "references": [
+      {
+        "index": 0,
+        "title": "What is AI Agent Security? | IBM",
+        "link": "https://www.ibm.com/think/topics/ai-agent-security",
+        "snippet": "Threats: Expanded attack surface, autonomous speed, unpredictable inference, lack of transparency. Vulnerabilities: Prompt injection (goal manipulation, hijacking)",
+        "source": "IBM",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ibm.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTScFE0M4wYOpFhoiFV_-EwMPrbUk9fFC3GfUxW30CSV4Cq0Cu274RMZo-18OueOb3B8MaS4weASPUpj4SzJ4c0b9M-urFJEkD8BZ2O"
+      },
+      {
+        "index": 1,
+        "title": "6 Agentic AI Security Risks to Monitor in 2026 | Aembit",
+        "link": "https://aembit.io/blog/agentic-ai-cybersecurity-risks-security-guide/",
+        "snippet": "6 Cybersecurity Risks of Agentic AI (and How to Address Them) Apurva Davé Chief Marketing Officer Sep, 2026 8 min read Summarize: quick summary Table of Contents R...",
+        "source": "Aembit",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://aembit.io&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTP5xWBExLtfhef2UhkhF0ls3Mw6qia0KVO8KkchlMxEHuRqAuajhICp0SrmAMTiu4pkCQ20-_mrPfVhTEmNazPTMZAcMSBQYDdjNZa"
+      },
+      {
+        "index": 2,
+        "title": "Top AI Agent Security Risks and How to Mitigate Them",
+        "link": "https://www.obsidiansecurity.com/blog/ai-agent-security-risks",
+        "snippet": "Understanding AI Agent Security Risks in 2025: Definition & Context * AI agent security risks encompass the vulnerabilities, threats, and attack vectors that emerg...",
+        "source": "Obsidian Security",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.obsidiansecurity.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTKLA7_psn72yWIzydrGo3Tp9tHcKU3xDaUCjbWkvbpEXqPFMAet1Kc4if88iT7xWRWqQ_gs120l0TpAmQLt6AGXIu90ihFaOoxTD3_"
+      },
+      {
+        "index": 3,
+        "title": "Agentic AI Common Security Risks",
+        "link": "https://www.checkpoint.com/cyber-hub/cyber-security/what-is-ai-security/agentic-ai-common-security-risks/",
+        "snippet": "Key Takeaways * Agentic AI expands the attack surface through greater autonomy and access to external systems. * AI agent security is no longer just about who acce...",
+        "source": "Check Point Software",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.checkpoint.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      {
+        "index": 4,
+        "title": "AI Agent Security: Risks, Controls, and Best Practices - Checkmarx",
+        "link": "https://checkmarx.com/learn/ai-security/ai-agent-security-risks-controls-and-best-practices/",
+        "snippet": "Agentic AI systems create novel risks such as excessive privilege, insecure tool invocation, indirect prompt injection, and unintended data exfiltration; risks tha...",
+        "source": "Checkmarx",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://checkmarx.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsWMdo-M7pdRCHz3J4VEEqmeckaWeHmrHAmK12dyVFAfTAT9ujb_vCcHqArRnDHuWuDt2ewG0jR5A2Mo83BAAo1EU"
+      },
+      {
+        "index": 5,
+        "title": "Top 7 Agentic AI Security Risks & 7 Ways to Mitigate Them",
+        "link": "https://www.cequence.ai/learn/agentic-ai/top-agentic-ai-security-risks-and-ways-to-mitigate-them/",
+        "snippet": "What is Agentic AI Security? * Key agentic AI security challenges: Agentic AI introduces unique risks compared to traditional GenAI chatbots: Unauthorized actions:",
+        "source": "Cequence Security",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cequence.ai&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      {
+        "index": 6,
+        "title": "The AI Agent Security Landscape: Players, Trends, and Risks",
+        "link": "https://www.obsidiansecurity.com/blog/ai-agent-market-landscape",
+        "snippet": "Definition: Practices protecting autonomous AI systems from unauthorized access, leakage, manipulation, and abuse in SaaS. Threats: Token compromise, identity spoo...",
+        "source": "Obsidian Security",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.obsidiansecurity.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSTqCFZFdyHdJzlH4lGvavJPFqX_oOa9CqrmBV9IA8xsbtIGRQVZI54LKRwuNKLSmAqYbeNI9Z4lIGwKjd5CQQ2j4wOUQoMuFXPjgqe"
+      },
+      {
+        "index": 7,
+        "title": "AI Agent Security: Risks and Best Practices",
+        "link": "https://www.doppel.com/blog/ai-agent-security",
+        "snippet": "AI Agent Security: Risks and Best Practices * Key takeaways * What AI agent security means * An agent holds credentials and acts on them without asking * Agent sec...",
+        "source": "Doppel",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.doppel.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkzrnNUkS_7r5bZOL-NXdkDLkOJxdxJoWIZ8LdtQqrPBUvStTzLAite3hxrCeOEZP9l971O9wTwRT-vVf1Qt8naxIx2xlu_bYHCSIH"
+      },
+      {
+        "index": 8,
+        "title": "Agentic AI security: Risks & governance for enterprises | McKinsey",
+        "link": "https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/deploying-agentic-ai-with-safety-and-security-a-playbook-for-technology-leaders",
+        "snippet": "Emerging Risks: Chained vulnerabilities (logic errors cascading downstream); Cross-agent task escalation (unauthorized privilege gains); Synthetic-identity risk (s...",
+        "source": "McKinsey & Company",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.mckinsey.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSfcoNcSelLwzcHLeMaMXr3ezsr2Tj_YEKaToGH2TfOw_7FiNsnCFIKrk0RpNMv5cRFq7GjeGXpFRsManl5qZqykOlkKeiAV_KIbBIA"
+      },
+      {
+        "index": 9,
+        "title": "AI Agent Security: Risks, Best Practices & Enterprise Protection",
+        "link": "https://witness.ai/blog/ai-agent-security/",
+        "snippet": "The Top Security Risks Facing AI Agents. 1. Prompt Injection and Agent Hijacking. Prompt injection attacks manipulate agent inputs to override intended instruction...",
+        "source": "WitnessAI",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://witness.ai&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt1MRi3faX7fd8NNkGTx7iTuEEny3hkwTkSZm7-3hPy_M90rK6G6ETT1cF6wSJvWmUbCtF7HvvqmPf7MVxQSKQMwbrzuUEvXsdA0HN"
+      },
+      {
+        "index": 10,
+        "title": "Securing & Governing Autonomous AI Agents: Risks & Safeguards",
+        "link": "https://www.youtube.com/watch?v=E_yPUsCpoC8",
+        "snippet": "agentic AI is here these aren't just chat bots they're autonomous agents that could schedule meetings trade stocks. so there's obviously huge potential there but t",
+        "source": "YouTube",
+        "source_icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSNJ9-jJwA-812LMFggzyX3082czMBU5RcnAt3kH1pV-GYAviPPCJUfs_gWz6aq5kM5MtbpIl6VnvNpeG2E6YJQV6DebhkcBs8wLHpxLw"
+      }
+    ]
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Honest question, how many of you actually think about ...",
+      "link": "https://www.reddit.com/r/AI_Agents/comments/1s71opl/honest_question_how_many_of_you_actually_think/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESngEB6zswFdKQ-kvmXcyEj_5f0-Te0E0EJy5AnShAx-mofy-vaF_mMAoZ-ppSqMb4JsWwBPZd_RMaInAJfE-4BQlI1HnLrnECzBLayexsGVYbsPUNIdY_F5PI5ySmmqJJ69kW6BbtkWg_IfDsoYjuL1lWr702cVLKxbhgcOhZAJG6TWfRNkZ3PU8RXGkhzI--vw4lrwwNUWnNdDFmSmrriQ&ved=2ahUKEwjauPqv0qKXAxW6F1kFHfdaIwkQFnoECC0QAQ&uoh=1",
+      "displayed_link": "30+ comments · 6 months ago",
+      "favicon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
+      "snippet": "Not trying to be dramatic about it but I genuinely didn't think about this until recently. Like the agent is browsing, coding, managing files, ...",
+      "about_this_result": {
+        "source": {
+          "description": "Many users may overlook the implications of their agents having access to various integrations and files, which can pose security risks. Tools ...",
+          "source_info_link": "https://www.reddit.com/r/AI_Agents/comments/1s71opl/honest_question_how_many_of_you_actually_think/",
+          "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuQBL2dvdG8_dXJsPUNBRVNuZ0VCNnpzd0ZkS1Eta3ZtWGN5RWpfNWYwLVRlMEUwRUp5NUFuU2hBeC1tb2Z5LXZhRl9tTUFvWi1wcFNxTWI0SnNXd0JQWmRfUk1hSW5BSmZFLTRCUWxJMUhuTHJuRUN6QkxheWV4c0dWWWJzUFVOSWRZX0Y1UEk1eVNtbXFKSjY5a1c2QmJ0a1dnX0lmRHNvWWp1TDFsV3I3MDJjVkxLeGJoZ2NPaFpBSkc2VFdmUk5rWjNQVThSWEdraHpJLS12dzRscnd3TlVXbk5kREZtU21ycmlREgQaAggAGpoFEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQPYECAAQABgAIAAqKwoCYWkVXJdtQBoXYXJ0aWZpY2lhbCBpbnRlbGxpZ2VuY2UaB2FpYWdlbnQqHQoFYWdlbnQVmOQTQBoGYWdlbnRzGgdhaWFnZW50Kh4KCHNlY3VyaXR5FTpjqT8aDXNlY3VyaXR5cmlza3MqMQoFcmlza3MVVgdaPxoGaXNzdWVzGgRyaXNrGgZ0aHJlYXQaDXNlY3VyaXR5cmlza3My5AEvZ290bz91cmw9Q0FFU25nRUI2enN3RmRLUS1rdm1YY3lFal81ZjAtVGUwRTBFSnk1QW5TaEF4LW1vZnktdmFGX21NQW9aLXBwU3FNYjRKc1d3QlBaZF9STWFJbkFKZkUtNEJRbEkxSG5Mcm5FQ3pCTGF5ZXhzR1ZZYnNQVU5JZFlfRjVQSTV5U21tcUpKNjlrVzZCYnRrV2dfSWZEc29ZanVMMWxXcjcwMmNWTEt4YmhnY09oWkFKRzZUV2ZSTmtaM1BVOFJYR2toekktLXZ3NGxyd3dOVVduTmRERm1TbXJyaVE6PkhvbmVzdCBxdWVzdGlvbiwgaG93IG1hbnkgb2YgeW91IGFjdHVhbGx5IHRoaW5rIGFib3V0IHdoYXQgLi4uQqUBTWFueSB1c2VycyBtYXkgb3Zlcmxvb2sgdGhlIGltcGxpY2F0aW9ucyBvZiB0aGVpciA8Yj5hZ2VudHM8L2I-IGhhdmluZyBhY2Nlc3MgdG8gdmFyaW91cyBpbnRlZ3JhdGlvbnMgYW5kIGZpbGVzLCB3aGljaCBjYW4gcG9zZSA8Yj5zZWN1cml0eSByaXNrczwvYj4uIFRvb2xzJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuQBL2dvdG8_dXJsPUNBRVNuZ0VCNnpzd0ZkS1Eta3ZtWGN5RWpfNWYwLVRlMEUwRUp5NUFuU2hBeC1tb2Z5LXZhRl9tTUFvWi1wcFNxTWI0SnNXd0JQWmRfUk1hSW5BSmZFLTRCUWxJMUhuTHJuRUN6QkxheWV4c0dWWWJzUFVOSWRZX0Y1UEk1eVNtbXFKSjY5a1c2QmJ0a1dnX0lmRHNvWWp1TDFsV3I3MDJjVkxLeGJoZ2NPaFpBSkc2VFdmUk5rWjNQVThSWEdraHpJLS12dzRscnd3TlVXbk5kREZtU21ycmlREgQaAggAGpoFEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQPYECAAQABgAIAAqKwoCYWkVXJdtQBoXYXJ0aWZpY2lhbCBpbnRlbGxpZ2VuY2UaB2FpYWdlbnQqHQoFYWdlbnQVmOQTQBoGYWdlbnRzGgdhaWFnZW50Kh4KCHNlY3VyaXR5FTpjqT8aDXNlY3VyaXR5cmlza3MqMQoFcmlza3MVVgdaPxoGaXNzdWVzGgRyaXNrGgZ0aHJlYXQaDXNlY3VyaXR5cmlza3My5AEvZ290bz91cmw9Q0FFU25nRUI2enN3RmRLUS1rdm1YY3lFal81ZjAtVGUwRTBFSnk1QW5TaEF4LW1vZnktdmFGX21NQW9aLXBwU3FNYjRKc1d3QlBaZF9STWFJbkFKZkUtNEJRbEkxSG5Mcm5FQ3pCTGF5ZXhzR1ZZYnNQVU5JZFlfRjVQSTV5U21tcUpKNjlrVzZCYnRrV2dfSWZEc29ZanVMMWxXcjcwMmNWTEt4YmhnY09oWkFKRzZUV2ZSTmtaM1BVOFJYR2toekktLXZ3NGxyd3dOVVduTmRERm1TbXJyaVE6PkhvbmVzdCBxdWVzdGlvbiwgaG93IG1hbnkgb2YgeW91IGFjdHVhbGx5IHRoaW5rIGFib3V0IHdoYXQgLi4uQqUBTWFueSB1c2VycyBtYXkgb3Zlcmxvb2sgdGhlIGltcGxpY2F0aW9ucyBvZiB0aGVpciA8Yj5hZ2VudHM8L2I-IGhhdmluZyBhY2Nlc3MgdG8gdmFyaW91cyBpbnRlZ3JhdGlvbnMgYW5kIGZpbGVzLCB3aGljaCBjYW4gcG9zZSA8Yj5zZWN1cml0eSByaXNrczwvYj4uIFRvb2xzJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "source": "Reddit · r/AI_Agents"
+    },
+    {
+      "position": 2,
+      "title": "AI Agent Security: Stop Prompt Injection and Secret Leaks",
+      "link": "https://codenotary.com/blog/ai-agent-security-guardrails",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScwHrOzAVpRsWn7IdvXNvR2Do_hHeKoJrY0z-Z6eEW21tpKvWvo50BrVR57b8RY7ui_duRCYHl-DzjhDq3Qy6hZTl4aO8nkF15m1E5gsTOWT2GUgDjCveJIgGi2kXymWaE5jEURf-f_KGvzudaSZQX5ItHZA&ved=2ahUKEwjauPqv0qKXAxW6F1kFHfdaIwkQFnoECDEQAQ&uoh=1",
+      "displayed_link": "https://codenotary.com › ai-agent-security-guardrails",
+      "favicon": "https://serpapi.com/images/i/UklGRjABAABXRUJQVlA4ICQBAACQBgCdASocABwAPtFAtFooIqgoFAEAGglnAAUQIYV4uKG716egAHZsefXimdlrNwazDmy2zuxx3oPCG0vAAP72AvQpbfB0eFqPoFkhvro0IrpD74FoCnvqTERcxsUltACHFVjGqF8VxWtMcfVBx64vNz1XL6sS4cgKGIjwH4aGjZz9tuQVPh5uiNg3hYWLq_5o8P3AwxNRYtpldCWDpOCTfthzVz-tZLspnD6P7yo5G_KPtOh_rU5209psWWD0d3ox7t4uhQYZvJ6ed7J22up6X78DesJ_LBSE4vlhBRu6cfV0hxn-Gz0yg_mvUWrESSNQB2ZIP49m58wgiJMS9nxXhPkp7S7QKR_x-IXjSafIn_Nd-phEtizuYQCyV8e0fzIMQAAA.webp",
+      "date": "May 26, 2026",
+      "snippet": "Prompt injection, secret leaks, dangerous commands, MCP sprawl — five AI agent security risks and how AgentMon catches each one before",
+      "snippet_highlighted_words": [
+        "five AI agent security risks"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Prompt injection, secret leaks, dangerous commands, MCP sprawl — five AI agent security risks and how AgentMon catches each one before",
+          "source_info_link": "https://codenotary.com/blog/ai-agent-security-guardrails",
+          "icon": "https://serpapi.com/images/i/UklGRjABAABXRUJQVlA4ICQBAACQBgCdASocABwAPtFAtFooIqgoFAEAGglnAAUQIYV4uKG716egAHZsefXimdlrNwazDmy2zuxx3oPCG0vAAP72AvQpbfB0eFqPoFkhvro0IrpD74FoCnvqTERcxsUltACHFVjGqF8VxWtMcfVBx64vNz1XL6sS4cgKGIjwH4aGjZz9tuQVPh5uiNg3hYWLq_5o8P3AwxNRYtpldCWDpOCTfthzVz-tZLspnD6P7yo5G_KPtOh_rU5209psWWD0d3ox7t4uhQYZvJ6ed7J22up6X78DesJ_LBSE4vlhBRu6cfV0hxn-Gz0yg_mvUWrESSNQB2ZIP49m58wgiJMS9nxXhPkp7S7QKR_x-IXjSafIn_Nd-phEtizuYQCyV8e0fzIMQAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqkBL2dvdG8_dXJsPUNBRVNjd0hyT3pBVnBSc1duN0lkdlhOdlIyRG9faEhlS29Kclkwei1aNmVFVzIxdHBLdld2bzUwQnJWUjU3YjhSWTd1aV9kdVJDWUhsLUR6amhEcTNReTZoWlRsNGFPOG5rRjE1bTFFNWdzVE9XVDJHVWdEakN2ZUpJZ0dpMmtYeW1XYUU1akVVUmYtZl9LR3Z6dWRhU1pRWDVJdEhaQRIEGgIIABrLBBIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCnBAgAEAAYACAAKisKAmFpFaj7s0AaF2FydGlmaWNpYWwgaW50ZWxsaWdlbmNlGgdhaWFnZW50Kh0KBWFnZW50FaYRrEAaBmFnZW50cxoHYWlhZ2VudCoeCghzZWN1cml0eRVCLalAGg1zZWN1cml0eXJpc2tzKjEKBXJpc2tzFQAAAAAaBmlzc3VlcxoEcmlzaxoGdGhyZWF0Gg1zZWN1cml0eXJpc2tzMqkBL2dvdG8_dXJsPUNBRVNjd0hyT3pBVnBSc1duN0lkdlhOdlIyRG9faEhlS29Kclkwei1aNmVFVzIxdHBLdld2bzUwQnJWUjU3YjhSWTd1aV9kdVJDWUhsLUR6amhEcTNReTZoWlRsNGFPOG5rRjE1bTFFNWdzVE9XVDJHVWdEakN2ZUpJZ0dpMmtYeW1XYUU1akVVUmYtZl9LR3Z6dWRhU1pRWDVJdEhaQTpAPGI-QUkgQWdlbnQgU2VjdXJpdHk8L2I-OiBTdG9wIFByb21wdCBJbmplY3Rpb24gYW5kIFNlY3JldCBMZWFrc0KPAVByb21wdCBpbmplY3Rpb24sIHNlY3JldCBsZWFrcywgZGFuZ2Vyb3VzIGNvbW1hbmRzLCBNQ1Agc3ByYXdsIOKAlCA8Yj5maXZlIEFJIGFnZW50IHNlY3VyaXR5IHJpc2tzPC9iPiBhbmQgaG93IEFnZW50TW9uIGNhdGNoZXMgZWFjaCBvbmUgYmVmb3JlIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqkBL2dvdG8_dXJsPUNBRVNjd0hyT3pBVnBSc1duN0lkdlhOdlIyRG9faEhlS29Kclkwei1aNmVFVzIxdHBLdld2bzUwQnJWUjU3YjhSWTd1aV9kdVJDWUhsLUR6amhEcTNReTZoWlRsNGFPOG5rRjE1bTFFNWdzVE9XVDJHVWdEakN2ZUpJZ0dpMmtYeW1XYUU1akVVUmYtZl9LR3Z6dWRhU1pRWDVJdEhaQRIEGgIIABrLBBIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCnBAgAEAAYACAAKisKAmFpFaj7s0AaF2FydGlmaWNpYWwgaW50ZWxsaWdlbmNlGgdhaWFnZW50Kh0KBWFnZW50FaYRrEAaBmFnZW50cxoHYWlhZ2VudCoeCghzZWN1cml0eRVCLalAGg1zZWN1cml0eXJpc2tzKjEKBXJpc2tzFQAAAAAaBmlzc3VlcxoEcmlzaxoGdGhyZWF0Gg1zZWN1cml0eXJpc2tzMqkBL2dvdG8_dXJsPUNBRVNjd0hyT3pBVnBSc1duN0lkdlhOdlIyRG9faEhlS29Kclkwei1aNmVFVzIxdHBLdld2bzUwQnJWUjU3YjhSWTd1aV9kdVJDWUhsLUR6amhEcTNReTZoWlRsNGFPOG5rRjE1bTFFNWdzVE9XVDJHVWdEakN2ZUpJZ0dpMmtYeW1XYUU1akVVUmYtZl9LR3Z6dWRhU1pRWDVJdEhaQTpAPGI-QUkgQWdlbnQgU2VjdXJpdHk8L2I-OiBTdG9wIFByb21wdCBJbmplY3Rpb24gYW5kIFNlY3JldCBMZWFrc0KPAVByb21wdCBpbmplY3Rpb24sIHNlY3JldCBsZWFrcywgZGFuZ2Vyb3VzIGNvbW1hbmRzLCBNQ1Agc3ByYXdsIOKAlCA8Yj5maXZlIEFJIGFnZW50IHNlY3VyaXR5IHJpc2tzPC9iPiBhbmQgaG93IEFnZW50TW9uIGNhdGNoZXMgZWFjaCBvbmUgYmVmb3JlIgIQAUgAWABoAA",
+      "source": "Codenotary"
+    },
+    {
+      "position": 3,
+      "title": "Security Evaluation Benchmark for AI Agents",
+      "link": "https://www.ietf.org/archive/id/draft-han-bmwg-agent-security-benchmark-00.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESigEB6zswFe5oG-Vp0tkTqg67gm_vSoqorWvYGEcvG9QqxV8IdjSdPh2nFz1MB_RHMozctbYKWU63FQ265HScwKS4i4T9FtLabXM5WkKSwIE8zzCo1dM0ccw7bPzwhi7XYj0ZKVyrp8yIYWF69tk2qrMf5VnP6NdzX0uIbnNO0wMEhxzT35M_G9Vf56g&ved=2ahUKEwjauPqv0qKXAxW6F1kFHfdaIwkQFnoECDAQAQ&uoh=1",
+      "displayed_link": "https://www.ietf.org › archive › draft-han-bmwg-agent-s...",
+      "date": "Jul 5, 2026",
+      "snippet": "... risk profile of AI agents throughout their entire lifecycle, including perception risks, memory risks, decision-making risks, and execution",
+      "snippet_highlighted_words": [
+        "risk",
+        "AI agents",
+        "risks",
+        "risks",
+        "risks"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "... risk profile of AI agents throughout their entire lifecycle, including perception risks, memory risks, decision-making risks, and execution",
+          "source_info_link": "https://www.ietf.org/archive/id/draft-han-bmwg-agent-security-benchmark-00.html"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CskBL2dvdG8_dXJsPUNBRVNpZ0VCNnpzd0ZlNW9HLVZwMHRrVHFnNjdnbV92U29xb3JXdllHRWN2RzlRcXhWOElkalNkUGgybkZ6MU1CX1JITW96Y3RiWUtXVTYzRlEyNjVIU2N3S1M0aTRUOUZ0TGFiWE01V2tLU3dJRTh6ekNvMWRNMGNjdzdiUHp3aGk3WFlqMFpLVnlycDh5SVlXRjY5dGsycXJNZjVWblA2TmR6WDB1SWJuTk8wd01FaHh6VDM1TV9HOVZmNTZnEgQaAggAGpAFEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA6gQIABAAGAAgACorCgJhaRV9H2tAGhdhcnRpZmljaWFsIGludGVsbGlnZW5jZRoHYWlhZ2VudCodCgVhZ2VudBXRSfU_GgZhZ2VudHMaB2FpYWdlbnQqHgoIc2VjdXJpdHkVceuTQBoNc2VjdXJpdHlyaXNrcyoxCgVyaXNrcxXGLbU_GgZpc3N1ZXMaBHJpc2saBnRocmVhdBoNc2VjdXJpdHlyaXNrczLJAS9nb3RvP3VybD1DQUVTaWdFQjZ6c3dGZTVvRy1WcDB0a1RxZzY3Z21fdlNvcW9yV3ZZR0Vjdkc5UXF4VjhJZGpTZFBoMm5GejFNQl9SSE1vemN0YllLV1U2M0ZRMjY1SFNjd0tTNGk0VDlGdExhYlhNNVdrS1N3SUU4enpDbzFkTTBjY3c3YlB6d2hpN1hZajBaS1Z5cnA4eUlZV0Y2OXRrMnFyTWY1Vm5QNk5kelgwdUlibk5PMHdNRWh4elQzNU1fRzlWZjU2ZzpAPGI-U2VjdXJpdHk8L2I-IEV2YWx1YXRpb24gQmVuY2htYXJrIGZvciA8Yj5BSSBBZ2VudHM8L2I-IC0gSUVURkKyAS4uLiA8Yj5yaXNrPC9iPiBwcm9maWxlIG9mIDxiPkFJIGFnZW50czwvYj4gdGhyb3VnaG91dCB0aGVpciBlbnRpcmUgbGlmZWN5Y2xlLCBpbmNsdWRpbmcgcGVyY2VwdGlvbiA8Yj5yaXNrczwvYj4sIG1lbW9yeSA8Yj5yaXNrczwvYj4sIGRlY2lzaW9uLW1ha2luZyA8Yj5yaXNrczwvYj4sIGFuZCBleGVjdXRpb24iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CskBL2dvdG8_dXJsPUNBRVNpZ0VCNnpzd0ZlNW9HLVZwMHRrVHFnNjdnbV92U29xb3JXdllHRWN2RzlRcXhWOElkalNkUGgybkZ6MU1CX1JITW96Y3RiWUtXVTYzRlEyNjVIU2N3S1M0aTRUOUZ0TGFiWE01V2tLU3dJRTh6ekNvMWRNMGNjdzdiUHp3aGk3WFlqMFpLVnlycDh5SVlXRjY5dGsycXJNZjVWblA2TmR6WDB1SWJuTk8wd01FaHh6VDM1TV9HOVZmNTZnEgQaAggAGpAFEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA6gQIABAAGAAgACorCgJhaRV9H2tAGhdhcnRpZmljaWFsIGludGVsbGlnZW5jZRoHYWlhZ2VudCodCgVhZ2VudBXRSfU_GgZhZ2VudHMaB2FpYWdlbnQqHgoIc2VjdXJpdHkVceuTQBoNc2VjdXJpdHlyaXNrcyoxCgVyaXNrcxXGLbU_GgZpc3N1ZXMaBHJpc2saBnRocmVhdBoNc2VjdXJpdHlyaXNrczLJAS9nb3RvP3VybD1DQUVTaWdFQjZ6c3dGZTVvRy1WcDB0a1RxZzY3Z21fdlNvcW9yV3ZZR0Vjdkc5UXF4VjhJZGpTZFBoMm5GejFNQl9SSE1vemN0YllLV1U2M0ZRMjY1SFNjd0tTNGk0VDlGdExhYlhNNVdrS1N3SUU4enpDbzFkTTBjY3c3YlB6d2hpN1hZajBaS1Z5cnA4eUlZV0Y2OXRrMnFyTWY1Vm5QNk5kelgwdUlibk5PMHdNRWh4elQzNU1fRzlWZjU2ZzpAPGI-U2VjdXJpdHk8L2I-IEV2YWx1YXRpb24gQmVuY2htYXJrIGZvciA8Yj5BSSBBZ2VudHM8L2I-IC0gSUVURkKyAS4uLiA8Yj5yaXNrPC9iPiBwcm9maWxlIG9mIDxiPkFJIGFnZW50czwvYj4gdGhyb3VnaG91dCB0aGVpciBlbnRpcmUgbGlmZWN5Y2xlLCBpbmNsdWRpbmcgcGVyY2VwdGlvbiA8Yj5yaXNrczwvYj4sIG1lbW9yeSA8Yj5yaXNrczwvYj4sIGRlY2lzaW9uLW1ha2luZyA8Yj5yaXNrczwvYj4sIGFuZCBleGVjdXRpb24iAhABSABYAGgA",
+      "source": "IETF | Internet Engineering Task Force"
+    },
+    {
+      "position": 4,
+      "title": "AI agent security risks: are your observability controls ...",
+      "link": "https://nhimg.org/community/ai-beyond-identity/ai-agent-security-risks-are-your-observability-controls-keeping-up/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESrQEB6zswFVy8YGrIloXP6xkxmKvIynapHxhsdXCnClnDC5ZVpYa4vEoQEpD7XFIhqoOlUc-OzFdu5C2GM9zkr9Ize0AVrCpBjUnXHZqN3G_U8qq-sSYiiFoJ4PN8RhFm5tpYdiiHS4IihLav8cqw0Ucd6A1Z-ewVRNGIyikjHVwY94W75Lo8Id4DFCPJsKhtlfr2kZO7jZdTJ3r8MAI1iyfT-MsT0ZDuKeDeJYrW6Q&ved=2ahUKEwjauPqv0qKXAxW6F1kFHfdaIwkQFnoECCwQAQ&uoh=1",
+      "displayed_link": "https://nhimg.org › ... › AI Beyond Identity",
+      "favicon": "https://serpapi.com/images/i/UklGRigBAABXRUJQVlA4IBwBAACQBgCdASocABwAPtEutFooIagoGAEAGglnAM7zeA70EeCGL-J3UD3UYdOxuJsmg_Ws-nyBk2rNr6cdb7qYAP72CbiDTOB8Fpe7RshwOFcHzflLJEZp5in5pcKvqZy-0gR7aIG0WVpGPDEINE4OJiPoV32-3cBuej3IsWciAxQdggwvlqhfDcxXVjwHuhqD4spRhi2YRhehV2pIl-n2EjlpSAIjy5lsbC7p_OuLzWKqS09-_MzmND9387x_08J38-c6L90_OeT_M9KJWxZBflKl-3YUuDGe5aWt1wS-d_zR3CQ8mKnBe_U96rB5gDJ6eItXtrCg0mRP1P3QO-JdNpseawlztmv8uu0Gocv-pLnM7WuP7AzJFqAeMYAAAA.webp",
+      "date": "Aug 19, 2026",
+      "snippet": "A: AI agents create more identity risk because they can persist state, choose tools, and carry out actions over time. Q: What do security teams ...",
+      "snippet_highlighted_words": [
+        "AI agents create more identity risk"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "A: AI agents create more identity risk because they can persist state, choose tools, and carry out actions over time. Q: What do security teams ...",
+          "source_info_link": "https://nhimg.org/community/ai-beyond-identity/ai-agent-security-risks-are-your-observability-controls-keeping-up/",
+          "icon": "https://serpapi.com/images/i/UklGRigBAABXRUJQVlA4IBwBAACQBgCdASocABwAPtEutFooIagoGAEAGglnAM7zeA70EeCGL-J3UD3UYdOxuJsmg_Ws-nyBk2rNr6cdb7qYAP72CbiDTOB8Fpe7RshwOFcHzflLJEZp5in5pcKvqZy-0gR7aIG0WVpGPDEINE4OJiPoV32-3cBuej3IsWciAxQdggwvlqhfDcxXVjwHuhqD4spRhi2YRhehV2pIl-n2EjlpSAIjy5lsbC7p_OuLzWKqS09-_MzmND9387x_08J38-c6L90_OeT_M9KJWxZBflKl-3YUuDGe5aWt1wS-d_zR3CQ8mKnBe_U96rB5gDJ6eItXtrCg0mRP1P3QO-JdNpseawlztmv8uu0Gocv-pLnM7WuP7AzJFqAeMYAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CvgBL2dvdG8_dXJsPUNBRVNyUUVCNnpzd0ZWeThZR3JJbG9YUDZ4a3htS3ZJeW5hcEh4aHNkWENuQ2xuREM1WlZwWWE0dkVvUUVwRDdYRklocW9PbFVjLU96RmR1NUMyR005emtyOUl6ZTBBVnJDcEJqVW5YSFpxTjNHX1U4cXEtc1NZaWlGb0o0UE44UmhGbTV0cFlkaWlIUzRJaWhMYXY4Y3F3MFVjZDZBMVotZXdWUk5HSXlpa2pIVndZOTRXNzVMbzhJZDRERkNQSnNLaHRsZnIya1pPN2paZFRKM3I4TUFJMWl5ZlQtTXNUMFpEdUtlRGVKWXJXNlESBBoCCAAatQUSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAkQUIABAAGAAgACorCgJhaRU-J-hAGhdhcnRpZmljaWFsIGludGVsbGlnZW5jZRoHYWlhZ2VudCodCgVhZ2VudBVIB-1AGgZhZ2VudHMaB2FpYWdlbnQqHgoIc2VjdXJpdHkVHFHkQBoNc2VjdXJpdHlyaXNrcyoxCgVyaXNrcxXiGblAGgZpc3N1ZXMaBHJpc2saBnRocmVhdBoNc2VjdXJpdHlyaXNrczL4AS9nb3RvP3VybD1DQUVTclFFQjZ6c3dGVnk4WUdySWxvWFA2eGt4bUt2SXluYXBIeGhzZFhDbkNsbkRDNVpWcFlhNHZFb1FFcEQ3WEZJaHFvT2xVYy1PekZkdTVDMkdNOXprcjlJemUwQVZyQ3BCalVuWEhacU4zR19VOHFxLXNTWWlpRm9KNFBOOFJoRm01dHBZZGlpSFM0SWloTGF2OGNxdzBVY2Q2QTFaLWV3VlJOR0l5aWtqSFZ3WTk0Vzc1TG84SWQ0REZDUEpzS2h0bGZyMmtaTzdqWmRUSjNyOE1BSTFpeWZULU1zVDBaRHVLZURlSllyVzZROks8Yj5BSSBhZ2VudCBzZWN1cml0eSByaXNrczwvYj46IGFyZSB5b3VyIG9ic2VydmFiaWxpdHkgY29udHJvbHMga2VlcGluZyAuLi5CnwFBOiA8Yj5BSSBhZ2VudHMgY3JlYXRlIG1vcmUgaWRlbnRpdHkgcmlzazwvYj4gYmVjYXVzZSB0aGV5IGNhbiBwZXJzaXN0IHN0YXRlLCBjaG9vc2UgdG9vbHMsIGFuZCBjYXJyeSBvdXQgYWN0aW9ucyBvdmVyIHRpbWUuIFE6IFdoYXQgZG8gc2VjdXJpdHkgdGVhbXMmbmJzcDsuLi4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CvgBL2dvdG8_dXJsPUNBRVNyUUVCNnpzd0ZWeThZR3JJbG9YUDZ4a3htS3ZJeW5hcEh4aHNkWENuQ2xuREM1WlZwWWE0dkVvUUVwRDdYRklocW9PbFVjLU96RmR1NUMyR005emtyOUl6ZTBBVnJDcEJqVW5YSFpxTjNHX1U4cXEtc1NZaWlGb0o0UE44UmhGbTV0cFlkaWlIUzRJaWhMYXY4Y3F3MFVjZDZBMVotZXdWUk5HSXlpa2pIVndZOTRXNzVMbzhJZDRERkNQSnNLaHRsZnIya1pPN2paZFRKM3I4TUFJMWl5ZlQtTXNUMFpEdUtlRGVKWXJXNlESBBoCCAAatQUSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAkQUIABAAGAAgACorCgJhaRU-J-hAGhdhcnRpZmljaWFsIGludGVsbGlnZW5jZRoHYWlhZ2VudCodCgVhZ2VudBVIB-1AGgZhZ2VudHMaB2FpYWdlbnQqHgoIc2VjdXJpdHkVHFHkQBoNc2VjdXJpdHlyaXNrcyoxCgVyaXNrcxXiGblAGgZpc3N1ZXMaBHJpc2saBnRocmVhdBoNc2VjdXJpdHlyaXNrczL4AS9nb3RvP3VybD1DQUVTclFFQjZ6c3dGVnk4WUdySWxvWFA2eGt4bUt2SXluYXBIeGhzZFhDbkNsbkRDNVpWcFlhNHZFb1FFcEQ3WEZJaHFvT2xVYy1PekZkdTVDMkdNOXprcjlJemUwQVZyQ3BCalVuWEhacU4zR19VOHFxLXNTWWlpRm9KNFBOOFJoRm01dHBZZGlpSFM0SWloTGF2OGNxdzBVY2Q2QTFaLWV3VlJOR0l5aWtqSFZ3WTk0Vzc1TG84SWQ0REZDUEpzS2h0bGZyMmtaTzdqWmRUSjNyOE1BSTFpeWZULU1zVDBaRHVLZURlSllyVzZROks8Yj5BSSBhZ2VudCBzZWN1cml0eSByaXNrczwvYj46IGFyZSB5b3VyIG9ic2VydmFiaWxpdHkgY29udHJvbHMga2VlcGluZyAuLi5CnwFBOiA8Yj5BSSBhZ2VudHMgY3JlYXRlIG1vcmUgaWRlbnRpdHkgcmlzazwvYj4gYmVjYXVzZSB0aGV5IGNhbiBwZXJzaXN0IHN0YXRlLCBjaG9vc2UgdG9vbHMsIGFuZCBjYXJyeSBvdXQgYWN0aW9ucyBvdmVyIHRpbWUuIFE6IFdoYXQgZG8gc2VjdXJpdHkgdGVhbXMmbmJzcDsuLi4iAhABSABYAGgA",
+      "source": "Non-Human Identity Management Group",
+      "read_more_link": "https://nhimg.org/community/ai-beyond-identity/ai-agent-security-risks-are-your-observability-controls-keeping-up/#:~:text=A%3A%20AI%20agents%20create%20more,about%20memory%20in%20agent%20systems%3F"
+    },
+    {
+      "position": 5,
+      "title": "AI agent fraud potential dwarfed by bot risks",
+      "link": "https://fingerprint.com/blog/ai-agents-bots-fraud-risk/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScgHrOzAVNELhDxbYsRQgFzdDEz79wTGtsDcTBGgByMghCVzARyz_2tYqlzxvGj5L3Pn6EBbwm_-AOPElTwMbLVERQSIUb_wTWVKVVmDL4sIPGz_3e0ODGRvhFQz8mnKkvjOBxpNxCuB0HqjvdoRtkX4Keg&ved=2ahUKEwjauPqv0qKXAxW6F1kFHfdaIwkQFnoECDgQAQ&uoh=1",
+      "displayed_link": "https://fingerprint.com › blog › ai-agents-bots-fraud-risk",
+      "favicon": "https://serpapi.com/images/i/UklGRhoCAABXRUJQVlA4IA4CAABwCQCdASogACAAAsBMJbACdMoR6boM4EGA2wHPAehPeFOfM9hb9yPR3iXbO7kC7Sk31ERxgaQKZf5AX3TEvfRhXA8ZVMYXOnI7Y5vni1C1DhnVdwAA_vqt53Ou1IGM_xRjHb0fGV2KTnLcVPulU0hF4n1APkZeixAFlLEZiNj6_8catz8fYu_iJbwnCRXjvLWdM0vON2o2xHRjA8jwBP_fXWnm3PZntbc4pSOStcH9uA0cgiUrQb-BS3AGUC2rxdxjdK48j457lnkjIqAJBqh_2KObelyhV2yput1umbJT_8x20X6JyKLsetCugOznpZqjF_hPXjp-pWnEbJE3iazR5ht5X3bt7cP7IsoLl-Qd0f6DmrvJamq7SnJKKcMjylYsif36Aa-L5pVTleNN7f47phYTtKIqACo0tGnRv96LUTUuw4GeK902TWOY7BPoLb6HYb479lXQaR-HzgTffEY68dJP_M7qWeVaVUt6IaxtyRU6j_b_MloTYRsDh4cZ1umKvQQBoA07hu5Eau0DK08XpEmgfxC1N7ajvDHhZTF5IKvkP_8GW_PQKY1DBUOzinbr5PdMJ1O6uueTQPmkauWWQmNqpQ2hsDPOfxThJUN9TyCsN9rA6ux65SS7Y5uhogvJipIalVphCGf1lzKxKA57dR5PEKjv90c_9KMqmYDNgD59IaFysbrBiUGBAAAA.webp",
+      "date": "Mar 12, 2025",
+      "snippet": "Security risks: Agents are highly vulnerable to hijacking via prompt injection attacks and jailbreaking, exposing end users to fraud. OpenAI's ...",
+      "snippet_highlighted_words": [
+        "Agents are highly vulnerable to hijacking via prompt injection attacks and jailbreaking"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Security risks: Agents are highly vulnerable to hijacking via prompt injection attacks and jailbreaking, exposing end users to fraud. OpenAI's ...",
+          "source_info_link": "https://fingerprint.com/blog/ai-agents-bots-fraud-risk/",
+          "icon": "https://serpapi.com/images/i/UklGRhoCAABXRUJQVlA4IA4CAABwCQCdASogACAAAsBMJbACdMoR6boM4EGA2wHPAehPeFOfM9hb9yPR3iXbO7kC7Sk31ERxgaQKZf5AX3TEvfRhXA8ZVMYXOnI7Y5vni1C1DhnVdwAA_vqt53Ou1IGM_xRjHb0fGV2KTnLcVPulU0hF4n1APkZeixAFlLEZiNj6_8catz8fYu_iJbwnCRXjvLWdM0vON2o2xHRjA8jwBP_fXWnm3PZntbc4pSOStcH9uA0cgiUrQb-BS3AGUC2rxdxjdK48j457lnkjIqAJBqh_2KObelyhV2yput1umbJT_8x20X6JyKLsetCugOznpZqjF_hPXjp-pWnEbJE3iazR5ht5X3bt7cP7IsoLl-Qd0f6DmrvJamq7SnJKKcMjylYsif36Aa-L5pVTleNN7f47phYTtKIqACo0tGnRv96LUTUuw4GeK902TWOY7BPoLb6HYb479lXQaR-HzgTffEY68dJP_M7qWeVaVUt6IaxtyRU6j_b_MloTYRsDh4cZ1umKvQQBoA07hu5Eau0DK08XpEmgfxC1N7ajvDHhZTF5IKvkP_8GW_PQKY1DBUOzinbr5PdMJ1O6uueTQPmkauWWQmNqpQ2hsDPOfxThJUN9TyCsN9rA6ux65SS7Y5uhogvJipIalVphCGf1lzKxKA57dR5PEKjv90c_9KMqmYDNgD59IaFysbrBiUGBAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqgBL2dvdG8_dXJsPUNBRVNjZ0hyT3pBVk5FTGhEeGJZc1JRZ0Z6ZERFejc5d1RHdHNEY1RCR2dCeU1naENWekFSeXpfMnRZcWx6eHZHajVMM1BuNkVCYndtXy1BT1BFbFR3TWJMVkVSUVNJVWJfd1RXVktWVm1ETDRzSVBHel8zZTBPREdSdmhGUXo4bW5La3ZqT0J4cE54Q3VCMEhxanZkb1J0a1g0S2VnEgQaAggAGugEEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAwgQIABAAGAAgACorCgJhaRU5fL1AGhdhcnRpZmljaWFsIGludGVsbGlnZW5jZRoHYWlhZ2VudCodCgVhZ2VudBVGeopAGgZhZ2VudHMaB2FpYWdlbnQqHgoIc2VjdXJpdHkVtReNPxoNc2VjdXJpdHlyaXNrcyoxCgVyaXNrcxXUSXdAGgZpc3N1ZXMaBHJpc2saBnRocmVhdBoNc2VjdXJpdHlyaXNrczKoAS9nb3RvP3VybD1DQUVTY2dIck96QVZORUxoRHhiWXNSUWdGemRERXo3OXdUR3RzRGNUQkdnQnlNZ2hDVnpBUnl6XzJ0WXFsenh2R2o1TDNQbjZFQmJ3bV8tQU9QRWxUd01iTFZFUlFTSVViX3dUV1ZLVlZtREw0c0lQR3pfM2UwT0RHUnZoRlF6OG1uS2t2ak9CeHBOeEN1QjBIcWp2ZG9SdGtYNEtlZzpJPGI-QUkgYWdlbnQ8L2I-IGZyYXVkIHBvdGVudGlhbCBkd2FyZmVkIGJ5IGJvdCA8Yj5yaXNrczwvYj4gLSBGaW5nZXJwcmludEKiAVNlY3VyaXR5IHJpc2tzOiA8Yj5BZ2VudHMgYXJlIGhpZ2hseSB2dWxuZXJhYmxlIHRvIGhpamFja2luZyB2aWEgcHJvbXB0IGluamVjdGlvbiBhdHRhY2tzIGFuZCBqYWlsYnJlYWtpbmc8L2I-LCBleHBvc2luZyBlbmQgdXNlcnMgdG8gZnJhdWQuIE9wZW5BSSYjMzk7cyZuYnNwOy4uLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqgBL2dvdG8_dXJsPUNBRVNjZ0hyT3pBVk5FTGhEeGJZc1JRZ0Z6ZERFejc5d1RHdHNEY1RCR2dCeU1naENWekFSeXpfMnRZcWx6eHZHajVMM1BuNkVCYndtXy1BT1BFbFR3TWJMVkVSUVNJVWJfd1RXVktWVm1ETDRzSVBHel8zZTBPREdSdmhGUXo4bW5La3ZqT0J4cE54Q3VCMEhxanZkb1J0a1g0S2VnEgQaAggAGugEEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAwgQIABAAGAAgACorCgJhaRU5fL1AGhdhcnRpZmljaWFsIGludGVsbGlnZW5jZRoHYWlhZ2VudCodCgVhZ2VudBVGeopAGgZhZ2VudHMaB2FpYWdlbnQqHgoIc2VjdXJpdHkVtReNPxoNc2VjdXJpdHlyaXNrcyoxCgVyaXNrcxXUSXdAGgZpc3N1ZXMaBHJpc2saBnRocmVhdBoNc2VjdXJpdHlyaXNrczKoAS9nb3RvP3VybD1DQUVTY2dIck96QVZORUxoRHhiWXNSUWdGemRERXo3OXdUR3RzRGNUQkdnQnlNZ2hDVnpBUnl6XzJ0WXFsenh2R2o1TDNQbjZFQmJ3bV8tQU9QRWxUd01iTFZFUlFTSVViX3dUV1ZLVlZtREw0c0lQR3pfM2UwT0RHUnZoRlF6OG1uS2t2ak9CeHBOeEN1QjBIcWp2ZG9SdGtYNEtlZzpJPGI-QUkgYWdlbnQ8L2I-IGZyYXVkIHBvdGVudGlhbCBkd2FyZmVkIGJ5IGJvdCA8Yj5yaXNrczwvYj4gLSBGaW5nZXJwcmludEKiAVNlY3VyaXR5IHJpc2tzOiA8Yj5BZ2VudHMgYXJlIGhpZ2hseSB2dWxuZXJhYmxlIHRvIGhpamFja2luZyB2aWEgcHJvbXB0IGluamVjdGlvbiBhdHRhY2tzIGFuZCBqYWlsYnJlYWtpbmc8L2I-LCBleHBvc2luZyBlbmQgdXNlcnMgdG8gZnJhdWQuIE9wZW5BSSYjMzk7cyZuYnNwOy4uLiICEAFIAFgAaAA",
+      "source": "Fingerprint",
+      "read_more_link": "https://fingerprint.com/blog/ai-agents-bots-fraud-risk/#:~:text=Security%20risks%3A%20Agents%20are%20highly,end%20users%20to%20fraud.%20OpenAI's"
+    },
+    {
+      "position": 6,
+      "title": "AI Agent Threats and Risks are Expanding | Avivah Litan",
+      "link": "https://www.linkedin.com/posts/avivahlitan_ai-agent-cybersecurity-activity-7308841622006317057-H2kf",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESngEB6zswFaCoSUH2EuPd3Va9D4nl8eUU_DP8YGo5rpgx70xjuRTR0cnNFCF6POlJ_UdSFiCH5tQzL8Mh6tXwPgdJRyZ7m8a02dOi0fJukKmeZWaLm7PgqVwj3xzaA7x_GjQksv3j9eWIunjPwaVxtW4LhzTl_4QvxdfvUpy57omo-WOObEKVoxSGwKlDdY9AwCZeKGz4TTYyk5gu935nPA&ved=2ahUKEwjauPqv0qKXAxW6F1kFHfdaIwkQFnoECDcQAQ&uoh=1",
+      "displayed_link": "520+ reactions · 1 year ago",
+      "favicon": "https://serpapi.com/images/i/UklGRsAAAABXRUJQVlA4ILQAAABQAwCdASoQABAAAsBMJbACdLoBLf4oANRJj6d2SZLhF7_ohAD-4n1FofdRna1o8FCt-OiJvVc8lzO8Rt17R6yr0CRJL0FBwsd8OIDxQ356R55Xei0KcLjbfh5C05X1nTKIh8X8ekP3RBUogy_jZ3kCUPbBWjzINpJUmDhbtDZS1e3a8_aUBwnkYz0mnTj4n4__aq6btWmAus7Zjw7JLZ_kNfUgtaLPXB6k1U8MVzX5_C1AAAA.webp",
+      "snippet": "AI Agent Threats and Risks are Expanding By 2028, 25% of enterprise breaches will be traced back to #AI #agent abuse, from both external and ...",
+      "snippet_highlighted_words": [
+        "AI Agent",
+        "Risks",
+        "AI",
+        "agent"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "AI Agent Threats and Risks are Expanding By 2028, 25% of enterprise breaches will be traced back to #AI #agent abuse, from both external and ...",
+          "source_info_link": "https://www.linkedin.com/posts/avivahlitan_ai-agent-cybersecurity-activity-7308841622006317057-H2kf",
+          "icon": "https://serpapi.com/images/i/UklGRsAAAABXRUJQVlA4ILQAAABQAwCdASoQABAAAsBMJbACdLoBLf4oANRJj6d2SZLhF7_ohAD-4n1FofdRna1o8FCt-OiJvVc8lzO8Rt17R6yr0CRJL0FBwsd8OIDxQ356R55Xei0KcLjbfh5C05X1nTKIh8X8ekP3RBUogy_jZ3kCUPbBWjzINpJUmDhbtDZS1e3a8_aUBwnkYz0mnTj4n4__aq6btWmAus7Zjw7JLZ_kNfUgtaLPXB6k1U8MVzX5_C1AAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuQBL2dvdG8_dXJsPUNBRVNuZ0VCNnpzd0ZhQ29TVUgyRXVQZDNWYTlENG5sOGVVVV9EUDhZR281cnBneDcweGp1UlRSMGNuTkZDRjZQT2xKX1VkU0ZpQ0g1dFF6TDhNaDZ0WHdQZ2RKUnlaN204YTAyZE9pMGZKdWtLbWVaV2FMbTdQZ3FWd2ozeHphQTd4X0dqUWtzdjNqOWVXSXVualB3YVZ4dFc0TGh6VGxfNFF2eGRmdlVweTU3b21vLVdPT2JFS1ZveFNHd0tsRGRZOUF3Q1plS0d6NFRUWXlrNWd1OTM1blBBEgQaAggAGq0FEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQIkFCAAQABgAIAAqKwoCYWkVw-HDQBoXYXJ0aWZpY2lhbCBpbnRlbGxpZ2VuY2UaB2FpYWdlbnQqHQoFYWdlbnQV4cScQBoGYWdlbnRzGgdhaWFnZW50Kh4KCHNlY3VyaXR5FcTeMEAaDXNlY3VyaXR5cmlza3MqMQoFcmlza3MVFmqPQBoGaXNzdWVzGgRyaXNrGgZ0aHJlYXQaDXNlY3VyaXR5cmlza3My5AEvZ290bz91cmw9Q0FFU25nRUI2enN3RmFDb1NVSDJFdVBkM1ZhOUQ0bmw4ZVVVX0RQOFlHbzVycGd4NzB4anVSVFIwY25ORkNGNlBPbEpfVWRTRmlDSDV0UXpMOE1oNnRYd1BnZEpSeVo3bThhMDJkT2kwZkp1a0ttZVpXYUxtN1BncVZ3ajN4emFBN3hfR2pRa3N2M2o5ZVdJdW5qUHdhVnh0VzRMaHpUbF80UXZ4ZGZ2VXB5NTdvbW8tV09PYkVLVm94U0d3S2xEZFk5QXdDWmVLR3o0VFRZeWs1Z3U5MzVuUEE6RTxiPkFJIEFnZW50PC9iPiBUaHJlYXRzIGFuZCA8Yj5SaXNrczwvYj4gYXJlIEV4cGFuZGluZyB8IEF2aXZhaCBMaXRhbkKxATxiPkFJIEFnZW50PC9iPiBUaHJlYXRzIGFuZCA8Yj5SaXNrczwvYj4gYXJlIEV4cGFuZGluZyBCeSAyMDI4LCAyNSUgb2YgZW50ZXJwcmlzZSBicmVhY2hlcyB3aWxsIGJlIHRyYWNlZCBiYWNrIHRvICM8Yj5BSTwvYj4gIzxiPmFnZW50PC9iPiBhYnVzZSwgZnJvbSBib3RoIGV4dGVybmFsIGFuZCZuYnNwOy4uLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuQBL2dvdG8_dXJsPUNBRVNuZ0VCNnpzd0ZhQ29TVUgyRXVQZDNWYTlENG5sOGVVVV9EUDhZR281cnBneDcweGp1UlRSMGNuTkZDRjZQT2xKX1VkU0ZpQ0g1dFF6TDhNaDZ0WHdQZ2RKUnlaN204YTAyZE9pMGZKdWtLbWVaV2FMbTdQZ3FWd2ozeHphQTd4X0dqUWtzdjNqOWVXSXVualB3YVZ4dFc0TGh6VGxfNFF2eGRmdlVweTU3b21vLVdPT2JFS1ZveFNHd0tsRGRZOUF3Q1plS0d6NFRUWXlrNWd1OTM1blBBEgQaAggAGq0FEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQIkFCAAQABgAIAAqKwoCYWkVw-HDQBoXYXJ0aWZpY2lhbCBpbnRlbGxpZ2VuY2UaB2FpYWdlbnQqHQoFYWdlbnQV4cScQBoGYWdlbnRzGgdhaWFnZW50Kh4KCHNlY3VyaXR5FcTeMEAaDXNlY3VyaXR5cmlza3MqMQoFcmlza3MVFmqPQBoGaXNzdWVzGgRyaXNrGgZ0aHJlYXQaDXNlY3VyaXR5cmlza3My5AEvZ290bz91cmw9Q0FFU25nRUI2enN3RmFDb1NVSDJFdVBkM1ZhOUQ0bmw4ZVVVX0RQOFlHbzVycGd4NzB4anVSVFIwY25ORkNGNlBPbEpfVWRTRmlDSDV0UXpMOE1oNnRYd1BnZEpSeVo3bThhMDJkT2kwZkp1a0ttZVpXYUxtN1BncVZ3ajN4emFBN3hfR2pRa3N2M2o5ZVdJdW5qUHdhVnh0VzRMaHpUbF80UXZ4ZGZ2VXB5NTdvbW8tV09PYkVLVm94U0d3S2xEZFk5QXdDWmVLR3o0VFRZeWs1Z3U5MzVuUEE6RTxiPkFJIEFnZW50PC9iPiBUaHJlYXRzIGFuZCA8Yj5SaXNrczwvYj4gYXJlIEV4cGFuZGluZyB8IEF2aXZhaCBMaXRhbkKxATxiPkFJIEFnZW50PC9iPiBUaHJlYXRzIGFuZCA8Yj5SaXNrczwvYj4gYXJlIEV4cGFuZGluZyBCeSAyMDI4LCAyNSUgb2YgZW50ZXJwcmlzZSBicmVhY2hlcyB3aWxsIGJlIHRyYWNlZCBiYWNrIHRvICM8Yj5BSTwvYj4gIzxiPmFnZW50PC9iPiBhYnVzZSwgZnJvbSBib3RoIGV4dGVybmFsIGFuZCZuYnNwOy4uLiICEAFIAFgAaAA",
+      "source": "LinkedIn · Avivah Litan"
+    },
+    {
+      "position": 7,
+      "title": "AI Agent Security Needs Accountability and Control",
+      "link": "https://unmitigatedrisk.com/2025/02/ai-agent-security-a-framework-for-accountability-and-control/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESnAEB6zswFcqcy-QDRs8HISH2vagsUpJfFULdRaB3d39M88wcDJ_lVB7etK9wTm4A5K_Jvsxbw7VxaHZZ493QGLpaXWcrFp09hrAvxqKRp2wn6zkDOTC-pS6unqtxqYyE8SMl-Gj3NV5WDfxaLfywMF9k0WGLhTWzw8jc2Lr6wcU6-Y8NgHtUEWTNiv9wX2ZWf7YQXvl8IakSBICP4XE&ved=2ahUKEwjauPqv0qKXAxW6F1kFHfdaIwkQFnoECEUQAQ&uoh=1",
+      "displayed_link": "https://unmitigatedrisk.com › 2025/02 › ai-agent-security...",
+      "favicon": "https://serpapi.com/images/i/UklGRuYAAABXRUJQVlA4INoAAADwBQCdASogACAAPtFAtFooIqgoFAEAGglnAL8845mgEChbqAnH_grmJfi5j395zy3t6zwQ2H6iAADif_xMdgib2PxYIh6KsVx68FU3q5hx9biVfo3HZGIMhkWPuXN2qyjmSH6oTdh0VtaLYzY9g47Powu9EehexRIPW036RL8T3Ja6kVcDml6MecdsDkZb4jmI4Ac6NAXfVbdrm90vw5sIz2LB0ZLMJSAGwvOF4WpFRSgyf_HmJ0Mwai8Bli2GUooyJB2-N77bgLiuze5bXbzmzph17SKVc9AAAA.webp",
+      "date": "Feb 3, 2025",
+      "snippet": "Traditional software might accidentally misuse a resource or escalate a privilege. An AI agent can search for a new way to reach its goal, ...",
+      "snippet_highlighted_words": [
+        "AI agent"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Traditional software might accidentally misuse a resource or escalate a privilege. An AI agent can search for a new way to reach its goal, ...",
+          "source_info_link": "https://unmitigatedrisk.com/2025/02/ai-agent-security-a-framework-for-accountability-and-control/",
+          "icon": "https://serpapi.com/images/i/UklGRuYAAABXRUJQVlA4INoAAADwBQCdASogACAAPtFAtFooIqgoFAEAGglnAL8845mgEChbqAnH_grmJfi5j395zy3t6zwQ2H6iAADif_xMdgib2PxYIh6KsVx68FU3q5hx9biVfo3HZGIMhkWPuXN2qyjmSH6oTdh0VtaLYzY9g47Powu9EehexRIPW036RL8T3Ja6kVcDml6MecdsDkZb4jmI4Ac6NAXfVbdrm90vw5sIz2LB0ZLMJSAGwvOF4WpFRSgyf_HmJ0Mwai8Bli2GUooyJB2-N77bgLiuze5bXbzmzph17SKVc9AAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuEBL2dvdG8_dXJsPUNBRVNuQUVCNnpzd0ZjcWN5LVFEUnM4SElTSDJ2YWdzVXBKZkZVTGRSYUIzZDM5TTg4d2NESl9sVkI3ZXRLOXdUbTRBNUtfSnZzeGJ3N1Z4YUhaWjQ5M1FHTHBhWFdjckZwMDlockF2eHFLUnAyd242emtET1RDLXBTNnVucXR4cVl5RThTTWwtR2ozTlY1V0RmeGFMZnl3TUY5azBXR0xoVFd6dzhqYzJMcjZ3Y1U2LVk4TmdIdFVFV1ROaXY5d1gyWldmN1lRWHZsOElha1NCSUNQNFhFEgQaAggAGokFEgIIABoAIgAqADIGCAESAnVzOgBCBAgBEABKAFoAcgB6AIJA4wQIABAAGAAgACorCgJhaRULMsdAGhdhcnRpZmljaWFsIGludGVsbGlnZW5jZRoHYWlhZ2VudCodCgVhZ2VudBV8ittAGgZhZ2VudHMaB2FpYWdlbnQqHgoIc2VjdXJpdHkVgg2rQBoNc2VjdXJpdHlyaXNrcyoxCgVyaXNrcxUAAAAAGgZpc3N1ZXMaBHJpc2saBnRocmVhdBoNc2VjdXJpdHlyaXNrczLhAS9nb3RvP3VybD1DQUVTbkFFQjZ6c3dGY3FjeS1RRFJzOEhJU0gydmFnc1VwSmZGVUxkUmFCM2QzOU04OHdjREpfbFZCN2V0Szl3VG00QTVLX0p2c3hidzdWeGFIWlo0OTNRR0xwYVhXY3JGcDA5aHJBdnhxS1JwMnduNnprRE9UQy1wUzZ1bnF0eHFZeUU4U01sLUdqM05WNVdEZnhhTGZ5d01GOWswV0dMaFRXenc4amMyTHI2d2NVNi1ZOE5nSHRVRVdUTml2OXdYMlpXZjdZUVh2bDhJYWtTQklDUDRYRTo5PGI-QUkgQWdlbnQgU2VjdXJpdHk8L2I-IE5lZWRzIEFjY291bnRhYmlsaXR5IGFuZCBDb250cm9sQpoBVHJhZGl0aW9uYWwgc29mdHdhcmUgbWlnaHQgYWNjaWRlbnRhbGx5IG1pc3VzZSBhIHJlc291cmNlIG9yIGVzY2FsYXRlIGEgcHJpdmlsZWdlLiBBbiA8Yj5BSSBhZ2VudDwvYj4gY2FuIHNlYXJjaCBmb3IgYSBuZXcgd2F5IHRvIHJlYWNoIGl0cyBnb2FsLCZuYnNwOy4uLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuEBL2dvdG8_dXJsPUNBRVNuQUVCNnpzd0ZjcWN5LVFEUnM4SElTSDJ2YWdzVXBKZkZVTGRSYUIzZDM5TTg4d2NESl9sVkI3ZXRLOXdUbTRBNUtfSnZzeGJ3N1Z4YUhaWjQ5M1FHTHBhWFdjckZwMDlockF2eHFLUnAyd242emtET1RDLXBTNnVucXR4cVl5RThTTWwtR2ozTlY1V0RmeGFMZnl3TUY5azBXR0xoVFd6dzhqYzJMcjZ3Y1U2LVk4TmdIdFVFV1ROaXY5d1gyWldmN1lRWHZsOElha1NCSUNQNFhFEgQaAggAGokFEgIIABoAIgAqADIGCAESAnVzOgBCBAgBEABKAFoAcgB6AIJA4wQIABAAGAAgACorCgJhaRULMsdAGhdhcnRpZmljaWFsIGludGVsbGlnZW5jZRoHYWlhZ2VudCodCgVhZ2VudBV8ittAGgZhZ2VudHMaB2FpYWdlbnQqHgoIc2VjdXJpdHkVgg2rQBoNc2VjdXJpdHlyaXNrcyoxCgVyaXNrcxUAAAAAGgZpc3N1ZXMaBHJpc2saBnRocmVhdBoNc2VjdXJpdHlyaXNrczLhAS9nb3RvP3VybD1DQUVTbkFFQjZ6c3dGY3FjeS1RRFJzOEhJU0gydmFnc1VwSmZGVUxkUmFCM2QzOU04OHdjREpfbFZCN2V0Szl3VG00QTVLX0p2c3hidzdWeGFIWlo0OTNRR0xwYVhXY3JGcDA5aHJBdnhxS1JwMnduNnprRE9UQy1wUzZ1bnF0eHFZeUU4U01sLUdqM05WNVdEZnhhTGZ5d01GOWswV0dMaFRXenc4amMyTHI2d2NVNi1ZOE5nSHRVRVdUTml2OXdYMlpXZjdZUVh2bDhJYWtTQklDUDRYRTo5PGI-QUkgQWdlbnQgU2VjdXJpdHk8L2I-IE5lZWRzIEFjY291bnRhYmlsaXR5IGFuZCBDb250cm9sQpoBVHJhZGl0aW9uYWwgc29mdHdhcmUgbWlnaHQgYWNjaWRlbnRhbGx5IG1pc3VzZSBhIHJlc291cmNlIG9yIGVzY2FsYXRlIGEgcHJpdmlsZWdlLiBBbiA8Yj5BSSBhZ2VudDwvYj4gY2FuIHNlYXJjaCBmb3IgYSBuZXcgd2F5IHRvIHJlYWNoIGl0cyBnb2FsLCZuYnNwOy4uLiICEAFIAFgAaAA",
+      "source": "UNMITIGATED RISK",
+      "read_more_link": "https://unmitigatedrisk.com/2025/02/ai-agent-security-a-framework-for-accountability-and-control/#:~:text=Traditional%20software%20might%20accidentally%20misuse,ways%20its%20developers%20never%20considered."
+    },
+    {
+      "position": 8,
+      "title": "AI Agents Are Creating Insider Security Threat Blind Spots, ...",
+      "link": "https://www.techrepublic.com/article/news-ai-agent-security-beyondid-research/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESiQEB6zswFUPLofLZPudFHGZ3GrXwfe22R8M-m_zqMWkSOP2lGYiNPXl8FNPZiLeWsTS-4_OvDQ-yIy5-bH07Ra1vV7shMe_vwEJyfam7Lpq39xR44d0q0UWamQcNJiVJDFmTHC4GKtHgmZlhtvDNa2wrJmtTDMLWTTFKH_T4Z2bT0ovDkMc8wAc57g&ved=2ahUKEwjauPqv0qKXAxW6F1kFHfdaIwkQFnoECEcQAQ&uoh=1",
+      "displayed_link": "https://www.techrepublic.com › article › news-ai-agent-...",
+      "favicon": "https://serpapi.com/images/i/UklGRtgAAABXRUJQVlA4IMwAAABQBQCdASocABwAPtE-tFooIigoFAEAGglqAKwyhHUAgE8ApgPZsJEDRSjMcNsgdwAPAAAA-daGQrQMs0aDtCQHQ-cMjkXV_8lKPT9gcbRmE2mom0CohSIIoR3PxP3iwM5M_iubwXe3e-NUQg_JsEow_jJ1oJQZOBhT61fdAZSyoY_sVus9TreOGZVWsCONTq_1ABMUduk1nQCiRJuh_-NFVPsMP7jt_UU4b7BxCyUihCq7Z8vyY_CKEJ4gdYgz0URTjGDiWvVrEksAAAA.webp",
+      "date": "Feb 9, 2026",
+      "snippet": "AI agents are being treated like tools, not identities — creating monitoring and governance gaps. BeyondID data, healthcare risk signals, ...",
+      "snippet_highlighted_words": [
+        "AI agents are being treated like tools, not identities"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "AI agents are being treated like tools, not identities — creating monitoring and governance gaps. BeyondID data, healthcare risk signals, ...",
+          "source_info_link": "https://www.techrepublic.com/article/news-ai-agent-security-beyondid-research/",
+          "icon": "https://serpapi.com/images/i/UklGRtgAAABXRUJQVlA4IMwAAABQBQCdASocABwAPtE-tFooIigoFAEAGglqAKwyhHUAgE8ApgPZsJEDRSjMcNsgdwAPAAAA-daGQrQMs0aDtCQHQ-cMjkXV_8lKPT9gcbRmE2mom0CohSIIoR3PxP3iwM5M_iubwXe3e-NUQg_JsEow_jJ1oJQZOBhT61fdAZSyoY_sVus9TreOGZVWsCONTq_1ABMUduk1nQCiRJuh_-NFVPsMP7jt_UU4b7BxCyUihCq7Z8vyY_CKEJ4gdYgz0URTjGDiWvVrEksAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsgBL2dvdG8_dXJsPUNBRVNpUUVCNnpzd0ZVUExvZkxaUHVkRkhHWjNHclh3ZmUyMlI4TS1tX3pxTVdrU09QMmxHWWlOUFhsOEZOUFppTGVXc1RTLTRfT3ZEUS15SXk1LWJIMDdSYTF2VjdzaE1lX3Z3RUp5ZmFtN0xwcTM5eFI0NGQwcTBVV2FtUWNOSmlWSkRGbVRIQzRHS3RIZ21abGh0dkROYTJ3ckptdFRETUxXVFRGS0hfVDRaMmJUMG92RGtNYzh3QWM1N2cSBBoCCAAahAUSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDeBAgAEAAYACAAKisKAmFpFW5A30AaF2FydGlmaWNpYWwgaW50ZWxsaWdlbmNlGgdhaWFnZW50Kh0KBWFnZW50FQC6J0AaBmFnZW50cxoHYWlhZ2VudCoeCghzZWN1cml0eRV_v7ZAGg1zZWN1cml0eXJpc2tzKjEKBXJpc2tzFb6BQD8aBmlzc3VlcxoEcmlzaxoGdGhyZWF0Gg1zZWN1cml0eXJpc2tzMsgBL2dvdG8_dXJsPUNBRVNpUUVCNnpzd0ZVUExvZkxaUHVkRkhHWjNHclh3ZmUyMlI4TS1tX3pxTVdrU09QMmxHWWlOUFhsOEZOUFppTGVXc1RTLTRfT3ZEUS15SXk1LWJIMDdSYTF2VjdzaE1lX3Z3RUp5ZmFtN0xwcTM5eFI0NGQwcTBVV2FtUWNOSmlWSkRGbVRIQzRHS3RIZ21abGh0dkROYTJ3ckptdFRETUxXVFRGS0hfVDRaMmJUMG92RGtNYzh3QWM1N2c6TDxiPkFJIEFnZW50czwvYj4gQXJlIENyZWF0aW5nIEluc2lkZXIgPGI-U2VjdXJpdHkgVGhyZWF0PC9iPiBCbGluZCBTcG90cyAuLi5CmwE8Yj5BSSBhZ2VudHMgYXJlIGJlaW5nIHRyZWF0ZWQgbGlrZSB0b29scywgbm90IGlkZW50aXRpZXM8L2I-IOKAlCBjcmVhdGluZyBtb25pdG9yaW5nIGFuZCBnb3Zlcm5hbmNlIGdhcHMuIEJleW9uZElEIGRhdGEsIGhlYWx0aGNhcmUgcmlzayBzaWduYWxzLCZuYnNwOy4uLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsgBL2dvdG8_dXJsPUNBRVNpUUVCNnpzd0ZVUExvZkxaUHVkRkhHWjNHclh3ZmUyMlI4TS1tX3pxTVdrU09QMmxHWWlOUFhsOEZOUFppTGVXc1RTLTRfT3ZEUS15SXk1LWJIMDdSYTF2VjdzaE1lX3Z3RUp5ZmFtN0xwcTM5eFI0NGQwcTBVV2FtUWNOSmlWSkRGbVRIQzRHS3RIZ21abGh0dkROYTJ3ckptdFRETUxXVFRGS0hfVDRaMmJUMG92RGtNYzh3QWM1N2cSBBoCCAAahAUSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDeBAgAEAAYACAAKisKAmFpFW5A30AaF2FydGlmaWNpYWwgaW50ZWxsaWdlbmNlGgdhaWFnZW50Kh0KBWFnZW50FQC6J0AaBmFnZW50cxoHYWlhZ2VudCoeCghzZWN1cml0eRV_v7ZAGg1zZWN1cml0eXJpc2tzKjEKBXJpc2tzFb6BQD8aBmlzc3VlcxoEcmlzaxoGdGhyZWF0Gg1zZWN1cml0eXJpc2tzMsgBL2dvdG8_dXJsPUNBRVNpUUVCNnpzd0ZVUExvZkxaUHVkRkhHWjNHclh3ZmUyMlI4TS1tX3pxTVdrU09QMmxHWWlOUFhsOEZOUFppTGVXc1RTLTRfT3ZEUS15SXk1LWJIMDdSYTF2VjdzaE1lX3Z3RUp5ZmFtN0xwcTM5eFI0NGQwcTBVV2FtUWNOSmlWSkRGbVRIQzRHS3RIZ21abGh0dkROYTJ3ckptdFRETUxXVFRGS0hfVDRaMmJUMG92RGtNYzh3QWM1N2c6TDxiPkFJIEFnZW50czwvYj4gQXJlIENyZWF0aW5nIEluc2lkZXIgPGI-U2VjdXJpdHkgVGhyZWF0PC9iPiBCbGluZCBTcG90cyAuLi5CmwE8Yj5BSSBhZ2VudHMgYXJlIGJlaW5nIHRyZWF0ZWQgbGlrZSB0b29scywgbm90IGlkZW50aXRpZXM8L2I-IOKAlCBjcmVhdGluZyBtb25pdG9yaW5nIGFuZCBnb3Zlcm5hbmNlIGdhcHMuIEJleW9uZElEIGRhdGEsIGhlYWx0aGNhcmUgcmlzayBzaWduYWxzLCZuYnNwOy4uLiICEAFIAFgAaAA",
+      "source": "TechRepublic"
+    },
+    {
+      "position": 9,
+      "title": "why AI agent vulnerabilities need a shared vocabulary, not ...",
+      "link": "https://www.reddit.com/r/AI_Agents/comments/1vyzm8u/you_cant_govern_what_you_cant_name_why_ai_agent/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESnwEB6zswFUfct8Mf7ZDUWwqMrjVuJggY_e0NE0A6rK4KJnN0A_AD-mUQe8q0yn3NPEUBH2CnwYm_Qb8uQodu8u17MSLkA6BCiKMT9oTFMwGndheTasPl731P0ITflsnzKm1d_ZtCKmVBpVVSb-oGOOSlhbTQx0erc0eNM8hvPmIPVqbPkJ088E4zSIHZ1R7vyr-sDL_4nz1hcF1G-Sc7yCU&ved=2ahUKEwjauPqv0qKXAxW6F1kFHfdaIwkQFnoECEwQAQ&uoh=1",
+      "displayed_link": "20+ comments · 1 month ago",
+      "favicon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
+      "snippet": "Most AI governance frameworks describe risk categories, excessive agency, tool misuse, memory poisoning. Useful for policy, but it doesn't give ...",
+      "snippet_highlighted_words": [
+        "excessive agency, tool misuse, memory poisoning"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Most AI governance frameworks describe risk categories, excessive agency, tool misuse, memory poisoning. Useful for policy, but it doesn't give ...",
+          "source_info_link": "https://www.reddit.com/r/AI_Agents/comments/1vyzm8u/you_cant_govern_what_you_cant_name_why_ai_agent/",
+          "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuUBL2dvdG8_dXJsPUNBRVNud0VCNnpzd0ZVZmN0OE1mN1pEVVd3cU1yalZ1SmdnWV9lME5FMEE2cks0S0puTjBBX0FELW1VUWU4cTB5bjNOUEVVQkgyQ253WW1fUWI4dVFvZHU4dTE3TVNMa0E2QkNpS01UOW9URk13R25kaGVUYXNQbDczMVAwSVRmbHNuekttMWRfWnRDS21WQnBWVlNiLW9HT09TbGhiVFF4MGVyYzBlTk04aHZQbUlQVnFiUGtKMDg4RTR6U0lIWjFSN3Z5ci1zRExfNG56MWhjRjFHLVNjN3lDVRIEGgIIABqpBRIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCFBQgAEAAYACAAKisKAmFpFWf6cEAaF2FydGlmaWNpYWwgaW50ZWxsaWdlbmNlGgdhaWFnZW50Kh0KBWFnZW50FWalXUAaBmFnZW50cxoHYWlhZ2VudCoeCghzZWN1cml0eRXg3Yk_Gg1zZWN1cml0eXJpc2tzKjEKBXJpc2tzFQAAAAAaBmlzc3VlcxoEcmlzaxoGdGhyZWF0Gg1zZWN1cml0eXJpc2tzMuUBL2dvdG8_dXJsPUNBRVNud0VCNnpzd0ZVZmN0OE1mN1pEVVd3cU1yalZ1SmdnWV9lME5FMEE2cks0S0puTjBBX0FELW1VUWU4cTB5bjNOUEVVQkgyQ253WW1fUWI4dVFvZHU4dTE3TVNMa0E2QkNpS01UOW9URk13R25kaGVUYXNQbDczMVAwSVRmbHNuekttMWRfWnRDS21WQnBWVlNiLW9HT09TbGhiVFF4MGVyYzBlTk04aHZQbUlQVnFiUGtKMDg4RTR6U0lIWjFSN3Z5ci1zRExfNG56MWhjRjFHLVNjN3lDVTpOWW91IGNhbiYjMzk7dCBnb3Zlcm4gd2hhdCB5b3UgY2FuJiMzOTt0IG5hbWU6IHdoeSA8Yj5BSSBhZ2VudDwvYj4gLi4uIC0gUmVkZGl0QqMBTW9zdCBBSSBnb3Zlcm5hbmNlIGZyYW1ld29ya3MgZGVzY3JpYmUgcmlzayBjYXRlZ29yaWVzLCA8Yj5leGNlc3NpdmUgYWdlbmN5LCB0b29sIG1pc3VzZSwgbWVtb3J5IHBvaXNvbmluZzwvYj4uIFVzZWZ1bCBmb3IgcG9saWN5LCBidXQgaXQgZG9lc24mIzM5O3QgZ2l2ZSZuYnNwOy4uLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuUBL2dvdG8_dXJsPUNBRVNud0VCNnpzd0ZVZmN0OE1mN1pEVVd3cU1yalZ1SmdnWV9lME5FMEE2cks0S0puTjBBX0FELW1VUWU4cTB5bjNOUEVVQkgyQ253WW1fUWI4dVFvZHU4dTE3TVNMa0E2QkNpS01UOW9URk13R25kaGVUYXNQbDczMVAwSVRmbHNuekttMWRfWnRDS21WQnBWVlNiLW9HT09TbGhiVFF4MGVyYzBlTk04aHZQbUlQVnFiUGtKMDg4RTR6U0lIWjFSN3Z5ci1zRExfNG56MWhjRjFHLVNjN3lDVRIEGgIIABqpBRIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCFBQgAEAAYACAAKisKAmFpFWf6cEAaF2FydGlmaWNpYWwgaW50ZWxsaWdlbmNlGgdhaWFnZW50Kh0KBWFnZW50FWalXUAaBmFnZW50cxoHYWlhZ2VudCoeCghzZWN1cml0eRXg3Yk_Gg1zZWN1cml0eXJpc2tzKjEKBXJpc2tzFQAAAAAaBmlzc3VlcxoEcmlzaxoGdGhyZWF0Gg1zZWN1cml0eXJpc2tzMuUBL2dvdG8_dXJsPUNBRVNud0VCNnpzd0ZVZmN0OE1mN1pEVVd3cU1yalZ1SmdnWV9lME5FMEE2cks0S0puTjBBX0FELW1VUWU4cTB5bjNOUEVVQkgyQ253WW1fUWI4dVFvZHU4dTE3TVNMa0E2QkNpS01UOW9URk13R25kaGVUYXNQbDczMVAwSVRmbHNuekttMWRfWnRDS21WQnBWVlNiLW9HT09TbGhiVFF4MGVyYzBlTk04aHZQbUlQVnFiUGtKMDg4RTR6U0lIWjFSN3Z5ci1zRExfNG56MWhjRjFHLVNjN3lDVTpOWW91IGNhbiYjMzk7dCBnb3Zlcm4gd2hhdCB5b3UgY2FuJiMzOTt0IG5hbWU6IHdoeSA8Yj5BSSBhZ2VudDwvYj4gLi4uIC0gUmVkZGl0QqMBTW9zdCBBSSBnb3Zlcm5hbmNlIGZyYW1ld29ya3MgZGVzY3JpYmUgcmlzayBjYXRlZ29yaWVzLCA8Yj5leGNlc3NpdmUgYWdlbmN5LCB0b29sIG1pc3VzZSwgbWVtb3J5IHBvaXNvbmluZzwvYj4uIFVzZWZ1bCBmb3IgcG9saWN5LCBidXQgaXQgZG9lc24mIzM5O3QgZ2l2ZSZuYnNwOy4uLiICEAFIAFgAaAA",
+      "source": "Reddit · r/AI_Agents",
+      "read_more_link": "https://www.reddit.com/r/AI_Agents/comments/1vyzm8u/you_cant_govern_what_you_cant_name_why_ai_agent/#:~:text=Most%20AI%20governance%20frameworks%20describe,policy%2C%20but%20it%20doesn't%20give"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Ai agent security risks reddit",
+      "link": "https://www.google.com/search?sca_esv=53184d9e0d3ee8ec&sxsrf=APpeQnuH-hsF8n_cz0wlj0H0cD6E2UPVxw:1791195273410&q=Ai+agent+security+risks+reddit&sa=X&ved=2ahUKEwjauPqv0qKXAxW6F1kFHfdaIwkQ1QJ6BAhEEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Ai+agent+security+risks+reddit"
+    },
+    {
+      "block_position": 1,
+      "query": "Ai agent security risks github",
+      "link": "https://www.google.com/search?sca_esv=53184d9e0d3ee8ec&sxsrf=APpeQnuH-hsF8n_cz0wlj0H0cD6E2UPVxw:1791195273410&q=Ai+agent+security+risks+github&sa=X&ved=2ahUKEwjauPqv0qKXAxW6F1kFHfdaIwkQ1QJ6BAhDEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Ai+agent+security+risks+github"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=AI+agent+security+risks&sca_esv=53184d9e0d3ee8ec&sxsrf=APpeQnuH-hsF8n_cz0wlj0H0cD6E2UPVxw:1791195273410&ei=iXjDaprQGLqv5NoP97WNSQ&start=10&sa=N&sstk=AS6-VmK_kiumcwyYMBmmaQZ052X0qaRdrDyDJpzuC8dL4vOQ5ZiXqUubJEVnVALHD6GjLfO5LQuW8sZNt1mOP6zQqAEkvHhx5lenHQ&ved=2ahUKEwjauPqv0qKXAxW6F1kFHfdaIwkQ8NMDegQIQBAQ",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=AI+agent+security+risks&sca_esv=53184d9e0d3ee8ec&sxsrf=APpeQnuH-hsF8n_cz0wlj0H0cD6E2UPVxw:1791195273410&ei=iXjDaprQGLqv5NoP97WNSQ&start=10&sa=N&sstk=AS6-VmK_kiumcwyYMBmmaQZ052X0qaRdrDyDJpzuC8dL4vOQ5ZiXqUubJEVnVALHD6GjLfO5LQuW8sZNt1mOP6zQqAEkvHhx5lenHQ&ved=2ahUKEwjauPqv0qKXAxW6F1kFHfdaIwkQ8tMDegQIQBAE",
+      "3": "https://www.google.com/search?q=AI+agent+security+risks&sca_esv=53184d9e0d3ee8ec&sxsrf=APpeQnuH-hsF8n_cz0wlj0H0cD6E2UPVxw:1791195273410&ei=iXjDaprQGLqv5NoP97WNSQ&start=20&sa=N&sstk=AS6-VmK_kiumcwyYMBmmaQZ052X0qaRdrDyDJpzuC8dL4vOQ5ZiXqUubJEVnVALHD6GjLfO5LQuW8sZNt1mOP6zQqAEkvHhx5lenHQ&ved=2ahUKEwjauPqv0qKXAxW6F1kFHfdaIwkQ8tMDegQIQBAG",
+      "4": "https://www.google.com/search?q=AI+agent+security+risks&sca_esv=53184d9e0d3ee8ec&sxsrf=APpeQnuH-hsF8n_cz0wlj0H0cD6E2UPVxw:1791195273410&ei=iXjDaprQGLqv5NoP97WNSQ&start=30&sa=N&sstk=AS6-VmK_kiumcwyYMBmmaQZ052X0qaRdrDyDJpzuC8dL4vOQ5ZiXqUubJEVnVALHD6GjLfO5LQuW8sZNt1mOP6zQqAEkvHhx5lenHQ&ved=2ahUKEwjauPqv0qKXAxW6F1kFHfdaIwkQ8tMDegQIQBAI",
+      "5": "https://www.google.com/search?q=AI+agent+security+risks&sca_esv=53184d9e0d3ee8ec&sxsrf=APpeQnuH-hsF8n_cz0wlj0H0cD6E2UPVxw:1791195273410&ei=iXjDaprQGLqv5NoP97WNSQ&start=40&sa=N&sstk=AS6-VmK_kiumcwyYMBmmaQZ052X0qaRdrDyDJpzuC8dL4vOQ5ZiXqUubJEVnVALHD6GjLfO5LQuW8sZNt1mOP6zQqAEkvHhx5lenHQ&ved=2ahUKEwjauPqv0qKXAxW6F1kFHfdaIwkQ8tMDegQIQBAK",
+      "6": "https://www.google.com/search?q=AI+agent+security+risks&sca_esv=53184d9e0d3ee8ec&sxsrf=APpeQnuH-hsF8n_cz0wlj0H0cD6E2UPVxw:1791195273410&ei=iXjDaprQGLqv5NoP97WNSQ&start=50&sa=N&sstk=AS6-VmK_kiumcwyYMBmmaQZ052X0qaRdrDyDJpzuC8dL4vOQ5ZiXqUubJEVnVALHD6GjLfO5LQuW8sZNt1mOP6zQqAEkvHhx5lenHQ&ved=2ahUKEwjauPqv0qKXAxW6F1kFHfdaIwkQ8tMDegQIQBAM",
+      "7": "https://www.google.com/search?q=AI+agent+security+risks&sca_esv=53184d9e0d3ee8ec&sxsrf=APpeQnuH-hsF8n_cz0wlj0H0cD6E2UPVxw:1791195273410&ei=iXjDaprQGLqv5NoP97WNSQ&start=60&sa=N&sstk=AS6-VmK_kiumcwyYMBmmaQZ052X0qaRdrDyDJpzuC8dL4vOQ5ZiXqUubJEVnVALHD6GjLfO5LQuW8sZNt1mOP6zQqAEkvHhx5lenHQ&ved=2ahUKEwjauPqv0qKXAxW6F1kFHfdaIwkQ8tMDegQIQBAO"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=AI+agent+security+risks&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=AI+agent+security+risks&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=AI+agent+security+risks&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=AI+agent+security+risks&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=AI+agent+security+risks&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=AI+agent+security+risks&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=AI+agent+security+risks&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=AI+agent+security+risks&start=60"
+    }
+  }
+}

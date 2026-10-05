@@ -1,0 +1,1525 @@
+{
+  "search_metadata": {
+    "id": "6ac378b2412f4346da7f07d5",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/fwzqrZuq173FTe7kz51EG6h7On0EdmhAvZQzyzq4uOw/6ac378b2412f4346da7f07d5.json",
+    "markdown_endpoint": "https://serpapi.com/searches/fwzqrZuq173FTe7kz51EG6h7On0EdmhAvZQzyzq4uOw/6ac378b2412f4346da7f07d5.md",
+    "created_at": "2026-10-05 10:15:14 UTC",
+    "processed_at": "2026-10-05 10:15:14 UTC",
+    "google_news_url": "https://news.google.com/search?q=AI+agent+security",
+    "raw_html_file": "https://serpapi.com/searches/fwzqrZuq173FTe7kz51EG6h7On0EdmhAvZQzyzq4uOw/6ac378b2412f4346da7f07d5.html",
+    "total_time_taken": 1.34
+  },
+  "search_parameters": {
+    "engine": "google_news",
+    "q": "AI agent security"
+  },
+  "news_results": [
+    {
+      "position": 1,
+      "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
+      "source": {
+        "name": "Ars Technica",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://arstechnica.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Dan Goodin"
+        ]
+      },
+      "link": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+      "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-640x360.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHphbHBXYkhveE9VNDRTMEZJVFJEb0FoaUFCU2dLTWdZQklvak1wUVk",
+      "date": "10/02/2026, 11:03 PM, +0000 UTC",
+      "iso_date": "2026-10-02T23:03:16Z"
+    },
+    {
+      "position": 2,
+      "title": "The Web Isn't Ready for Millions of Rule-Bending Bots",
+      "source": {
+        "name": "Bloomberg.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bloomberg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Parmy Olson"
+        ]
+      },
+      "link": "https://www.bloomberg.com/opinion/articles/2026-10-05/ai-agents-are-a-fast-growing-security-risk-for-websites",
+      "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i8Jb1Vf0veTA/v1/-1x-1.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUVaVE5pU1VaVmJYSlJiM1kwVFJERUF4aW1CU2dLTWdhRmtaQkZ0UVk",
+      "date": "10/05/2026, 04:00 AM, +0000 UTC",
+      "iso_date": "2026-10-05T04:00:00Z"
+    },
+    {
+      "position": 3,
+      "title": "Former Anthropic security leader warns AI agents are becoming too autonomous for humans to keep them in check",
+      "source": {
+        "name": "Fox News",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.foxnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "James Cirrone"
+        ]
+      },
+      "link": "https://www.foxnews.com/tech/former-anthropic-security-leader-warns-ai-agents-becoming-too-autonomous-humans-keep-check",
+      "thumbnail": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/1280/720/jeffrey-ladish.jpg?ve=1&tl=1",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUxUMlJxTjNsd2QzbHpaWEYyVFJDZkF4ampCU2dLTWdrdFlKRE9wYWdXY0FF",
+      "date": "10/03/2026, 05:26 PM, +0000 UTC",
+      "iso_date": "2026-10-03T17:26:10Z"
+    },
+    {
+      "position": 4,
+      "title": "AI Agents Are Disrupting Open Source Security Disclosure",
+      "source": {
+        "name": "infoq.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.infoq.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Renato Losio"
+        ]
+      },
+      "link": "https://www.infoq.com/news/2026/10/open-source-ai-security/",
+      "thumbnail": "https://res.infoq.com/news/2026/10/open-source-ai-security/en/card_header_image/generatedCard-1789933952980.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXdXR1JJUmxSelMxWmtWMDUyVFJDUkF4ajhCU2dLTWdrQllaRFdNS2VwTEFJ",
+      "date": "10/03/2026, 06:47 AM, +0000 UTC",
+      "iso_date": "2026-10-03T06:47:28Z"
+    },
+    {
+      "position": 5,
+      "title": "AI agents reshape identity security",
+      "source": {
+        "name": "SiliconANGLE",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://siliconangle.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Cheryl Knight"
+        ]
+      },
+      "link": "https://siliconangle.com/2026/10/04/ai-agents-identity-security-sailpointnavigate/",
+      "thumbnail": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/SAM_ad_banner_watch_now_on_demand-3-scaled.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUxOa3A0YkdGTVZVVjJSSEpGVFJDYkFSaTFEeWdLTWdZRm9KWlJ1UWM",
+      "date": "10/04/2026, 04:27 PM, +0000 UTC",
+      "iso_date": "2026-10-04T16:27:00Z"
+    },
+    {
+      "position": 6,
+      "title": "doxx.net Raises $38 Million to Prevent AI Agent-on-the-Internet Misadventures",
+      "source": {
+        "name": "SecurityWeek",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.securityweek.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Kevin Townsend"
+        ]
+      },
+      "link": "https://www.securityweek.com/doxx-net-raises-38-million-to-prevent-ai-agent-on-the-internet-misadventures/",
+      "thumbnail": "https://www.securityweek.com/wp-content/uploads/2026/08/rogue-AI-artificial-intelligence-600x337.jpeg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHhiMDR5WmtOV2EwdHJhWFV3VFJEUkFoallCQ2dLTWdZVlVJd01zZ2M",
+      "date": "10/03/2026, 11:45 AM, +0000 UTC",
+      "iso_date": "2026-10-03T11:45:00Z"
+    },
+    {
+      "position": 7,
+      "title": "OpenAI's wandering AI agents earn it a California subpoena",
+      "source": {
+        "name": "The Register",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.theregister.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Carly Page"
+        ]
+      },
+      "link": "https://www.theregister.com/ai-and-ml/2026/10/02/openais-wandering-ai-agents-earn-it-a-california-subpoena/5300850",
+      "thumbnail": "https://image.theregister.com/2918046.webp?width=400",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWlaVEJMVURGNk9XOVdNbUpqVFJELUFSaVFBeWdLTWdZQm9KQXp0UWM",
+      "date": "10/02/2026, 02:34 PM, +0000 UTC",
+      "iso_date": "2026-10-02T14:34:00Z"
+    },
+    {
+      "position": 8,
+      "title": "Is It Fair to Blame 'Rogue' AI for Security Failures?",
+      "source": {
+        "name": "Dark Reading",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.darkreading.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Alexander Culafi"
+        ]
+      },
+      "link": "https://www.darkreading.com/insider-threats/blame-rogue-ai-security-failures",
+      "thumbnail": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt51b569a789927083/6abe888c953215e732ad4e3b/accountability-wildpixel-GettyImages-2189491114.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWtla3BTZDNOd1RteFpSalJRVFJDZkF4ampCU2dLTWdZQkFJcnFrQVU",
+      "date": "10/02/2026, 03:52 PM, +0000 UTC",
+      "iso_date": "2026-10-02T15:52:14Z"
+    },
+    {
+      "position": 9,
+      "title": "AI agents aggressively tried to hack US and Canadian government websites",
+      "source": {
+        "name": "TechRadar",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.techradar.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Sead Fadilpašić"
+        ]
+      },
+      "link": "https://www.techradar.com/pro/security/ai-agents-aggressively-tried-to-hack-us-and-canadian-government-websites",
+      "thumbnail": "https://cdn.mos.cms.futurecdn.net/6t9Lsf3QWte55CdyiDs97L-320-80.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXdaR041YjBaaWFtMU1aRmxKVFJDMEFSakFBaWdLTWdZZEVvaE5uUVU",
+      "date": "10/02/2026, 01:05 PM, +0000 UTC",
+      "iso_date": "2026-10-02T13:05:00Z"
+    },
+    {
+      "position": 10,
+      "title": "AI agents keep access to company data after their work is done",
+      "source": {
+        "name": "Help Net Security",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.helpnetsecurity.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.helpnetsecurity.com/2026/10/02/delinea-ai-policy-adoption-enforcement-report/",
+      "thumbnail": "https://img2.helpnetsecurity.com/posts2026/Delinea-AI_policy_enforcement.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNVVObFJ0ZUhCNVZVUXhiemR5VFJDNEF4aUtCU2dLTWdB",
+      "date": "10/02/2026, 04:30 AM, +0000 UTC",
+      "iso_date": "2026-10-02T04:30:21Z"
+    },
+    {
+      "position": 11,
+      "title": "Reco Raises $55M to Enhance AI Agent Security, Enterprise Expansion",
+      "source": {
+        "name": "citybiz",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.citybiz.co&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.citybiz.co/article/913622/reco-raises-55m-to-enhance-ai-agent-security-enterprise-expansion/",
+      "thumbnail": "https://www.citybiz.co/wp-content/uploads/2026/10/Reco.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVpkR0pzY1U4eFEyRnliMEpvVFJDZkF4ampCU2dLTWdhZEk0cnNsUVU",
+      "date": "10/05/2026, 10:10 AM, +0000 UTC",
+      "iso_date": "2026-10-05T10:10:42Z"
+    },
+    {
+      "position": 12,
+      "title": "Apple tightens Mac security for AI agents",
+      "source": {
+        "name": "Techzine Global",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.techzine.eu&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Mels Dees"
+        ]
+      },
+      "link": "https://www.techzine.eu/news/security/144745/apple-tightens-mac-security-for-ai-agents/",
+      "thumbnail": "https://www.techzine.eu/wp-content/uploads/2026/10/apple2-1-768x403.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU1WbDlaTjFsQ01HOWxhbFpNVFJDUkF4ajlCU2dLTWdhVmRJd0pyZ1k",
+      "date": "10/05/2026, 09:40 AM, +0000 UTC",
+      "iso_date": "2026-10-05T09:40:37Z"
+    },
+    {
+      "position": 13,
+      "title": "NVIDIA Launches Open Agent Safety Platform to Secure Agents From Testing to Deployment",
+      "source": {
+        "name": "NVIDIA Newsroom",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://nvidianews.nvidia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://nvidianews.nvidia.com/news/open-agent-safety-platform",
+      "thumbnail": "https://nvidianews.nvidia.com/_gallery/get_file/?file_id=6aba9c533d6332d60a0bb99a",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNW5SR0Z3V2t0S2VUQmtSbUk0VFJDZkF4ampCU2dLTWdNUkVnNA",
+      "date": "09/28/2026, 10:54 PM, +0000 UTC",
+      "iso_date": "2026-09-28T22:54:06Z"
+    },
+    {
+      "position": 14,
+      "title": "Agentic AI: Blurring the Human and Non-Human Identity lines",
+      "source": {
+        "name": "Dark Reading",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.darkreading.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.darkreading.com/identity-access-management-security/agentic-ai-blurring-the-human-and-non-human-identity-lines",
+      "thumbnail": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt756785036037eb0d/6a834a04616fda9226db3589/AdobeStock_2063315731_(1).jpeg?width=1280&auto=webp&quality=80&disable=upscale",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVhaMEpHYm5JNVRHNUZjemx1VFJDZEF4am1CU2dLTWdZWmc0aXNNUVk",
+      "date": "10/05/2026, 08:23 AM, +0000 UTC",
+      "iso_date": "2026-10-05T08:23:05Z"
+    },
+    {
+      "position": 15,
+      "title": "Apple tightens macOS disk access as AI agents become more powerful",
+      "source": {
+        "name": "Help Net Security",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.helpnetsecurity.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.helpnetsecurity.com/2026/10/05/macos-full-disk-access-updates/",
+      "thumbnail": "https://img2.helpnetsecurity.com/posts2024/apple-security-650.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVBTR2xWUVhoMVFreGZaVnBFVFJEc0FoaUtCU2dLTWdZQk01SnNuUVk",
+      "date": "10/05/2026, 08:11 AM, +0000 UTC",
+      "iso_date": "2026-10-05T08:11:17Z"
+    },
+    {
+      "position": 16,
+      "title": "Aligning AI Speed with AI Trust: AI Agent Security Insights for CISOs and Security Leaders",
+      "source": {
+        "name": "Morphisec",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.morphisec.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.morphisec.com/blog/aligning-ai-speed-with-ai-trust-ai-agent-security-insights-for-cisos-and-security-leaders/",
+      "thumbnail": "https://www.morphisec.com/wp-content/uploads/2026/09/MRP_Aligning-AI-Speed_1200x628_v3.0-1.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVpRMU5PT0VKMlFXeFROV2xQVFJDUUF4ai1CU2dLTWdZQk1KYUpzUWM",
+      "date": "09/30/2026, 01:10 PM, +0000 UTC",
+      "iso_date": "2026-09-30T13:10:36Z"
+    },
+    {
+      "position": 17,
+      "title": "Classie Ships Supervise — The First Platform Dedicated to Real-Time Enterprise AI Agent Oversight",
+      "source": {
+        "name": "forkast.news",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://forkast.news&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://forkast.news/classie-ships-supervise-the-first-platform-dedicated-to-real-time-enterprise-ai-agent-oversight/",
+      "thumbnail": "https://forkast.news/wp-content/uploads/2026/10/classie-supervise-hero-1-1024x572.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNWhOR3MxYUhGS1RYcGZWUzEwVFJDZUF4amxCU2dLTWdNSlJBWQ",
+      "date": "10/05/2026, 09:22 AM, +0000 UTC",
+      "iso_date": "2026-10-05T09:22:57Z"
+    },
+    {
+      "position": 18,
+      "title": "Weekly Recap: eSIM smart-meter provisioning and Google AI-agent security",
+      "source": {
+        "name": "TradingView",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tradingview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.tradingview.com/news/tradingview:b57acb1f97d9e:0-weekly-recap-esim-smart-meter-provisioning-and-google-ai-agent-security/",
+      "thumbnail": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXBjR0phV0haM2FVMUZRMlZ4VFJDUkF4ajhCU2dLTWdhbGRKU3NMUWM",
+      "date": "10/05/2026, 05:00 AM, +0000 UTC",
+      "iso_date": "2026-10-05T05:00:00Z"
+    },
+    {
+      "position": 19,
+      "title": "ESET’s Ryan Grant On AI Agent Security, Shadow AI And SMB Protection",
+      "source": {
+        "name": "crn.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.crn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Wade Millward"
+        ]
+      },
+      "link": "https://www.crn.com/news/ai/2026/eset-s-ryan-grant-on-ai-agent-security-shadow-ai-and-smb-protection",
+      "thumbnail": "https://www.crn.com/news/ai/2026/media_1b417cb2957b7830655a645bcb42422a3d4989fe0.png?width=1200&format=pjpg&optimize=medium",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVdTbHBFVFZSYVJXUlBjRlZEVFJES0F4ampCQ2dLTWdZdFZZeXVxUWM",
+      "date": "09/30/2026, 04:25 PM, +0000 UTC",
+      "iso_date": "2026-09-30T16:25:00Z"
+    },
+    {
+      "position": 20,
+      "title": "AI Agents Are Secretly Collaborating. How Can We Stop Them?",
+      "source": {
+        "name": "IEEE Spectrum",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://spectrum.ieee.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Matthew S Smith"
+        ]
+      },
+      "link": "https://spectrum.ieee.org/ai-agent-security",
+      "thumbnail": "https://spectrum.ieee.org/media-library/illustration-of-several-smiling-robot-faces-against-a-geometric-background.jpg?id=67862180&width=400&height=250",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUZTV2RVUVV0alZGZzRZalpZVFJENkFSaVFBeWdLTWdZQlFJZ3BwZ2c",
+      "date": "09/29/2026, 12:02 PM, +0000 UTC",
+      "iso_date": "2026-09-29T12:02:49Z"
+    },
+    {
+      "position": 21,
+      "title": "AI agents can now face an explicit security verdict before acting",
+      "source": {
+        "name": "TechRadar",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.techradar.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Efosa Udinmwen"
+        ]
+      },
+      "link": "https://www.techradar.com/pro/phone-communications/the-agent-itself-has-become-its-own-entity-to-secure-bitdefenders-new-free-mac-tool-goes-after-flaws-that-let-attackers-fool-ai-models",
+      "thumbnail": "https://cdn.mos.cms.futurecdn.net/2BaNK5XKNiUsUgc3MA8WBC-970-80.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNHlZamh3YjJWTFJrZHdjMHBCVFJDZkF4ampCU2dLTWdNWllBdw",
+      "date": "10/04/2026, 03:05 PM, +0000 UTC",
+      "iso_date": "2026-10-04T15:05:00Z"
+    },
+    {
+      "position": 22,
+      "title": "Meta's Muse AI agent performs tasks, but privacy concerns remain | Action on AI",
+      "source": {
+        "name": "6abc Philadelphia",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://6abc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Cheryl Mettendorf",
+          "Nydia Han"
+        ]
+      },
+      "link": "https://6abc.com/post/metas-muse-ai-agent-performs-tasks-privacy-concerns-remain-action/19901988/",
+      "thumbnail": "https://cdn.abcotvs.com/dip/images/19902126_100226-wpvi-meta-muse-action-ai-630am-video-vid.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUNVbGRCY2s4eVlsTTBOR2x5VFJDZkF4ampCU2dLTWdZTlk0QkhZZ0U",
+      "date": "10/02/2026, 09:59 PM, +0000 UTC",
+      "iso_date": "2026-10-02T21:59:40Z"
+    },
+    {
+      "position": 23,
+      "title": "Nvidia unveils security platform to rein in AI agents and $150bn stock buyback",
+      "source": {
+        "name": "The Guardian",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.theguardian.com/technology/2026/sep/28/nvidia-ai-agent-security-platform-stock-buyback",
+      "thumbnail": "https://i.guim.co.uk/img/media/96fab7de9345f43684d2946c784849f9982aecfd/0_0_4242_2828/master/4242.jpg?width=465&dpr=1&s=none&crop=none",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTBaVFpIU2twWk5FbE9TMFZKVFJDMkFoalJBeWdLTWdZSklvak1vUWc",
+      "date": "09/28/2026, 03:32 PM, +0000 UTC",
+      "iso_date": "2026-09-28T15:32:00Z"
+    },
+    {
+      "position": 24,
+      "title": "7 Best AI Agent Security Platforms for Managing Agent Identities and Permissions in 2026",
+      "source": {
+        "name": "technology.org",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.technology.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.technology.org/2026/10/02/7-best-ai-agent-security-platforms-for-managing-agent-identities-and-permissions-in-2026/",
+      "thumbnail": "https://www.technology.org/texorgwp/wp-content/uploads/2026/01/cybersecurity.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXNVR1UwTmtOclIzaGtka0ozVFJERUF4aW1CU2dLTWdhUmc0Q3RPUU0",
+      "date": "10/02/2026, 08:00 AM, +0000 UTC",
+      "iso_date": "2026-10-02T08:00:44Z"
+    },
+    {
+      "position": 25,
+      "title": "We gave AI agents the organization's keys - but what are they’re doing with them?",
+      "source": {
+        "name": "calcalistech.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.calcalistech.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.calcalistech.com/ctechnews/article/xrdej3ttm",
+      "thumbnail": "https://pic1.calcalist.co.il/picserver3/crop_images/2026/09/30/B1W5hL5qzl/B1W5hL5qzl_0_76_859_484_0_large.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWZTa3hzWTBsWldVNVdObkp3VFJDVUFoanFBeWdLTWdZdFpZaXZMUVk",
+      "date": "10/02/2026, 10:15 AM, +0000 UTC",
+      "iso_date": "2026-10-02T10:15:00Z"
+    },
+    {
+      "position": 26,
+      "title": "Apple Locks Down Mac Disk Access Over AI Agent Security Risks",
+      "source": {
+        "name": "The Tech Buzz",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.techbuzz.ai&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.techbuzz.ai/articles/apple-locks-down-mac-disk-access-over-ai-agent-security-risks",
+      "thumbnail": "https://www.techbuzz.ai/cdn-cgi/image/width=1200,quality=85,format=auto,fit=cover/https://charming-card-d91ad3487b.media.strapiapp.com/large_file_487d992a7c.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNUxTRFZQTTNoT2QxRXhhek5wVFJDcUJCaXFCQ2dLTWdB",
+      "date": "10/02/2026, 09:06 PM, +0000 UTC",
+      "iso_date": "2026-10-02T21:06:00Z"
+    },
+    {
+      "position": 27,
+      "title": "With 88% of Orgs. Hit by AI Agent Security Incidents, Practical DevSecOps Launches Certification to Close the Skills Gap",
+      "source": {
+        "name": "El Paso Times",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.elpasotimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.elpasotimes.com/press-release/story/208015/with-88-of-orgs-hit-by-ai-agent-security-incidents-practical-devsecops-launches-certification-to-close-the-skills-gap/",
+      "date": "10/01/2026, 08:12 PM, +0000 UTC",
+      "iso_date": "2026-10-01T20:12:45Z"
+    },
+    {
+      "position": 28,
+      "title": "AI agent used Zammad zero-days to breach Dutch vulnerability disclosure non-profit",
+      "source": {
+        "name": "Help Net Security",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.helpnetsecurity.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Zeljka Zorz"
+        ]
+      },
+      "link": "https://www.helpnetsecurity.com/2026/10/01/divd-agentic-ai-attack-breach/",
+      "thumbnail": "https://img.helpnetsecurity.com/wp-content/uploads/2026/06/23140750/ai-think.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNXBhSE10WjA5V1JqRXRNa2hOVFJDZUF4amtCU2dLTWdzVlFvZ3NJYVpNVktsb2ln",
+      "date": "10/01/2026, 01:13 PM, +0000 UTC",
+      "iso_date": "2026-10-01T13:13:14Z"
+    },
+    {
+      "position": 29,
+      "title": "Microsoft frames its Ignite security week around AI agents with real access",
+      "source": {
+        "name": "MarketScale",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.marketscale.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.marketscale.com/industries/software-and-technology/microsoft-frames-its-ignite-security-week-around-ai-agents-with-real-access",
+      "thumbnail": "https://www.marketscale.com/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fmarketscalecms%2Fimage%2Fupload%2Ff_auto%2Cq_auto%2Fv1%2Fpayload%2Fmedia%2Fnews-cover-microsoft-frames-its-ignite-security-week-around-ai-agents-with-real-access%3F_a%3DBAMAABhM0&w=1600&q=75",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWFiVk4wY0VReVQyYzNRakJmVFJDZkF4ampCU2dLTWdhbE1hRE1IQW8",
+      "date": "10/01/2026, 08:48 PM, +0000 UTC",
+      "iso_date": "2026-10-01T20:48:00Z"
+    },
+    {
+      "position": 30,
+      "title": "AI agents hacked the hackers, stealing email addresses from security research org",
+      "source": {
+        "name": "The Register",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.theregister.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Jessica Lyons"
+        ]
+      },
+      "link": "https://www.theregister.com/security/2026/10/01/ai-agents-hacked-the-hackers-stealing-email-addresses-from-security-research-org/5300652",
+      "thumbnail": "https://image.theregister.com/5300669.jpg?imageId=5300669&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTBPR2RyTFZNNWFITXdSVTlGVFJDaUF4amVCU2dLTWdhWlk1YXNyUWM",
+      "date": "10/01/2026, 09:26 PM, +0000 UTC",
+      "iso_date": "2026-10-01T21:26:42Z"
+    },
+    {
+      "position": 31,
+      "title": "Nvidia Has The Right Idea On Advancing AI Agent Security: GuidePoint Exec",
+      "source": {
+        "name": "crn.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.crn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Kyle Alspach"
+        ]
+      },
+      "link": "https://www.crn.com/news/security/2026/nvidia-has-the-right-idea-on-advancing-ai-agent-security-guidepoint-exec",
+      "thumbnail": "https://www.crn.com/news/security/2026/media_19ccbd61d710367b16b219f51ea4d730d359c51f1.png?width=1200&format=pjpg&optimize=medium",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDROVmc0V2pKTFoyTlZiMlJIVFJDN0F4aXpCU2dLTWdZUkJva0kwZ00",
+      "date": "09/28/2026, 07:30 PM, +0000 UTC",
+      "iso_date": "2026-09-28T19:30:00Z"
+    },
+    {
+      "position": 32,
+      "title": "BREAKING: AI agent incident toll has risen to tens of thousands",
+      "source": {
+        "name": "Marcus on AI | Substack",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://garymarcus.substack.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Gary Marcus"
+        ]
+      },
+      "link": "https://garymarcus.substack.com/p/breaking-ai-agent-incident-toll-has",
+      "thumbnail": "https://substackcdn.com/image/fetch/$s_!nxki!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4c9151fe-ff2a-4d88-8a63-fcd6da44355b_1725x1589.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXpTRGN4VWpsd1RtVkpVRzA1VFJDVEJCakJCQ2dLTWdrSkZJNkVrcXRqY0FF",
+      "date": "09/26/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-26T07:00:00Z"
+    },
+    {
+      "position": 33,
+      "title": "Nvidia unveils security platform to stop AI agents from going rogue",
+      "source": {
+        "name": "PBS",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.pbs.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Kelvin Chan",
+          "Anne D'Innocenzio"
+        ]
+      },
+      "link": "https://www.pbs.org/newshour/world/nvidia-unveils-security-platform-to-stop-ai-agents-from-going-rogue",
+      "thumbnail": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/AP26271379369850-1024x682.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWFjMnQxTW1kQmNVVlFXbHA2VFJERUF4aW5CU2dLTWdrQlFJcGtIcWd6VUFF",
+      "date": "09/28/2026, 09:58 PM, +0000 UTC",
+      "iso_date": "2026-09-28T21:58:47Z"
+    },
+    {
+      "position": 34,
+      "title": "Reco raises $55M as AI agent security startups crowd the market",
+      "source": {
+        "name": "TechCrunch",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://techcrunch.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ram Iyer"
+        ]
+      },
+      "link": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2023/08/getty-keys-red-background-locks.jpg?w=1024",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVhWWEZIVGtNelNXaEpPVE5QVFJERUF4aW5CU2dLTWdZQkFJQ0FGQUk",
+      "date": "09/29/2026, 12:30 PM, +0000 UTC",
+      "iso_date": "2026-09-29T12:30:00Z"
+    },
+    {
+      "position": 35,
+      "title": "AI agents with access to internal systems are a security concern—Muse is the latest",
+      "source": {
+        "name": "IT Brew",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.itbrew.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Eoin Higgins"
+        ]
+      },
+      "link": "https://www.itbrew.com/stories/ai-agents-with-access-to-internal-systems-are-a-security-concern-muse-is-the-latest",
+      "thumbnail": "https://morningbrew.com/cdn-cgi/image/width=412,height=275,quality=80,format=auto,dpr=2.625/https://storage.morningbrew.com/image/2026-09-28/image-1384eaf8f43ddcfecb1a2905136d760c49895280-5197x3462-jpg/MetaMuseBillboard",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUplWEJDTkV0SlVXVnRUemQxVFJERUF4aW5CU2dLTWdZVndvNFR4UVU",
+      "date": "10/02/2026, 06:01 PM, +0000 UTC",
+      "iso_date": "2026-10-02T18:01:11Z"
+    },
+    {
+      "position": 36,
+      "title": "Gecko Robotics works with NVIDIA to add AI agent security and control",
+      "source": {
+        "name": "The Robot Report",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.therobotreport.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Eugene Demaitre"
+        ]
+      },
+      "link": "https://www.therobotreport.com/gecko-robotics-works-with-nvidia-adds-ai-agent-security-and-control/",
+      "thumbnail": "https://www.therobotreport.com/wp-content/uploads/2026/09/Gecko_NVIDIA-300x193.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWpOV2RPV1cxblRtbzRhVmxRVFJEQkFSaXNBaWdLTWdZVmtvaG9OZ2M",
+      "date": "09/28/2026, 05:51 PM, +0000 UTC",
+      "iso_date": "2026-09-28T17:51:40Z"
+    },
+    {
+      "position": 37,
+      "title": "AI agent identity security demands layered defenses, Omdia says",
+      "source": {
+        "name": "SiliconANGLE",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://siliconangle.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Sloane Kali Faye"
+        ]
+      },
+      "link": "https://siliconangle.com/2026/09/28/ai-agent-identity-security-demands-layered-defenses-omdia-says-oktane/",
+      "thumbnail": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/IMG_1936-300x200.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVJMV1ZqUm1sTE5tRmpNbFpvVFJESUFSaXNBaWdLTWdZdFJaaXVuUWs",
+      "date": "09/29/2026, 03:17 AM, +0000 UTC",
+      "iso_date": "2026-09-29T03:17:00Z"
+    },
+    {
+      "position": 38,
+      "title": "What we know about the rogue AI-agent security breaches",
+      "source": {
+        "name": "Reuters",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.reuters.com/legal/litigation/what-we-know-about-rogue-ai-agent-security-breaches-2026-07-31/",
+      "thumbnail": "https://www.reuters.com/resizer/v2/27WSV4OBVVJ6LOKYR2Q4KT5ANI.jpg?auth=5b54358d80f7a494b5a1cf75a8f1c77d86d00c6b675ad76dd75b86f42ec8690c&width=1920&quality=80",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXNTWGd3VDNOR1RqSlhURFZ0VFJERUF4aW1CU2dLTWdrQkFJem5EQ2JKYndF",
+      "date": "09/24/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-24T07:00:00Z"
+    },
+    {
+      "position": 39,
+      "title": "Accelerating AI Agent Adoption Through Improved Security – AFPI",
+      "source": {
+        "name": "americafirstpolicy.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://americafirstpolicy.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://americafirstpolicy.com/issues/accelerating-ai-agent-adoption-through-improved-security/",
+      "date": "09/18/2026, 12:12 AM, +0000 UTC",
+      "iso_date": "2026-09-18T00:12:16Z"
+    },
+    {
+      "position": 40,
+      "title": "Palo Alto Networks and NVIDIA want tighter control over AI agents",
+      "source": {
+        "name": "Help Net Security",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.helpnetsecurity.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.helpnetsecurity.com/2026/09/29/palo-alto-networks-nvidia-ai-agent-security/",
+      "date": "09/29/2026, 10:21 AM, +0000 UTC",
+      "iso_date": "2026-09-29T10:21:25Z"
+    },
+    {
+      "position": 41,
+      "title": "The AI Agent Data Bottleneck: 57% of Firms Pilot Agents, but Only 8% Have Production-Ready Data",
+      "source": {
+        "name": "CXOToday.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://cxotoday.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://cxotoday.com/ai/the-ai-agent-data-bottleneck-57-of-firms-pilot-agents-but-only-8-have-production-ready-data/",
+      "thumbnail": "https://cxotoday.com/wp-content/uploads/2026/07/agentic-ai.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWZWbXRQTVU1a2IzZzNXR2xWVFJDZkF4ampCU2dLTWdZcGhaTE50UVk",
+      "date": "10/05/2026, 08:39 AM, +0000 UTC",
+      "iso_date": "2026-10-05T08:39:22Z"
+    },
+    {
+      "position": 42,
+      "title": "Zenity vs HiddenLayer vs Straiker: $61M AI Agent Security Funding Gap [2026]",
+      "source": {
+        "name": "tech-insider.org",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://tech-insider.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://tech-insider.org/zenity-vs-hiddenlayer-vs-straiker-ai-agent-security-2026/",
+      "thumbnail": "https://tech-insider.org/wp-content/uploads/2026/09/zenity-vs-hiddenlayer-vs-straiker-ai-agent-security-2026-1.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNVJVVk5NTWxKd1JUQlNjMEZuVFJDaUF4amRCU2dLTWdNQmNBZw",
+      "date": "09/30/2026, 01:32 PM, +0000 UTC",
+      "iso_date": "2026-09-30T13:32:25Z"
+    },
+    {
+      "position": 43,
+      "title": "Omada Acquires EmpowerID To Expand AI Agent Governance",
+      "source": {
+        "name": "Pulse 2.0",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://pulse2.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Amit Chowdhry"
+        ]
+      },
+      "link": "https://pulse2.com/omada-acquires-empowerid-to-expand-ai-agent-governance/",
+      "thumbnail": "https://cdn.pulse2.com/cdn/2026/10/EmpowerID-Logo.jpeg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHdhMDQ1UmtOWVZIQnJVWFIzVFJDcUJCaXFCQ2dLTWdZbGxKQ3ZOUWM",
+      "date": "10/04/2026, 12:49 PM, +0000 UTC",
+      "iso_date": "2026-10-04T12:49:19Z"
+    },
+    {
+      "position": 44,
+      "title": "This popular AI agent could be hacked by a single email — with potentially disastrous consequences",
+      "source": {
+        "name": "TechRadar",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.techradar.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Sead Fadilpašić"
+        ]
+      },
+      "link": "https://www.techradar.com/pro/security/this-popular-ai-agent-could-be-hacked-by-a-single-email-with-potentially-disastrous-consequences",
+      "thumbnail": "https://cdn.mos.cms.futurecdn.net/Thi6y93AMWrCXJAEiHDQbL-1200-80.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU9ZVWxxTUZFNVZUQjZka3hJVFJDZkF4ampCU2dLTWdhdFFvUVNvUVk",
+      "date": "10/02/2026, 05:05 PM, +0000 UTC",
+      "iso_date": "2026-10-02T17:05:00Z"
+    },
+    {
+      "position": 45,
+      "title": "AI Agents Aimed SQL Injection at US and Canadian Government Sites",
+      "source": {
+        "name": "SecurityWeek",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.securityweek.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Eduard Kovacs"
+        ]
+      },
+      "link": "https://www.securityweek.com/ai-agents-aimed-sql-injection-at-us-and-canadian-government-sites/",
+      "thumbnail": "https://www.securityweek.com/wp-content/uploads/2026/08/rogue-AI-artificial-intelligence.jpeg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTVjekl0VDFsaFNucDFPRGxyVFJDZkF4ampCU2dLTWdZVlFJd01zZ2M",
+      "date": "10/02/2026, 08:38 AM, +0000 UTC",
+      "iso_date": "2026-10-02T08:38:46Z"
+    },
+    {
+      "position": 46,
+      "title": "Apple tightens permission controls to lower agentic risk",
+      "source": {
+        "name": "Computing UK",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.computing.co.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Tom Allen"
+        ]
+      },
+      "link": "https://www.computing.co.uk/news/2026/ai/apple-tightens-permission-controls-to-lower-agentic-risk",
+      "thumbnail": "https://www.computing.co.uk/news/2026/ai/media_14a44ef24214c3f818bef57f0d6beb03b89792fdd.jpg?width=750&format=jpg&optimize=medium",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTNYMW8wVTFOeVVHRTJZamN4VFJDeUF4akRCU2dLTWdaQklvZ1RIUWs",
+      "date": "10/05/2026, 08:59 AM, +0000 UTC",
+      "iso_date": "2026-10-05T08:59:02Z"
+    },
+    {
+      "position": 47,
+      "title": "Nvidia launches Open Agent Safety Platform to restrain rogue AI agents — new hardware-and-software security stack can quarantine agents in milliseconds",
+      "source": {
+        "name": "Tom's Hardware",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.tomshardware.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-launches-open-agent-safety-platform-to-restrain-rogue-ai-agents-new-hardware-and-software-security-stack-can-quarantine-agents-in-milliseconds",
+      "thumbnail": "https://cdn.mos.cms.futurecdn.net/hNQGdrGeYByzqyJFsM8WjY-1200-80.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNU9VbW8yY1d0MGNrOVdaVGhxVFJDZkF4ampCU2dLTWdNUkVnNA",
+      "date": "10/01/2026, 02:30 PM, +0000 UTC",
+      "iso_date": "2026-10-01T14:30:00Z"
+    },
+    {
+      "position": 48,
+      "title": "Nvidia’s Answer to Rogue Agents Is an Open-Source AI Security System",
+      "source": {
+        "name": "WIRED",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wired.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Lily Hay Newman",
+          "Lauren Goode"
+        ]
+      },
+      "link": "https://www.wired.com/story/nvidias-answer-to-rogue-agents-is-an-open-source-ai-security-system/",
+      "thumbnail": "https://media.wired.com/photos/6aba2329e8d78c42cabc4ad2/1:1/w_2560%2Cc_limit/092826-Nvidia%2520OpenShell.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUpNMFJmZDB4WVZXSlRUVVpTVFJDcUJCaXFCQ2dLTWdZaEpZN3JsUWc",
+      "date": "09/28/2026, 09:00 AM, +0000 UTC",
+      "iso_date": "2026-09-28T09:00:00Z"
+    },
+    {
+      "position": 49,
+      "title": "How Exabeam's Nova AI Triages Cases 30x Faster Than Humans",
+      "source": {
+        "name": "Cyber Magazine",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://cybermagazine.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://cybermagazine.com/news/how-exabeams-nova-ai-triages-cases-30x-faster-than-humans",
+      "thumbnail": "https://assets.bizclikmedia.net/1800/d2e993683425a0b39de052251867e640:2ec500daac3f4c6c42b5dd268007c65c/steve-wilson-chief-ai-and-product-officer-exabeam.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVVOVGxyYzNGM1psOTVaRFZHVFJEREFSaURBaWdCTWdhcFJaak5vUWc",
+      "date": "10/02/2026, 07:24 AM, +0000 UTC",
+      "iso_date": "2026-10-02T07:24:57Z"
+    },
+    {
+      "position": 50,
+      "title": "Omada Acquires EmpowerID to Close the AI Agent Security Gap",
+      "source": {
+        "name": "PR Newswire",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.prnewswire.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.prnewswire.com/news-releases/omada-acquires-empowerid-to-close-the-ai-agent-security-gap-302888544.html",
+      "thumbnail": "https://mmx.prnewswire.com/media/MS1323044/Omada-Logo.jpg?id=OA2967239&p=facebook",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVdiMlZOTnpabFdqZHRUMU5yVFJELUFoamFCU2dLTWdrQnNKQkd2aVkxc1FF",
+      "date": "09/24/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-24T07:00:00Z"
+    },
+    {
+      "position": 51,
+      "title": "Nvidia Alliance to Tackle Security Across AI Agent Stack",
+      "source": {
+        "name": "BankInfoSecurity",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bankinfosecurity.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Michael Novinson"
+        ]
+      },
+      "link": "https://www.bankinfosecurity.com/nvidia-alliance-to-tackle-security-across-ai-agent-stack-a-32960",
+      "thumbnail": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/nvidia-alliance-targets-security-across-ai-agent-stack-image_large-9-a-32960.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXdiMHBGVGsxUFNrMTZVVlJEVFJDdUF4aklCU2dLTWdZTmRKQ3NzUVk",
+      "date": "09/28/2026, 10:29 PM, +0000 UTC",
+      "iso_date": "2026-09-28T22:29:57Z"
+    },
+    {
+      "position": 52,
+      "title": "Apple Tightens macOS Security Against AI Agent Risks",
+      "source": {
+        "name": "The Tech Buzz",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.techbuzz.ai&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.techbuzz.ai/articles/apple-tightens-macos-security-against-ai-agent-risks",
+      "thumbnail": "https://www.techbuzz.ai/cdn-cgi/image/width=1200,quality=85,format=auto,fit=cover/https://charming-card-d91ad3487b.media.strapiapp.com/large_file_6ba04180dd.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVhWM05FY0RsTk9GUXhURWh2VFJDcUJCaXFCQ2dLTWdhTlVwUm9xUWc",
+      "date": "10/02/2026, 06:40 PM, +0000 UTC",
+      "iso_date": "2026-10-02T18:40:00Z"
+    },
+    {
+      "position": 53,
+      "title": "LTM Introduces BlueVerse AgentTraceIQ and Partners with Rubrik for AI Oversight",
+      "source": {
+        "name": "Sahi",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.sahi.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.sahi.com/news/ltm-introduces-blueverse-agenttraceiq-and-partners-with-rubrik-for-ai-oversight",
+      "thumbnail": "https://www.sahi.com/assets/uploads/3147_PE_1_CORPORATE_05_10_2026_16x9_fa96af9cd6.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUZUSFJOUmtwamJteERRbVZ4VFJDZUF4amxCU2dLTWdZWlVvenFxQVU",
+      "date": "10/05/2026, 06:01 AM, +0000 UTC",
+      "iso_date": "2026-10-05T06:01:44Z"
+    },
+    {
+      "position": 54,
+      "title": "AI agent security goes beyond access",
+      "source": {
+        "name": "SiliconANGLE",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://siliconangle.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Chad Wilson"
+        ]
+      },
+      "link": "https://siliconangle.com/2026/09/24/ai-agents-security-thecubes-keynote-analysis-oktane/",
+      "thumbnail": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Krista-Case-and-Rebecca-Knight-theCUBE-Okta-Oktane-2026-300x169.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVlhbWcyUTNsUlgwSkJZMFpEVFJDcEFSaXNBaWdLTWdrQmdKSzFzQ2E1elFF",
+      "date": "09/24/2026, 05:25 PM, +0000 UTC",
+      "iso_date": "2026-09-24T17:25:00Z"
+    },
+    {
+      "position": 55,
+      "title": "Automated AI agent used to breach cybersecurity nonprofit DIVD",
+      "source": {
+        "name": "BleepingComputer",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.bleepingcomputer.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Bill Toulas"
+        ]
+      },
+      "link": "https://www.bleepingcomputer.com/news/security/automated-ai-agent-used-to-breach-cybersecurity-nonprofit-divd/",
+      "thumbnail": "https://www.bleepstatic.com/content/hl-images/2026/07/27/botnet.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUNWVUZ6TW1GUVV5MWxVbmx5VFJDZkF4ampCU2dLTWdrQk1JYWpwR1E4NXdJ",
+      "date": "09/29/2026, 03:39 PM, +0000 UTC",
+      "iso_date": "2026-09-29T15:39:19Z"
+    },
+    {
+      "position": 56,
+      "title": "Researchers bypass AI agent protections with JavaScript obfuscation",
+      "source": {
+        "name": "SC Media",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.scworld.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.scworld.com/brief/researchers-bypass-ai-agent-protections-with-javascript-obfuscation",
+      "thumbnail": "https://www.scworld.com/api/thumbor-proxy?width=1920&src=https%3A%2F%2Ffiles.cyberriskalliance.com%2Fwp-content%2Fuploads%2F2023%2F03%2F030323_javascript.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW5ORzlPWXpsclJrdFFOUzFCVFJDMkF4aTlCU2dLTWdZWkJZZ0prZ1k",
+      "date": "10/03/2026, 04:51 PM, +0000 UTC",
+      "iso_date": "2026-10-03T16:51:00Z"
+    },
+    {
+      "position": 57,
+      "title": "Reco Raises $55M as Enterprises Confront AI Agent Security Risks",
+      "source": {
+        "name": "citybiz",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.citybiz.co&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.citybiz.co/article/910774/reco-raises-55m-as-enterprises-confront-ai-agent-security-risks/",
+      "thumbnail": "https://www.citybiz.co/wp-content/uploads/2026/09/Reco.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDRRblUwYjNSdVkwdENkVFJtVFJEZ0F4aUFCU2dLTWdZRlFaeWtKQW8",
+      "date": "09/29/2026, 02:50 PM, +0000 UTC",
+      "iso_date": "2026-09-29T14:50:31Z"
+    },
+    {
+      "position": 58,
+      "title": "Cyera raises $400M more amid AI agent security push",
+      "source": {
+        "name": "SiliconANGLE",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://siliconangle.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Maria Deutscher"
+        ]
+      },
+      "link": "https://siliconangle.com/2026/09/22/cyera-raises-another-400m-amid-ai-agent-security-push/",
+      "thumbnail": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Cyera-1-300x169.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVhWRUpmWTFFM2REQnJiamMxVFJDcEFSaXNBaWdLTWdtUlFaaklvYWsxREFJ",
+      "date": "09/22/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-22T07:00:00Z"
+    },
+    {
+      "position": 59,
+      "title": "Cybersecurity startup Island valued at $6.4 billion amid AI agent security risks",
+      "source": {
+        "name": "Reuters",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.reuters.com/technology/ai-startup-island-valued-64-billion-latest-funding-round-2026-09-24/",
+      "thumbnail": "https://www.reuters.com/resizer/v2/Y2WYIVNYTBJ5XPDHVHTSDROVBU.jpg?auth=3e675375eaf951df1462138f89d20bc718d55227cff61dca874ed23c69683588&height=1920&width=1920&quality=80&smart=true",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHpaMUpSUnkxV1Qwb3RWazUwVFJDcUJCaXFCQ2dLTWdZQlFJYklJQWc",
+      "date": "09/24/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-24T07:00:00Z"
+    },
+    {
+      "position": 60,
+      "title": "Nvidia ties AI agent security to BlueField-4, Vera CPU",
+      "source": {
+        "name": "digitimes",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.digitimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.digitimes.com/news/a20261001PD215/nvidia-security-cpu-hardware-software.html",
+      "thumbnail": "https://img.digitimes.com/newsshow/20261001pd215_files/2_b.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNDNWemwxV2pNNU4xRmhSemd3VFJDckF4aUFCU2dLTWdB",
+      "date": "10/01/2026, 02:17 AM, +0000 UTC",
+      "iso_date": "2026-10-01T02:17:57Z"
+    },
+    {
+      "position": 61,
+      "title": "Here’s How CrowdStrike (CRWD) is Betting on AI Agent Security to Drive Future Growth",
+      "source": {
+        "name": "Yahoo Finance",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Neha Gupta"
+        ]
+      },
+      "link": "https://finance.yahoo.com/technology/ai/articles/crowdstrike-crwd-betting-ai-agent-224158226.html",
+      "thumbnail": "https://s.yimg.com/lo/mysterio/api/364be27e31b1d09e63512e4739d485ce9c532bf3ea164bcb87ad709411fd66bc/lightyear_networkapi/resizefit_w960%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2Fff57e8911097fd1ebb23ca8c8d198ea8.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXFhR1pJZHpKTlYyUnRWbVJ3VFJERUF4aW1CU2dLTWdrQkk0NFRGV3pCaVFJ",
+      "date": "09/25/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-25T07:00:00Z"
+    },
+    {
+      "position": 62,
+      "title": "Cybersecurity Awareness Month: AI agents are users too, and they need governing like it",
+      "source": {
+        "name": "IT Security Guru",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.itsecurityguru.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Lara Joseph"
+        ]
+      },
+      "link": "https://www.itsecurityguru.org/2026/10/02/cybersecurity-awareness-month-ai-agents-are-users-too-and-they-need-governing-like-it/",
+      "thumbnail": "https://www.itsecurityguru.org/wp-content/uploads/2026/10/AI-Agents-in-a-Secure-Digital-Workspace.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUJNVUU1V0ZaM1NIVTRXRmw2VFJDZkF4amlCU2dLTWdtQlFZNEdvZWFDY3dF",
+      "date": "10/02/2026, 01:13 PM, +0000 UTC",
+      "iso_date": "2026-10-02T13:13:31Z"
+    },
+    {
+      "position": 63,
+      "title": "8 insights from Proofpoint Protect: Security bets on intent as AI agents join the workforce",
+      "source": {
+        "name": "SiliconANGLE",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://siliconangle.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Cheryl Knight"
+        ]
+      },
+      "link": "https://siliconangle.com/2026/09/24/proofpoint-protect-2026-8-insights-ai-agent-security-proofpointprotect/",
+      "thumbnail": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Molly-McLain-Sterling-senior-director-of-Cybersecurity-Strategy-at-Proofpoint-Proofpoint-Protect-2026-300x200.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWlSSHBVWlRCTFMyUlllVXB6VFJESUFSaXNBaWdLTWdZcE5vTHRuUWs",
+      "date": "09/24/2026, 09:38 PM, +0000 UTC",
+      "iso_date": "2026-09-24T21:38:00Z"
+    },
+    {
+      "position": 64,
+      "title": "Nvidia launches Open Agent Safety Platform to secure AI agents",
+      "source": {
+        "name": "constellationr.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.constellationr.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.constellationr.com/insights/news/nvidia-launches-open-agent-safety-platform-secure-ai-agents",
+      "thumbnail": "https://www.constellationr.com/sites/default/files/styles/responsive_600w/public/media/image/2026/09/screenshot_2026-09-27_193431.png.webp?itok=zb3nbmkj",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUhSRXRhUXpGeGNYUkVVblZ3VFJDbEFSaXhBaWdCTWdrQkFZeTJ0R1c1clFF",
+      "date": "09/28/2026, 02:50 PM, +0000 UTC",
+      "iso_date": "2026-09-28T14:50:48Z"
+    },
+    {
+      "position": 65,
+      "title": "How Do You Build Security for AI Agents That Don’t Exist Yet?",
+      "source": {
+        "name": "OX Security",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.ox.security&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Neatsun Ziv"
+        ]
+      },
+      "link": "https://www.ox.security/blog/how-do-you-build-security-for-ai-agents-that-dont-exist-yet/",
+      "thumbnail": "https://www.ox.security/wp-content/uploads/2026/09/Visual-for-CEO-blog-2-1024x536.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHdiRXBWTFVoWVFVcHJVRlZMVFJDUUF4ai1CU2dLTWdtRmtaRHJ2V1U5N0FF",
+      "date": "09/16/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-16T07:00:00Z"
+    },
+    {
+      "position": 66,
+      "title": "The Personal AI Agent Horror Stories Are Rolling in",
+      "source": {
+        "name": "Business Insider",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businessinsider.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Thibault Spirlet"
+        ]
+      },
+      "link": "https://www.businessinsider.com/ai-agents-gone-wrong-horror-stories-instinct-muse-privacy-security-2026-9",
+      "thumbnail": "https://i.insider.com/6ab3a5b4265e3f8e338f5ed1?width=700",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXBjRVE0Y0VaMVNsUlJkR2gwVFJDOUF4aXdCU2dLTWdZTkZZenRyUVk",
+      "date": "09/24/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-24T07:00:00Z"
+    },
+    {
+      "position": 67,
+      "title": "Nvidia Unveils Security Platform to Stop AI Agents From Going Rogue",
+      "source": {
+        "name": "Broadband Breakfast",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://broadbandbreakfast.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://broadbandbreakfast.com/nvidia-unveils-security-platform-to-stop-ai-agents-from-going-rogue/",
+      "thumbnail": "https://storage.ghost.io/c/29/97/29976d9d-89ea-4c77-8c0b-0e8a0eafed35/content/images/size/w1200/2026/09/AP26267859354376.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXpUbFV0TVhWTFZGZFZaekF5VFJDM0FSaVRBaWdCTWdZaFZaYXVKUWc",
+      "date": "09/29/2026, 04:12 AM, +0000 UTC",
+      "iso_date": "2026-09-29T04:12:46Z"
+    },
+    {
+      "position": 68,
+      "title": "AI Agents Raise Fresh Risks for Customer Data",
+      "source": {
+        "name": "CX Today",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://cxtoday.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Nicole Willing"
+        ]
+      },
+      "link": "https://cxtoday.com/this-week-in-cx-security-ai-agents-data-leaks-and-a-growing-attack-s",
+      "thumbnail": "https://cxtoday.com/_next/image?url=https%3A%2F%2Fmedia.cxtoday.com%2Farticle-images%2F1790983804458-20261002---Security.jpg&w=3840&q=95",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNXhSV3hwY21GVWFYUnFTRnBPVFJDZkF4ampCU2dLTWdB",
+      "date": "10/03/2026, 11:03 AM, +0000 UTC",
+      "iso_date": "2026-10-03T11:03:50Z"
+    },
+    {
+      "position": 69,
+      "title": "AI Agents Push Cybersecurity Into a New Risk Era",
+      "source": {
+        "name": "Mexico Business News",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://mexicobusiness.news&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Diego Valverde"
+        ]
+      },
+      "link": "https://mexicobusiness.news/cybersecurity/news/ai-agents-push-cybersecurity-new-risk-era",
+      "thumbnail": "https://mexicobusiness.news/sites/default/files/styles/media_square/public/2026-10/MBN-2025-Thumbnails-TheWeekIn-Cybersecurity.jpg?h=c2b9be39&itok=9CRJ1UWC",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXFRbTVKYWswNFQxQmpiVE5WVFJDc0FoaXNBaWdLTWdZTlJKRHFvUVU",
+      "date": "10/02/2026, 10:33 PM, +0000 UTC",
+      "iso_date": "2026-10-02T22:33:46Z"
+    },
+    {
+      "position": 70,
+      "title": "NVIDIA’s AI Agent Safety Platform: 100+ Partners [2026]",
+      "source": {
+        "name": "shattered.io",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://shattered.io&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://shattered.io/nvidia-ai-agent-safety-platform-100-partners-2026/",
+      "thumbnail": "https://shattered.io/wp-content/uploads/2026/09/nvidia-ai-agent-safety-platform-100-partners-2026-1-1024x585.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHhWSHAwWkdOc1VGZFRaWEJKVFJDaUF4amRCU2dLTWdhQlFwQlNKUWc",
+      "date": "09/28/2026, 04:52 PM, +0000 UTC",
+      "iso_date": "2026-09-28T16:52:28Z"
+    },
+    {
+      "position": 71,
+      "title": "Altman unveils ‘always-on’ AI agent after OpenAI shelves model over safety concerns",
+      "source": {
+        "name": "Hartford Courant",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.courant.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.courant.com/2026/09/29/openai-new-agent-dot/",
+      "thumbnail": "https://www.courant.com/wp-content/uploads/2026/09/Open_AI_Conference_8747_-1.jpg?w=525",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUxNV2wyTlMxbFJreHBhRTFGVFJEZUFoaU5CQ2dLTWdhcGc0aFNRUVE",
+      "date": "09/30/2026, 12:01 AM, +0000 UTC",
+      "iso_date": "2026-09-30T00:01:00Z"
+    },
+    {
+      "position": 72,
+      "title": "Nvidia says its new OpenShell platform can stop AI agents from going rogue",
+      "source": {
+        "name": "CBS News",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cbsnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Aimee Picchi"
+        ]
+      },
+      "link": "https://www.cbsnews.com/news/nvidia-openshell-ai-safety-rogue-agents/",
+      "thumbnail": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/27/bb02e9ae-0871-4066-84bf-73c2735032c5/thumbnail/640x360/99606406b95a8da75fb6cfd3eb38011d/cbsn-fusion-nvidia-revenue-profits-more-than-double-latest-earnings-report-thumbnail.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVFWVzQ1VTFNM1kxcHJkVXBzVFJEb0FoaUFCU2dLTWdhdFVvaFJKUVE",
+      "date": "09/28/2026, 12:36 PM, +0000 UTC",
+      "iso_date": "2026-09-28T12:36:24Z"
+    },
+    {
+      "position": 73,
+      "title": "NVIDIA Launches Open Agent Safety Platform to Put Guardrails Around Autonomous AI",
+      "source": {
+        "name": "securityinfowatch.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.securityinfowatch.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Rodney Bosch"
+        ]
+      },
+      "link": "https://www.securityinfowatch.com/cybersecurity/news/55408207/nvidia-launches-open-agent-safety-platform-to-put-guardrails-around-autonomous-ai",
+      "thumbnail": "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2026/09/6abaada09a577867ef50d752-dreamstime_s_184397276.png?auto=format,compress&fit=fill&fill=blur&q=45?w=640&width=640",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHdiV0ZTYmw5RExURktWbTB3VFJDcUF4aUFCU2dLTWdZcFpKS09MUWM",
+      "date": "09/28/2026, 09:50 PM, +0000 UTC",
+      "iso_date": "2026-09-28T21:50:59Z"
+    },
+    {
+      "position": 74,
+      "title": "AI agent control emerges as infrastructure priority amid rapid development",
+      "source": {
+        "name": "SC Media",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.scworld.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.scworld.com/brief/ai-agent-control-emerges-as-infrastructure-priority-amid-rapid-development",
+      "thumbnail": "https://www.scworld.com/api/thumbor-proxy?width=1920&src=https%3A%2F%2Ffiles.cyberriskalliance.com%2Fwp-content%2Fuploads%2F2025%2F06%2F060225_ai_agents.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWZlSEpvYkhoNFlqUkROMm90VFJERUF4aW5CU2dLTWdhZEE1RHNFUW8",
+      "date": "10/03/2026, 04:42 PM, +0000 UTC",
+      "iso_date": "2026-10-03T16:42:34Z"
+    },
+    {
+      "position": 75,
+      "title": "OpenAI says its AI agents escaped a secure ‘sandbox’ again last weekend and it is pausing training for a second time",
+      "source": {
+        "name": "Fortune",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://fortune.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Jeremy Kahn"
+        ]
+      },
+      "link": "https://fortune.com/2026/09/26/openai-ai-agents-secure-sandbox-escape-training-pause-second-time-hugging-face-hack/",
+      "thumbnail": "https://fortune.com/img-assets/wp-content/uploads/2026/09/GettyImages-2296177332-e1790434491678.jpg?format=webp&w=1440&quality=75",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUpTa2RmTTJkSWRHSjZabmRzVFJERUF4aW1CU2dLTWdZdE5JaHdtUWs",
+      "date": "09/26/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-26T07:00:00Z"
+    },
+    {
+      "position": 76,
+      "title": "The AI Agent Security Risks CX Leaders Need to Address in the Wake of OpenAI and Anthropic Hacks",
+      "source": {
+        "name": "CX Today",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://cxtoday.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Nicole Willing"
+        ]
+      },
+      "link": "https://cxtoday.com/the-ai-agent-security-risks-cx-leaders-need-to-address-in-the-wake-of-openai-and-anthropic-hacks",
+      "thumbnail": "https://cxtoday.com/_next/image?url=https%3A%2F%2Fmedia.cxtoday.com%2Fwp%2F2026%2F08%2F20260803-autonomous-AI-agent-security.png&w=3840&q=95",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWhVRFY0VkMxR1prNURVRTU2VFJDZkF4ampCU2dLTWdtQklwSWlGMnFEa0FF",
+      "date": "09/28/2026, 12:34 PM, +0000 UTC",
+      "iso_date": "2026-09-28T12:34:30Z"
+    },
+    {
+      "position": 77,
+      "title": "AI Security Is an Engineering Problem — How to Solve It at Every Layer of the Agent Stack",
+      "source": {
+        "name": "NVIDIA Blog",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://blogs.nvidia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://blogs.nvidia.com/blog/ai-security-agent-stack/",
+      "thumbnail": "https://blogs.nvidia.com/wp-content/uploads/2026/09/security-thought-leadership-1920x1080-1-1280x720.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNURNWFI0YjE4d1pHOXNSV3QwVFJDZkF4ampCU2dLTWdZQmNKQ2tNQWM",
+      "date": "09/21/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-21T07:00:00Z"
+    },
+    {
+      "position": 78,
+      "title": "Can Microsoft’s Governance Layer Make Customer Service AI Enterprise-Ready?",
+      "source": {
+        "name": "CX Today",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://cxtoday.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://cxtoday.com/microsoft-ai-agent-governance-cx",
+      "thumbnail": "https://cxtoday.com/_next/image?url=https%3A%2F%2Fmedia.cxtoday.com%2Fwp%2F2026%2F07%2FCan-Microsofts-Governance-Layer-Make-Customer-Service-AI-Enterprise-Ready.png&w=3840&q=95",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVljVzV4ZDFkUVRGUk1iV0ZIVFJDSEF4aVBCaWdLTWdrSlFJclZwR1M1cHdJ",
+      "date": "09/29/2026, 09:01 PM, +0000 UTC",
+      "iso_date": "2026-09-29T21:01:02Z"
+    },
+    {
+      "position": 79,
+      "title": "Nvidia Sentry's millisecond claim raises AI agent detection questions",
+      "source": {
+        "name": "TechTarget",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.techtarget.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Nathan Eddy"
+        ]
+      },
+      "link": "https://www.techtarget.com/cybersecurity/news/366651180/Nvidia-Sentrys-millisecond-claim-raises-AI-agent-detection-questions",
+      "thumbnail": "https://cdn.ttgtmedia.com/rms/onlineimages/container_g1202673226.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iNkNnNVdRMEZxWlZOekxWZENhMFptVFJEQUFoakFCeWdLTWc2QkVaRHVrS2FSS3pyUlZPYXlHZw",
+      "date": "10/01/2026, 03:47 PM, +0000 UTC",
+      "iso_date": "2026-10-01T15:47:36Z"
+    },
+    {
+      "position": 80,
+      "title": "ServiceNow (NOW) Ties AI Agent Security More Closely to Its Platform",
+      "source": {
+        "name": "Simply Wall Street",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://simplywall.st&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://simplywall.st/stocks/us/software/nyse-now/servicenow/news/servicenow-now-ties-ai-agent-security-more-closely-to-its-pl",
+      "thumbnail": "https://images.simplywall.st/asset/company-cover/22967487-card/1788945660330?w=1600&h=900&fit=cover",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNW9SVFp0Vm1kQk9VcFdSVWRrVFJDZkF4ampCU2dLTWdtTkFZaEpRU1ZMSXdN",
+      "date": "09/29/2026, 08:42 AM, +0000 UTC",
+      "iso_date": "2026-09-29T08:42:42Z"
+    },
+    {
+      "position": 81,
+      "title": "Focus: The hidden price of Nvidia's AI agent security play",
+      "source": {
+        "name": "digitimes",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.digitimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.digitimes.com/news/a20261001PD222/nvidia-security-hardware-infrastructure.html",
+      "thumbnail": "https://img.digitimes.com/newsshow/20261001pd222_files/2_b.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUtOMnhQU0RRMVdYcGlZM0pUVFJDckF4aUFCU2dLTWdZUktaS25IZ2s",
+      "date": "10/01/2026, 03:45 AM, +0000 UTC",
+      "iso_date": "2026-10-01T03:45:00Z"
+    },
+    {
+      "position": 82,
+      "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+      "source": {
+        "name": "TechCrunch",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://techcrunch.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Sarah Perez"
+        ]
+      },
+      "link": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+      "thumbnail": "https://techcrunch.com/wp-content/uploads/2022/07/CMC_1580.jpg?w=1024",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUJSR3BvTkZkVlMwcFFUMmhKVFJERUF4aW5CU2dLTWdZTlJJZ3BwZ2c",
+      "date": "10/02/2026, 06:11 PM, +0000 UTC",
+      "iso_date": "2026-10-02T18:11:27Z"
+    },
+    {
+      "position": 83,
+      "title": "Can We Control Every AI Agent Before It Becomes Our Next Privileged Insider?",
+      "source": {
+        "name": "Check Point Blog",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://blog.checkpoint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://blog.checkpoint.com/ai-security/can-we-control-every-ai-agent-before-it-becomes-our-next-privileged-insider/",
+      "thumbnail": "https://blog.checkpoint.com/wp-content/uploads/2023/12/featured-image-default-c-800x400.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHpVWEYyWTBObGRXTmZUVzVLVFJDSEF4aVBCaWdLTWdhVm81Um91UVk",
+      "date": "09/24/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-24T07:00:00Z"
+    },
+    {
+      "position": 84,
+      "title": "Rogue AI Agents Hit Canada’s Archives 899 Times [2026]",
+      "source": {
+        "name": "tech-insider.org",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://tech-insider.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://tech-insider.org/rogue-ai-agents-canada-archives-899-times-2026/",
+      "thumbnail": "https://tech-insider.org/wp-content/uploads/2026/10/rogue-ai-agents-canada-archives-899-times-2026-1.webp",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUxZMnR1UWxGUFkycFdSMEpCVFJDaUF4amRCU2dLTWdZQkJvcmlyZ1U",
+      "date": "10/02/2026, 03:48 AM, +0000 UTC",
+      "iso_date": "2026-10-02T03:48:33Z"
+    },
+    {
+      "position": 85,
+      "title": "ServiceNow (NOW) Ties AI Agent Security More Closely to Its Platform",
+      "source": {
+        "name": "webull.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.webull.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.webull.com/news/15660671423022080",
+      "thumbnail": "https://images.simplywall.st/asset/chart/22967487-earnings-and-revenue-growth-1-dark-2/1790665264507",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTZSM2RrV2xwNlF6ZDFWMmxNVFJDNkF4aTFCU2dLTWdhQklZVFNEQWc",
+      "date": "09/30/2026, 06:28 AM, +0000 UTC",
+      "iso_date": "2026-09-30T06:28:46Z"
+    },
+    {
+      "position": 86,
+      "title": "Nvidia launches AI safety platform after agent security breaches",
+      "source": {
+        "name": "TechTarget",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.techtarget.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Scarlett Evans"
+        ]
+      },
+      "link": "https://www.techtarget.com/ai/news/366651514/Nvidia-launches-AI-safety-platform-after-agent-security-breaches",
+      "thumbnail": "https://cdn.ttgtmedia.com/rms/onlineimages/security_a218339023.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXRNVEpYZEdoRllrbHFTVjkzVFJEQUFoakFCeWdLTWdNQnNndw",
+      "date": "09/28/2026, 09:18 PM, +0000 UTC",
+      "iso_date": "2026-09-28T21:18:12Z"
+    },
+    {
+      "position": 87,
+      "title": "Malicious Email Could Hijack AI Agent and Access Connected Accounts",
+      "source": {
+        "name": "IT Security Guru",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.itsecurityguru.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.itsecurityguru.org/2026/10/02/malicious-email-could-hijack-ai-agent-and-access-connected-accounts/",
+      "thumbnail": "https://www.itsecurityguru.org/wp-content/uploads/2026/10/Phishing-Attack-on-a-Neon-AI.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXZYMGt5WjNGUlZWSkJSakJhVFJDaUF4amRCU2dLTWdrQlVwRGpJbWx6alFF",
+      "date": "10/02/2026, 11:28 AM, +0000 UTC",
+      "iso_date": "2026-10-02T11:28:31Z"
+    },
+    {
+      "position": 88,
+      "title": "Investigators trace an AI agent ‘s path from research task to reconnaissance",
+      "source": {
+        "name": "Security Affairs",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://securityaffairs.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Pierluigi Paganini"
+        ]
+      },
+      "link": "https://securityaffairs.com/200215/ai/investigators-trace-an-ai-agent-s-path-from-research-task-to-reconnaissance.html",
+      "thumbnail": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2026/10/image-4.png?fit=2048%2C728&ssl=1",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTRaVzUwUWpWdk1Xa3haelJuVFJES0FoaWhCeWdLTWdZQllKU1pyQWc",
+      "date": "10/02/2026, 06:59 AM, +0000 UTC",
+      "iso_date": "2026-10-02T06:59:56Z"
+    },
+    {
+      "position": 89,
+      "title": "Oktane '26 brings clarity to AI agent identity security",
+      "source": {
+        "name": "TechTarget",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.techtarget.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Todd Thiemann"
+        ]
+      },
+      "link": "https://www.techtarget.com/cybersecurity/opinion/Oktane-26-brings-clarity-to-AI-agent-identity-security",
+      "thumbnail": "https://cdn.ttgtmedia.com/rms/onlineimages/ai_a199952058.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVJUVTE1V1VaNkxWQnliMUkxVFJEQUFoakFCeWdLTWdZQlZJZ0N1d1E",
+      "date": "09/29/2026, 07:43 PM, +0000 UTC",
+      "iso_date": "2026-09-29T19:43:39Z"
+    },
+    {
+      "position": 90,
+      "title": "Goals Are Not Enough: Securing AI Agents with NVIDIA OpenShell",
+      "source": {
+        "name": "Check Point Blog",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://blog.checkpoint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://blog.checkpoint.com/ai-security/check-point-nvidia-openshell/",
+      "thumbnail": "https://blog.checkpoint.com/wp-content/uploads/2026/09/nvidia-openshell-featured-banner-800x400-1.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVNNVnBwYlhFd1RYcHlWa2hrVFJDSEF4aVBCaWdLTWdhbGM1WndMUWc",
+      "date": "09/28/2026, 03:40 AM, +0000 UTC",
+      "iso_date": "2026-09-28T03:40:21Z"
+    },
+    {
+      "position": 91,
+      "title": "NVIDIA introduces platform for managing AI agent security",
+      "source": {
+        "name": "Engineering.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.engineering.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Puja Mitra"
+        ]
+      },
+      "link": "https://www.engineering.com/nvidia-introduces-platform-for-managing-ai-agent-security/",
+      "thumbnail": "https://www.engineering.com/wp-content/uploads/2026/09/nvidia-open-agent-safety-platform.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNUtUMWRQVmpoS1pFRTRlSEZKVFJDZkF4ampCU2dLTWdNUkVnNA",
+      "date": "09/28/2026, 12:13 PM, +0000 UTC",
+      "iso_date": "2026-09-28T12:13:59Z"
+    },
+    {
+      "position": 92,
+      "title": "Cowbell Launches Risk Advisor, Specialised Cyber AI Agent -",
+      "source": {
+        "name": "Insurance Edge",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://insurance-edge.net&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Alastair Walker"
+        ]
+      },
+      "link": "https://insurance-edge.net/2026/10/05/cowbell-launches-risk-advisor-specialised-cyber-ai-agent/",
+      "thumbnail": "https://i0.wp.com/insurance-edge.net/wp-content/uploads/2025/11/Cowbell-logo-25--e1762252120184.png?resize=500%2C298&quality=75&ssl=1",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNDFiM2QyUm1aUFptNHdMV3RUVFJDcUFoajBBeWdLTWdB",
+      "date": "10/05/2026, 09:38 AM, +0000 UTC",
+      "iso_date": "2026-10-05T09:38:17Z"
+    },
+    {
+      "position": 93,
+      "title": "Nvidia pushes full-stack AI agent security as OpenAI sits out partner roster",
+      "source": {
+        "name": "digitimes",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.digitimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Amanda Liang"
+        ]
+      },
+      "link": "https://www.digitimes.com/news/a20260930PD204/nvidia-security-openai-software-technology.html",
+      "thumbnail": "https://img.digitimes.com/newsshow/20260930pd204_files/1_b.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUhSazVLWkhScWFtUTRVRjlDVFJDckF4aUFCU2dLTWdZcFZaYk5wUWc",
+      "date": "10/01/2026, 12:05 AM, +0000 UTC",
+      "iso_date": "2026-10-01T00:05:26Z"
+    },
+    {
+      "position": 94,
+      "title": "Spain to Australia: AI agents raise cyber risk stakes",
+      "source": {
+        "name": "FinTech Global",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://fintech.global&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Molly Snaylam"
+        ]
+      },
+      "link": "https://fintech.global/2026/10/02/spain-to-australia-ai-agents-raise-cyber-risk-stakes/",
+      "thumbnail": "http://fintech.global/wp-content/uploads/2026/10/Spain-to-Australia-AI-agents-raise-cyber-risk-stakes.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNVNSbHBPTTFCVWFXbHdOVEk1VFJDUUF4aUFCU2dLTWdB",
+      "date": "10/02/2026, 02:32 PM, +0000 UTC",
+      "iso_date": "2026-10-02T14:32:06Z"
+    },
+    {
+      "position": 95,
+      "title": "Netskope (NTSK) Is Tackling a Major AI Agent Security Gap. Can Skylight Deepen Its Edge?",
+      "source": {
+        "name": "Yahoo Finance",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://finance.yahoo.com/technology/ai/articles/netskope-ntsk-tackling-major-ai-185139812.html",
+      "thumbnail": "https://s.yimg.com/lo/mysterio/api/99f1d780759b9aa87cd5e5ce8e34d718ceade73534a63520c9637a3bc34b71ee/lightyear_networkapi/resizefit_w960%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Finsidermonkey.com%2F97b99ededf7e2efba9d00e0116d7a1e6.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWFXV0pDWkdFd1ptVkRNWGQzVFJERUF4aW1CU2dLTWdZQlFZcXJIUVU",
+      "date": "09/22/2026, 07:00 AM, +0000 UTC",
+      "iso_date": "2026-09-22T07:00:00Z"
+    },
+    {
+      "position": 96,
+      "title": "OneTrust CORIE Adds Runtime AI Agent Governance Controls",
+      "source": {
+        "name": "Channel Insider",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.channelinsider.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Victoria Durgin"
+        ]
+      },
+      "link": "https://www.channelinsider.com/security/tools-and-platforms/onetrust-corie-ai-agent-governance/",
+      "thumbnail": "https://assets.channelinsider.com/uploads/2026/09/ci-09302026-onetrust.jpg?f=jpeg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXJSakZ6WW05WVRXazNZbnBUVFJDaUF4amRCU2dLTWdNTnNoUQ",
+      "date": "09/30/2026, 04:42 PM, +0000 UTC",
+      "iso_date": "2026-09-30T16:42:39Z"
+    },
+    {
+      "position": 97,
+      "title": "Nvidia agent safety push raises questions about who governs AI autonomy",
+      "source": {
+        "name": "TechTarget",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.techtarget.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Kinza Yasar"
+        ]
+      },
+      "link": "https://www.techtarget.com/ai/news/366651181/Nvidia-agent-safety-push-raises-questions-about-who-governs-AI-autonomy",
+      "thumbnail": "https://cdn.ttgtmedia.com/rms/onlineimages/ai_a252657224.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNU1lRmRsZEY5M1dHRndiMjFNVFJEQUFoakFCeWdLTWdNQkFEdw",
+      "date": "10/01/2026, 09:00 PM, +0000 UTC",
+      "iso_date": "2026-10-01T21:00:19Z"
+    },
+    {
+      "position": 98,
+      "title": "OpenAI CEO announces new AI agent and avoids mention of security concerns at developer conference",
+      "source": {
+        "name": "WTOP News",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://wtop.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://wtop.com/national/2026/09/openai-ceo-announces-new-ai-agent-and-avoids-mention-of-security-concerns-at-developer-conference/",
+      "thumbnail": "https://wtop.com/wp-content/uploads/2026/09/Open_AI_Conference_8747_-scaled.jpg",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXVPV3hLUVVOaGFqZFBjMlJyVFJERUF4aW1CU2dLTWdhcGc0aFNRUVE",
+      "date": "09/29/2026, 06:54 PM, +0000 UTC",
+      "iso_date": "2026-09-29T18:54:18Z"
+    },
+    {
+      "position": 99,
+      "title": "Meta's Muse AI Agent Hits Millions of Downloads Amid Privacy Concerns",
+      "source": {
+        "name": "The Tech Buzz",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.techbuzz.ai&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.techbuzz.ai/articles/meta-s-muse-ai-agent-hits-millions-of-downloads-amid-privacy-concerns",
+      "thumbnail": "https://www.techbuzz.ai/cdn-cgi/image/width=1200,quality=85,format=auto,fit=cover/https://charming-card-d91ad3487b.media.strapiapp.com/large_file_901e182f0b.png",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTNlV0UxZERsVWQwc3pZVVZHVFJDcUJCaXFCQ2dLTWdrRk9JcUhuaW5KTWdF",
+      "date": "10/03/2026, 12:36 PM, +0000 UTC",
+      "iso_date": "2026-10-03T12:36:00Z"
+    },
+    {
+      "position": 100,
+      "title": "Reco Announces Partnership with ServiceNow to Extend AI Agent Security",
+      "source": {
+        "name": "GlobeNewswire",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.globenewswire.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "link": "https://www.globenewswire.com/news-release/2026/09/28/3369922/0/en/reco-announces-partnership-with-servicenow-to-extend-ai-agent-security.html",
+      "thumbnail": "https://ml.globenewswire.com/Resource/Download/7c43cb5e-37a0-453c-baa3-993b1d8c1180?size=2",
+      "thumbnail_small": "https://news.google.com/api/attachments/CC8iLkNnNVhaSGxhTW5oU1MyTXdlVzFCVFJCdUdLd0NLQUV5Q1EyUmlBYTVKQzVSQVE",
+      "date": "09/28/2026, 01:03 PM, +0000 UTC",
+      "iso_date": "2026-09-28T13:03:00Z"
+    }
+  ],
+  "menu_links": [
+    {
+      "title": "U.S.",
+      "topic_token": "CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE"
+    },
+    {
+      "title": "World",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Your local news",
+      "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+    },
+    {
+      "title": "Business",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx6TVdZU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Technology",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Entertainment",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNREpxYW5RU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Sports",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp1ZEdvU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Science",
+      "topic_token": "CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB"
+    },
+    {
+      "title": "Health",
+      "topic_token": "CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_news&topic_token=CAAqIQgKIhtDQkFTRGdvSUwyMHZNR3QwTlRFU0FtVnVLQUFQAQ"
+    }
+  ]
+}

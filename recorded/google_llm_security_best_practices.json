@@ -1,0 +1,641 @@
+{
+  "search_metadata": {
+    "id": "6ac3788169819d729959e1c1",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/RopDk24CjYehwW_Q04Xg6_jWhwNdPXzrs9InxAWRNCQ/6ac3788169819d729959e1c1.json",
+    "markdown_endpoint": "https://serpapi.com/searches/RopDk24CjYehwW_Q04Xg6_jWhwNdPXzrs9InxAWRNCQ/6ac3788169819d729959e1c1.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/RopDk24CjYehwW_Q04Xg6_jWhwNdPXzrs9InxAWRNCQ/6ac3788169819d729959e1c1.json_with_pixel_position",
+    "created_at": "2026-10-05 10:14:25 UTC",
+    "processed_at": "2026-10-05 10:14:25 UTC",
+    "google_url": "https://www.google.com/search?q=LLM+security+best+practices&oq=LLM+security+best+practices&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/RopDk24CjYehwW_Q04Xg6_jWhwNdPXzrs9InxAWRNCQ/6ac3788169819d729959e1c1.html",
+    "total_time_taken": 1.1
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "LLM security best practices",
+    "google_domain": "google.com",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "LLM security best practices",
+    "total_results": 116,
+    "time_taken_displayed": 0.16,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "ads": [
+    {
+      "position": 1,
+      "title": "LLM Security Best Practices | LLM Security Cheat Sheet",
+      "link": "https://www.wiz.io/lp/llm-security-best-practices-cheat-sheet",
+      "displayed_link": "https://www.wiz.io",
+      "thumbnail": "https://serpapi.com/searches/6ac3788169819d729959e1c1/images/uWl7rEdsPsTleAPK1syUxg.png",
+      "tracking_link": "https://www.google.com/aclk?sa=L&ai=DChsSEwigpL6s0qKXAxUYJkQIHWmxBTAYACICCAIQBBoCZHo&co=1&ase=2&gclid=EAIaIQobChMIoKS-rNKilwMVGCZECB1psQUwEAMYASAEEgJoR_D_BwE&cid=CAASuwHkaFXHomM_rb3zkD6fj228gD1lS77GtcqoM6HCPpCfls0rFuwytS3ruW86e9J0UGlPiMWzFZPit3-vP3LBgtXP5DMqBcacpdkCo9IN3SlpboHHpXPecq2IsxrV2tB1rtLb628jyKsBackkoMYpmCyStJspYGkAF7zGuiP36wugZ62nb_L1-Jj9HcED9zt9-I2z9Dx3Kwj0s8BmYAN6H-unQXw4n_YtLMLF9DokqaWl3aaJBjdHpyiDjSmC&cce=2&category=acrcp_v1_32&sig=AOD64_2YERT6b0Ef8mYk_JpceliOZIeHVg&q=&nis=4&ved=2ahUKEwi4zris0qKXAxUKJkQIHStEIjYQh78CegQIWhAB&adurl=",
+      "description": "20+ LLM Security Best Practices across Infrastructure, Governance, and More.",
+      "extensions": [
+        "1M+ visits in past month"
+      ],
+      "source": "Wiz™",
+      "sitelinks": [
+        {
+          "title": "Get a Demo",
+          "link": "https://www.wiz.io/lp/llm-security-best-practices-cheat-sheet"
+        },
+        {
+          "title": "See Wiz in Action",
+          "link": "https://www.wiz.io/guided-tour"
+        },
+        {
+          "title": "Start Your Free Trial",
+          "link": "https://www.wiz.io/free-trial/"
+        },
+        {
+          "title": "Get the Guide Now",
+          "link": "https://www.google.com/aclk?sa=L&ai=DChsSEwigpL6s0qKXAxUYJkQIHWmxBTAYACICCAIQBRoCZHo&co=1&ase=2&gclid=EAIaIQobChMIoKS-rNKilwMVGCZECB1psQUwEAMYASAFEgLc9_D_BwE&cid=CAASuwHkaFXHomM_rb3zkD6fj228gD1lS77GtcqoM6HCPpCfls0rFuwytS3ruW86e9J0UGlPiMWzFZPit3-vP3LBgtXP5DMqBcacpdkCo9IN3SlpboHHpXPecq2IsxrV2tB1rtLb628jyKsBackkoMYpmCyStJspYGkAF7zGuiP36wugZ62nb_L1-Jj9HcED9zt9-I2z9Dx3Kwj0s8BmYAN6H-unQXw4n_YtLMLF9DokqaWl3aaJBjdHpyiDjSmC&cce=2&category=acrcp_v1_32&sig=AOD64_1Yj_Yt_P-kUys7D-ve7CltW7HuPg&adurl=&q="
+        },
+        {
+          "title": "Book Your Demo",
+          "link": "https://www.wiz.io/demo"
+        }
+      ]
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What are the best practices for software development security?",
+      "type": "ai_overview",
+      "page_token": "ZltaJ3icHZBRjpswFADVy-znBkPYVpGiSjQmKbtQ2WAD_qmMvcQJz-AkKLD89Qo9Q0_V0zTqAUaamV9_4NR3fz_9NuPobpvVapqm5-MwHOH9WQ12JW8fvVopCdBI1W1ePr-gr63a4ruKvl1VRJhzfEe9PBA72muaY27YIWopcESsoDWnRV3xq4rjS2bFLHlERBm-vlUcN7ERGuK2ZuGSdt8DCtoS31h6cGUeADA2nzPPyQbA5j5P3goy50iMvE8nulDL91_md5bc9BIx3tPXBrlz5a_XdVcv2kOE43lNgPvihD4kZ-PDK5QeDtJAS4n4RRwM5CWYBzs0Xsg40jxFGJW7RNAyA1WYkz4nmO9DRnrl6_0YyDgS2Oi-sQ7XVeJoF99Vh64MA1EFdXmf0YIOJ8Loos5gGcv8HwdxaRbwHn1QeUKkXYdkJUgTGJT7sNbTU6vu2-Dp_-vtz9aOG3cdjv8AB26NyA",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=ZltaJ3icHZBRjpswFADVy-znBkPYVpGiSjQmKbtQ2WAD_qmMvcQJz-AkKLD89Qo9Q0_V0zTqAUaamV9_4NR3fz_9NuPobpvVapqm5-MwHOH9WQ12JW8fvVopCdBI1W1ePr-gr63a4ruKvl1VRJhzfEe9PBA72muaY27YIWopcESsoDWnRV3xq4rjS2bFLHlERBm-vlUcN7ERGuK2ZuGSdt8DCtoS31h6cGUeADA2nzPPyQbA5j5P3goy50iMvE8nulDL91_md5bc9BIx3tPXBrlz5a_XdVcv2kOE43lNgPvihD4kZ-PDK5QeDtJAS4n4RRwM5CWYBzs0Xsg40jxFGJW7RNAyA1WYkz4nmO9DRnrl6_0YyDgS2Oi-sQ7XVeJoF99Vh64MA1EFdXmf0YIOJ8Loos5gGcv8HwdxaRbwHn1QeUKkXYdkJUgTGJT7sNbTU6vu2-Dp_-vtz9aOG3cdjv8AB26NyA",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWFuSTVOM0V0YjFadFF6WlVXVTVRVGpCSmIyaHNWMUIyYjJSc1NtczJjRTE0UlVjd1VDMHhXWFl6UW1vMk9IRndlakJOVHpreU5uTjNSbk5uUkVVMlZtbDNiVko2VDA5bGREZFdkamRoVkVkeVlUQlJURFJVTW1rdGR4SVhaMjVxUkdGeWFVWkJiM0pOYTFCSlVIRTBhVXB6VVUwYUlrRkVjM0k1WmxFNWExTlFZMjF5VjBWVGFEQm1kekJsTTBFd1RYbDFhWGRoWldjIiwiZmN2IjoiMyIsImVpIjoiZ25qRGFyaUZBb3JNa1BJUHE0aUpzUU0iLCJxYyI6IkNodHNiRzBnYzJWamRYSnBkSGtnWW1WemRDQndjbUZqZEdsalpYTVFBSDNZREM4XyIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIGJlc3QgcHJhY3RpY2VzIGZvciBzb2Z0d2FyZSBkZXZlbG9wbWVudCBzZWN1cml0eT8iLCJsayI6IkdpeHpiMlowZDJGeVpTQmtaWFpsYkc5d2JXVnVkQ0J6WldOMWNtbDBlU0JpWlhOMElIQnlZV04wYVdObGN3IiwiYnMiOiJjNTJQTVEtQ01CQ0Y0M3FUZ3pvdzNhWW1Sa3dqeGtuLUFJN0d1ZFJER3FGdDJpTGgzeXNhUXlEUndmbDk3OTUzWU9Cd3pybEhiZ2w5VHBpUzgyZ3NGMTRLY3BocGkwNW52bTd6QzkycDBLWWs1ZEdScUt6MFRjeld3ZW9uTVRnSklVeGZpOUloZjBPRVNYS00yU3lZMU1PZ0tFclFFUFVVSTd4UmcwS1hScXZua0VPZGRXTWxWX3hLclVETWRzRzJfcU1JSjFoOEROdmFmaE95RGRxcUlKUUtSWk9TN2I1ZkJ2TzZ4LUkzZGp4NkFBIiwiaWQiOiJmY19nbmpEYXJpRkFvck1rUElQcTRpSnNRTV80In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWFuSTVOM0V0YjFadFF6WlVXVTVRVGpCSmIyaHNWMUIyYjJSc1NtczJjRTE0UlVjd1VDMHhXWFl6UW1vMk9IRndlakJOVHpreU5uTjNSbk5uUkVVMlZtbDNiVko2VDA5bGREZFdkamRoVkVkeVlUQlJURFJVTW1rdGR4SVhaMjVxUkdGeWFVWkJiM0pOYTFCSlVIRTBhVXB6VVUwYUlrRkVjM0k1WmxFNWExTlFZMjF5VjBWVGFEQm1kekJsTTBFd1RYbDFhWGRoWldjIiwiZmN2IjoiMyIsImVpIjoiZ25qRGFyaUZBb3JNa1BJUHE0aUpzUU0iLCJxYyI6IkNodHNiRzBnYzJWamRYSnBkSGtnWW1WemRDQndjbUZqZEdsalpYTVFBSDNZREM4XyIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIGJlc3QgcHJhY3RpY2VzIGZvciBzb2Z0d2FyZSBkZXZlbG9wbWVudCBzZWN1cml0eT8iLCJsayI6IkdpeHpiMlowZDJGeVpTQmtaWFpsYkc5d2JXVnVkQ0J6WldOMWNtbDBlU0JpWlhOMElIQnlZV04wYVdObGN3IiwiYnMiOiJjNTJQTVEtQ01CQ0Y0M3FUZ3pvdzNhWW1Sa3dqeGtuLUFJN0d1ZFJER3FGdDJpTGgzeXNhUXlEUndmbDk3OTUzWU9Cd3pybEhiZ2w5VHBpUzgyZ3NGMTRLY3BocGkwNW52bTd6QzkycDBLWWs1ZEdScUt6MFRjeld3ZW9uTVRnSklVeGZpOUloZjBPRVNYS00yU3lZMU1PZ0tFclFFUFVVSTd4UmcwS1hScXZua0VPZGRXTWxWX3hLclVETWRzRzJfcU1JSjFoOEROdmFmaE95RGRxcUlKUUtSWk9TN2I1ZkJ2TzZ4LUkzZGp4NkFBIiwiaWQiOiJmY19nbmpEYXJpRkFvck1rUElQcTRpSnNRTV80In0%3D"
+    },
+    {
+      "question": "What is a secure LLM?",
+      "type": "ai_overview",
+      "page_token": "YEhAvnicHdBfboIwHADg7DI-DgrqgolZglKEpTUU-NXxspSioC1_gmwIb7vLTrXTLNl3hO_7R18b9ft0qoahu28MYxzH57JtS31-lm1tiPvUSEMKrXMh1Wb9skavF7n17qO7a0c3SrsO9syMT9WRpmgAm92pFaAMR3NsBzYoWBUm6gtOj8LHDGzaZxA-Yl4Bs-SYeIOVp1RHyIkLFIzi5tkU0Xcyhyo30xX4aAkAa-6FU4odclbBRK3SJA3eUR72wupWCSZLmjogMURcd4z6jptzYGIOk8RmHDzcppZ2s0NHo1vIYg3HzCQxtopPoVgla-1H3JkSPkQxuA_q6zeJMPWvocsOdDryLGbaqclciJNZEKIcLWrT5I1CWVJkuco02VN3cZFfW3vxP7b9uNTDpuvb8g9JBnYs",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=YEhAvnicHdBfboIwHADg7DI-DgrqgolZglKEpTUU-NXxspSioC1_gmwIb7vLTrXTLNl3hO_7R18b9ft0qoahu28MYxzH57JtS31-lm1tiPvUSEMKrXMh1Wb9skavF7n17qO7a0c3SrsO9syMT9WRpmgAm92pFaAMR3NsBzYoWBUm6gtOj8LHDGzaZxA-Yl4Bs-SYeIOVp1RHyIkLFIzi5tkU0Xcyhyo30xX4aAkAa-6FU4odclbBRK3SJA3eUR72wupWCSZLmjogMURcd4z6jptzYGIOk8RmHDzcppZ2s0NHo1vIYg3HzCQxtopPoVgla-1H3JkSPkQxuA_q6zeJMPWvocsOdDryLGbaqclciJNZEKIcLWrT5I1CWVJkuco02VN3cZFfW3vxP7b9uNTDpuvb8g9JBnYs",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWFuSTVOM0V0YjFadFF6WlVXVTVRVGpCSmIyaHNWMUIyYjJSc1NtczJjRTE0UlVjd1VDMHhXWFl6UW1vMk9IRndlakJOVHpreU5uTjNSbk5uUkVVMlZtbDNiVko2VDA5bGREZFdkamRoVkVkeVlUQlJURFJVTW1rdGR4SVhaMjVxUkdGeWFVWkJiM0pOYTFCSlVIRTBhVXB6VVUwYUlrRkVjM0k1WmxFNWExTlFZMjF5VjBWVGFEQm1kekJsTTBFd1RYbDFhWGRoWldjIiwiZmN2IjoiMyIsImVpIjoiZ25qRGFyaUZBb3JNa1BJUHE0aUpzUU0iLCJxYyI6IkNodHNiRzBnYzJWamRYSnBkSGtnWW1WemRDQndjbUZqZEdsalpYTVFBSDNZREM4XyIsInF1ZXN0aW9uIjoiV2hhdCBpcyBhIHNlY3VyZSBMTE0/IiwibGsiOiJHaFIzYUdGMElHbHpJR0VnYzJWamRYSmxJR3hzYlEiLCJicyI6ImM1MlBNUS1DTUJDRjQzcVRnem93M2FZbVJrd2p4a24tQUk3R3VkUkRHcUZ0MmlMaDN5c2FReURSd2ZsOTc5NTNZT0J3enJsSGJnbDlUcGlTODJnc0YxNEtjcGhwaTA1bnZtN3pDOTJwMEtZazVkR1JxS3owVGN6V3dlb25NVGdKSVV4Zmk5SWhmME9FU1hLTTJTeVkxTU9nS0VyUUVQVVVJN3hSZzBLWFJxdm5rRU9kZFdNbFZfeEtyVURNZHNHMl9xTUlKMWg4RE52YWZoT3lEZHFxSUpRS1JaT1M3YjVmQnZPNngtSTNkang2QUEiLCJpZCI6ImZjX2duakRhcmlGQW9yTWtQSVBxNGlKc1FNXzQifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWFuSTVOM0V0YjFadFF6WlVXVTVRVGpCSmIyaHNWMUIyYjJSc1NtczJjRTE0UlVjd1VDMHhXWFl6UW1vMk9IRndlakJOVHpreU5uTjNSbk5uUkVVMlZtbDNiVko2VDA5bGREZFdkamRoVkVkeVlUQlJURFJVTW1rdGR4SVhaMjVxUkdGeWFVWkJiM0pOYTFCSlVIRTBhVXB6VVUwYUlrRkVjM0k1WmxFNWExTlFZMjF5VjBWVGFEQm1kekJsTTBFd1RYbDFhWGRoWldjIiwiZmN2IjoiMyIsImVpIjoiZ25qRGFyaUZBb3JNa1BJUHE0aUpzUU0iLCJxYyI6IkNodHNiRzBnYzJWamRYSnBkSGtnWW1WemRDQndjbUZqZEdsalpYTVFBSDNZREM4XyIsInF1ZXN0aW9uIjoiV2hhdCBpcyBhIHNlY3VyZSBMTE0%2FIiwibGsiOiJHaFIzYUdGMElHbHpJR0VnYzJWamRYSmxJR3hzYlEiLCJicyI6ImM1MlBNUS1DTUJDRjQzcVRnem93M2FZbVJrd2p4a24tQUk3R3VkUkRHcUZ0MmlMaDN5c2FReURSd2ZsOTc5NTNZT0J3enJsSGJnbDlUcGlTODJnc0YxNEtjcGhwaTA1bnZtN3pDOTJwMEtZazVkR1JxS3owVGN6V3dlb25NVGdKSVV4Zmk5SWhmME9FU1hLTTJTeVkxTU9nS0VyUUVQVVVJN3hSZzBLWFJxdm5rRU9kZFdNbFZfeEtyVURNZHNHMl9xTUlKMWg4RE52YWZoT3lEZHFxSUpRS1JaT1M3YjVmQnZPNngtSTNkang2QUEiLCJpZCI6ImZjX2duakRhcmlGQW9yTWtQSVBxNGlKc1FNXzQifQ%3D%3D"
+    },
+    {
+      "question": "What are the 5 key components of security management?",
+      "type": "ai_overview",
+      "page_token": "_JN4vXicHdBRbpswGABg7TJ9bGwSsjVSNInGhiLFkX-wCbxMYJO4YMAiLDS89Qo7w06102zaCT7p-_xt3_v2z5dfZprcbbdazfP8fB2Gq62f1dCtytujVytVWluVqt1tv27x94vak7sKXkcVcOGcPABKqY5SUrgcaczPlLKG42OmZ90IL2_jIBNYVp45J6E7887fVGvWHjN4rUNWJGSKBbkuspvKU2pIktKhzm6ILfGdexwVqdjIBkSy6DU0wHkmR9EXG4YhSg56U0YmSCP30Ah-1mFhGGaXf_ZbFpmMhS8yowYAF3HZuSHp5SQj95ZYh06ptRkFH1Bclp7P5IGudeh6HWIQHcK6oa1E-aOOjJd4ua86mR-lGYnRfdU5kp9jBy29qxaPgliuUnBJzyCF4Z0LWFRjO9HiubIvtlo0nKRuGaFbIB9BIbSvm3wS6NuHnp8u6r5fP_2_3v-4dNPOjcP1L3cTjOA",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=_JN4vXicHdBRbpswGABg7TJ9bGwSsjVSNInGhiLFkX-wCbxMYJO4YMAiLDS89Qo7w06102zaCT7p-_xt3_v2z5dfZprcbbdazfP8fB2Gq62f1dCtytujVytVWluVqt1tv27x94vak7sKXkcVcOGcPABKqY5SUrgcaczPlLKG42OmZ90IL2_jIBNYVp45J6E7887fVGvWHjN4rUNWJGSKBbkuspvKU2pIktKhzm6ILfGdexwVqdjIBkSy6DU0wHkmR9EXG4YhSg56U0YmSCP30Ah-1mFhGGaXf_ZbFpmMhS8yowYAF3HZuSHp5SQj95ZYh06ptRkFH1Bclp7P5IGudeh6HWIQHcK6oa1E-aOOjJd4ua86mR-lGYnRfdU5kp9jBy29qxaPgliuUnBJzyCF4Z0LWFRjO9HiubIvtlo0nKRuGaFbIB9BIbSvm3wS6NuHnp8u6r5fP_2_3v-4dNPOjcP1L3cTjOA",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWFuSTVOM0V0YjFadFF6WlVXVTVRVGpCSmIyaHNWMUIyYjJSc1NtczJjRTE0UlVjd1VDMHhXWFl6UW1vMk9IRndlakJOVHpreU5uTjNSbk5uUkVVMlZtbDNiVko2VDA5bGREZFdkamRoVkVkeVlUQlJURFJVTW1rdGR4SVhaMjVxUkdGeWFVWkJiM0pOYTFCSlVIRTBhVXB6VVUwYUlrRkVjM0k1WmxFNWExTlFZMjF5VjBWVGFEQm1kekJsTTBFd1RYbDFhWGRoWldjIiwiZmN2IjoiMyIsImVpIjoiZ25qRGFyaUZBb3JNa1BJUHE0aUpzUU0iLCJxYyI6IkNodHNiRzBnYzJWamRYSnBkSGtnWW1WemRDQndjbUZqZEdsalpYTVFBSDNZREM4XyIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIDUga2V5IGNvbXBvbmVudHMgb2Ygc2VjdXJpdHkgbWFuYWdlbWVudD8iLCJsayI6IkdqUjNhR0YwSUdGeVpTQjBhR1VnTlNCclpYa2dZMjl0Y0c5dVpXNTBjeUJ2WmlCelpXTjFjbWwwZVNCdFlXNWhaMlZ0Wlc1MCIsImJzIjoiYzUyUE1RLUNNQkNGNDNxVGd6b3czYVltUmt3anhrbi1BSTdHdWRSREdxRnQyaUxoM3lzYVF5RFJ3Zmw5Nzk1M1lPQnd6cmxIYmdsOVRwaVM4MmdzRjE0S2NwaHBpMDVudm03ekM5MnAwS1lrNWRHUnFLejBUY3pXd2Vvbk1UZ0pJVXhmaTlJaGYwT0VTWEtNMlN5WTFNT2dLRXJRRVBVVUk3eFJnMEtYUnF2bmtFT2RkV01sVl94S3JVRE1kc0cyX3FNSUoxaDhETnZhZmhPeURkcXFJSlFLUlpPUzdiNWZCdk82eC1JM2RqeDZBQSIsImlkIjoiZmNfZ25qRGFyaUZBb3JNa1BJUHE0aUpzUU1fNCJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWFuSTVOM0V0YjFadFF6WlVXVTVRVGpCSmIyaHNWMUIyYjJSc1NtczJjRTE0UlVjd1VDMHhXWFl6UW1vMk9IRndlakJOVHpreU5uTjNSbk5uUkVVMlZtbDNiVko2VDA5bGREZFdkamRoVkVkeVlUQlJURFJVTW1rdGR4SVhaMjVxUkdGeWFVWkJiM0pOYTFCSlVIRTBhVXB6VVUwYUlrRkVjM0k1WmxFNWExTlFZMjF5VjBWVGFEQm1kekJsTTBFd1RYbDFhWGRoWldjIiwiZmN2IjoiMyIsImVpIjoiZ25qRGFyaUZBb3JNa1BJUHE0aUpzUU0iLCJxYyI6IkNodHNiRzBnYzJWamRYSnBkSGtnWW1WemRDQndjbUZqZEdsalpYTVFBSDNZREM4XyIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIDUga2V5IGNvbXBvbmVudHMgb2Ygc2VjdXJpdHkgbWFuYWdlbWVudD8iLCJsayI6IkdqUjNhR0YwSUdGeVpTQjBhR1VnTlNCclpYa2dZMjl0Y0c5dVpXNTBjeUJ2WmlCelpXTjFjbWwwZVNCdFlXNWhaMlZ0Wlc1MCIsImJzIjoiYzUyUE1RLUNNQkNGNDNxVGd6b3czYVltUmt3anhrbi1BSTdHdWRSREdxRnQyaUxoM3lzYVF5RFJ3Zmw5Nzk1M1lPQnd6cmxIYmdsOVRwaVM4MmdzRjE0S2NwaHBpMDVudm03ekM5MnAwS1lrNWRHUnFLejBUY3pXd2Vvbk1UZ0pJVXhmaTlJaGYwT0VTWEtNMlN5WTFNT2dLRXJRRVBVVUk3eFJnMEtYUnF2bmtFT2RkV01sVl94S3JVRE1kc0cyX3FNSUoxaDhETnZhZmhPeURkcXFJSlFLUlpPUzdiNWZCdk82eC1JM2RqeDZBQSIsImlkIjoiZmNfZ25qRGFyaUZBb3JNa1BJUHE0aUpzUU1fNCJ9"
+    },
+    {
+      "question": "What is the 80/20 rule in cybersecurity?",
+      "type": "ai_overview",
+      "page_token": "DWocaXicHdBdbpswAABg7TJ9bDBR2BYpqkTBUERMbWwn4WXyT4gb2-CmLEl52112qp1m0w7wvXy_fru3wf75cjXTFD7Wi8Xtdns8jePJHR_V6Bfi43NQCyWck0LZdfI1AU-92uQ_X9Ln95cUsxB4RqKWEnT0KG4HXSuo5g4gX-_CswTVqMqQ1JTvUe4MgXhV73iiYCiPNDVitxqpv79iH5i0XdNAmMnlIf5nzlt_isVSL6X9bg_g2yee4Y4XJsfRaot4tedQt10U3rvIxB3l4EgV4AWAYkbiMISVzEzN54637N6QjPdNEU1dDLBk4Ez3aUpt1QmoAStdTM_INplJtDeZytCQGz1IH_LDvgrEwquy4MJyhxUloR0QoWR8w4zM6uw8i6tXEodCFvdKlG7SZVrVVE80s3c9pJetn3qGH3p13Swf_n9ufvR-WofLePoLlx2DYg",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=DWocaXicHdBdbpswAABg7TJ9bDBR2BYpqkTBUERMbWwn4WXyT4gb2-CmLEl52112qp1m0w7wvXy_fru3wf75cjXTFD7Wi8Xtdns8jePJHR_V6Bfi43NQCyWck0LZdfI1AU-92uQ_X9Ln95cUsxB4RqKWEnT0KG4HXSuo5g4gX-_CswTVqMqQ1JTvUe4MgXhV73iiYCiPNDVitxqpv79iH5i0XdNAmMnlIf5nzlt_isVSL6X9bg_g2yee4Y4XJsfRaot4tedQt10U3rvIxB3l4EgV4AWAYkbiMISVzEzN54637N6QjPdNEU1dDLBk4Ez3aUpt1QmoAStdTM_INplJtDeZytCQGz1IH_LDvgrEwquy4MJyhxUloR0QoWR8w4zM6uw8i6tXEodCFvdKlG7SZVrVVE80s3c9pJetn3qGH3p13Swf_n9ufvR-WofLePoLlx2DYg",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWFuSTVOM0V0YjFadFF6WlVXVTVRVGpCSmIyaHNWMUIyYjJSc1NtczJjRTE0UlVjd1VDMHhXWFl6UW1vMk9IRndlakJOVHpreU5uTjNSbk5uUkVVMlZtbDNiVko2VDA5bGREZFdkamRoVkVkeVlUQlJURFJVTW1rdGR4SVhaMjVxUkdGeWFVWkJiM0pOYTFCSlVIRTBhVXB6VVUwYUlrRkVjM0k1WmxFNWExTlFZMjF5VjBWVGFEQm1kekJsTTBFd1RYbDFhWGRoWldjIiwiZmN2IjoiMyIsImVpIjoiZ25qRGFyaUZBb3JNa1BJUHE0aUpzUU0iLCJxYyI6IkNodHNiRzBnYzJWamRYSnBkSGtnWW1WemRDQndjbUZqZEdsalpYTVFBSDNZREM4XyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgODAvMjAgcnVsZSBpbiBjeWJlcnNlY3VyaXR5PyIsImxrIjoiR2lkM2FHRjBJR2x6SUhSb1pTQTRNQ0F5TUNCeWRXeGxJR2x1SUdONVltVnljMlZqZFhKcGRIayIsImJzIjoiYzUyUE1RLUNNQkNGNDNxVGd6b3czYVltUmt3anhrbi1BSTdHdWRSREdxRnQyaUxoM3lzYVF5RFJ3Zmw5Nzk1M1lPQnd6cmxIYmdsOVRwaVM4MmdzRjE0S2NwaHBpMDVudm03ekM5MnAwS1lrNWRHUnFLejBUY3pXd2Vvbk1UZ0pJVXhmaTlJaGYwT0VTWEtNMlN5WTFNT2dLRXJRRVBVVUk3eFJnMEtYUnF2bmtFT2RkV01sVl94S3JVRE1kc0cyX3FNSUoxaDhETnZhZmhPeURkcXFJSlFLUlpPUzdiNWZCdk82eC1JM2RqeDZBQSIsImlkIjoiZmNfZ25qRGFyaUZBb3JNa1BJUHE0aUpzUU1fNCJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWFuSTVOM0V0YjFadFF6WlVXVTVRVGpCSmIyaHNWMUIyYjJSc1NtczJjRTE0UlVjd1VDMHhXWFl6UW1vMk9IRndlakJOVHpreU5uTjNSbk5uUkVVMlZtbDNiVko2VDA5bGREZFdkamRoVkVkeVlUQlJURFJVTW1rdGR4SVhaMjVxUkdGeWFVWkJiM0pOYTFCSlVIRTBhVXB6VVUwYUlrRkVjM0k1WmxFNWExTlFZMjF5VjBWVGFEQm1kekJsTTBFd1RYbDFhWGRoWldjIiwiZmN2IjoiMyIsImVpIjoiZ25qRGFyaUZBb3JNa1BJUHE0aUpzUU0iLCJxYyI6IkNodHNiRzBnYzJWamRYSnBkSGtnWW1WemRDQndjbUZqZEdsalpYTVFBSDNZREM4XyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgODAvMjAgcnVsZSBpbiBjeWJlcnNlY3VyaXR5PyIsImxrIjoiR2lkM2FHRjBJR2x6SUhSb1pTQTRNQ0F5TUNCeWRXeGxJR2x1SUdONVltVnljMlZqZFhKcGRIayIsImJzIjoiYzUyUE1RLUNNQkNGNDNxVGd6b3czYVltUmt3anhrbi1BSTdHdWRSREdxRnQyaUxoM3lzYVF5RFJ3Zmw5Nzk1M1lPQnd6cmxIYmdsOVRwaVM4MmdzRjE0S2NwaHBpMDVudm03ekM5MnAwS1lrNWRHUnFLejBUY3pXd2Vvbk1UZ0pJVXhmaTlJaGYwT0VTWEtNMlN5WTFNT2dLRXJRRVBVVUk3eFJnMEtYUnF2bmtFT2RkV01sVl94S3JVRE1kc0cyX3FNSUoxaDhETnZhZmhPeURkcXFJSlFLUlpPUzdiNWZCdk82eC1JM2RqeDZBQSIsImlkIjoiZmNfZ25qRGFyaUZBb3JNa1BJUHE0aUpzUU1fNCJ9"
+    }
+  ],
+  "ai_overview": {
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "snippet": "Securing large language models (LLMs) requires applying defense-in-depth across inputs, outputs, data pipelines, and agentic workflows to mitigate risks like prompt injection and data leakage.",
+        "snippet_highlighted_words": [
+          "applying defense-in-depth across inputs, outputs, data pipelines, and agentic workflows"
+        ],
+        "reference_indexes": [
+          0,
+          1,
+          2
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "Core LLM Security Best Practices"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Sanitize and Filter Inputs: Constrain and inspect all incoming user prompts, system context, and retrieved documents to block direct or indirect prompt injections. Use allow-lists and strip hidden control characters.",
+            "reference_indexes": [
+              1,
+              3
+            ]
+          },
+          {
+            "snippet": "Validate and Handle Outputs Safely: Treat all model-generated text, code, or tool commands as untrusted data. Apply schema validation, content filters, and execution sandboxing before displaying or running outputs.",
+            "reference_indexes": [
+              1,
+              3,
+              4
+            ]
+          },
+          {
+            "snippet": "Enforce Least Privilege and Zero Trust: Limit agentic tools, API integrations, and user permissions to only what is strictly necessary for the specific task. Implement human-in-the-loop controls for high-risk autonomous actions.",
+            "reference_indexes": [
+              2,
+              4,
+              5
+            ]
+          },
+          {
+            "snippet": "Implement AI Security Gateways: Deploy specialized AI Security Gateways as intermediaries to monitor traffic, enforce rate limits, handle authentication, and block malicious payloads in real time.",
+            "snippet_links": [
+              {
+                "text": "AI Security Gateways",
+                "link": "https://www.proofpoint.com/au/blog/dspm/llm-security-risks-best-practices-solutions"
+              }
+            ],
+            "reference_indexes": [
+              4,
+              6
+            ]
+          },
+          {
+            "snippet": "Practice Data Minimization and Governance: Restrict training, fine-tuning, and RAG (Retrieval-Augmented Generation) inputs to non-sensitive data, maintain strict dataset lineage, and audit repositories regularly.",
+            "reference_indexes": [
+              1,
+              5
+            ]
+          },
+          {
+            "snippet": "Conduct Continuous Red Teaming: Test your LLM applications against the OWASP Top 10 for LLMs using automated frameworks and penetration testing to discover structural vulnerabilities before deployment."
+          }
+        ],
+        "reference_indexes": [
+          0,
+          5,
+          7
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "If you'd like, let me know:"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Are you securing a consumer chatbot or an autonomous AI agent?"
+          },
+          {
+            "snippet": "What framework or cloud infrastructure are you using?"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "I can provide a more tailored security architecture plan."
+      }
+    ],
+    "references": [
+      {
+        "index": 0,
+        "title": "LLM Security in 2025: Risks, Examples, and Best Practices",
+        "link": "https://www.oligo.security/academy/llm-security-in-2025-risks-examples-and-best-practices",
+        "snippet": "Definition: Measures protecting large language models from data manipulation and exploitation.\\nRisks: Prompt injection (LLM01), sensitive information disclosure (",
+        "source": "Oligo Security",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.oligo.security&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      {
+        "index": 1,
+        "title": "LLM Security: Risks, Safety Measures & Best Practices - F5",
+        "link": "https://www.f5.com/glossary/llm-security",
+        "snippet": "Input and prompt filtering/surface control All inputs to LLMs, including user prompts, retrieved documents, system context, and metadata, should be carefully const...",
+        "source": "F5",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.f5.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhRP0zRSAinpNLipYxZpDmAPMd3dnYl3BkJdPnXJyB5YeLTVjAz5W8g_0K8lLEevpfT95LatA6f1vRuiJSayagKUWxdbie_EcdbuWw"
+      },
+      {
+        "index": 2,
+        "title": "LLM Security Guide: Risks & Best Practices",
+        "link": "https://orca.security/resources/blog/llm-security-guide-risks-and-best-practices/",
+        "snippet": "Table of contents * Why Generative AI Breaks Traditional Security Models * Core Vulnerabilities: How Generative AI Models Are Misused Prompt Injection and Jailbrea...",
+        "source": "Orca Security",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://orca.security&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSzY7QdRhCrctrlRmBi2rik4ziKSZocVeCkCJNwBpY2uIQ8YPxu6IgDD5yy1do36gCijijIpvxtGbKM0ejYBAJ74MYtTVVqPZre8_BW"
+      },
+      {
+        "index": 3,
+        "title": "Why LLM Security Matters, Top 10 Risks & Best Practices | CyCognito",
+        "link": "https://www.cycognito.com/learn/ai-security/llm-security/",
+        "snippet": "Best Practices for Securing LLMs. Here are some common LLM security best practices that can help organizations protect LLM · 1. Input Sanitization and Filtering. I...",
+        "source": "CyCognito",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.cycognito.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQlfseGOWElcwfFJHdDdGeffwz3OZg1nTvukFedVUpAOOCvjvQnbviiR9BZxyWJ-T_-nsydXnoXpLFY2Vr9Fg_Db54"
+      },
+      {
+        "index": 4,
+        "title": "AI Security Best Practices: How to Secure LLMs & AI Apps",
+        "link": "https://www.stackhawk.com/blog/ai-security-best-practices/",
+        "snippet": "OWASP LLM Top 10 Risks: Prompt injection (LLM01), sensitive information disclosure (LLM02), supply chain vulnerabilities (LLM03), data/improper output handling (LL...",
+        "source": "StackHawk, Inc.",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.stackhawk.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQcWky4Qz9JlGxvxuN-Fe2wqhNKokeeB3otpQVNzlzHC06ACHA-c3cRrwjUsbC8NPugr9tYZTfp477JslXs7WG1XkdYA2dDiXx-K_Gv"
+      },
+      {
+        "index": 5,
+        "title": "LLM Security: Risks, Best Practices, Solutions | Proofpoint US",
+        "link": "https://www.proofpoint.com/us/blog/dspm/llm-security-risks-best-practices-solutions",
+        "snippet": "Enforce access controls. Use role-based permissions. Limit access to sensitive data sets to only those who absolutely need it. Filter inputs and outputs. Monitor f...",
+        "source": "Proofpoint",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.proofpoint.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSAeXHRKkiIMs5c988MoPnkSqpvyxkLSUDiO1jaJGCwFrNkEquxFi1wzCtVQtBoDEwXqEdFf1GFUOuoTS9EOzgGi0bH-9E8MVix-DQq"
+      },
+      {
+        "index": 6,
+        "title": "LLM Security: Risks, Best Practices, Solutions | Proofpoint AU",
+        "link": "https://www.proofpoint.com/au/blog/dspm/llm-security-risks-best-practices-solutions",
+        "snippet": "Data security for LLMs Modern data security tools need to incorporate adaptive capabilities and intelligent response mechanisms tailored for LLMs. AI security gate...",
+        "source": "Proofpoint",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.proofpoint.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRtaS2AQc80BsvfipDLdGQL5-l7ziC3e9ZH9ExR7dPZk1F575tBEvzwaPDePST211xpjXr_-tqX7Oy34QTcHDw4nUQ4l4bdnHP3YpDD"
+      },
+      {
+        "index": 7,
+        "title": "GitHub - requie/LLMSecurityGuide: A comprehensive reference for ...",
+        "link": "https://github.com/requie/LLMSecurityGuide",
+        "snippet": "Why This Guide Matters * ✅ Current & Comprehensive: Reflects 2025 LLM OWASP standards AND the new 2026 Agentic standards. * ✅ Practical Focus: Real-world tools, te...",
+        "source": "GitHub",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://github.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      }
+    ]
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Comprehensive Guide to Large Language Model (LLM) ...",
+      "link": "https://www.lakera.ai/blog/llm-security",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYgHrOzAV8a-k0DbXqaAuOrNNQd9b6JK4DdheP8I6dK1xCNBGyxVbnXimMUGZDVl97K5ldwZ5AxkErrDSqLwsShRGKPvz8aE9A2U8mfLvaHuVyoaCyKIlyEb4ek4NOAbqq1Zw&ved=2ahUKEwi4zris0qKXAxUKJkQIHStEIjYQFnoECCUQAQ&uoh=1",
+      "displayed_link": "https://www.lakera.ai › blog › llm-security",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd-UAAAAfElEQVR4Ae3WgQXAMBCF4WyVDVLoDJ2hc2SFdsmb4PoAdUqfw4Nc-AHuI5JIw7qQk_Xt3Ns7rIGcbKLmQtDXBS1GgBZjQYtDsxW4DujEoIGOLNhjBObI_9Cv2fT2RIxFY0ksj-pB-ZbKD43-WtTTRleg4ItRvzYZeAvB-QCr7uXw-zssyAAAAABJRU5ErkJggg.png",
+      "snippet": "Adopting Security Best Practices: Suggesting the alignment of LLM operations with established security best practices is a foundational strategy. Reference ...",
+      "snippet_highlighted_words": [
+        "Adopting Security Best Practices"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Adopting Security Best Practices: Suggesting the alignment of LLM operations with established security best practices is a foundational strategy. Reference ...",
+          "source_info_link": "https://www.lakera.ai/blog/llm-security",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd-UAAAAfElEQVR4Ae3WgQXAMBCF4WyVDVLoDJ2hc2SFdsmb4PoAdUqfw4Nc-AHuI5JIw7qQk_Xt3Ns7rIGcbKLmQtDXBS1GgBZjQYtDsxW4DujEoIGOLNhjBObI_9Cv2fT2RIxFY0ksj-pB-ZbKD43-WtTTRleg4ItRvzYZeAvB-QCr7uXw-zssyAAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpIBL2dvdG8_dXJsPUNBRVNZZ0hyT3pBVjhhLWswRGJYcWFBdU9yTk5RZDliNkpLNERkaGVQOEk2ZEsxeENOQkd5eFZiblhpbU1VR1pEVmw5N0s1bGR3WjVBeGtFcnJEU3FMd3NTaFJHS1B2ejhhRTlBMlU4bWZMdmFIdVZ5b2FDeUtJbHlFYjRlazROT0FicXExWncSBBoCCAAaxgUSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCgBQgAEAAYACAAKiEKA2xsbRXd0IlAGgtsbG1zZWN1cml0eRoIaXY7cDtsbG0qQQoIc2VjdXJpdHkVaLWeQBoLbGxtc2VjdXJpdHkaDHNlY3VyaXR5YmVzdBoVc2VjdXJpdHliZXN0cHJhY3RpY2VzKlAKBGJlc3QVtlKBPxoPcmVjb21tZW5kYXRpb25zGgxzZWN1cml0eWJlc3QaFXNlY3VyaXR5YmVzdHByYWN0aWNlcxoNYmVzdHByYWN0aWNlcypRCglwcmFjdGljZXMVr4ynPxoIcHJhY3RpY2UaD3JlY29tbWVuZGF0aW9ucxoVc2VjdXJpdHliZXN0cHJhY3RpY2VzGg1iZXN0cHJhY3RpY2VzMpIBL2dvdG8_dXJsPUNBRVNZZ0hyT3pBVjhhLWswRGJYcWFBdU9yTk5RZDliNkpLNERkaGVQOEk2ZEsxeENOQkd5eFZiblhpbU1VR1pEVmw5N0s1bGR3WjVBeGtFcnJEU3FMd3NTaFJHS1B2ejhhRTlBMlU4bWZMdmFIdVZ5b2FDeUtJbHlFYjRlazROT0FicXExWnc6SENvbXByZWhlbnNpdmUgR3VpZGUgdG8gTGFyZ2UgTGFuZ3VhZ2UgTW9kZWwgKDxiPkxMTTwvYj4pIDxiPlNlY3VyaXR5PC9iPkKrATxiPkFkb3B0aW5nIFNlY3VyaXR5IEJlc3QgUHJhY3RpY2VzPC9iPjogU3VnZ2VzdGluZyB0aGUgYWxpZ25tZW50IG9mIExMTSBvcGVyYXRpb25zIHdpdGggZXN0YWJsaXNoZWQgc2VjdXJpdHkgYmVzdCBwcmFjdGljZXMgaXMgYSBmb3VuZGF0aW9uYWwgc3RyYXRlZ3kuIFJlZmVyZW5jZSZuYnNwOy4uLiICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpIBL2dvdG8_dXJsPUNBRVNZZ0hyT3pBVjhhLWswRGJYcWFBdU9yTk5RZDliNkpLNERkaGVQOEk2ZEsxeENOQkd5eFZiblhpbU1VR1pEVmw5N0s1bGR3WjVBeGtFcnJEU3FMd3NTaFJHS1B2ejhhRTlBMlU4bWZMdmFIdVZ5b2FDeUtJbHlFYjRlazROT0FicXExWncSBBoCCAAaxgUSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCgBQgAEAAYACAAKiEKA2xsbRXd0IlAGgtsbG1zZWN1cml0eRoIaXY7cDtsbG0qQQoIc2VjdXJpdHkVaLWeQBoLbGxtc2VjdXJpdHkaDHNlY3VyaXR5YmVzdBoVc2VjdXJpdHliZXN0cHJhY3RpY2VzKlAKBGJlc3QVtlKBPxoPcmVjb21tZW5kYXRpb25zGgxzZWN1cml0eWJlc3QaFXNlY3VyaXR5YmVzdHByYWN0aWNlcxoNYmVzdHByYWN0aWNlcypRCglwcmFjdGljZXMVr4ynPxoIcHJhY3RpY2UaD3JlY29tbWVuZGF0aW9ucxoVc2VjdXJpdHliZXN0cHJhY3RpY2VzGg1iZXN0cHJhY3RpY2VzMpIBL2dvdG8_dXJsPUNBRVNZZ0hyT3pBVjhhLWswRGJYcWFBdU9yTk5RZDliNkpLNERkaGVQOEk2ZEsxeENOQkd5eFZiblhpbU1VR1pEVmw5N0s1bGR3WjVBeGtFcnJEU3FMd3NTaFJHS1B2ejhhRTlBMlU4bWZMdmFIdVZ5b2FDeUtJbHlFYjRlazROT0FicXExWnc6SENvbXByZWhlbnNpdmUgR3VpZGUgdG8gTGFyZ2UgTGFuZ3VhZ2UgTW9kZWwgKDxiPkxMTTwvYj4pIDxiPlNlY3VyaXR5PC9iPkKrATxiPkFkb3B0aW5nIFNlY3VyaXR5IEJlc3QgUHJhY3RpY2VzPC9iPjogU3VnZ2VzdGluZyB0aGUgYWxpZ25tZW50IG9mIExMTSBvcGVyYXRpb25zIHdpdGggZXN0YWJsaXNoZWQgc2VjdXJpdHkgYmVzdCBwcmFjdGljZXMgaXMgYSBmb3VuZGF0aW9uYWwgc3RyYXRlZ3kuIFJlZmVyZW5jZSZuYnNwOy4uLiICEAFIAFgAaAA",
+      "source": "Lakera AI Security",
+      "read_more_link": "https://www.lakera.ai/blog/llm-security#:~:text=Adopting%20Security%20Best%20Practices%3A%20Suggesting,is%20a%20foundational%20strategy.%20Reference"
+    },
+    {
+      "position": 2,
+      "title": "LLM Security Guide: Risks & Best Practices",
+      "link": "https://orca.security/resources/blog/llm-security-guide-risks-and-best-practices/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjAEB6zswFQ3fDtHjplI5YxImP0ArXz_f62myzuOOeeioPo5lNgkqmtt6KXF38reNEnlRj-brMRsfipBXwEVjBkRRtJIzYbk2OU56bo22gKb8iZ6kGL6-2b7n-uXLPUUJ4LDB9BL2s6pWZaXDF-VNyuyUfn_bNrASFY3OKweGhYV56t6R4_4rpUNcySRerw&ved=2ahUKEwi4zris0qKXAxUKJkQIHStEIjYQFnoECCcQAQ&uoh=1",
+      "displayed_link": "https://orca.security › resources › blog › llm-security-g...",
+      "favicon": "https://serpapi.com/images/i/UklGRlQBAABXRUJQVlA4IEgBAACwBwCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHA3oHCGaA7gEsAbxz5MxgAmWgv9fPMftULET7TUxk8riDGgYi4_Y58AAP4NW4I4jtInt6q4-_TdhGErxNxzidaecg-XWzVXYvdEAkZP-iZsZIvGsjOLvY7I7Bz4l__G5dtsn7XVidrYQdohFP_4Us-uJNtsY1xnoSvR7zRQFO5nFKA0YoPOQsNKDEMzhdEuX0XnPI_SwUEEtTQD43eYUNyP99f6_9PNugLhKougb9zcWn4_6-Te_Xr0CWC_7rLYn5_0-hgs_2tmOvbDc-HnQg8rmlozIn4tgql47X0I_jW06Ja7Qr_hkLdSnIFkK_QuR3UhZKP-MZPRjZn9jcmW3TeUfz_vTJBIQLAsla1xkOU-NwjqM4WwkdITXJGg04Oy3YS9F-MYZ9JqQwAA.webp",
+      "date": "Jun 17, 2026",
+      "snippet": "5 Best Practices for Securing Enterprise LLM Deployments · 1. Enforce Least Privilege and Zero-Trust Architectures · 2. Adopt Agentless ...",
+      "snippet_highlighted_words": [
+        "1. Enforce Least Privilege and Zero-Trust Architectures"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "5 Best Practices for Securing Enterprise LLM Deployments · 1. Enforce Least Privilege and Zero-Trust Architectures · 2. Adopt Agentless ...",
+          "source_info_link": "https://orca.security/resources/blog/llm-security-guide-risks-and-best-practices/",
+          "icon": "https://serpapi.com/images/i/UklGRlQBAABXRUJQVlA4IEgBAACwBwCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHA3oHCGaA7gEsAbxz5MxgAmWgv9fPMftULET7TUxk8riDGgYi4_Y58AAP4NW4I4jtInt6q4-_TdhGErxNxzidaecg-XWzVXYvdEAkZP-iZsZIvGsjOLvY7I7Bz4l__G5dtsn7XVidrYQdohFP_4Us-uJNtsY1xnoSvR7zRQFO5nFKA0YoPOQsNKDEMzhdEuX0XnPI_SwUEEtTQD43eYUNyP99f6_9PNugLhKougb9zcWn4_6-Te_Xr0CWC_7rLYn5_0-hgs_2tmOvbDc-HnQg8rmlozIn4tgql47X0I_jW06Ja7Qr_hkLdSnIFkK_QuR3UhZKP-MZPRjZn9jcmW3TeUfz_vTJBIQLAsla1xkOU-NwjqM4WwkdITXJGg04Oy3YS9F-MYZ9JqQwAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CswBL2dvdG8_dXJsPUNBRVNqQUVCNnpzd0ZRM2ZEdEhqcGxJNVl4SW1QMEFyWHpfZjYybXl6dU9PZWVpb1BvNWxOZ2txbXR0NktYRjM4cmVORW5sUmotYnJNUnNmaXBCWHdFVmpCa1JSdEpJelliazJPVTU2Ym8yMmdLYjhpWjZrR0w2LTJiN24tdVhMUFVVSjRMREI5QkwyczZwV1phWERGLVZOeXV5VWZuX2JOckFTRlkzT0t3ZUdoWVY1NnQ2UjRfNHJwVU5jeVNSZXJ3EgQaAggAGu4FEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAyAUIABAAGAAgACohCgNsbG0VbDuHQBoLbGxtc2VjdXJpdHkaCGl2O3A7bGxtKkEKCHNlY3VyaXR5FUSL20AaC2xsbXNlY3VyaXR5GgxzZWN1cml0eWJlc3QaFXNlY3VyaXR5YmVzdHByYWN0aWNlcypQCgRiZXN0FfgmikAaD3JlY29tbWVuZGF0aW9ucxoMc2VjdXJpdHliZXN0GhVzZWN1cml0eWJlc3RwcmFjdGljZXMaDWJlc3RwcmFjdGljZXMqUQoJcHJhY3RpY2VzFQkGi0AaCHByYWN0aWNlGg9yZWNvbW1lbmRhdGlvbnMaFXNlY3VyaXR5YmVzdHByYWN0aWNlcxoNYmVzdHByYWN0aWNlczLMAS9nb3RvP3VybD1DQUVTakFFQjZ6c3dGUTNmRHRIanBsSTVZeEltUDBBclh6X2Y2Mm15enVPT2VlaW9QbzVsTmdrcW10dDZLWEYzOHJlTkVubFJqLWJyTVJzZmlwQlh3RVZqQmtSUnRKSXpZYmsyT1U1NmJvMjJnS2I4aVo2a0dMNi0yYjduLXVYTFBVVUo0TERCOUJMMnM2cFdaYVhERi1WTnl1eVVmbl9iTnJBU0ZZM09Ld2VHaFlWNTZ0NlI0XzRycFVOY3lTUmVydzo8PGI-TExNIFNlY3VyaXR5PC9iPiBHdWlkZTogUmlza3MgJmFtcDsgPGI-QmVzdCBQcmFjdGljZXM8L2I-QqUBNSBCZXN0IFByYWN0aWNlcyBmb3IgU2VjdXJpbmcgRW50ZXJwcmlzZSBMTE0gRGVwbG95bWVudHMgJm1pZGRvdDsgPGI-MS4gRW5mb3JjZSBMZWFzdCBQcml2aWxlZ2UgYW5kIFplcm8tVHJ1c3QgQXJjaGl0ZWN0dXJlczwvYj4gJm1pZGRvdDsgMi4gQWRvcHQgQWdlbnRsZXNzJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CswBL2dvdG8_dXJsPUNBRVNqQUVCNnpzd0ZRM2ZEdEhqcGxJNVl4SW1QMEFyWHpfZjYybXl6dU9PZWVpb1BvNWxOZ2txbXR0NktYRjM4cmVORW5sUmotYnJNUnNmaXBCWHdFVmpCa1JSdEpJelliazJPVTU2Ym8yMmdLYjhpWjZrR0w2LTJiN24tdVhMUFVVSjRMREI5QkwyczZwV1phWERGLVZOeXV5VWZuX2JOckFTRlkzT0t3ZUdoWVY1NnQ2UjRfNHJwVU5jeVNSZXJ3EgQaAggAGu4FEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAyAUIABAAGAAgACohCgNsbG0VbDuHQBoLbGxtc2VjdXJpdHkaCGl2O3A7bGxtKkEKCHNlY3VyaXR5FUSL20AaC2xsbXNlY3VyaXR5GgxzZWN1cml0eWJlc3QaFXNlY3VyaXR5YmVzdHByYWN0aWNlcypQCgRiZXN0FfgmikAaD3JlY29tbWVuZGF0aW9ucxoMc2VjdXJpdHliZXN0GhVzZWN1cml0eWJlc3RwcmFjdGljZXMaDWJlc3RwcmFjdGljZXMqUQoJcHJhY3RpY2VzFQkGi0AaCHByYWN0aWNlGg9yZWNvbW1lbmRhdGlvbnMaFXNlY3VyaXR5YmVzdHByYWN0aWNlcxoNYmVzdHByYWN0aWNlczLMAS9nb3RvP3VybD1DQUVTakFFQjZ6c3dGUTNmRHRIanBsSTVZeEltUDBBclh6X2Y2Mm15enVPT2VlaW9QbzVsTmdrcW10dDZLWEYzOHJlTkVubFJqLWJyTVJzZmlwQlh3RVZqQmtSUnRKSXpZYmsyT1U1NmJvMjJnS2I4aVo2a0dMNi0yYjduLXVYTFBVVUo0TERCOUJMMnM2cFdaYVhERi1WTnl1eVVmbl9iTnJBU0ZZM09Ld2VHaFlWNTZ0NlI0XzRycFVOY3lTUmVydzo8PGI-TExNIFNlY3VyaXR5PC9iPiBHdWlkZTogUmlza3MgJmFtcDsgPGI-QmVzdCBQcmFjdGljZXM8L2I-QqUBNSBCZXN0IFByYWN0aWNlcyBmb3IgU2VjdXJpbmcgRW50ZXJwcmlzZSBMTE0gRGVwbG95bWVudHMgJm1pZGRvdDsgPGI-MS4gRW5mb3JjZSBMZWFzdCBQcml2aWxlZ2UgYW5kIFplcm8tVHJ1c3QgQXJjaGl0ZWN0dXJlczwvYj4gJm1pZGRvdDsgMi4gQWRvcHQgQWdlbnRsZXNzJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "source": "Orca Security",
+      "read_more_link": "https://orca.security/resources/blog/llm-security-guide-risks-and-best-practices/#:~:text=5%20Best%20Practices%20for%20Securing,Enterprise%20LLM%20Deployments&text=1.%20Enforce%20Least%20Privilege%20and,Zero%2DTrust%20Architectures&text=2.%20Adopt%20Agentless%20Visibility%20for,Complete%20AI%20Posture%20Management"
+    },
+    {
+      "position": 3,
+      "title": "LLM Security Best Practices 2025",
+      "link": "https://nhimg.org/community/nhi-best-practices/llm-security-best-practices-2025/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESiwEB6zswFYRgEVr-MbAZGZDvtQ1MSimAIrWwbFh93Cp1yrCOvoZrrzI_ADSgWJ9iPUmim5ib_SWmjguCppBDPGsDLquJnEI8wWhnoHo97yo0tGjioMTNLHaUL41ZkDOz3ZFBVDM2evilrYXkPh2tgMIqHu8W7XFjWeAcZ79Xq0HaMyxoqREW7YiZttBl&ved=2ahUKEwi4zris0qKXAxUKJkQIHStEIjYQFnoECCgQAQ&uoh=1",
+      "displayed_link": "https://nhimg.org › ... › NHI, AI & IAM Best ...",
+      "favicon": "https://serpapi.com/images/i/UklGRigBAABXRUJQVlA4IBwBAACQBgCdASocABwAPtEutFooIagoGAEAGglnAM7zeA70EeCGL-J3UD3UYdOxuJsmg_Ws-nyBk2rNr6cdb7qYAP72CbiDTOB8Fpe7RshwOFcHzflLJEZp5in5pcKvqZy-0gR7aIG0WVpGPDEINE4OJiPoV32-3cBuej3IsWciAxQdggwvlqhfDcxXVjwHuhqD4spRhi2YRhehV2pIl-n2EjlpSAIjy5lsbC7p_OuLzWKqS09-_MzmND9387x_08J38-c6L90_OeT_M9KJWxZBflKl-3YUuDGe5aWt1wS-d_zR3CQ8mKnBe_U96rB5gDJ6eItXtrCg0mRP1P3QO-JdNpseawlztmv8uu0Gocv-pLnM7WuP7AzJFqAeMYAAAA.webp",
+      "date": "Jul 25, 2025",
+      "snippet": "Prompt hygiene, behavior logging, and policy enforcement must be baked into your LLM stack. Central to all of this is the Model Context Protocol ...",
+      "snippet_highlighted_words": [
+        "Prompt hygiene, behavior logging, and policy enforcement"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Prompt hygiene, behavior logging, and policy enforcement must be baked into your LLM stack. Central to all of this is the Model Context Protocol ...",
+          "source_info_link": "https://nhimg.org/community/nhi-best-practices/llm-security-best-practices-2025/",
+          "icon": "https://serpapi.com/images/i/UklGRigBAABXRUJQVlA4IBwBAACQBgCdASocABwAPtEutFooIagoGAEAGglnAM7zeA70EeCGL-J3UD3UYdOxuJsmg_Ws-nyBk2rNr6cdb7qYAP72CbiDTOB8Fpe7RshwOFcHzflLJEZp5in5pcKvqZy-0gR7aIG0WVpGPDEINE4OJiPoV32-3cBuej3IsWciAxQdggwvlqhfDcxXVjwHuhqD4spRhi2YRhehV2pIl-n2EjlpSAIjy5lsbC7p_OuLzWKqS09-_MzmND9387x_08J38-c6L90_OeT_M9KJWxZBflKl-3YUuDGe5aWt1wS-d_zR3CQ8mKnBe_U96rB5gDJ6eItXtrCg0mRP1P3QO-JdNpseawlztmv8uu0Gocv-pLnM7WuP7AzJFqAeMYAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsoBL2dvdG8_dXJsPUNBRVNpd0VCNnpzd0ZZUmdFVnItTWJBWkdaRHZ0UTFNU2ltQUlyV3diRmg5M0NwMXlyQ092b1pycnpJX0FEU2dXSjlpUFVtaW01aWJfU1dtamd1Q3BwQkRQR3NETHF1Sm5FSTh3V2hub0hvOTd5bzB0R2ppb01UTkxIYVVMNDFaa0RPejNaRkJWRE0yZXZpbHJZWGtQaDJ0Z01JcUh1OFc3WEZqV2VBY1o3OVhxMEhhTXl4b3FSRVc3WWladHRCbBIEGgIIABrSBRICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQKwFCAAQABgAIAAqIQoDbGxtFX2az0AaC2xsbXNlY3VyaXR5GghpdjtwO2xsbSpBCghzZWN1cml0eRULM81AGgtsbG1zZWN1cml0eRoMc2VjdXJpdHliZXN0GhVzZWN1cml0eWJlc3RwcmFjdGljZXMqUAoEYmVzdBVea8lAGg9yZWNvbW1lbmRhdGlvbnMaDHNlY3VyaXR5YmVzdBoVc2VjdXJpdHliZXN0cHJhY3RpY2VzGg1iZXN0cHJhY3RpY2VzKlEKCXByYWN0aWNlcxVCc7hAGghwcmFjdGljZRoPcmVjb21tZW5kYXRpb25zGhVzZWN1cml0eWJlc3RwcmFjdGljZXMaDWJlc3RwcmFjdGljZXMyygEvZ290bz91cmw9Q0FFU2l3RUI2enN3RllSZ0VWci1NYkFaR1pEdnRRMU1TaW1BSXJXd2JGaDkzQ3AxeXJDT3ZvWnJyeklfQURTZ1dKOWlQVW1pbTVpYl9TV21qZ3VDcHBCRFBHc0RMcXVKbkVJOHdXaG5vSG85N3lvMHRHamlvTVROTEhhVUw0MVprRE96M1pGQlZETTJldmlscllYa1BoMnRnTUlxSHU4VzdYRmpXZUFjWjc5WHEwSGFNeXhvcVJFVzdZaVp0dEJsOic8Yj5MTE0gU2VjdXJpdHkgQmVzdCBQcmFjdGljZXM8L2I-IDIwMjVCoAE8Yj5Qcm9tcHQgaHlnaWVuZSwgYmVoYXZpb3IgbG9nZ2luZywgYW5kIHBvbGljeSBlbmZvcmNlbWVudDwvYj4gbXVzdCBiZSBiYWtlZCBpbnRvIHlvdXIgTExNIHN0YWNrLiBDZW50cmFsIHRvIGFsbCBvZiB0aGlzIGlzIHRoZSBNb2RlbCBDb250ZXh0IFByb3RvY29sJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsoBL2dvdG8_dXJsPUNBRVNpd0VCNnpzd0ZZUmdFVnItTWJBWkdaRHZ0UTFNU2ltQUlyV3diRmg5M0NwMXlyQ092b1pycnpJX0FEU2dXSjlpUFVtaW01aWJfU1dtamd1Q3BwQkRQR3NETHF1Sm5FSTh3V2hub0hvOTd5bzB0R2ppb01UTkxIYVVMNDFaa0RPejNaRkJWRE0yZXZpbHJZWGtQaDJ0Z01JcUh1OFc3WEZqV2VBY1o3OVhxMEhhTXl4b3FSRVc3WWladHRCbBIEGgIIABrSBRICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQKwFCAAQABgAIAAqIQoDbGxtFX2az0AaC2xsbXNlY3VyaXR5GghpdjtwO2xsbSpBCghzZWN1cml0eRULM81AGgtsbG1zZWN1cml0eRoMc2VjdXJpdHliZXN0GhVzZWN1cml0eWJlc3RwcmFjdGljZXMqUAoEYmVzdBVea8lAGg9yZWNvbW1lbmRhdGlvbnMaDHNlY3VyaXR5YmVzdBoVc2VjdXJpdHliZXN0cHJhY3RpY2VzGg1iZXN0cHJhY3RpY2VzKlEKCXByYWN0aWNlcxVCc7hAGghwcmFjdGljZRoPcmVjb21tZW5kYXRpb25zGhVzZWN1cml0eWJlc3RwcmFjdGljZXMaDWJlc3RwcmFjdGljZXMyygEvZ290bz91cmw9Q0FFU2l3RUI2enN3RllSZ0VWci1NYkFaR1pEdnRRMU1TaW1BSXJXd2JGaDkzQ3AxeXJDT3ZvWnJyeklfQURTZ1dKOWlQVW1pbTVpYl9TV21qZ3VDcHBCRFBHc0RMcXVKbkVJOHdXaG5vSG85N3lvMHRHamlvTVROTEhhVUw0MVprRE96M1pGQlZETTJldmlscllYa1BoMnRnTUlxSHU4VzdYRmpXZUFjWjc5WHEwSGFNeXhvcVJFVzdZaVp0dEJsOic8Yj5MTE0gU2VjdXJpdHkgQmVzdCBQcmFjdGljZXM8L2I-IDIwMjVCoAE8Yj5Qcm9tcHQgaHlnaWVuZSwgYmVoYXZpb3IgbG9nZ2luZywgYW5kIHBvbGljeSBlbmZvcmNlbWVudDwvYj4gbXVzdCBiZSBiYWtlZCBpbnRvIHlvdXIgTExNIHN0YWNrLiBDZW50cmFsIHRvIGFsbCBvZiB0aGlzIGlzIHRoZSBNb2RlbCBDb250ZXh0IFByb3RvY29sJm5ic3A7Li4uIgIQAUgAWABoAA",
+      "source": "Non-Human Identity Management Group",
+      "read_more_link": "https://nhimg.org/community/nhi-best-practices/llm-security-best-practices-2025/#:~:text=Prompt%20hygiene%2C%20behavior%20logging%2C%20and,policies%2C%20and%20maintaining%20full%20observability."
+    },
+    {
+      "position": 4,
+      "title": "How to Avoid LLM Security Risks",
+      "link": "https://www.fiddler.ai/articles/how-to-avoid-llm-security-risks",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESegHrOzAVh8ihok7Y29BOjk4Xd1W2qnccT4KAAE9vFcOJInSzsueyWQp_dKvYwVbV4bTpe3u77YTZExzaA6pOQzjsxFBTn_G9mMz0rSPAJEjTmcPXyO3fomVIh1A3WBGKaI7dNnoLpfl5btCtCmYFOgnii878za-ggx5a&ved=2ahUKEwi4zris0qKXAxUKJkQIHStEIjYQFnoECCYQAQ&uoh=1",
+      "displayed_link": "https://www.fiddler.ai › Resources › Article",
+      "favicon": "https://serpapi.com/images/i/UklGRogBAABXRUJQVlA4IHwBAAAwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfmfFBuG8xjKbZ3nqtMr3nUrwQzrx0PRiqKMhQcKLDFbY0gfgcrjcERBCN90R0od86tzYAAP738S3fzNu9YGyDMeclPmDfOKQAj7fWHAdDBRryT-5aSn0Spkf1A5dgIbqZyjbX4v4s3_xgWDLX2-qSTs6xccP5NjO6lG1wUGHQkbPR3Si4sMcdTQ9Tp_LEn_aPPStNTEOJhNtiUkxlnwNtsW3SeXpMbkNZd1el4U4BvnwShoEWLwmFurc_wQWpeHllM5Pk5K7H_8RbH5VmDMALB3_BGhTglhj7VCkQKjqzflpSdlK2gVm-_aaMu7chxrzVV_OUDCzthoGagdkPV06b63wkPvUSpY2ydaiwRDYVSfYTPJnPRUf0uqf8aRQ15JqcfsYGalHLJd7k3KJp5hUI8OFLUB0otyaK8siXOv15kh38-EhW0Rc2JxvvRvZKIiVWEhN9dnk3mu83MYAAAA.webp",
+      "snippet": "Best practices include using AI governance frameworks, strong access controls, regular audits, and AI-focused security tools to protect LLMs. Fiddler helps with ...",
+      "snippet_highlighted_words": [
+        "Best practices",
+        "security"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Best practices include using AI governance frameworks, strong access controls, regular audits, and AI-focused security tools to protect LLMs. Fiddler helps with ...",
+          "source_info_link": "https://www.fiddler.ai/articles/how-to-avoid-llm-security-risks",
+          "icon": "https://serpapi.com/images/i/UklGRogBAABXRUJQVlA4IHwBAAAwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfmfFBuG8xjKbZ3nqtMr3nUrwQzrx0PRiqKMhQcKLDFbY0gfgcrjcERBCN90R0od86tzYAAP738S3fzNu9YGyDMeclPmDfOKQAj7fWHAdDBRryT-5aSn0Spkf1A5dgIbqZyjbX4v4s3_xgWDLX2-qSTs6xccP5NjO6lG1wUGHQkbPR3Si4sMcdTQ9Tp_LEn_aPPStNTEOJhNtiUkxlnwNtsW3SeXpMbkNZd1el4U4BvnwShoEWLwmFurc_wQWpeHllM5Pk5K7H_8RbH5VmDMALB3_BGhTglhj7VCkQKjqzflpSdlK2gVm-_aaMu7chxrzVV_OUDCzthoGagdkPV06b63wkPvUSpY2ydaiwRDYVSfYTPJnPRUf0uqf8aRQ15JqcfsYGalHLJd7k3KJp5hUI8OFLUB0otyaK8siXOv15kh38-EhW0Rc2JxvvRvZKIiVWEhN9dnk3mu83MYAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrIBL2dvdG8_dXJsPUNBRVNlZ0hyT3pBVmg4aWhvazdZMjlCT2prNFhkMVcycW5jY1Q0S0FBRTl2RmNPSkluU3pzdWV5V1FwX2RLdll3VmJWNGJUcGUzdTc3WVRaRXh6YUE2cE9RempzeEZCVG5fRzltTXowclNQQUpFalRtY1BYeU8zZm9tVkloMUEzV0JHS2FJN2RObm9McGZsNWJ0Q3RDbVlGT2duaWk4Nzh6YS1nZ3g1YRIEGgIIABrdBRICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQLcFCAAQABgAIAAqIQoDbGxtFYhpokAaC2xsbXNlY3VyaXR5GghpdjtwO2xsbSpBCghzZWN1cml0eRV55qpAGgtsbG1zZWN1cml0eRoMc2VjdXJpdHliZXN0GhVzZWN1cml0eWJlc3RwcmFjdGljZXMqUAoEYmVzdBUvpJw_Gg9yZWNvbW1lbmRhdGlvbnMaDHNlY3VyaXR5YmVzdBoVc2VjdXJpdHliZXN0cHJhY3RpY2VzGg1iZXN0cHJhY3RpY2VzKlEKCXByYWN0aWNlcxU7TLI_GghwcmFjdGljZRoPcmVjb21tZW5kYXRpb25zGhVzZWN1cml0eWJlc3RwcmFjdGljZXMaDWJlc3RwcmFjdGljZXMysgEvZ290bz91cmw9Q0FFU2VnSHJPekFWaDhpaG9rN1kyOUJPams0WGQxVzJxbmNjVDRLQUFFOXZGY09KSW5TenN1ZXlXUXBfZEt2WXdWYlY0YlRwZTN1NzdZVFpFeHphQTZwT1F6anN4RkJUbl9HOW1NejByU1BBSkVqVG1jUFh5TzNmb21WSWgxQTNXQkdLYUk3ZE5ub0xwZmw1YnRDdENtWUZPZ25paTg3OHphLWdneDVhOjNIb3cgdG8gQXZvaWQgPGI-TExNIFNlY3VyaXR5PC9iPiBSaXNrcyB8IEZpZGRsZXIgQUlCtwE8Yj5CZXN0IHByYWN0aWNlczwvYj4gaW5jbHVkZSB1c2luZyBBSSBnb3Zlcm5hbmNlIGZyYW1ld29ya3MsIHN0cm9uZyBhY2Nlc3MgY29udHJvbHMsIHJlZ3VsYXIgYXVkaXRzLCBhbmQgQUktZm9jdXNlZCA8Yj5zZWN1cml0eTwvYj4gdG9vbHMgdG8gcHJvdGVjdCBMTE1zLiBGaWRkbGVyIGhlbHBzIHdpdGgmbmJzcDsuLi4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrIBL2dvdG8_dXJsPUNBRVNlZ0hyT3pBVmg4aWhvazdZMjlCT2prNFhkMVcycW5jY1Q0S0FBRTl2RmNPSkluU3pzdWV5V1FwX2RLdll3VmJWNGJUcGUzdTc3WVRaRXh6YUE2cE9RempzeEZCVG5fRzltTXowclNQQUpFalRtY1BYeU8zZm9tVkloMUEzV0JHS2FJN2RObm9McGZsNWJ0Q3RDbVlGT2duaWk4Nzh6YS1nZ3g1YRIEGgIIABrdBRICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQLcFCAAQABgAIAAqIQoDbGxtFYhpokAaC2xsbXNlY3VyaXR5GghpdjtwO2xsbSpBCghzZWN1cml0eRV55qpAGgtsbG1zZWN1cml0eRoMc2VjdXJpdHliZXN0GhVzZWN1cml0eWJlc3RwcmFjdGljZXMqUAoEYmVzdBUvpJw_Gg9yZWNvbW1lbmRhdGlvbnMaDHNlY3VyaXR5YmVzdBoVc2VjdXJpdHliZXN0cHJhY3RpY2VzGg1iZXN0cHJhY3RpY2VzKlEKCXByYWN0aWNlcxU7TLI_GghwcmFjdGljZRoPcmVjb21tZW5kYXRpb25zGhVzZWN1cml0eWJlc3RwcmFjdGljZXMaDWJlc3RwcmFjdGljZXMysgEvZ290bz91cmw9Q0FFU2VnSHJPekFWaDhpaG9rN1kyOUJPams0WGQxVzJxbmNjVDRLQUFFOXZGY09KSW5TenN1ZXlXUXBfZEt2WXdWYlY0YlRwZTN1NzdZVFpFeHphQTZwT1F6anN4RkJUbl9HOW1NejByU1BBSkVqVG1jUFh5TzNmb21WSWgxQTNXQkdLYUk3ZE5ub0xwZmw1YnRDdENtWUZPZ25paTg3OHphLWdneDVhOjNIb3cgdG8gQXZvaWQgPGI-TExNIFNlY3VyaXR5PC9iPiBSaXNrcyB8IEZpZGRsZXIgQUlCtwE8Yj5CZXN0IHByYWN0aWNlczwvYj4gaW5jbHVkZSB1c2luZyBBSSBnb3Zlcm5hbmNlIGZyYW1ld29ya3MsIHN0cm9uZyBhY2Nlc3MgY29udHJvbHMsIHJlZ3VsYXIgYXVkaXRzLCBhbmQgQUktZm9jdXNlZCA8Yj5zZWN1cml0eTwvYj4gdG9vbHMgdG8gcHJvdGVjdCBMTE1zLiBGaWRkbGVyIGhlbHBzIHdpdGgmbmJzcDsuLi4iAhABSABYAGgA",
+      "source": "Fiddler AI",
+      "read_more_link": "https://www.fiddler.ai/articles/how-to-avoid-llm-security-risks#:~:text=Best%20practices%20include%20using%20AI,security%20solutions%20to%20safeguard%20LLMs."
+    },
+    {
+      "position": 5,
+      "title": "LLM Security: Top 10 Threats & Best Practices",
+      "link": "https://www.aquasec.com/cloud-native-academy/vulnerability-management/llm-security/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjgEB6zswFf9LJZqlxmwNTzl3NcAnech3qPgux8RZ8CZjkWQ895E32gWfAdzyKIXaRad2WqrkNfrdeFlxdhNdj2VFtlb0kjZ0_Cr8x0dfDomGpa86tACC7IUnkxGbyUKjkLGz595PGkzcOVe0-0fILDHy71RzGENi0kD7ubbSaS6iTqxLrbf2xYrdFJnn5BEF&ved=2ahUKEwi4zris0qKXAxUKJkQIHStEIjYQFnoECCsQAQ&uoh=1",
+      "displayed_link": "https://www.aquasec.com › vulnerability-management",
+      "favicon": "https://serpapi.com/images/i/UklGRgQBAABXRUJQVlA4IPgAAABwBgCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHA3QDi18gNsBdpO82EQ6F_rSaaHtBI5SlAwKE7kUQAA_vVm2SrjeSU65f_U21ydEmyRzv9p_WDJ5fVqo88u3L9lWmKGvec9nIbbcmTL3hhZ-LCDR7M1olMJ-P4Veuzxwkkc5xd4qXkkHoXDCYL0UtOnsMRw0KQaIFSX2uH3b3-ijMyGLOt2XRVos5AR4F-j-uLiqmI-GHXiiHHHfhclULAEOLGDeofU8YYI5_idmUOtUdMCM1ceJ6xoiTqf_UYA9rCd-3dDvo6of6RuL9z-0B9f_T2NypQeAAAAAA.webp",
+      "date": "Jun 10, 2024",
+      "snippet": "Best Practices for LLM Security · Adversarial Training · Input Validation Mechanisms · Access Controls · Secure Execution Environments.",
+      "snippet_highlighted_words": [
+        "Adversarial Training"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Best Practices for LLM Security · Adversarial Training · Input Validation Mechanisms · Access Controls · Secure Execution Environments.",
+          "source_info_link": "https://www.aquasec.com/cloud-native-academy/vulnerability-management/llm-security/",
+          "icon": "https://serpapi.com/images/i/UklGRgQBAABXRUJQVlA4IPgAAABwBgCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHA3QDi18gNsBdpO82EQ6F_rSaaHtBI5SlAwKE7kUQAA_vVm2SrjeSU65f_U21ydEmyRzv9p_WDJ5fVqo88u3L9lWmKGvec9nIbbcmTL3hhZ-LCDR7M1olMJ-P4Veuzxwkkc5xd4qXkkHoXDCYL0UtOnsMRw0KQaIFSX2uH3b3-ijMyGLOt2XRVos5AR4F-j-uLiqmI-GHXiiHHHfhclULAEOLGDeofU8YYI5_idmUOtUdMCM1ceJ6xoiTqf_UYA9rCd-3dDvo6of6RuL9z-0B9f_T2NypQeAAAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cs4BL2dvdG8_dXJsPUNBRVNqZ0VCNnpzd0ZmOUxKWnFseG13TlR6bDNOY0FuZWNoM3FQZ3V4OFJaOENaamtXUTg5NUUzMmdXZkFkenlLSVhhUmFkMldxcmtOZnJkZUZseGRoTmRqMlZGdGxiMGtqWjBfQ3I4eDBkZkRvbUdwYTg2dEFDQzdJVW5reEdieVVLamtMR3o1OTVQR2t6Y09WZTAtMGZJTERIeTcxUnpHRU5pMGtEN3ViYlNhUzZpVHF4THJiZjJ4WXJkRkpubjVCRUYSBBoCCAAa-AUSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDSBQgAEAAYACAAKiEKA2xsbRVkmaRAGgtsbG1zZWN1cml0eRoIaXY7cDtsbG0qQQoIc2VjdXJpdHkVChDwQBoLbGxtc2VjdXJpdHkaDHNlY3VyaXR5YmVzdBoVc2VjdXJpdHliZXN0cHJhY3RpY2VzKlAKBGJlc3QVwNOCQBoPcmVjb21tZW5kYXRpb25zGgxzZWN1cml0eWJlc3QaFXNlY3VyaXR5YmVzdHByYWN0aWNlcxoNYmVzdHByYWN0aWNlcypRCglwcmFjdGljZXMV08Z-QBoIcHJhY3RpY2UaD3JlY29tbWVuZGF0aW9ucxoVc2VjdXJpdHliZXN0cHJhY3RpY2VzGg1iZXN0cHJhY3RpY2VzMs4BL2dvdG8_dXJsPUNBRVNqZ0VCNnpzd0ZmOUxKWnFseG13TlR6bDNOY0FuZWNoM3FQZ3V4OFJaOENaamtXUTg5NUUzMmdXZkFkenlLSVhhUmFkMldxcmtOZnJkZUZseGRoTmRqMlZGdGxiMGtqWjBfQ3I4eDBkZkRvbUdwYTg2dEFDQzdJVW5reEdieVVLamtMR3o1OTVQR2t6Y09WZTAtMGZJTERIeTcxUnpHRU5pMGtEN3ViYlNhUzZpVHF4THJiZjJ4WXJkRkpubjVCRUY6PzxiPkxMTSBTZWN1cml0eTwvYj46IFRvcCAxMCBUaHJlYXRzICZhbXA7IDxiPkJlc3QgUHJhY3RpY2VzPC9iPkKqAUJlc3QgUHJhY3RpY2VzIGZvciBMTE0gU2VjdXJpdHkgJm1pZGRvdDsgPGI-QWR2ZXJzYXJpYWwgVHJhaW5pbmc8L2I-ICZtaWRkb3Q7IElucHV0IFZhbGlkYXRpb24gTWVjaGFuaXNtcyAmbWlkZG90OyBBY2Nlc3MgQ29udHJvbHMgJm1pZGRvdDsgU2VjdXJlIEV4ZWN1dGlvbiBFbnZpcm9ubWVudHMuIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cs4BL2dvdG8_dXJsPUNBRVNqZ0VCNnpzd0ZmOUxKWnFseG13TlR6bDNOY0FuZWNoM3FQZ3V4OFJaOENaamtXUTg5NUUzMmdXZkFkenlLSVhhUmFkMldxcmtOZnJkZUZseGRoTmRqMlZGdGxiMGtqWjBfQ3I4eDBkZkRvbUdwYTg2dEFDQzdJVW5reEdieVVLamtMR3o1OTVQR2t6Y09WZTAtMGZJTERIeTcxUnpHRU5pMGtEN3ViYlNhUzZpVHF4THJiZjJ4WXJkRkpubjVCRUYSBBoCCAAa-AUSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDSBQgAEAAYACAAKiEKA2xsbRVkmaRAGgtsbG1zZWN1cml0eRoIaXY7cDtsbG0qQQoIc2VjdXJpdHkVChDwQBoLbGxtc2VjdXJpdHkaDHNlY3VyaXR5YmVzdBoVc2VjdXJpdHliZXN0cHJhY3RpY2VzKlAKBGJlc3QVwNOCQBoPcmVjb21tZW5kYXRpb25zGgxzZWN1cml0eWJlc3QaFXNlY3VyaXR5YmVzdHByYWN0aWNlcxoNYmVzdHByYWN0aWNlcypRCglwcmFjdGljZXMV08Z-QBoIcHJhY3RpY2UaD3JlY29tbWVuZGF0aW9ucxoVc2VjdXJpdHliZXN0cHJhY3RpY2VzGg1iZXN0cHJhY3RpY2VzMs4BL2dvdG8_dXJsPUNBRVNqZ0VCNnpzd0ZmOUxKWnFseG13TlR6bDNOY0FuZWNoM3FQZ3V4OFJaOENaamtXUTg5NUUzMmdXZkFkenlLSVhhUmFkMldxcmtOZnJkZUZseGRoTmRqMlZGdGxiMGtqWjBfQ3I4eDBkZkRvbUdwYTg2dEFDQzdJVW5reEdieVVLamtMR3o1OTVQR2t6Y09WZTAtMGZJTERIeTcxUnpHRU5pMGtEN3ViYlNhUzZpVHF4THJiZjJ4WXJkRkpubjVCRUY6PzxiPkxMTSBTZWN1cml0eTwvYj46IFRvcCAxMCBUaHJlYXRzICZhbXA7IDxiPkJlc3QgUHJhY3RpY2VzPC9iPkKqAUJlc3QgUHJhY3RpY2VzIGZvciBMTE0gU2VjdXJpdHkgJm1pZGRvdDsgPGI-QWR2ZXJzYXJpYWwgVHJhaW5pbmc8L2I-ICZtaWRkb3Q7IElucHV0IFZhbGlkYXRpb24gTWVjaGFuaXNtcyAmbWlkZG90OyBBY2Nlc3MgQ29udHJvbHMgJm1pZGRvdDsgU2VjdXJlIEV4ZWN1dGlvbiBFbnZpcm9ubWVudHMuIgIQAUgAWABoAA",
+      "source": "aquasec.com",
+      "read_more_link": "https://www.aquasec.com/cloud-native-academy/vulnerability-management/llm-security/#:~:text=Best%20Practices%20for%20LLM%20Security&text=Adversarial%20Training&text=Input%20Validation%20Mechanisms&text=Access%20Controls&text=Secure%20Execution%20Environments"
+    },
+    {
+      "position": 6,
+      "title": "AI & LLM Security Best Practices: Implementation Framework",
+      "link": "https://www.datasunrise.com/knowledge-center/ai-security/ai-llm-security-best-practices/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkwEB6zswFb6Rrwx00E-_IMkGHSAJbjJUn0VyIW2oy3_dF1DXm6vX0WBVXLglO_yBTgng3Y4Pv3Ek_iKk08mMP4r_iwP6zSYNBJh1PIWvuyQPRjw2aVAmAK_m-N1cGrGJnIVOqXd8w8bZV-pEmWKmmULkujzG2x_V8ufsnBbuaJCOlAQE0RNSqdesaGO24KX6QsPB5iQ&ved=2ahUKEwi4zris0qKXAxUKJkQIHStEIjYQFnoECCkQAQ&uoh=1",
+      "displayed_link": "https://www.datasunrise.com › knowledge-center › ai-ll...",
+      "favicon": "https://serpapi.com/images/i/UklGRjABAABXRUJQVlA4ICQBAAAQBwCdASocABwAPtE-tFooIigoFAEAGglsAJ0dgIMBtgPFy6gG8NbzMRIB453sMMopQGZYklsz0flz22-kU9A0AAD-_Sut99MvNEo27y_dn6zSUgVEAB08_PJr9kVAdkeSC1Liwj0JTMHKZ1dTDCqChrTo3-9gO-GzIX-GYbvb3K0-ag9n57vOHqr1kezfxiaBOmN9x_AKBkGULNLCTDN0LaV2M6q3ALoheYz282byvUl138dWgdLost5biGYdVF9cYjSxynvX_SXMepsPV-Bq_VmiccGGTL--UEavi7w5F834oo_aRP7rY288F2lHduSYDexvzBnLNiN-ppFh0gGGv9LPn7s-lYLiRytH5CjpRo8ZDs1oeQioO-SvAwILYWvmGAAA.webp",
+      "snippet": "AI & LLM Security Best Practices: Implement comprehensive protection strategies with input validation and access controls for AI systems.",
+      "snippet_highlighted_words": [
+        "AI & LLM Security Best Practices"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "AI & LLM Security Best Practices: Implement comprehensive protection strategies with input validation and access controls for AI systems.",
+          "source_info_link": "https://www.datasunrise.com/knowledge-center/ai-security/ai-llm-security-best-practices/",
+          "icon": "https://serpapi.com/images/i/UklGRjABAABXRUJQVlA4ICQBAAAQBwCdASocABwAPtE-tFooIigoFAEAGglsAJ0dgIMBtgPFy6gG8NbzMRIB453sMMopQGZYklsz0flz22-kU9A0AAD-_Sut99MvNEo27y_dn6zSUgVEAB08_PJr9kVAdkeSC1Liwj0JTMHKZ1dTDCqChrTo3-9gO-GzIX-GYbvb3K0-ag9n57vOHqr1kezfxiaBOmN9x_AKBkGULNLCTDN0LaV2M6q3ALoheYz282byvUl138dWgdLost5biGYdVF9cYjSxynvX_SXMepsPV-Bq_VmiccGGTL--UEavi7w5F834oo_aRP7rY288F2lHduSYDexvzBnLNiN-ppFh0gGGv9LPn7s-lYLiRytH5CjpRo8ZDs1oeQioO-SvAwILYWvmGAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtUBL2dvdG8_dXJsPUNBRVNrd0VCNnpzd0ZiNlJyd3gwMEUtX0lNa0dIU0FKYmpKVW4wVnlJVzJveTNfZEYxRFhtNnZYMFdCVlhMZ2xPX3lCVGduZzNZNFB2M0VrX2lLazA4bU1QNHJfaXdQNnpTWU5CSmgxUElXdnV5UVBSancyYVZBbUFLX20tTjFjR3JHSm5JVk9xWGQ4dzhiWlYtcEVtV0ttbVVMa3VqekcyeF9WOHVmc25CYnVhSkNPbEFRRTBSTlNxZGVzYUdPMjRLWDZRc1BCNWlREgQaAggAGu0FEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQMkFCAAQABgAIAAqIQoDbGxtFXA_xEAaC2xsbXNlY3VyaXR5GghpdjtwO2xsbSpBCghzZWN1cml0eRUO_-RAGgtsbG1zZWN1cml0eRoMc2VjdXJpdHliZXN0GhVzZWN1cml0eWJlc3RwcmFjdGljZXMqUAoEYmVzdBVIWLJAGg9yZWNvbW1lbmRhdGlvbnMaDHNlY3VyaXR5YmVzdBoVc2VjdXJpdHliZXN0cHJhY3RpY2VzGg1iZXN0cHJhY3RpY2VzKlEKCXByYWN0aWNlcxVIWLJAGghwcmFjdGljZRoPcmVjb21tZW5kYXRpb25zGhVzZWN1cml0eWJlc3RwcmFjdGljZXMaDWJlc3RwcmFjdGljZXMy1QEvZ290bz91cmw9Q0FFU2t3RUI2enN3RmI2UnJ3eDAwRS1fSU1rR0hTQUpiakpVbjBWeUlXMm95M19kRjFEWG02dlgwV0JWWExnbE9feUJUZ25nM1k0UHYzRWtfaUtrMDhtTVA0cl9pd1A2elNZTkJKaDFQSVd2dXlRUFJqdzJhVkFtQUtfbS1OMWNHckdKbklWT3FYZDh3OGJaVi1wRW1XS21tVUxrdWp6RzJ4X1Y4dWZzbkJidWFKQ09sQVFFMFJOU3FkZXNhR08yNEtYNlFzUEI1aVE6RUFJICZhbXA7IDxiPkxMTSBTZWN1cml0eSBCZXN0IFByYWN0aWNlczwvYj46IEltcGxlbWVudGF0aW9uIEZyYW1ld29ya0KUATxiPkFJICZhbXA7IExMTSBTZWN1cml0eSBCZXN0IFByYWN0aWNlczwvYj46IEltcGxlbWVudCBjb21wcmVoZW5zaXZlIHByb3RlY3Rpb24gc3RyYXRlZ2llcyB3aXRoIGlucHV0IHZhbGlkYXRpb24gYW5kIGFjY2VzcyBjb250cm9scyBmb3IgQUkgc3lzdGVtcy4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtUBL2dvdG8_dXJsPUNBRVNrd0VCNnpzd0ZiNlJyd3gwMEUtX0lNa0dIU0FKYmpKVW4wVnlJVzJveTNfZEYxRFhtNnZYMFdCVlhMZ2xPX3lCVGduZzNZNFB2M0VrX2lLazA4bU1QNHJfaXdQNnpTWU5CSmgxUElXdnV5UVBSancyYVZBbUFLX20tTjFjR3JHSm5JVk9xWGQ4dzhiWlYtcEVtV0ttbVVMa3VqekcyeF9WOHVmc25CYnVhSkNPbEFRRTBSTlNxZGVzYUdPMjRLWDZRc1BCNWlREgQaAggAGu0FEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQMkFCAAQABgAIAAqIQoDbGxtFXA_xEAaC2xsbXNlY3VyaXR5GghpdjtwO2xsbSpBCghzZWN1cml0eRUO_-RAGgtsbG1zZWN1cml0eRoMc2VjdXJpdHliZXN0GhVzZWN1cml0eWJlc3RwcmFjdGljZXMqUAoEYmVzdBVIWLJAGg9yZWNvbW1lbmRhdGlvbnMaDHNlY3VyaXR5YmVzdBoVc2VjdXJpdHliZXN0cHJhY3RpY2VzGg1iZXN0cHJhY3RpY2VzKlEKCXByYWN0aWNlcxVIWLJAGghwcmFjdGljZRoPcmVjb21tZW5kYXRpb25zGhVzZWN1cml0eWJlc3RwcmFjdGljZXMaDWJlc3RwcmFjdGljZXMy1QEvZ290bz91cmw9Q0FFU2t3RUI2enN3RmI2UnJ3eDAwRS1fSU1rR0hTQUpiakpVbjBWeUlXMm95M19kRjFEWG02dlgwV0JWWExnbE9feUJUZ25nM1k0UHYzRWtfaUtrMDhtTVA0cl9pd1A2elNZTkJKaDFQSVd2dXlRUFJqdzJhVkFtQUtfbS1OMWNHckdKbklWT3FYZDh3OGJaVi1wRW1XS21tVUxrdWp6RzJ4X1Y4dWZzbkJidWFKQ09sQVFFMFJOU3FkZXNhR08yNEtYNlFzUEI1aVE6RUFJICZhbXA7IDxiPkxMTSBTZWN1cml0eSBCZXN0IFByYWN0aWNlczwvYj46IEltcGxlbWVudGF0aW9uIEZyYW1ld29ya0KUATxiPkFJICZhbXA7IExMTSBTZWN1cml0eSBCZXN0IFByYWN0aWNlczwvYj46IEltcGxlbWVudCBjb21wcmVoZW5zaXZlIHByb3RlY3Rpb24gc3RyYXRlZ2llcyB3aXRoIGlucHV0IHZhbGlkYXRpb24gYW5kIGFjY2VzcyBjb250cm9scyBmb3IgQUkgc3lzdGVtcy4iAhABSABYAGgA",
+      "source": "DataSunrise"
+    },
+    {
+      "position": 7,
+      "title": "What Is LLM (Large Language Model) Security?",
+      "link": "https://www.paloaltonetworks.com/cyberpedia/what-is-llm-security",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESewHrOzAVjyjQInZ32I2gDzO7fyXrBv9MYbHt95UL813gsaD0UwpywTc35-Vc6Dxl_sJjRI30XiSfgnwVKwlrwx8F9EhJU41Kza4lljRsD_1E0opPkZMJ4OFVU9BrmnAwOBHSC_LHRVdib8oak-ZQp_hl6W9ZGf9QSA82fQ&ved=2ahUKEwi4zris0qKXAxUKJkQIHStEIjYQFnoECCQQAQ&uoh=1",
+      "displayed_link": "https://www.paloaltonetworks.com › cyberpedia › what...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAG1BMVEVHcEz6WC36WC36WC36WC36WC36WC36WC36WC3gsJ_pAAAACHRSTlMApJZteYZaAvNLv6gAAAB2SURBVCiRxdBLDoAwCARQELDc_8SWT9RYcFs20_SFdFKAnUMSybLaqeq3pMqFuZIlFzaVIrkwRYk8KgOQH_M3zYR7Y1Vq9-yC2r1QaW2eh_Q253gMvwaA7Z7NyD-lwnLP_rQywOyMhXkr74OF3Z1NF8vOr9w0F_bmB2ssODn8AAAAAElFTkSuQmCC.png",
+      "snippet": "How to implement LLM security in practice · Limit prompt exposure and control input surfaces · Isolate model execution · Monitor for jailbreaks and unusual ...",
+      "snippet_highlighted_words": [
+        "How to implement LLM security in practice"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "How to implement LLM security in practice · Limit prompt exposure and control input surfaces · Isolate model execution · Monitor for jailbreaks and unusual ...",
+          "source_info_link": "https://www.paloaltonetworks.com/cyberpedia/what-is-llm-security",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAG1BMVEVHcEz6WC36WC36WC36WC36WC36WC36WC36WC3gsJ_pAAAACHRSTlMApJZteYZaAvNLv6gAAAB2SURBVCiRxdBLDoAwCARQELDc_8SWT9RYcFs20_SFdFKAnUMSybLaqeq3pMqFuZIlFzaVIrkwRYk8KgOQH_M3zYR7Y1Vq9-yC2r1QaW2eh_Q253gMvwaA7Z7NyD-lwnLP_rQywOyMhXkr74OF3Z1NF8vOr9w0F_bmB2ssODn8AAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrQBL2dvdG8_dXJsPUNBRVNld0hyT3pBVmp5alFJblozMkkyZ0R6TzdmeVhyQnY5TVliSHQ5NVVMODEzZ3NhRDBVd3B5d1RjMzUtVmM2RHhsX3NKalJJMzBYaVNmZ253Vkt3bHJ3eDhGOUVoSlU0MUt6YTRsbGpSc0RfMUUwb3BQa1pNSjRPRlZVOUJybW5Bd09CSFNDX0xIUlZkaWI4b2FrLVpRcF9obDZXOVpHZjlRU0E4MmZREgQaAggAGv8FEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA2QUIABAAGAAgACohCgNsbG0V3g9lQBoLbGxtc2VjdXJpdHkaCGl2O3A7bGxtKkEKCHNlY3VyaXR5FY6oz0AaC2xsbXNlY3VyaXR5GgxzZWN1cml0eWJlc3QaFXNlY3VyaXR5YmVzdHByYWN0aWNlcypQCgRiZXN0Fa6nDT0aD3JlY29tbWVuZGF0aW9ucxoMc2VjdXJpdHliZXN0GhVzZWN1cml0eWJlc3RwcmFjdGljZXMaDWJlc3RwcmFjdGljZXMqUQoJcHJhY3RpY2VzFQAAAAAaCHByYWN0aWNlGg9yZWNvbW1lbmRhdGlvbnMaFXNlY3VyaXR5YmVzdHByYWN0aWNlcxoNYmVzdHByYWN0aWNlczK0AS9nb3RvP3VybD1DQUVTZXdIck96QVZqeWpRSW5aMzJJMmdEek83ZnlYckJ2OU1ZYkh0OTVVTDgxM2dzYUQwVXdweXdUYzM1LVZjNkR4bF9zSmpSSTMwWGlTZmdud1ZLd2xyd3g4RjlFaEpVNDFLemE0bGxqUnNEXzFFMG9wUGtaTUo0T0ZWVTlCcm1uQXdPQkhTQ19MSFJWZGliOG9hay1aUXBfaGw2VzlaR2Y5UVNBODJmUTpKV2hhdCBJcyA8Yj5MTE08L2I-IChMYXJnZSBMYW5ndWFnZSBNb2RlbCkgPGI-U2VjdXJpdHk8L2I-PyB8IFN0YXJ0ZXIgR3VpZGVCwAE8Yj5Ib3cgdG8gaW1wbGVtZW50IExMTSBzZWN1cml0eSBpbiBwcmFjdGljZTwvYj4gJm1pZGRvdDsgTGltaXQgcHJvbXB0IGV4cG9zdXJlIGFuZCBjb250cm9sIGlucHV0IHN1cmZhY2VzICZtaWRkb3Q7IElzb2xhdGUgbW9kZWwgZXhlY3V0aW9uICZtaWRkb3Q7IE1vbml0b3IgZm9yIGphaWxicmVha3MgYW5kIHVudXN1YWwmbmJzcDsuLi4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrQBL2dvdG8_dXJsPUNBRVNld0hyT3pBVmp5alFJblozMkkyZ0R6TzdmeVhyQnY5TVliSHQ5NVVMODEzZ3NhRDBVd3B5d1RjMzUtVmM2RHhsX3NKalJJMzBYaVNmZ253Vkt3bHJ3eDhGOUVoSlU0MUt6YTRsbGpSc0RfMUUwb3BQa1pNSjRPRlZVOUJybW5Bd09CSFNDX0xIUlZkaWI4b2FrLVpRcF9obDZXOVpHZjlRU0E4MmZREgQaAggAGv8FEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA2QUIABAAGAAgACohCgNsbG0V3g9lQBoLbGxtc2VjdXJpdHkaCGl2O3A7bGxtKkEKCHNlY3VyaXR5FY6oz0AaC2xsbXNlY3VyaXR5GgxzZWN1cml0eWJlc3QaFXNlY3VyaXR5YmVzdHByYWN0aWNlcypQCgRiZXN0Fa6nDT0aD3JlY29tbWVuZGF0aW9ucxoMc2VjdXJpdHliZXN0GhVzZWN1cml0eWJlc3RwcmFjdGljZXMaDWJlc3RwcmFjdGljZXMqUQoJcHJhY3RpY2VzFQAAAAAaCHByYWN0aWNlGg9yZWNvbW1lbmRhdGlvbnMaFXNlY3VyaXR5YmVzdHByYWN0aWNlcxoNYmVzdHByYWN0aWNlczK0AS9nb3RvP3VybD1DQUVTZXdIck96QVZqeWpRSW5aMzJJMmdEek83ZnlYckJ2OU1ZYkh0OTVVTDgxM2dzYUQwVXdweXdUYzM1LVZjNkR4bF9zSmpSSTMwWGlTZmdud1ZLd2xyd3g4RjlFaEpVNDFLemE0bGxqUnNEXzFFMG9wUGtaTUo0T0ZWVTlCcm1uQXdPQkhTQ19MSFJWZGliOG9hay1aUXBfaGw2VzlaR2Y5UVNBODJmUTpKV2hhdCBJcyA8Yj5MTE08L2I-IChMYXJnZSBMYW5ndWFnZSBNb2RlbCkgPGI-U2VjdXJpdHk8L2I-PyB8IFN0YXJ0ZXIgR3VpZGVCwAE8Yj5Ib3cgdG8gaW1wbGVtZW50IExMTSBzZWN1cml0eSBpbiBwcmFjdGljZTwvYj4gJm1pZGRvdDsgTGltaXQgcHJvbXB0IGV4cG9zdXJlIGFuZCBjb250cm9sIGlucHV0IHN1cmZhY2VzICZtaWRkb3Q7IElzb2xhdGUgbW9kZWwgZXhlY3V0aW9uICZtaWRkb3Q7IE1vbml0b3IgZm9yIGphaWxicmVha3MgYW5kIHVudXN1YWwmbmJzcDsuLi4iAhABSABYAGgA",
+      "source": "Palo Alto Networks",
+      "read_more_link": "https://www.paloaltonetworks.com/cyberpedia/what-is-llm-security#:~:text=How%20to%20implement%20LLM%20security,in%20practice&text=Limit%20prompt%20exposure%20and%20control,input%20surfaces&text=Isolate%20model%20execution&text=Monitor%20for%20jailbreaks%20and%20unusual,responses"
+    },
+    {
+      "position": 8,
+      "title": "The Executive's Guide to LLM Security: Risks, Threats & ...",
+      "link": "https://www.linkedin.com/pulse/executives-guide-llm-security-appventurez-mobitech-e5rkc",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkgEB6zswFWxfXuCCItvrsi2KJCIDT7P_YqA4cCVSyMC1OsbUj8gzK1gAhJRNIe710B1VbDeX2xnVP3RXbH4Hf_tuh27GoawltBfdRaCrO85BtriyeIrAVJOL7SRKCV4JNjKHJZQsWJVs7hXKNCCvgZuY5TIEGAjtle_X0hzqCbkE2nwbQ3xyPQ-k57_bnNhk9FEofg&ved=2ahUKEwi4zris0qKXAxUKJkQIHStEIjYQFnoECCwQAQ&uoh=1",
+      "displayed_link": "10+ reactions · 2 months ago",
+      "favicon": "https://serpapi.com/images/i/UklGRsAAAABXRUJQVlA4ILQAAABQAwCdASoQABAAAsBMJbACdLoBLf4oANRJj6d2SZLhF7_ohAD-4n1FofdRna1o8FCt-OiJvVc8lzO8Rt17R6yr0CRJL0FBwsd8OIDxQ356R55Xei0KcLjbfh5C05X1nTKIh8X8ekP3RBUogy_jZ3kCUPbBWjzINpJUmDhbtDZS1e3a8_aUBwnkYz0mnTj4n4__aq6btWmAus7Zjw7JLZ_kNfUgtaLPXB6k1U8MVzX5_C1AAAA.webp",
+      "snippet": "Organizations must start by identifying where LLMs are being used and what risks are associated with each use case. From there, they can design ...",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Why Llm Security Is...",
+            "link": "https://www.linkedin.com/pulse/executives-guide-llm-security-appventurez-mobitech-e5rkc#:~:text=Why%20LLM%20Security%20Is%20Fundamentally%20Different"
+          },
+          {
+            "title": "Data Leakage: When Ai...",
+            "link": "https://www.linkedin.com/pulse/executives-guide-llm-security-appventurez-mobitech-e5rkc#:~:text=Data%20Leakage%3A%20When%20AI%20Becomes%20a%20Liability"
+          },
+          {
+            "title": "Compliance And Regulatory...",
+            "link": "https://www.linkedin.com/pulse/executives-guide-llm-security-appventurez-mobitech-e5rkc#:~:text=Compliance%20and%20Regulatory%20Challenges"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Organizations must start by identifying where LLMs are being used and what risks are associated with each use case. From there, they can design ...",
+          "source_info_link": "https://www.linkedin.com/pulse/executives-guide-llm-security-appventurez-mobitech-e5rkc",
+          "icon": "https://serpapi.com/images/i/UklGRsAAAABXRUJQVlA4ILQAAABQAwCdASoQABAAAsBMJbACdLoBLf4oANRJj6d2SZLhF7_ohAD-4n1FofdRna1o8FCt-OiJvVc8lzO8Rt17R6yr0CRJL0FBwsd8OIDxQ356R55Xei0KcLjbfh5C05X1nTKIh8X8ekP3RBUogy_jZ3kCUPbBWjzINpJUmDhbtDZS1e3a8_aUBwnkYz0mnTj4n4__aq6btWmAus7Zjw7JLZ_kNfUgtaLPXB6k1U8MVzX5_C1AAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtQBL2dvdG8_dXJsPUNBRVNrZ0VCNnpzd0ZXeGZYdUNDSXR2cnNpMktKQ0lEVDdQX1lxQTRjQ1ZTeU1DMU9zYlVqOGd6SzFnQWhKUk5JZTcxMEIxVmJEZVgyeG5WUDNSWGJINEhmX3R1aDI3R29hd2x0QmZkUmFDck84NUJ0cml5ZUlyQVZKT0w3U1JLQ1Y0Sk5qS0hKWlFzV0pWczdoWEtOQ0N2Z1p1WTVUSUVHQWp0bGVfWDBoenFDYmtFMm53YlEzeHlQUS1rNTdfYm5OaGs5RkVvZmcSBBoCCAAagwYSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgIIAXoAgkDdBQgAEAAYACAAKiEKA2xsbRXwNaZAGgtsbG1zZWN1cml0eRoIaXY7cDtsbG0qQQoIc2VjdXJpdHkVJRm1QBoLbGxtc2VjdXJpdHkaDHNlY3VyaXR5YmVzdBoVc2VjdXJpdHliZXN0cHJhY3RpY2VzKlAKBGJlc3QV4z2GQBoPcmVjb21tZW5kYXRpb25zGgxzZWN1cml0eWJlc3QaFXNlY3VyaXR5YmVzdHByYWN0aWNlcxoNYmVzdHByYWN0aWNlcypRCglwcmFjdGljZXMVjGSIQBoIcHJhY3RpY2UaD3JlY29tbWVuZGF0aW9ucxoVc2VjdXJpdHliZXN0cHJhY3RpY2VzGg1iZXN0cHJhY3RpY2VzMtQBL2dvdG8_dXJsPUNBRVNrZ0VCNnpzd0ZXeGZYdUNDSXR2cnNpMktKQ0lEVDdQX1lxQTRjQ1ZTeU1DMU9zYlVqOGd6SzFnQWhKUk5JZTcxMEIxVmJEZVgyeG5WUDNSWGJINEhmX3R1aDI3R29hd2x0QmZkUmFDck84NUJ0cml5ZUlyQVZKT0w3U1JLQ1Y0Sk5qS0hKWlFzV0pWczdoWEtOQ0N2Z1p1WTVUSUVHQWp0bGVfWDBoenFDYmtFMm53YlEzeHlQUS1rNTdfYm5OaGs5RkVvZmc6VlRoZSBFeGVjdXRpdmUmIzM5O3MgR3VpZGUgdG8gPGI-TExNIFNlY3VyaXR5PC9iPjogUmlza3MsIFRocmVhdHMgJmFtcDsgPGI-QmVzdDwvYj4gLi4uQpgBT3JnYW5pemF0aW9ucyBtdXN0IHN0YXJ0IGJ5IGlkZW50aWZ5aW5nIHdoZXJlIExMTXMgYXJlIGJlaW5nIHVzZWQgYW5kIHdoYXQgcmlza3MgYXJlIGFzc29jaWF0ZWQgd2l0aCBlYWNoIHVzZSBjYXNlLiBGcm9tIHRoZXJlLCB0aGV5IGNhbiBkZXNpZ24mbmJzcDsuLi4iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtQBL2dvdG8_dXJsPUNBRVNrZ0VCNnpzd0ZXeGZYdUNDSXR2cnNpMktKQ0lEVDdQX1lxQTRjQ1ZTeU1DMU9zYlVqOGd6SzFnQWhKUk5JZTcxMEIxVmJEZVgyeG5WUDNSWGJINEhmX3R1aDI3R29hd2x0QmZkUmFDck84NUJ0cml5ZUlyQVZKT0w3U1JLQ1Y0Sk5qS0hKWlFzV0pWczdoWEtOQ0N2Z1p1WTVUSUVHQWp0bGVfWDBoenFDYmtFMm53YlEzeHlQUS1rNTdfYm5OaGs5RkVvZmcSBBoCCAAagwYSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgIIAXoAgkDdBQgAEAAYACAAKiEKA2xsbRXwNaZAGgtsbG1zZWN1cml0eRoIaXY7cDtsbG0qQQoIc2VjdXJpdHkVJRm1QBoLbGxtc2VjdXJpdHkaDHNlY3VyaXR5YmVzdBoVc2VjdXJpdHliZXN0cHJhY3RpY2VzKlAKBGJlc3QV4z2GQBoPcmVjb21tZW5kYXRpb25zGgxzZWN1cml0eWJlc3QaFXNlY3VyaXR5YmVzdHByYWN0aWNlcxoNYmVzdHByYWN0aWNlcypRCglwcmFjdGljZXMVjGSIQBoIcHJhY3RpY2UaD3JlY29tbWVuZGF0aW9ucxoVc2VjdXJpdHliZXN0cHJhY3RpY2VzGg1iZXN0cHJhY3RpY2VzMtQBL2dvdG8_dXJsPUNBRVNrZ0VCNnpzd0ZXeGZYdUNDSXR2cnNpMktKQ0lEVDdQX1lxQTRjQ1ZTeU1DMU9zYlVqOGd6SzFnQWhKUk5JZTcxMEIxVmJEZVgyeG5WUDNSWGJINEhmX3R1aDI3R29hd2x0QmZkUmFDck84NUJ0cml5ZUlyQVZKT0w3U1JLQ1Y0Sk5qS0hKWlFzV0pWczdoWEtOQ0N2Z1p1WTVUSUVHQWp0bGVfWDBoenFDYmtFMm53YlEzeHlQUS1rNTdfYm5OaGs5RkVvZmc6VlRoZSBFeGVjdXRpdmUmIzM5O3MgR3VpZGUgdG8gPGI-TExNIFNlY3VyaXR5PC9iPjogUmlza3MsIFRocmVhdHMgJmFtcDsgPGI-QmVzdDwvYj4gLi4uQpgBT3JnYW5pemF0aW9ucyBtdXN0IHN0YXJ0IGJ5IGlkZW50aWZ5aW5nIHdoZXJlIExMTXMgYXJlIGJlaW5nIHVzZWQgYW5kIHdoYXQgcmlza3MgYXJlIGFzc29jaWF0ZWQgd2l0aCBlYWNoIHVzZSBjYXNlLiBGcm9tIHRoZXJlLCB0aGV5IGNhbiBkZXNpZ24mbmJzcDsuLi4iAhABSABYAGgA",
+      "source": "LinkedIn · Appventurez",
+      "read_more_link": "https://www.linkedin.com/pulse/executives-guide-llm-security-appventurez-mobitech-e5rkc#:~:text=Organizations%20must%20start%20by%20identifying,data%20handling%20to%20system%20architecture."
+    },
+    {
+      "position": 9,
+      "title": "LLM Security: Best Practices to Protect Your Business",
+      "link": "https://relevant.software/blog/llm-security/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZwHrOzAV85lFtNG1Cq9rAqSCbQiYP7nCNCpjDl7wefDnHnNArBfX1mQ6V79dd1aEmxVKQCfdItYdDRprlH9mq4wWut4Cg8VRZ47oaJWJQutEmYICTlyIfDCtFrEKV3C8vQ20o7dOA_0&ved=2ahUKEwi4zris0qKXAxUKJkQIHStEIjYQFnoECFIQAQ&uoh=1",
+      "displayed_link": "https://relevant.software › Insights › AI",
+      "favicon": "https://serpapi.com/images/i/UklGRsIAAABXRUJQVlA4ILYAAAAwBQCdASocABwAPtEutFooIagoGAEAGgllALsBp1-fW32uqL1VlVyL9XChMtGb6qyAAAD-9WeLj3q9Z0HewblUI7x_4yekpf7kE7kfc20wUypfATsIEjD0e4JK8p4FbRqW_hFA7JPP-GO2FsQ4zrwsVLnKYe9oHLngHfgZx6v_NoP_FYGeFSb-mG25-x18X1H0_CiSr4-C0Pvb0e2NrcFb7kvSuXYb5rDVNERcMi0OrtLJoAAAAA.webp",
+      "date": "Aug 13, 2026",
+      "snippet": "How to secure LLM use in your business · Limit model permissions with a least privilege approach · Use guardrails and output-level filtering.",
+      "snippet_highlighted_words": [
+        "Limit model permissions with a least privilege approach"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "What Is Llm Security, And...",
+            "link": "https://relevant.software/blog/llm-security/#:~:text=What%20is%20LLM%20security%2C%20and%20why%20does%20it%20matter,-Large%20Language%20Models%20like%20GPT"
+          },
+          {
+            "title": "Key Security Risks When...",
+            "link": "https://relevant.software/blog/llm-security/#:~:text=Key%20security%20risks%20when%20using%20LLMs,-As%20large%20language%20models%20become"
+          },
+          {
+            "title": "How To Secure Llm Use In...",
+            "link": "https://relevant.software/blog/llm-security/#:~:text=How%20to%20secure%20LLM%20use%20in%20your%20business,-Securing%20LLMs%20takes%20more%20than"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "How to secure LLM use in your business · Limit model permissions with a least privilege approach · Use guardrails and output-level filtering.",
+          "source_info_link": "https://relevant.software/blog/llm-security/",
+          "icon": "https://serpapi.com/images/i/UklGRsIAAABXRUJQVlA4ILYAAAAwBQCdASocABwAPtEutFooIagoGAEAGgllALsBp1-fW32uqL1VlVyL9XChMtGb6qyAAAD-9WeLj3q9Z0HewblUI7x_4yekpf7kE7kfc20wUypfATsIEjD0e4JK8p4FbRqW_hFA7JPP-GO2FsQ4zrwsVLnKYe9oHLngHfgZx6v_NoP_FYGeFSb-mG25-x18X1H0_CiSr4-C0Pvb0e2NrcFb7kvSuXYb5rDVNERcMi0OrtLJoAAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpkBL2dvdG8_dXJsPUNBRVNad0hyT3pBVjg1bEZ0TkcxQ3E5ckFxU0NiUWlZUDduQ05DcGpEbDd3ZWZEbkhuTkFyQmZYMW1RNlY3OWRkMWFFbXhWS1FDZmRJdFlkRFJwcmxIOW1xNHdXdXQ0Q2c4VlJaNDdvYUpXSlF1dEVtWUlDVGx5SWZEQ3RGckVLVjNDOHZRMjBvN2RPQV8wEgQaAggAGsEFEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgIIAXoAgkCZBQgAEAAYACAAKiEKA2xsbRXPZLZAGgtsbG1zZWN1cml0eRoIaXY7cDtsbG0qQQoIc2VjdXJpdHkVRhS6QBoLbGxtc2VjdXJpdHkaDHNlY3VyaXR5YmVzdBoVc2VjdXJpdHliZXN0cHJhY3RpY2VzKlAKBGJlc3QVK3BJQBoPcmVjb21tZW5kYXRpb25zGgxzZWN1cml0eWJlc3QaFXNlY3VyaXR5YmVzdHByYWN0aWNlcxoNYmVzdHByYWN0aWNlcypRCglwcmFjdGljZXMVxkNSQBoIcHJhY3RpY2UaD3JlY29tbWVuZGF0aW9ucxoVc2VjdXJpdHliZXN0cHJhY3RpY2VzGg1iZXN0cHJhY3RpY2VzMpkBL2dvdG8_dXJsPUNBRVNad0hyT3pBVjg1bEZ0TkcxQ3E5ckFxU0NiUWlZUDduQ05DcGpEbDd3ZWZEbkhuTkFyQmZYMW1RNlY3OWRkMWFFbXhWS1FDZmRJdFlkRFJwcmxIOW1xNHdXdXQ0Q2c4VlJaNDdvYUpXSlF1dEVtWUlDVGx5SWZEQ3RGckVLVjNDOHZRMjBvN2RPQV8wOkM8Yj5MTE0gU2VjdXJpdHk8L2I-OiA8Yj5CZXN0IFByYWN0aWNlczwvYj4gdG8gUHJvdGVjdCBZb3VyIEJ1c2luZXNzQqIBSG93IHRvIHNlY3VyZSBMTE0gdXNlIGluIHlvdXIgYnVzaW5lc3MgJm1pZGRvdDsgPGI-TGltaXQgbW9kZWwgcGVybWlzc2lvbnMgd2l0aCBhIGxlYXN0IHByaXZpbGVnZSBhcHByb2FjaDwvYj4gJm1pZGRvdDsgVXNlIGd1YXJkcmFpbHMgYW5kIG91dHB1dC1sZXZlbCBmaWx0ZXJpbmcuIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpkBL2dvdG8_dXJsPUNBRVNad0hyT3pBVjg1bEZ0TkcxQ3E5ckFxU0NiUWlZUDduQ05DcGpEbDd3ZWZEbkhuTkFyQmZYMW1RNlY3OWRkMWFFbXhWS1FDZmRJdFlkRFJwcmxIOW1xNHdXdXQ0Q2c4VlJaNDdvYUpXSlF1dEVtWUlDVGx5SWZEQ3RGckVLVjNDOHZRMjBvN2RPQV8wEgQaAggAGsEFEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgIIAXoAgkCZBQgAEAAYACAAKiEKA2xsbRXPZLZAGgtsbG1zZWN1cml0eRoIaXY7cDtsbG0qQQoIc2VjdXJpdHkVRhS6QBoLbGxtc2VjdXJpdHkaDHNlY3VyaXR5YmVzdBoVc2VjdXJpdHliZXN0cHJhY3RpY2VzKlAKBGJlc3QVK3BJQBoPcmVjb21tZW5kYXRpb25zGgxzZWN1cml0eWJlc3QaFXNlY3VyaXR5YmVzdHByYWN0aWNlcxoNYmVzdHByYWN0aWNlcypRCglwcmFjdGljZXMVxkNSQBoIcHJhY3RpY2UaD3JlY29tbWVuZGF0aW9ucxoVc2VjdXJpdHliZXN0cHJhY3RpY2VzGg1iZXN0cHJhY3RpY2VzMpkBL2dvdG8_dXJsPUNBRVNad0hyT3pBVjg1bEZ0TkcxQ3E5ckFxU0NiUWlZUDduQ05DcGpEbDd3ZWZEbkhuTkFyQmZYMW1RNlY3OWRkMWFFbXhWS1FDZmRJdFlkRFJwcmxIOW1xNHdXdXQ0Q2c4VlJaNDdvYUpXSlF1dEVtWUlDVGx5SWZEQ3RGckVLVjNDOHZRMjBvN2RPQV8wOkM8Yj5MTE0gU2VjdXJpdHk8L2I-OiA8Yj5CZXN0IFByYWN0aWNlczwvYj4gdG8gUHJvdGVjdCBZb3VyIEJ1c2luZXNzQqIBSG93IHRvIHNlY3VyZSBMTE0gdXNlIGluIHlvdXIgYnVzaW5lc3MgJm1pZGRvdDsgPGI-TGltaXQgbW9kZWwgcGVybWlzc2lvbnMgd2l0aCBhIGxlYXN0IHByaXZpbGVnZSBhcHByb2FjaDwvYj4gJm1pZGRvdDsgVXNlIGd1YXJkcmFpbHMgYW5kIG91dHB1dC1sZXZlbCBmaWx0ZXJpbmcuIgIQAUgAWABoAA",
+      "source": "Relevant Software",
+      "read_more_link": "https://relevant.software/blog/llm-security/#:~:text=How%20to%20secure%20LLM%20use,in%20your%20business&text=Limit%20model%20permissions%20with%20a,least%20privilege%20approach&text=Use%20guardrails%20and%20output%2Dlevel%20filtering"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "LLM security vulnerabilities",
+      "link": "https://www.google.com/search?sca_esv=53184d9e0d3ee8ec&sxsrf=APpeQnvjGUxsYFsacu9w5ubgi4O1p2orNg:1791195266041&q=LLM+security+vulnerabilities&sa=X&ved=2ahUKEwi4zris0qKXAxUKJkQIHStEIjYQ1QJ6BAhBEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=LLM+security+vulnerabilities"
+    },
+    {
+      "block_position": 1,
+      "query": "Large language model security pdf",
+      "link": "https://www.google.com/search?sca_esv=53184d9e0d3ee8ec&sxsrf=APpeQnvjGUxsYFsacu9w5ubgi4O1p2orNg:1791195266041&q=Large+language+model+security+pdf&sa=X&ved=2ahUKEwi4zris0qKXAxUKJkQIHStEIjYQ1QJ6BAhHEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Large+language+model+security+pdf"
+    },
+    {
+      "block_position": 1,
+      "query": "Cybersecurity LLM huggingface",
+      "link": "https://www.google.com/search?sca_esv=53184d9e0d3ee8ec&sxsrf=APpeQnvjGUxsYFsacu9w5ubgi4O1p2orNg:1791195266041&q=Cybersecurity+LLM+huggingface&sa=X&ved=2ahUKEwi4zris0qKXAxUKJkQIHStEIjYQ1QJ6BAhGEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Cybersecurity+LLM+huggingface"
+    },
+    {
+      "block_position": 1,
+      "query": "LLM security github",
+      "link": "https://www.google.com/search?sca_esv=53184d9e0d3ee8ec&sxsrf=APpeQnvjGUxsYFsacu9w5ubgi4O1p2orNg:1791195266041&q=LLM+security+github&sa=X&ved=2ahUKEwi4zris0qKXAxUKJkQIHStEIjYQ1QJ6BAhFEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=LLM+security+github"
+    },
+    {
+      "block_position": 1,
+      "query": "LLM for cybersecurity",
+      "link": "https://www.google.com/search?sca_esv=53184d9e0d3ee8ec&sxsrf=APpeQnvjGUxsYFsacu9w5ubgi4O1p2orNg:1791195266041&q=LLM+for+cybersecurity&sa=X&ved=2ahUKEwi4zris0qKXAxUKJkQIHStEIjYQ1QJ6BAhAEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=LLM+for+cybersecurity"
+    },
+    {
+      "block_position": 1,
+      "query": "LLM for security",
+      "link": "https://www.google.com/search?sca_esv=53184d9e0d3ee8ec&sxsrf=APpeQnvjGUxsYFsacu9w5ubgi4O1p2orNg:1791195266041&q=LLM+for+security&sa=X&ved=2ahUKEwi4zris0qKXAxUKJkQIHStEIjYQ1QJ6BAhCEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=LLM+for+security"
+    },
+    {
+      "block_position": 1,
+      "query": "LLM security Expert",
+      "link": "https://www.google.com/search?sca_esv=53184d9e0d3ee8ec&sxsrf=APpeQnvjGUxsYFsacu9w5ubgi4O1p2orNg:1791195266041&q=LLM+security+Expert&sa=X&ved=2ahUKEwi4zris0qKXAxUKJkQIHStEIjYQ1QJ6BAhEEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=LLM+security+Expert"
+    },
+    {
+      "block_position": 1,
+      "query": "LLM security TryHackMe",
+      "link": "https://www.google.com/search?sca_esv=53184d9e0d3ee8ec&sxsrf=APpeQnvjGUxsYFsacu9w5ubgi4O1p2orNg:1791195266041&q=LLM+security+TryHackMe&sa=X&ved=2ahUKEwi4zris0qKXAxUKJkQIHStEIjYQ1QJ6BAhDEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=LLM+security+TryHackMe"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=LLM+security+best+practices&sca_esv=53184d9e0d3ee8ec&sxsrf=APpeQnvjGUxsYFsacu9w5ubgi4O1p2orNg:1791195266041&ei=gnjDariFAorMkPIPq4iJsQM&start=10&sa=N&sstk=AS6-VmKhbkxNQ5r51nqvGoE-CC1a7WnGZk9i398SYDiicvzIGR0XSPjoz2zlIozeSAPmXB4QBe06GTr2ZCRWnfe43vtCFePFNHywnA&ved=2ahUKEwi4zris0qKXAxUKJkQIHStEIjYQ8NMDegQIPhAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=LLM+security+best+practices&sca_esv=53184d9e0d3ee8ec&sxsrf=APpeQnvjGUxsYFsacu9w5ubgi4O1p2orNg:1791195266041&ei=gnjDariFAorMkPIPq4iJsQM&start=10&sa=N&sstk=AS6-VmKhbkxNQ5r51nqvGoE-CC1a7WnGZk9i398SYDiicvzIGR0XSPjoz2zlIozeSAPmXB4QBe06GTr2ZCRWnfe43vtCFePFNHywnA&ved=2ahUKEwi4zris0qKXAxUKJkQIHStEIjYQ8tMDegQIPhAE",
+      "3": "https://www.google.com/search?q=LLM+security+best+practices&sca_esv=53184d9e0d3ee8ec&sxsrf=APpeQnvjGUxsYFsacu9w5ubgi4O1p2orNg:1791195266041&ei=gnjDariFAorMkPIPq4iJsQM&start=20&sa=N&sstk=AS6-VmKhbkxNQ5r51nqvGoE-CC1a7WnGZk9i398SYDiicvzIGR0XSPjoz2zlIozeSAPmXB4QBe06GTr2ZCRWnfe43vtCFePFNHywnA&ved=2ahUKEwi4zris0qKXAxUKJkQIHStEIjYQ8tMDegQIPhAG",
+      "4": "https://www.google.com/search?q=LLM+security+best+practices&sca_esv=53184d9e0d3ee8ec&sxsrf=APpeQnvjGUxsYFsacu9w5ubgi4O1p2orNg:1791195266041&ei=gnjDariFAorMkPIPq4iJsQM&start=30&sa=N&sstk=AS6-VmKhbkxNQ5r51nqvGoE-CC1a7WnGZk9i398SYDiicvzIGR0XSPjoz2zlIozeSAPmXB4QBe06GTr2ZCRWnfe43vtCFePFNHywnA&ved=2ahUKEwi4zris0qKXAxUKJkQIHStEIjYQ8tMDegQIPhAI",
+      "5": "https://www.google.com/search?q=LLM+security+best+practices&sca_esv=53184d9e0d3ee8ec&sxsrf=APpeQnvjGUxsYFsacu9w5ubgi4O1p2orNg:1791195266041&ei=gnjDariFAorMkPIPq4iJsQM&start=40&sa=N&sstk=AS6-VmKhbkxNQ5r51nqvGoE-CC1a7WnGZk9i398SYDiicvzIGR0XSPjoz2zlIozeSAPmXB4QBe06GTr2ZCRWnfe43vtCFePFNHywnA&ved=2ahUKEwi4zris0qKXAxUKJkQIHStEIjYQ8tMDegQIPhAK",
+      "6": "https://www.google.com/search?q=LLM+security+best+practices&sca_esv=53184d9e0d3ee8ec&sxsrf=APpeQnvjGUxsYFsacu9w5ubgi4O1p2orNg:1791195266041&ei=gnjDariFAorMkPIPq4iJsQM&start=50&sa=N&sstk=AS6-VmKhbkxNQ5r51nqvGoE-CC1a7WnGZk9i398SYDiicvzIGR0XSPjoz2zlIozeSAPmXB4QBe06GTr2ZCRWnfe43vtCFePFNHywnA&ved=2ahUKEwi4zris0qKXAxUKJkQIHStEIjYQ8tMDegQIPhAM",
+      "7": "https://www.google.com/search?q=LLM+security+best+practices&sca_esv=53184d9e0d3ee8ec&sxsrf=APpeQnvjGUxsYFsacu9w5ubgi4O1p2orNg:1791195266041&ei=gnjDariFAorMkPIPq4iJsQM&start=60&sa=N&sstk=AS6-VmKhbkxNQ5r51nqvGoE-CC1a7WnGZk9i398SYDiicvzIGR0XSPjoz2zlIozeSAPmXB4QBe06GTr2ZCRWnfe43vtCFePFNHywnA&ved=2ahUKEwi4zris0qKXAxUKJkQIHStEIjYQ8tMDegQIPhAO",
+      "8": "https://www.google.com/search?q=LLM+security+best+practices&sca_esv=53184d9e0d3ee8ec&sxsrf=APpeQnvjGUxsYFsacu9w5ubgi4O1p2orNg:1791195266041&ei=gnjDariFAorMkPIPq4iJsQM&start=70&sa=N&sstk=AS6-VmKhbkxNQ5r51nqvGoE-CC1a7WnGZk9i398SYDiicvzIGR0XSPjoz2zlIozeSAPmXB4QBe06GTr2ZCRWnfe43vtCFePFNHywnA&ved=2ahUKEwi4zris0qKXAxUKJkQIHStEIjYQ8tMDegQIPhAQ",
+      "9": "https://www.google.com/search?q=LLM+security+best+practices&sca_esv=53184d9e0d3ee8ec&sxsrf=APpeQnvjGUxsYFsacu9w5ubgi4O1p2orNg:1791195266041&ei=gnjDariFAorMkPIPq4iJsQM&start=80&sa=N&sstk=AS6-VmKhbkxNQ5r51nqvGoE-CC1a7WnGZk9i398SYDiicvzIGR0XSPjoz2zlIozeSAPmXB4QBe06GTr2ZCRWnfe43vtCFePFNHywnA&ved=2ahUKEwi4zris0qKXAxUKJkQIHStEIjYQ8tMDegQIPhAS",
+      "10": "https://www.google.com/search?q=LLM+security+best+practices&sca_esv=53184d9e0d3ee8ec&sxsrf=APpeQnvjGUxsYFsacu9w5ubgi4O1p2orNg:1791195266041&ei=gnjDariFAorMkPIPq4iJsQM&start=90&sa=N&sstk=AS6-VmKhbkxNQ5r51nqvGoE-CC1a7WnGZk9i398SYDiicvzIGR0XSPjoz2zlIozeSAPmXB4QBe06GTr2ZCRWnfe43vtCFePFNHywnA&ved=2ahUKEwi4zris0qKXAxUKJkQIHStEIjYQ8tMDegQIPhAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=LLM+security+best+practices&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=LLM+security+best+practices&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=LLM+security+best+practices&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=LLM+security+best+practices&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=LLM+security+best+practices&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=LLM+security+best+practices&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=LLM+security+best+practices&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=LLM+security+best+practices&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=LLM+security+best+practices&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=LLM+security+best+practices&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=LLM+security+best+practices&start=90"
+    }
+  }
+}
