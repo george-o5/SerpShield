@@ -1,8 +1,6 @@
-# Pin exact versions after installing (Day 1).
-mcp[cli]
-httpx
-pydantic
-PyYAML
-pytest
-# optional
-rich
+mcp==2.3.0
+httpx==0.28.1
+pydantic==2.13.5
+PyYAML==6.0.3
+pytest==9.1.1
+rich==15.0.0
