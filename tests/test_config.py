@@ -56,15 +56,17 @@ class TestPresetLoading:
 class TestWeights:
     def test_balanced_weights(self):
         cfg = get_config("balanced")
-        assert cfg.weights == {"S1": 3, "S2": 3, "S3": 2, "S4": 4, "S5": 4, "S6": 0}
+        assert cfg.weights == {"S1_STRONG": 3, "S1_WEAK": 1, "S2": 3, "S3": 2, "S3_BIDI": 3, "S4": 4, "S5": 4, "S6": 0}
 
     def test_strict_weights(self):
         cfg = get_config("strict")
-        assert cfg.weights == {"S1": 3, "S2": 3, "S3": 2, "S4": 4, "S5": 4, "S6": 0}
+        assert cfg.weights == {"S1_STRONG": 3, "S1_WEAK": 1, "S2": 3, "S3": 2, "S3_BIDI": 3, "S4": 4, "S5": 4, "S6": 0}
 
     def test_weights_cover_all_signals(self):
         cfg = get_config("balanced")
-        assert EXPECTED_SIGNAL_IDS.issubset(cfg.weights.keys())
+        # Updated to include new signal IDs
+        expected = {"S1_STRONG", "S1_WEAK", "S2", "S3", "S3_BIDI", "S4", "S5", "S6"}
+        assert expected.issubset(cfg.weights.keys())
 
     def test_s4_weight_is_4(self):
         cfg = get_config("balanced")

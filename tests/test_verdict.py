@@ -22,31 +22,31 @@ def test_score_1_2_suspicious(config):
     assert item.verdict == Verdict.SUSPICIOUS
 
 def test_score_3_flagged(config):
-    # S1 weight is 3
+    # S1_STRONG weight is 3
     item = ResultItem(position=1, title="S1", link="http://S1", snippet="snip")
-    item.findings.append(Finding(signal_id="S1", field="title", evidence_hash="abc"))
+    item.findings.append(Finding(signal_id="S1_STRONG", field="title", evidence_hash="abc"))
     item = apply_verdict(item, config)
     assert item.verdict == Verdict.FLAGGED
-    assert item.snippet == "[redacted: S1]"
+    assert item.snippet == "[redacted: S1_STRONG]"
 
 def test_score_5_flagged(config):
-    # S1 (3) + S3 (2) = 5
+    # S1_STRONG (3) + S3 (2) = 5
     item = ResultItem(position=1, title="S1 and S3", link="http://S1", snippet="snip")
     item.findings.extend([
-        Finding(signal_id="S1", field="title", evidence_hash="abc"),
+        Finding(signal_id="S1_STRONG", field="title", evidence_hash="abc"),
         Finding(signal_id="S3", field="title", evidence_hash="def")
     ])
     item = apply_verdict(item, config)
     assert item.verdict == Verdict.FLAGGED
-    assert "S1" in item.snippet
+    assert "S1_STRONG" in item.snippet
     assert "S3" in item.snippet
 
 def test_score_6_blocked(config):
-    # S1 (3) + S1 (3) = 6
+    # S1_STRONG (3) + S1_STRONG (3) = 6
     item = ResultItem(position=1, title="S1 and S1", link="http://S1", snippet="snip")
     item.findings.extend([
-        Finding(signal_id="S1", field="title", evidence_hash="abc"),
-        Finding(signal_id="S1", field="snippet", evidence_hash="def")
+        Finding(signal_id="S1_STRONG", field="title", evidence_hash="abc"),
+        Finding(signal_id="S1_STRONG", field="snippet", evidence_hash="def")
     ])
     item = apply_verdict(item, config)
     assert item.verdict == Verdict.BLOCKED
@@ -59,9 +59,9 @@ def test_s4_s5_blocked(config):
     assert item.verdict == Verdict.BLOCKED
     
 def test_context_discount(config):
-    # S1 (3) in context with discussion words -> 3 - 2 = 1 (SUSPICIOUS)
+    # S1_STRONG (3) in context with discussion words -> 3 - 2 = 1 (SUSPICIOUS)
     item = ResultItem(position=1, title="example prompt injection", link="http://ctx")
-    item.findings.append(Finding(signal_id="S1", field="title", evidence_hash="abc"))
+    item.findings.append(Finding(signal_id="S1_STRONG", field="title", evidence_hash="abc"))
     item = apply_verdict(item, config)
     assert item.verdict == Verdict.SUSPICIOUS
 

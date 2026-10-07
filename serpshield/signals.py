@@ -12,7 +12,7 @@ from typing import List
 from serpshield.models import Finding
 from serpshield.normalize import NormalizedBundle
 from serpshield.patterns import (
-    S1_REGEXES, DISCUSSION_REGEXES, S2_REGEXES,
+    S1_STRONG_REGEXES, S1_WEAK_REGEXES, DISCUSSION_REGEXES, S2_REGEXES,
     S5_TEXT_REGEXES, S5_MD_LINK_REGEX, S5_PLACEHOLDER_REGEXES,
     S6_POPULAR_DOMAINS, S6_RISKY_TLDS, S6_IP_REGEX
 )
@@ -25,24 +25,45 @@ def hash_evidence(text: str) -> str:
 def s1_instruction_intent(field: str, bundle: NormalizedBundle) -> list[Finding]:
     findings = []
     cfg = get_config()
-    weight = cfg.weights.get("S1", 3)
-    max_findings = cfg.thresholds.blocked // weight if weight > 0 else 2
     
-    distinct_matches = set()
-    for regex in S1_REGEXES:
+    # STRONG patterns (weight 3)
+    strong_weight = cfg.weights.get("S1_STRONG", 3)
+    max_strong = cfg.thresholds.blocked // strong_weight if strong_weight > 0 else 2
+    distinct_strong = set()
+    for regex in S1_STRONG_REGEXES:
         for match in regex.finditer(bundle.evidence_view):
             matched_text = match.group(0).lower()
-            if matched_text not in distinct_matches:
-                distinct_matches.add(matched_text)
-                
-    for i, match_text in enumerate(list(distinct_matches)):
-        if i >= max_findings:
+            if matched_text not in distinct_strong:
+                distinct_strong.add(matched_text)
+    
+    for i, match_text in enumerate(list(distinct_strong)):
+        if i >= max_strong:
             break
         findings.append(Finding(
-            signal_id="S1",
+            signal_id="S1_STRONG",
             field=field,
             evidence_hash=hash_evidence(match_text),
-            detail="Instruction intent pattern detected"
+            detail="Strong instruction intent pattern detected"
+        ))
+    
+    # WEAK patterns (weight 1)
+    weak_weight = cfg.weights.get("S1_WEAK", 1)
+    max_weak = cfg.thresholds.blocked // weak_weight if weak_weight > 0 else 6
+    distinct_weak = set()
+    for regex in S1_WEAK_REGEXES:
+        for match in regex.finditer(bundle.evidence_view):
+            matched_text = match.group(0).lower()
+            if matched_text not in distinct_weak:
+                distinct_weak.add(matched_text)
+    
+    for i, match_text in enumerate(list(distinct_weak)):
+        if i >= max_weak:
+            break
+        findings.append(Finding(
+            signal_id="S1_WEAK",
+            field=field,
+            evidence_hash=hash_evidence(match_text),
+            detail="Weak instruction intent pattern detected"
         ))
             
     return findings
@@ -98,10 +119,16 @@ def s4_encoded_payload(field: str, bundle: NormalizedBundle) -> list[Finding]:
         matched_s1 = False
         matched_s2 = False
         
-        for regex in S1_REGEXES:
+        for regex in S1_STRONG_REGEXES:
             if regex.search(payload.decoded):
                 matched_s1 = True
                 break
+        
+        if not matched_s1:
+            for regex in S1_WEAK_REGEXES:
+                if regex.search(payload.decoded):
+                    matched_s1 = True
+                    break
                 
         for regex in S2_REGEXES:
             if regex.search(payload.decoded):

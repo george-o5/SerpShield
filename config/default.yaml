@@ -1,11 +1,11 @@
 # Weights, thresholds, allowlist, caps. Presets: balanced (default), strict.
 presets:
   balanced:
-    weights: { S1: 3, S2: 3, S3: 2, S4: 4, S5: 4, S6: 0 }
+    weights: { S1_STRONG: 3, S1_WEAK: 1, S2: 3, S3: 2, S3_BIDI: 3, S4: 4, S5: 4, S6: 0 }
     thresholds: { suspicious: 1, flagged: 3, blocked: 6 }
     context_discount: -2
   strict:
-    weights: { S1: 3, S2: 3, S3: 2, S4: 4, S5: 4, S6: 0 }
+    weights: { S1_STRONG: 3, S1_WEAK: 1, S2: 3, S3: 2, S3_BIDI: 3, S4: 4, S5: 4, S6: 0 }
     thresholds: { suspicious: 1, flagged: 2, blocked: 5 }
     context_discount: 0
 
