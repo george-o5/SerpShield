@@ -4,6 +4,7 @@ import time
 import json
 import pathlib
 from datetime import date
+from pathlib import Path
 from typing import Any, Tuple, Optional
 from serpshield.config import get_config
 
@@ -35,7 +36,19 @@ class Budget:
         self.session_used = 0
         self.daily_used = 0
         self.persist = persist
-        self.budget_file = pathlib.Path(budget_file) if budget_file else pathlib.Path("logs/budget.json")
+        
+        # Resolve relative paths against project root, not current directory
+        if budget_file:
+            self.budget_file = Path(budget_file)
+        else:
+            project_root = Path(__file__).resolve().parent.parent
+            self.budget_file = project_root / "logs" / "budget.json"
+        
+        # Ensure the path is absolute
+        if not self.budget_file.is_absolute():
+            project_root = Path(__file__).resolve().parent.parent
+            self.budget_file = project_root / self.budget_file
+            
         if self.persist:
             self._load_daily_used()
         

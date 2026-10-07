@@ -43,3 +43,9 @@ def test_budget_persistence(tmp_path):
     today = str(date.today())
     assert today in data
     assert data[today] == 1
+
+def test_budget_path_is_absolute():
+    """Budget file path should be resolved to absolute path."""
+    budget = Budget(persist=False)
+    assert budget.budget_file.is_absolute(), "Budget file path must be absolute"
+

@@ -28,9 +28,12 @@ DISCUSSION_WORDS = [
 DISCUSSION_REGEXES = [re.compile(p, re.IGNORECASE) for p in DISCUSSION_WORDS]
 
 # S2: Fake control markers
-# Role prefixes must match after a line break (not at the very start of text)
+# Role prefixes match at field start, after newline, or after sentence-ending punctuation,
+# ONLY when followed by instruction-like words in the same sentence.
+# "user:" only matches after newline or at field start (not after punctuation).
 S2_PATTERNS = [
-    r"\n(?:system|assistant|user):\s+\w+",
+    r"(?:^|\n|[.!?]\s+)(?:system|assistant):\s+(?=.*?\b(?:ignore|disregard|forget|override|obey|you\s+(?:are|must|will|should)|do\s+not|don't|new\s+instructions|from\s+now\s+on|reveal|send|call|execute|act\s+as)\b)",
+    r"(?:^|\n)user:\s+(?=.*?\b(?:ignore|disregard|forget|override|obey|you\s+(?:are|must|will|should)|do\s+not|don't|new\s+instructions|from\s+now\s+on|reveal|send|call|execute|act\s+as)\b)",
     r"<\s*\|\s*im_start\s*\|\s*>",
     r"<\s*\|\s*endoftext\s*\|\s*>",
     r"\[\s*INST\s*\]",
@@ -44,8 +47,8 @@ S2_REGEXES = [re.compile(p, re.IGNORECASE | re.MULTILINE) for p in S2_PATTERNS]
 # S5: Exfiltration
 # "exfiltrate" alone is not enough - must be near specific context
 S5_TEXT_PATTERNS = [
-    r"append\s+the\s+conversation",
-    r"include\s+(?:the\s+)?secret",
+    r"append\s+the\s+(?:conversation|api\s+key)",
+    r"include\s+(?:the\s+)?(?:conversation|api\s+key|secret|credentials)",
     r"send\s+(?:the\s+)?api\s+key",
     r"exfiltrate\s+(?:.*?\s+)?(?:to\s+(?:https?://\S+|an?\s+url)|the\s+conversation|(?:the\s+)?api\s+key)",
 ]
