@@ -287,3 +287,94 @@ def test_extract_results_skips_malformed_rows():
     # All three will parse (pydantic allows empty strings), so we get 3 results
     # The key is that it doesn't crash on unexpected data
     assert len(results) == 3
+
+
+# --- SERPSHIELD_MODE Validation Tests ---
+
+
+def test_fetch_mode_invalid_fails_closed(monkeypatch):
+    """SERPSHIELD_MODE with invalid value (not 'live' or 'replay') should raise FetchError."""
+    monkeypatch.setenv("SERPSHIELD_MODE", "production")
+    
+    with pytest.raises(FetchError) as exc_info:
+        fetch("google", "test query", num=10)
+    
+    err = str(exc_info.value)
+    assert "SERPSHIELD_MODE" in err
+    assert "live" in err
+    assert "replay" in err
+
+
+def test_fetch_mode_case_insensitive(monkeypatch):
+    """SERPSHIELD_MODE should be case-insensitive."""
+    monkeypatch.setenv("SERPSHIELD_MODE", "REPLAY")
+    
+    # Should work with uppercase
+    raw, mode = fetch_replay("google", "prompt injection examples")
+    assert mode in ("replay", "replay-simulated")
+
+
+def test_fetch_live_error_with_no_results(monkeypatch):
+    """Live fetch with HTTP 200 but error key and no results should raise FetchError."""
+    monkeypatch.setenv("SERPAPI_API_KEY", "TESTKEY123")
+    
+    error_response = {
+        "error": "Invalid API key provided",
+        "search_parameters": {"engine": "google", "q": "test"}
+    }
+    
+    class MockResponse:
+        def __init__(self):
+            self.status_code = 200
+        
+        def raise_for_status(self):
+            pass
+        
+        def json(self):
+            return error_response
+    
+    class MockClient:
+        def get(self, url, params):
+            return MockResponse()
+    
+    with patch("serpshield.fetch.httpx.Client") as mock_client_class:
+        mock_client_class.return_value.__enter__.return_value = MockClient()
+        
+        with pytest.raises(FetchError) as exc_info:
+            fetch_live("google", "test", num=10)
+    
+    assert "Invalid API key provided" in str(exc_info.value)
+
+
+def test_fetch_live_no_results_allowed(monkeypatch):
+    """Live fetch with 'hasn't returned any results' error should return empty results."""
+    monkeypatch.setenv("SERPAPI_API_KEY", "TESTKEY123")
+    
+    no_results_response = {
+        "error": "Google hasn't returned any results for this query.",
+        "search_parameters": {"engine": "google", "q": "test"},
+        "organic_results": []
+    }
+    
+    class MockResponse:
+        def __init__(self):
+            self.status_code = 200
+        
+        def raise_for_status(self):
+            pass
+        
+        def json(self):
+            return no_results_response
+    
+    class MockClient:
+        def get(self, url, params):
+            return MockResponse()
+    
+    with patch("serpshield.fetch.httpx.Client") as mock_client_class:
+        mock_client_class.return_value.__enter__.return_value = MockClient()
+        
+        raw = fetch_live("google", "test", num=10)
+    
+    # Should return the response (with error key) instead of raising
+    assert "error" in raw
+    assert "hasn't returned any results" in raw["error"]

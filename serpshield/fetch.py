@@ -62,8 +62,14 @@ def fetch(engine: str, query: str, num: int = 10) -> tuple[dict, str]:
     
     Returns:
         (raw_data, mode) where mode is "live", "replay", or "replay-simulated"
+    
+    Raises:
+        FetchError: if SERPSHIELD_MODE is not exactly "live" or "replay" (fail closed)
     """
-    mode_env = os.environ.get("SERPSHIELD_MODE", "live").lower()
+    mode_env = os.environ.get("SERPSHIELD_MODE", "live").strip().lower()
+    
+    if mode_env not in ("live", "replay"):
+        raise FetchError(f"SERPSHIELD_MODE must be 'live' or 'replay', got: {mode_env!r}")
     
     if mode_env == "replay":
         return fetch_replay(engine, query)
@@ -107,7 +113,20 @@ def fetch_live(engine: str, query: str, num: int) -> dict:
                 response.raise_for_status()
                 raw = response.json()
                 # Strip api_key from returned dict
-                return _strip_api_key_from_dict(raw)
+                raw = _strip_api_key_from_dict(raw)
+                
+                # Check for error key with no results (fail closed)
+                if "error" in raw and not raw.get("organic_results") and not raw.get("news_results"):
+                    error_msg = raw["error"]
+                    # Allow "no results" errors to pass through as empty results
+                    if "hasn't returned any results" not in error_msg.lower():
+                        raise FetchError(error_msg)
+                    # Empty results case - return the response as-is
+                
+                return raw
+        except FetchError:
+            # Re-raise FetchError as-is
+            raise
         except httpx.TransportError as exc:
             # Network error - retry once
             if attempt < max_attempts:

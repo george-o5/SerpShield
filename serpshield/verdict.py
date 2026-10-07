@@ -83,11 +83,29 @@ def apply_verdict(item: ResultItem, config: SerpShieldConfig) -> ResultItem:
     
     # Redaction for FLAGGED
     if item.verdict == Verdict.FLAGGED:
-        reasons = sorted(list(set([f.signal_id for f in item.findings])))
-        reason_str = ", ".join(reasons)
-        if not reason_str:
-            reason_str = "S1_STRONG" # Fallback if cross-field caught it
-        if item.snippet is not None:
-            item.snippet = f"[redacted: {reason_str}]"
+        # Build maps of which fields have findings
+        field_findings = {}
+        for f in item.findings:
+            if f.field not in field_findings:
+                field_findings[f.field] = []
+            field_findings[f.field].append(f.signal_id)
+        
+        # If no per-field findings (cross-field only), redact snippet if present, else title
+        if not field_findings:
+            reason_str = "S1_STRONG"  # Cross-field fallback
+            if item.snippet is not None:
+                item.snippet = f"[redacted: {reason_str}]"
+            else:
+                item.title = f"[redacted: {reason_str}]"
+        else:
+            # Redact every field that has findings
+            for field, signal_ids in field_findings.items():
+                reason_str = ", ".join(sorted(set(signal_ids)))
+                if field == "snippet" and item.snippet is not None:
+                    item.snippet = f"[redacted: {reason_str}]"
+                elif field == "title":
+                    item.title = f"[redacted: {reason_str}]"
+                elif field == "link":
+                    item.link = f"[redacted: {reason_str}]"
             
     return item
