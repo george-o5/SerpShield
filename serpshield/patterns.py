@@ -28,9 +28,9 @@ DISCUSSION_WORDS = [
 DISCUSSION_REGEXES = [re.compile(p, re.IGNORECASE) for p in DISCUSSION_WORDS]
 
 # S2: Fake control markers
-# Role prefixes must match at line start or after sentence break, with instruction-like text after colon
+# Role prefixes must match after a line break (not at the very start of text)
 S2_PATTERNS = [
-    r"(?:^|[.!?]\s+)(?:system|assistant|user):\s+\w+",
+    r"\n(?:system|assistant|user):\s+\w+",
     r"<\s*\|\s*im_start\s*\|\s*>",
     r"<\s*\|\s*endoftext\s*\|\s*>",
     r"\[\s*INST\s*\]",
