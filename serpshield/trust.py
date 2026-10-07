@@ -13,9 +13,22 @@ def assess_trust(domain: str, findings: List[Finding], config: SerpShieldConfig)
     reasons = []
     
     in_allowlist = False
+    
+    # Match on exact domain or any parent domain
+    # e.g., "api.github.com" matches allowlist entry "github.com"
     if domain in allowlist:
         in_allowlist = True
     else:
+        parts = domain.split('.')
+        # Check parent domains: for "a.b.c.com", check "b.c.com", "c.com"
+        for i in range(1, len(parts)):
+            parent_domain = '.'.join(parts[i:])
+            if parent_domain in allowlist:
+                in_allowlist = True
+                break
+    
+    # Check TLD allowlist
+    if not in_allowlist:
         for tld in allowlist_tld:
             if domain.endswith(tld):
                 in_allowlist = True
