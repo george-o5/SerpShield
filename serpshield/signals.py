@@ -7,6 +7,7 @@ Evidence is hashed, never echoed.
 """
 
 
+import re
 import hashlib
 from typing import List
 from serpshield.models import Finding
@@ -14,8 +15,11 @@ from serpshield.normalize import NormalizedBundle
 from serpshield.patterns import (
     S1_STRONG_REGEXES, S1_WEAK_REGEXES, DISCUSSION_REGEXES, S2_REGEXES,
     S5_TEXT_REGEXES, S5_MD_LINK_REGEX, S5_PLACEHOLDER_REGEXES,
-    S6_POPULAR_DOMAINS, S6_RISKY_TLDS, S6_IP_REGEX
+    S6_POPULAR_DOMAINS, S6_RISKY_TLDS, S6_IP_REGEX,
+    S4_DECODED_PATTERNS
 )
+
+S4_DECODED_REGEXES = [re.compile(p, re.IGNORECASE) for p in S4_DECODED_PATTERNS]
 from serpshield.config import get_config
 
 def hash_evidence(text: str) -> str:
@@ -118,6 +122,7 @@ def s4_encoded_payload(field: str, bundle: NormalizedBundle) -> list[Finding]:
     for payload in bundle.decoded_payloads:
         matched_s1 = False
         matched_s2 = False
+        matched_s4 = False
         
         for regex in S1_STRONG_REGEXES:
             if regex.search(payload.decoded):
@@ -135,6 +140,11 @@ def s4_encoded_payload(field: str, bundle: NormalizedBundle) -> list[Finding]:
                 matched_s2 = True
                 break
                 
+        for regex in S4_DECODED_REGEXES:
+            if regex.search(payload.decoded):
+                matched_s4 = True
+                break
+                
         if matched_s1:
             findings.append(Finding(
                 signal_id="S4",
@@ -149,6 +159,14 @@ def s4_encoded_payload(field: str, bundle: NormalizedBundle) -> list[Finding]:
                 field=field,
                 evidence_hash=hash_evidence(payload.original),
                 detail="S2 pattern matched in decoded payload"
+            ))
+            
+        if matched_s4:
+            findings.append(Finding(
+                signal_id="S4",
+                field=field,
+                evidence_hash=hash_evidence(payload.original),
+                detail="S4 pattern matched in decoded payload"
             ))
             
     return findings
