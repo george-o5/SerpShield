@@ -27,7 +27,7 @@ from serpshield.budget import Budget, Cache
 DATASETS = {
     "core": Path(__file__).parent / "core" / "fixtures.jsonl",
     "core_variants": Path(__file__).parent / "core" / "variants.jsonl",
-    "heldout": Path(__file__).parent / "heldout" / "fixtures.jsonl",
+    "heldout": Path(__file__).parent / "heldout" / "heldout_v1.json",
 }
 BENCHMARK_MD = Path(__file__).parent.parent / "docs" / "BENCHMARK.md"
 
@@ -45,6 +45,28 @@ def load_fixtures(path: Path) -> list[dict]:
             if not line or line.startswith("#"):
                 continue
             fixtures.append(json.loads(line))
+    return fixtures
+
+
+def load_heldout(path: Path) -> list[dict]:
+    """Load heldout JSON array and convert to Google fixture format."""
+    with open(path, "r", encoding="utf-8") as fh:
+        items = json.load(fh)
+    fixtures = []
+    for item in items:
+        fixtures.append({
+            "label": item.get("label", "clean"),
+            "attack": item.get("family", "NONE"),
+            "query": item.get("id", "heldout"),
+            "engine": "google",
+            "organic_results": [{
+                "position": 1,
+                "title": item.get("title", "Result"),
+                "link": item.get("link", "https://example.com"),
+                "snippet": item.get("snippet", ""),
+                "source": "example.com"
+            }]
+        })
     return fixtures
 
 
@@ -373,7 +395,10 @@ def run_benchmark(dataset_name: str) -> dict:
     if dataset_name == "core":
         return _run_core_benchmark(dataset_name)
 
-    fixtures = load_fixtures(path)
+    if dataset_name == "heldout":
+        fixtures = load_heldout(path)
+    else:
+        fixtures = load_fixtures(path)
     print(f"  Loaded {len(fixtures)} fixtures from {path.name}")
 
     results_balanced, outcomes_b, latencies = _run_single_set(fixtures, "balanced", "balanced")
@@ -564,6 +589,8 @@ def generate_markdown(all_results: list[dict]) -> str:
                 "",
             ]
             _render_core_tables(lines, res)
+        elif ds == "heldout":
+            _render_heldout_tables(lines, res)
         else:
             mb = res["metrics_balanced"]
             ms = res["metrics_strict"]
@@ -749,19 +776,77 @@ def _render_core_tables(lines: list[str], res: dict) -> None:
 
     # Ablation
     ablation = res.get("ablation", {})
-    if ablation:
+
+
+def _render_heldout_tables(lines: list[str], res: dict) -> None:
+    """Append metric tables for the held-out dataset."""
+    mb = res["metrics_balanced"]
+    ms = res["metrics_strict"]
+    avg_lat = res["avg_latency_ms"]
+    nmb = res.get("new_metrics_balanced", {})
+    nms = res.get("new_metrics_strict", {})
+
+    lines += [
+        f"## Held-Out Dataset  (n={res['n']})",
+        "",
+        "Held-out set authored by a separate AI session that never saw the detector code; "
+        "not an independent human red team; not tuned on; indicative only.",
+        "",
+        "| Metric | `balanced` preset | `strict` preset |",
+        "|---|---|---|",
+        f"| Attack recall | {fmt_pct(mb['recall'])} | {fmt_pct(ms['recall'])} |",
+        f"| Clean FPR | {fmt_pct(mb['fpr'])} | {fmt_pct(ms['fpr'])} |",
+        f"| Precision | {fmt_pct(mb['precision'])} | {fmt_pct(ms['precision'])} |",
+        f"| F1 | {fmt_pct(mb['f1'])} | {fmt_pct(ms['f1'])} |",
+        f"| Avg latency (replay) | {avg_lat:.0f} ms | — |",
+        "",
+        f"TP={mb['TP']}  FP={mb['FP']}  TN={mb['TN']}  FN={mb['FN']} (balanced)",
+        "",
+    ]
+
+    if nmb:
         lines += [
-            "### Per-Signal Ablation (balanced, canonical only)",
+            "### New Metrics (balanced)",
             "",
-            "Remove one signal at a time; measure recall drop.",
-            "",
-            "| Signal | Recall w/o signal | Drop |",
+            "| Metric | `balanced` | `strict` |",
             "|---|---|---|",
+            f"| recall_tagged | {fmt_pct(nmb.get('recall_tagged', 0))} | {fmt_pct(nms.get('recall_tagged', 0))} |",
+            f"| recall_mitigated | {fmt_pct(nmb.get('recall_mitigated', 0))} | {fmt_pct(nms.get('recall_mitigated', 0))} |",
+            f"| fpr_tagged | {fmt_pct(nmb.get('fpr_tagged', 0))} | {fmt_pct(nms.get('fpr_tagged', 0))} |",
+            f"| fpr_altered | {fmt_pct(nmb.get('fpr_altered', 0))} | {fmt_pct(nms.get('fpr_altered', 0))} |",
+            "",
         ]
-        for sig, v in ablation.items():
-            lines.append(
-                f"| {sig} | {fmt_pct(v['recall_without'])} | {v['recall_drop']:+.1%} |"
-            )
+
+    breakdown = res.get("attack_breakdown", {})
+    if breakdown:
+        lines += [
+            "### Per-Attack Recall (balanced)",
+            "",
+            "| Attack | n | TP | FN | Recall |",
+            "|---|---|---|---|---|",
+        ]
+        for attack, stats in breakdown.items():
+            if stats["type"] == "attack":
+                lines.append(
+                    f"| {attack} | {stats['n']} | {stats['TP']} | {stats['FN']} "
+                    f"| {fmt_pct(stats['recall'])} |"
+                )
+        lines.append("")
+
+        lines += [
+            "### Clean / False-Positive Bait (balanced)",
+            "",
+            "| Category | n | FP | TN | FPR |",
+            "|---|---|---|---|---|",
+        ]
+        for attack, stats in breakdown.items():
+            if stats["type"] == "clean":
+                fp = stats["FP"]
+                tn = stats["TN"]
+                fpr = fp / (fp + tn) if (fp + tn) > 0 else 0.0
+                lines.append(
+                    f"| {attack} | {stats['n']} | {fp} | {tn} | {fmt_pct(fpr)} |"
+                )
         lines.append("")
 
 
