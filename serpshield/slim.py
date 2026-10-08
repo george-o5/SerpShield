@@ -38,6 +38,7 @@ def slim_result(item: ResultItem) -> dict:
         "domain": domain,
         "snippet": snippet,
         "trust": trust,
+        "verdict": getattr(item, "verdict", "CLEAN").value if hasattr(item.verdict, "value") else getattr(item, "verdict", "CLEAN"),
         "findings": findings_list
     }
 

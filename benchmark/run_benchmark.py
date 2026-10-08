@@ -26,6 +26,7 @@ from serpshield.budget import Budget, Cache
 
 DATASETS = {
     "core": Path(__file__).parent / "core" / "fixtures.jsonl",
+    "core_variants": Path(__file__).parent / "core" / "variants.jsonl",
     "heldout": Path(__file__).parent / "heldout" / "fixtures.jsonl",
 }
 BENCHMARK_MD = Path(__file__).parent.parent / "docs" / "BENCHMARK.md"
@@ -45,6 +46,74 @@ def load_fixtures(path: Path) -> list[dict]:
                 continue
             fixtures.append(json.loads(line))
     return fixtures
+
+
+def load_core_sets() -> tuple[list[dict], list[dict], list[dict]]:
+    """Load fixtures.jsonl (canonical), variants.jsonl (variant), and combined."""
+    core_path = DATASETS["core"]
+    var_path = DATASETS["core_variants"]
+    fixtures = load_fixtures(core_path)
+    variants = load_fixtures(var_path) if var_path.exists() else []
+    combined = fixtures + variants
+    return fixtures, variants, combined
+
+
+def get_item_verdict(result: dict) -> str:
+    """Extract the single-item verdict from a pipeline envelope."""
+    items = result.get("results", [])
+    if not items:
+        meta = result.get("meta", {})
+        if meta.get("blocked_count", 0) > 0:
+            return "BLOCKED"
+        return "CLEAN"
+    return items[0].get("verdict", "CLEAN")
+
+
+def has_s6_finding(result: dict) -> bool:
+    """Check if any result item carries an S6 finding (signal check, not verdict)."""
+    for item in result.get("results", []):
+        for f in item.get("findings", []):
+            if f.get("signal_id", "").startswith("S6"):
+                return True
+    return False
+
+
+def compute_new_metrics(fixtures: list[dict], results: list[dict]) -> dict:
+    """Compute recall_tagged/mitigated and fpr_tagged/altered from raw results."""
+    poisoned_verdicts = []
+    clean_verdicts = []
+    for fx, res in zip(fixtures, results):
+        verdict = get_item_verdict(res)
+        if fx.get("label") == "poisoned":
+            poisoned_verdicts.append(verdict)
+        elif fx.get("label") in ("clean", "false_positive_bait"):
+            clean_verdicts.append(verdict)
+
+    tp_tagged = sum(1 for v in poisoned_verdicts if v != "CLEAN")
+    tp_mitigated = sum(1 for v in poisoned_verdicts if v in ("FLAGGED", "BLOCKED"))
+    fn_tagged = sum(1 for v in poisoned_verdicts if v == "CLEAN")
+    fn_mitigated = sum(1 for v in poisoned_verdicts if v not in ("FLAGGED", "BLOCKED"))
+
+    fp_tagged = sum(1 for v in clean_verdicts if v != "CLEAN")
+    fp_altered = sum(1 for v in clean_verdicts if v in ("FLAGGED", "BLOCKED"))
+    tn_tagged = sum(1 for v in clean_verdicts if v == "CLEAN")
+    tn_altered = sum(1 for v in clean_verdicts if v not in ("FLAGGED", "BLOCKED"))
+
+    recall_tagged = tp_tagged / (tp_tagged + fn_tagged) if (tp_tagged + fn_tagged) > 0 else 0.0
+    recall_mitigated = tp_mitigated / (tp_mitigated + fn_mitigated) if (tp_mitigated + fn_mitigated) > 0 else 0.0
+    fpr_tagged = fp_tagged / (fp_tagged + tn_tagged) if (fp_tagged + tn_tagged) > 0 else 0.0
+    fpr_altered = fp_altered / (fp_altered + tn_altered) if (fp_altered + tn_altered) > 0 else 0.0
+
+    return {
+        "recall_tagged": recall_tagged,
+        "recall_mitigated": recall_mitigated,
+        "fpr_tagged": fpr_tagged,
+        "fpr_altered": fpr_altered,
+        "tp_tagged": tp_tagged, "fn_tagged": fn_tagged,
+        "tp_mitigated": tp_mitigated, "fn_mitigated": fn_mitigated,
+        "fp_tagged": fp_tagged, "tn_tagged": tn_tagged,
+        "fp_altered": fp_altered, "tn_altered": tn_altered,
+    }
 
 
 # ---------------------------------------------------------------------------
@@ -271,46 +340,49 @@ def _run_ablated(fixtures: list[dict], patched_weights: dict) -> list[str]:
 # Main benchmark runner
 # ---------------------------------------------------------------------------
 
+def _run_single_set(fixtures: list[dict], preset: str, label: str) -> tuple[list[dict], list[str], list[float]]:
+    """Run one fixture list through one preset. Returns (results, outcomes, latencies)."""
+    results = []
+    outcomes = []
+    latencies = []
+    cache = Cache(ttl_seconds=3600)
+    budget = Budget()
+
+    for i, fx in enumerate(fixtures):
+        try:
+            rb = run_fixture(fx, preset, cache, budget)
+            results.append(rb["result"])
+            outcomes.append(classify_outcome(fx, rb["result"]))
+            latencies.append(rb["latency_ms"])
+        except Exception as e:
+            fake = {"meta": {"blocked_count": 0, "flagged_count": 0, "suspicious_count": 0}}
+            results.append(fake)
+            outcomes.append("FN" if fx.get("label", "clean") == "poisoned" else "TN")
+            latencies.append(0)
+            print(f"    [WARN] {label} fixture {i} ({fx.get('query','?')}): {e}", file=sys.stderr)
+
+    return results, outcomes, latencies
+
+
 def run_benchmark(dataset_name: str) -> dict:
     path = DATASETS.get(dataset_name)
     if not path or not path.exists():
         print(f"  Dataset '{dataset_name}' not found at {path}", file=sys.stderr)
         return {}
 
+    if dataset_name == "core":
+        return _run_core_benchmark(dataset_name)
+
     fixtures = load_fixtures(path)
     print(f"  Loaded {len(fixtures)} fixtures from {path.name}")
 
-    results_balanced = []
-    results_strict = []
-    latencies = []
-
-    cache_b = Cache(ttl_seconds=3600)
-    budget_b = Budget()
-    cache_s = Cache(ttl_seconds=3600)
-    budget_s = Budget()
-
-    for i, fx in enumerate(fixtures):
-        try:
-            rb = run_fixture(fx, "balanced", cache_b, budget_b)
-            rs = run_fixture(fx, "strict", cache_s, budget_s)
-            results_balanced.append(rb["result"])
-            results_strict.append(rs["result"])
-            latencies.append(rb["latency_ms"])
-        except Exception as e:
-            label = fx.get("label", "clean")
-            # Fake clean result
-            fake = {"meta": {"blocked_count": 0, "flagged_count": 0, "suspicious_count": 0}}
-            results_balanced.append(fake)
-            results_strict.append(fake)
-            latencies.append(0)
-            print(f"    [WARN] fixture {i} ({fx.get('query','?')}): {e}", file=sys.stderr)
-
-    outcomes_b = [classify_outcome(fx, r) for fx, r in zip(fixtures, results_balanced)]
-    outcomes_s = [classify_outcome(fx, r) for fx, r in zip(fixtures, results_strict)]
+    results_balanced, outcomes_b, latencies = _run_single_set(fixtures, "balanced", "balanced")
+    results_strict, outcomes_s, _ = _run_single_set(fixtures, "strict", "strict")
 
     metrics_b = compute_metrics(outcomes_b)
     metrics_s = compute_metrics(outcomes_s)
-
+    new_metrics_b = compute_new_metrics(fixtures, results_balanced)
+    new_metrics_s = compute_new_metrics(fixtures, results_strict)
     attack_breakdown = per_attack_breakdown(fixtures, outcomes_b)
 
     avg_latency = sum(latencies) / len(latencies) if latencies else 0
@@ -320,22 +392,139 @@ def run_benchmark(dataset_name: str) -> dict:
     print(f"  strict    recall={metrics_s['recall']:.1%}  FPR={metrics_s['fpr']:.1%}  "
           f"precision={metrics_s['precision']:.1%}  F1={metrics_s['f1']:.1%}")
 
-    # Ablation only for core dataset (slow)
-    ablation = {}
-    if dataset_name == "core":
-        print("  Running per-signal ablation (balanced)...")
-        ablation = run_ablation(fixtures)
-        for sig, v in ablation.items():
-            print(f"    {sig}: recall_without={v['recall_without']:.1%}  drop={v['recall_drop']:+.1%}")
-
     return {
         "dataset": dataset_name,
         "n": len(fixtures),
         "metrics_balanced": metrics_b,
         "metrics_strict": metrics_s,
+        "new_metrics_balanced": new_metrics_b,
+        "new_metrics_strict": new_metrics_s,
+        "attack_breakdown": attack_breakdown,
+        "ablation": {},
+        "avg_latency_ms": avg_latency,
+        "fixtures": fixtures,
+        "results_balanced": results_balanced,
+        "results_strict": results_strict,
+    }
+
+
+def _run_core_benchmark(dataset_name: str = "core") -> dict:
+    """Run canonical + variant + combined for the core dataset."""
+    fixtures, variants, combined = load_core_sets()
+    print(f"  Loaded {len(fixtures)} canonical + {len(variants)} variant = {len(combined)} combined")
+
+    labels = {
+        "canonical": fixtures,
+        "variant": variants,
+        "combined": combined,
+    }
+
+    results_balanced: dict[str, list[dict]] = {}
+    results_strict: dict[str, list[dict]] = {}
+    outcomes_b: dict[str, list[str]] = {}
+    outcomes_s: dict[str, list[str]] = {}
+    latencies: dict[str, list[float]] = {}
+    new_metrics_b: dict[str, dict] = {}
+    new_metrics_s: dict[str, dict] = {}
+    attack_breakdown: dict[str, dict] = {}
+
+    for label_name, fx_list in labels.items():
+        rb, ob, lb = _run_single_set(fx_list, "balanced", f"balanced/{label_name}")
+        rs, os_, ls = _run_single_set(fx_list, "strict", f"strict/{label_name}")
+        results_balanced[label_name] = rb
+        results_strict[label_name] = rs
+        outcomes_b[label_name] = ob
+        outcomes_s[label_name] = os_
+        latencies[label_name] = lb
+        new_metrics_b[label_name] = compute_new_metrics(fx_list, rb)
+        new_metrics_s[label_name] = compute_new_metrics(fx_list, rs)
+        attack_breakdown[label_name] = per_attack_breakdown(fx_list, ob)
+
+    canonical_balanced = compute_metrics(outcomes_b["canonical"])
+    canonical_strict = compute_metrics(outcomes_s["canonical"])
+    variant_balanced = compute_metrics(outcomes_b["variant"])
+    variant_strict = compute_metrics(outcomes_s["variant"])
+    combined_balanced = compute_metrics(outcomes_b["combined"])
+    combined_strict = compute_metrics(outcomes_s["combined"])
+
+    print(f"\n  canonical balanced  recall={canonical_balanced['recall']:.1%}  FPR={canonical_balanced['fpr']:.1%}  "
+          f"precision={canonical_balanced['precision']:.1%}  F1={canonical_balanced['f1']:.1%}")
+    print(f"  canonical strict    recall={canonical_strict['recall']:.1%}  FPR={canonical_strict['fpr']:.1%}  "
+          f"precision={canonical_strict['precision']:.1%}  F1={canonical_strict['f1']:.1%}")
+    print(f"  variant   balanced  recall={variant_balanced['recall']:.1%}  FPR={variant_balanced['fpr']:.1%}  "
+          f"precision={variant_balanced['precision']:.1%}  F1={variant_balanced['f1']:.1%}")
+    print(f"  variant   strict    recall={variant_strict['recall']:.1%}  FPR={variant_strict['fpr']:.1%}  "
+          f"precision={variant_strict['precision']:.1%}  F1={variant_strict['f1']:.1%}")
+    print(f"  combined  balanced  recall={combined_balanced['recall']:.1%}  FPR={combined_balanced['fpr']:.1%}  "
+          f"precision={combined_balanced['precision']:.1%}  F1={combined_balanced['f1']:.1%}")
+    print(f"  combined  strict    recall={combined_strict['recall']:.1%}  FPR={combined_strict['fpr']:.1%}  "
+          f"precision={combined_strict['precision']:.1%}  F1={combined_strict['f1']:.1%}")
+
+    print(f"\n  canonical new balanced  recall_tagged={new_metrics_b['canonical']['recall_tagged']:.1%}  "
+          f"recall_mitigated={new_metrics_b['canonical']['recall_mitigated']:.1%}  "
+          f"fpr_tagged={new_metrics_b['canonical']['fpr_tagged']:.1%}  "
+          f"fpr_altered={new_metrics_b['canonical']['fpr_altered']:.1%}")
+    print(f"  canonical new strict    recall_tagged={new_metrics_s['canonical']['recall_tagged']:.1%}  "
+          f"recall_mitigated={new_metrics_s['canonical']['recall_mitigated']:.1%}  "
+          f"fpr_tagged={new_metrics_s['canonical']['fpr_tagged']:.1%}  "
+          f"fpr_altered={new_metrics_s['canonical']['fpr_altered']:.1%}")
+    print(f"  variant   new balanced  recall_tagged={new_metrics_b['variant']['recall_tagged']:.1%}  "
+          f"recall_mitigated={new_metrics_b['variant']['recall_mitigated']:.1%}  "
+          f"fpr_tagged={new_metrics_b['variant']['fpr_tagged']:.1%}  "
+          f"fpr_altered={new_metrics_b['variant']['fpr_altered']:.1%}")
+    print(f"  variant   new strict    recall_tagged={new_metrics_s['variant']['recall_tagged']:.1%}  "
+          f"recall_mitigated={new_metrics_s['variant']['recall_mitigated']:.1%}  "
+          f"fpr_tagged={new_metrics_s['variant']['fpr_tagged']:.1%}  "
+          f"fpr_altered={new_metrics_s['variant']['fpr_altered']:.1%}")
+    print(f"  combined  new balanced  recall_tagged={new_metrics_b['combined']['recall_tagged']:.1%}  "
+          f"recall_mitigated={new_metrics_b['combined']['recall_mitigated']:.1%}  "
+          f"fpr_tagged={new_metrics_b['combined']['fpr_tagged']:.1%}  "
+          f"fpr_altered={new_metrics_b['combined']['fpr_altered']:.1%}")
+    print(f"  combined  new strict    recall_tagged={new_metrics_s['combined']['recall_tagged']:.1%}  "
+          f"recall_mitigated={new_metrics_s['combined']['recall_mitigated']:.1%}  "
+          f"fpr_tagged={new_metrics_s['combined']['fpr_tagged']:.1%}  "
+          f"fpr_altered={new_metrics_s['combined']['fpr_altered']:.1%}")
+
+    # Ablation only for canonical (slow)
+    ablation = {}
+    print("  Running per-signal ablation (balanced, canonical)...")
+    ablation = run_ablation(fixtures)
+    for sig, v in ablation.items():
+        print(f"    {sig}: recall_without={v['recall_without']:.1%}  drop={v['recall_drop']:+.1%}")
+
+    # S6 provenance tagging table (only count S6 fixtures)
+    s6_total = 0
+    s6_with_finding = 0
+    for fx, res in zip(combined, results_balanced["combined"]):
+        if fx.get("attack", "").startswith("S6_"):
+            s6_total += 1
+            if has_s6_finding(res):
+                s6_with_finding += 1
+    print(f"\n  S6 provenance tagging (combined): {s6_with_finding}/{s6_total} had an S6 finding")
+
+    avg_latency = sum(latencies["combined"]) / len(latencies["combined"]) if latencies["combined"] else 0
+
+    return {
+        "dataset": dataset_name,
+        "n": len(combined),
+        "metrics_balanced": combined_balanced,
+        "metrics_strict": combined_strict,
+        "canonical_metrics_balanced": canonical_balanced,
+        "canonical_metrics_strict": canonical_strict,
+        "variant_metrics_balanced": variant_balanced,
+        "variant_metrics_strict": variant_strict,
+        "new_metrics_balanced": new_metrics_b,
+        "new_metrics_strict": new_metrics_s,
         "attack_breakdown": attack_breakdown,
         "ablation": ablation,
         "avg_latency_ms": avg_latency,
+        "fixtures": combined,
+        "results_balanced": results_balanced["combined"],
+        "results_strict": results_strict["combined"],
+        "canonical_n": len(fixtures),
+        "variant_n": len(variants),
+        "s6_total": s6_total,
+        "s6_with_finding": s6_with_finding,
     }
 
 
@@ -351,6 +540,9 @@ def generate_markdown(all_results: list[dict]) -> str:
     lines = [
         "# Benchmark",
         "",
+        "Core fixtures are self-authored; detector patterns were tuned on them. "
+        "Held-out numbers (not tuned) are reported separately.",
+        "",
         "> Generated by `benchmark/run_benchmark.py`. "
         "Replay mode — zero live API calls. "
         "Includes what we missed and why.",
@@ -362,12 +554,125 @@ def generate_markdown(all_results: list[dict]) -> str:
             continue
         ds = res["dataset"]
         n = res["n"]
-        mb = res["metrics_balanced"]
-        ms = res["metrics_strict"]
-        avg_lat = res["avg_latency_ms"]
 
+        if ds == "core":
+            lines += [
+                f"## Core Dataset  (n={n})",
+                "",
+                f"- Canonical fixtures: {res.get('canonical_n', n)}",
+                f"- Variant fixtures: {res.get('variant_n', 0)}",
+                "",
+            ]
+            _render_core_tables(lines, res)
+        else:
+            mb = res["metrics_balanced"]
+            ms = res["metrics_strict"]
+            avg_lat = res["avg_latency_ms"]
+            nmb = res.get("new_metrics_balanced", {})
+            nms = res.get("new_metrics_strict", {})
+
+            lines += [
+                f"## {ds.capitalize()} Dataset  (n={n})",
+                "",
+                "| Metric | `balanced` preset | `strict` preset |",
+                "|---|---|---|",
+                f"| Attack recall | {fmt_pct(mb['recall'])} | {fmt_pct(ms['recall'])} |",
+                f"| Clean FPR | {fmt_pct(mb['fpr'])} | {fmt_pct(ms['fpr'])} |",
+                f"| Precision | {fmt_pct(mb['precision'])} | {fmt_pct(ms['precision'])} |",
+                f"| F1 | {fmt_pct(mb['f1'])} | {fmt_pct(ms['f1'])} |",
+                f"| Avg latency (replay) | {avg_lat:.0f} ms | — |",
+                "",
+                f"TP={mb['TP']}  FP={mb['FP']}  TN={mb['TN']}  FN={mb['FN']} (balanced)",
+                "",
+            ]
+
+            if nmb:
+                lines += [
+                    "### New Metrics (balanced)",
+                    "",
+                    "| Metric | `balanced` | `strict` |",
+                    "|---|---|---|",
+                    f"| recall_tagged | {fmt_pct(nmb.get('recall_tagged', 0))} | {fmt_pct(nms.get('recall_tagged', 0))} |",
+                    f"| recall_mitigated | {fmt_pct(nmb.get('recall_mitigated', 0))} | {fmt_pct(nms.get('recall_mitigated', 0))} |",
+                    f"| fpr_tagged | {fmt_pct(nmb.get('fpr_tagged', 0))} | {fmt_pct(nms.get('fpr_tagged', 0))} |",
+                    f"| fpr_altered | {fmt_pct(nmb.get('fpr_altered', 0))} | {fmt_pct(nms.get('fpr_altered', 0))} |",
+                    "",
+                ]
+
+            breakdown = res.get("attack_breakdown", {})
+            if breakdown:
+                lines += [
+                    "### Per-Attack Recall (balanced)",
+                    "",
+                    "| Attack | n | TP | FN | Recall |",
+                    "|---|---|---|---|---|",
+                ]
+                for attack, stats in breakdown.items():
+                    if stats["type"] == "attack":
+                        lines.append(
+                            f"| {attack} | {stats['n']} | {stats['TP']} | {stats['FN']} "
+                            f"| {fmt_pct(stats['recall'])} |"
+                        )
+                lines.append("")
+
+                lines += [
+                    "### Clean / False-Positive Bait (balanced)",
+                    "",
+                    "| Category | n | FP | TN | FPR |",
+                    "|---|---|---|---|---|",
+                ]
+                for attack, stats in breakdown.items():
+                    if stats["type"] == "clean":
+                        fp = stats["FP"]
+                        tn = stats["TN"]
+                        fpr = fp / (fp + tn) if (fp + tn) > 0 else 0.0
+                        lines.append(
+                            f"| {attack} | {stats['n']} | {fp} | {tn} | {fmt_pct(fpr)} |"
+                        )
+                lines.append("")
+
+            ablation = res.get("ablation", {})
+            if ablation:
+                lines += [
+                    "### Per-Signal Ablation (balanced, core only)",
+                    "",
+                    "Remove one signal at a time; measure recall drop.",
+                    "",
+                    "| Signal | Recall w/o signal | Drop |",
+                    "|---|---|---|",
+                ]
+                for sig, v in ablation.items():
+                    lines.append(
+                        f"| {sig} | {fmt_pct(v['recall_without'])} | {v['recall_drop']:+.1%} |"
+                    )
+                lines.append("")
+
+    # Generated limitations
+    lines += [
+        "## What We Missed and Why",
+        "",
+    ]
+    _render_generated_limitations(lines, all_results)
+
+    return "\n".join(lines) + "\n"
+
+
+def _render_core_tables(lines: list[str], res: dict) -> None:
+    """Append canonical / variant / combined metric tables for the core dataset."""
+    canonical_balanced = res.get("canonical_metrics_balanced", res["metrics_balanced"])
+    canonical_strict = res.get("canonical_metrics_strict", res["metrics_strict"])
+    variant_balanced = res.get("variant_metrics_balanced", res["metrics_balanced"])
+    variant_strict = res.get("variant_metrics_strict", res["metrics_strict"])
+    combined_balanced = res["metrics_balanced"]
+    combined_strict = res["metrics_strict"]
+
+    nmb = res.get("new_metrics_balanced", {})
+    nms = res.get("new_metrics_strict", {})
+
+    def _table(label_name, mb, ms, nm_b, nm_s):
+        nonlocal lines
         lines += [
-            f"## {ds.capitalize()} Dataset  (n={n})",
+            f"### {label_name.capitalize()}",
             "",
             "| Metric | `balanced` preset | `strict` preset |",
             "|---|---|---|",
@@ -375,107 +680,158 @@ def generate_markdown(all_results: list[dict]) -> str:
             f"| Clean FPR | {fmt_pct(mb['fpr'])} | {fmt_pct(ms['fpr'])} |",
             f"| Precision | {fmt_pct(mb['precision'])} | {fmt_pct(ms['precision'])} |",
             f"| F1 | {fmt_pct(mb['f1'])} | {fmt_pct(ms['f1'])} |",
-            f"| Avg latency (replay) | {avg_lat:.0f} ms | — |",
             "",
             f"TP={mb['TP']}  FP={mb['FP']}  TN={mb['TN']}  FN={mb['FN']} (balanced)",
             "",
         ]
-
-        # Per-attack breakdown
-        breakdown = res.get("attack_breakdown", {})
-        if breakdown:
+        if nm_b:
             lines += [
-                "### Per-Attack Recall (balanced)",
-                "",
-                "| Attack | n | TP | FN | Recall |",
-                "|---|---|---|---|---|",
-            ]
-            for attack, stats in breakdown.items():
-                if stats["type"] == "attack":
-                    lines.append(
-                        f"| {attack} | {stats['n']} | {stats['TP']} | {stats['FN']} "
-                        f"| {fmt_pct(stats['recall'])} |"
-                    )
-            lines.append("")
-
-            lines += [
-                "### Clean / False-Positive Bait (balanced)",
-                "",
-                "| Category | n | FP | TN | FPR |",
-                "|---|---|---|---|---|",
-            ]
-            for attack, stats in breakdown.items():
-                if stats["type"] == "clean":
-                    fp = stats["FP"]
-                    tn = stats["TN"]
-                    fpr = fp / (fp + tn) if (fp + tn) > 0 else 0.0
-                    lines.append(
-                        f"| {attack} | {stats['n']} | {fp} | {tn} | {fmt_pct(fpr)} |"
-                    )
-            lines.append("")
-
-        # Ablation
-        ablation = res.get("ablation", {})
-        if ablation:
-            lines += [
-                "### Per-Signal Ablation (balanced, core only)",
-                "",
-                "Remove one signal at a time; measure recall drop.",
-                "",
-                "| Signal | Recall w/o signal | Drop |",
+                "| New Metric | `balanced` | `strict` |",
                 "|---|---|---|",
+                f"| recall_tagged | {fmt_pct(nm_b.get('recall_tagged', 0))} | {fmt_pct(nm_s.get('recall_tagged', 0))} |",
+                f"| recall_mitigated | {fmt_pct(nm_b.get('recall_mitigated', 0))} | {fmt_pct(nm_s.get('recall_mitigated', 0))} |",
+                f"| fpr_tagged | {fmt_pct(nm_b.get('fpr_tagged', 0))} | {fmt_pct(nm_s.get('fpr_tagged', 0))} |",
+                f"| fpr_altered | {fmt_pct(nm_b.get('fpr_altered', 0))} | {fmt_pct(nm_s.get('fpr_altered', 0))} |",
+                "",
             ]
-            for sig, v in ablation.items():
-                lines.append(
-                    f"| {sig} | {fmt_pct(v['recall_without'])} | {v['recall_drop']:+.1%} |"
-                )
-            lines.append("")
 
-    # Honest limitations
+    _table("Canonical (fixtures.jsonl)", canonical_balanced, canonical_strict,
+           nmb.get("canonical", {}), nms.get("canonical", {}))
+    _table("Variant (variants.jsonl)", variant_balanced, variant_strict,
+           nmb.get("variant", {}), nms.get("variant", {}))
+    _table("Combined", combined_balanced, combined_strict,
+           nmb.get("combined", {}), nms.get("combined", {}))
+
+    # S6 provenance tagging
+    s6_total = res.get("s6_total", 0)
+    s6_with_finding = res.get("s6_with_finding", 0)
     lines += [
-        "## What We Missed and Why",
+        "### S6 Provenance Tagging (combined, balanced)",
         "",
-        "**FN analysis (balanced preset):**",
+        "| Total S6 fixtures | With S6 finding |",
+        "|---|---|",
+        f"| {s6_total} | {s6_with_finding} |",
         "",
-        "- **S1_WEAK fixtures** that don't match any current weak pattern "
-        "(e.g. vague imperative phrases without explicit role/tool targeting) "
-        "score 0 or 1 and may fall below the SUSPICIOUS threshold. "
-        "These are borderline cases where the context discount cannot apply.",
-        "",
-        "- **S6-only fixtures** (IP literals, risky TLDs, typosquats) score 0 "
-        "because S6 weight is 0 — S6 is a tag-only signal. These show as FN "
-        "for `poisoned` label but are intentional: S6 alone does not block.",
-        "",
-        "- **Paraphrase and synonym evasion**: fixtures using synonyms of "
-        "\"ignore\" or novel imperative forms not in S1_STRONG_PATTERNS evade S1.",
-        "",
-        "**FP analysis:**",
-        "",
-        "- **Security articles** (OWASP, ArXiv, Anthropic) that quote attack "
-        "patterns verbatim can score SUSPICIOUS (1–2) even after the -2 context "
-        "discount. The context discount requires both S1 + discussion words with "
-        "no S2–S5; when quoted text happens to match S2 role markers, the discount "
-        "does not apply.",
-        "",
-        "- **Encoding tutorials** that embed real Base64 examples containing "
-        "decoded S1 text (e.g. `aGVsbG8gd29ybGQ=` -> 'hello world') will "
-        "trip S4 if the decoded text matches patterns.",
-        "",
-        "**Known exploitable weakness:**",
-        "",
-        "The context discount is bypassed by adding discussion words to a real "
-        "attack payload. An attacker who knows the detector can write "
-        "`ignore previous instructions (this is a prompt injection example)` "
-        "and receive a -2 score discount. This is documented in the threat model.",
-        "",
-        "**Held-out recall vs. core:**",
-        "",
-        "The held-out set was authored independently of `signals.py`. "
-        "Lower recall there reflects the gap between tuned fixtures and "
-        "novel adversarial phrasings — a more honest measure of real-world performance.",
     ]
 
-    return "\n".join(lines) + "\n"
+    # Per-attack breakdowns (combined only)
+    breakdown = res.get("attack_breakdown", {}).get("combined", {})
+    if breakdown:
+        lines += [
+            "### Per-Attack Recall (balanced, combined)",
+            "",
+            "| Attack | n | TP | FN | Recall |",
+            "|---|---|---|---|---|",
+        ]
+        for attack, stats in breakdown.items():
+            if stats.get("type") == "attack":
+                lines.append(
+                    f"| {attack} | {stats['n']} | {stats['TP']} | {stats['FN']} "
+                    f"| {fmt_pct(stats['recall'])} |"
+                )
+        lines.append("")
+
+        lines += [
+            "### Clean / False-Positive Bait (balanced, combined)",
+            "",
+            "| Category | n | FP | TN | FPR |",
+            "|---|---|---|---|---|",
+        ]
+        for attack, stats in breakdown.items():
+            if stats.get("type") == "clean":
+                fp = stats["FP"]
+                tn = stats["TN"]
+                fpr = fp / (fp + tn) if (fp + tn) > 0 else 0.0
+                lines.append(
+                    f"| {attack} | {stats['n']} | {fp} | {tn} | {fmt_pct(fpr)} |"
+                )
+        lines.append("")
+
+    # Ablation
+    ablation = res.get("ablation", {})
+    if ablation:
+        lines += [
+            "### Per-Signal Ablation (balanced, canonical only)",
+            "",
+            "Remove one signal at a time; measure recall drop.",
+            "",
+            "| Signal | Recall w/o signal | Drop |",
+            "|---|---|---|",
+        ]
+        for sig, v in ablation.items():
+            lines.append(
+                f"| {sig} | {fmt_pct(v['recall_without'])} | {v['recall_drop']:+.1%} |"
+            )
+        lines.append("")
+
+
+def compute_metrics_from_result(res: dict, label_name: str, preset: str = "balanced") -> dict:
+    """Reconstruct TP/FP/TN/FN from stored outcomes for a sub-set."""
+    # We don't store per-subset outcomes in the result dict; use stored breakdown as fallback.
+    # For non-combined subsets we can approximate from the stored breakdown if present.
+    breakdown = res.get("attack_breakdown", {})
+    tp = fp = tn = fn = 0
+    for attack, stats in breakdown.items():
+        if stats["type"] == "attack":
+            tp += stats.get("TP", 0)
+            fn += stats.get("FN", 0)
+        else:
+            fp += stats.get("FP", 0)
+            tn += stats.get("TN", 0)
+    recall = tp / (tp + fn) if (tp + fn) > 0 else 0.0
+    precision = tp / (tp + fp) if (tp + fp) > 0 else 0.0
+    fpr = fp / (fp + tn) if (fp + tn) > 0 else 0.0
+    f1 = (2 * precision * recall / (precision + recall)) if (precision + recall) > 0 else 0.0
+    return {"TP": tp, "FP": fp, "TN": tn, "FN": fn, "recall": recall, "precision": precision, "fpr": fpr, "f1": f1}
+
+
+def _render_generated_limitations(lines: list[str], all_results: list[dict]) -> None:
+    """Append generated misses and false-positive lists."""
+    misses = []
+    false_pos = []
+
+    for res in all_results:
+        if not res:
+            continue
+        fixtures = res.get("fixtures", [])
+        results_b = res.get("results_balanced", [])
+        for fx, rb in zip(fixtures, results_b):
+            verdict = get_item_verdict(rb)
+            label = fx.get("label", "clean")
+            attack = fx.get("attack", "NONE")
+            fx_id = fx.get("query", fx.get("id", "?"))
+            snippet = fx.get("organic_results", [{}])[0].get("snippet", "") if fx.get("organic_results") else ""
+            snippet_preview = snippet[:80].replace("\n", " ")
+
+            if label == "poisoned" and verdict == "CLEAN":
+                misses.append((fx_id, attack, snippet_preview, verdict))
+            elif label in ("clean", "false_positive_bait") and verdict != "CLEAN":
+                false_pos.append((fx_id, attack, verdict))
+
+    if misses:
+        lines += [
+            "**Missed poisoned fixtures (balanced preset):**",
+            "",
+            "| Fixture ID | Family | Snippet (first 80 chars) | Verdict |",
+            "|---|---|---|---|",
+        ]
+        for fx_id, attack, snippet_preview, verdict in misses:
+            lines.append(f"| {fx_id} | {attack} | {snippet_preview} | {verdict} |")
+        lines.append("")
+
+    if false_pos:
+        lines += [
+            "**False positives (balanced preset):**",
+            "",
+            "| Fixture ID | Family | Verdict |",
+            "|---|---|---|",
+        ]
+        for fx_id, attack, verdict in false_pos:
+            lines.append(f"| {fx_id} | {attack} | {verdict} |")
+        lines.append("")
+
+    if not misses and not false_pos:
+        lines.append("No missed poisoned fixtures or false positives recorded.")
 
 
 # ---------------------------------------------------------------------------
