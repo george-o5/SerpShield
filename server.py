@@ -129,8 +129,7 @@ async def main():
         server = Server("serpshield")
         
         # Register tools using request handlers
-        @server.add_request_handler(types.ListToolsRequest)
-        async def handle_list_tools(request):
+        async def handle_list_tools(ctx, request):
             return types.ListToolsResult(
                 tools=[
                     types.Tool(
@@ -183,18 +182,20 @@ async def main():
                 ]
             )
         
-        @server.add_request_handler(types.CallToolRequest)
-        async def handle_call_tool(request):
-            if request.params.name == "secure_search":
-                content = await _tool_secure_search(request.params.arguments)
-            elif request.params.name == "search_status":
-                content = await _tool_search_status(request.params.arguments)
-            elif request.params.name == "benchmark_run":
-                content = await _tool_benchmark_run(request.params.arguments)
+        async def handle_call_tool(ctx, request):
+            if request.name == "secure_search":
+                content = await _tool_secure_search(request.arguments)
+            elif request.name == "search_status":
+                content = await _tool_search_status(request.arguments)
+            elif request.name == "benchmark_run":
+                content = await _tool_benchmark_run(request.arguments)
             else:
-                content = [{"type": "text", "text": f'{{"error": "Unknown tool: {request.params.name}"}}'}]
+                content = [{"type": "text", "text": f'{{"error": "Unknown tool: {request.name}"}}'}]
             
             return types.CallToolResult(content=[types.TextContent(**c) for c in content])
+        
+        server.add_request_handler("tools/list", types.PaginatedRequestParams, handle_list_tools)
+        server.add_request_handler("tools/call", types.CallToolRequestParams, handle_call_tool)
         
         async with stdio_server() as (read_stream, write_stream):
             await server.run(
