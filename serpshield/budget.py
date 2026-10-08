@@ -1,5 +1,6 @@
 """In-memory TTL cache (default 1h) + credit accounting (per-session, per-day, hard max)."""
 
+import copy
 import time
 import json
 import pathlib
@@ -12,18 +13,31 @@ class Cache:
     def __init__(self, ttl_seconds: int = 3600):
         self.ttl_seconds = ttl_seconds
         self.store = {}
+        self.hits = 0
+        self.misses = 0
         
     def get(self, key: Tuple[str, str, int]) -> Optional[Any]:
         if key in self.store:
             val, ts = self.store[key]
             if time.time() - ts < self.ttl_seconds:
-                return val
+                self.hits += 1
+                return copy.deepcopy(val)
             else:
                 del self.store[key]
+                self.misses += 1
+                return None
+        self.misses += 1
         return None
         
     def set(self, key: Tuple[str, str, int], value: Any):
-        self.store[key] = (value, time.time())
+        self.store[key] = (copy.deepcopy(value), time.time())
+    
+    def stats(self) -> dict:
+        return {
+            "size": len(self.store),
+            "hits": self.hits,
+            "misses": self.misses,
+        }
 
 
 class Budget:

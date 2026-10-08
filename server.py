@@ -5,27 +5,208 @@ Tools:
   - search_status()
   - benchmark_run(dataset="core")
 """
-# TODO: [VERIFY] import path/server class for the installed mcp SDK version.
+
+import json
+import logging
+import os
+import sys
+from collections import deque
+from datetime import datetime, timezone
+from pathlib import Path
+
+try:
+    from dotenv import load_dotenv
+except ImportError:
+    load_dotenv = None
+
+from serpshield.budget import Budget, Cache
+from serpshield.config import get_config
+from serpshield.pipeline import run_pipeline
 
 
-def secure_search(query: str, engine: str = "google", num_results: int = 10) -> dict:
-    """Fetch -> normalize -> detect -> verdict -> label -> slim -> budget -> audit."""
-    raise NotImplementedError
+# Load .env from project root if it exists
+if load_dotenv:
+    project_root = Path(__file__).parent
+    env_path = project_root / ".env"
+    if env_path.exists():
+        load_dotenv(env_path)
+
+# Configure logging to stderr only
+logging.basicConfig(
+    stream=sys.stderr,
+    level=logging.INFO,
+    format="%(asctime)s [%(levelname)s] %(message)s"
+)
+logger = logging.getLogger(__name__)
+
+# Module-level singletons
+config = get_config()
+CACHE = Cache(ttl_seconds=config.budget.cache_ttl_seconds)
+BUDGET = Budget(config=config)
+
+# Keep last N search summaries (no content)
+RECENT_SEARCHES = deque(maxlen=20)
 
 
-def search_status() -> dict:
-    """Budget usage, cache stats, last-N verdict summary (no content)."""
-    raise NotImplementedError
+async def _tool_secure_search(args: dict):
+    """Execute secure_search tool."""
+    try:
+        query = args.get("query", "")
+        engine = args.get("engine", "google")
+        num_results = args.get("num_results", 10)
+        
+        result = run_pipeline(
+            query=query,
+            engine=engine,
+            num_results=num_results,
+            cache=CACHE,
+            budget=BUDGET
+        )
+        
+        # Add summary to recent searches (counts only, no content)
+        if "error" not in result:
+            summary = {
+                "ts": datetime.now(timezone.utc).isoformat(),
+                "engine": engine,
+                "mode": result["meta"]["mode"],
+                "blocked": result["meta"]["blocked_count"],
+                "flagged": result["meta"]["flagged_count"],
+                "suspicious": result["meta"]["suspicious_count"],
+            }
+            RECENT_SEARCHES.append(summary)
+        
+        return [{"type": "text", "text": json.dumps(result)}]
+    except Exception as e:
+        logger.error(f"secure_search failed: {type(e).__name__}")
+        return [{"type": "text", "text": '{"error": "internal error"}'}]
 
 
-def benchmark_run(dataset: str = "core") -> dict:
-    """Run bundled fixtures and return metrics."""
-    raise NotImplementedError
+async def _tool_search_status(args: dict):
+    """Execute search_status tool."""
+    try:
+        mode = os.environ.get("SERPSHIELD_MODE", "live").strip().lower()
+        
+        status = {
+            "budget": BUDGET.status(),
+            "cache": CACHE.stats(),
+            "mode": mode,
+            "recent_searches": list(RECENT_SEARCHES)
+        }
+        
+        return [{"type": "text", "text": json.dumps(status)}]
+    except Exception as e:
+        logger.error(f"search_status failed: {type(e).__name__}")
+        return [{"type": "text", "text": '{"error": "internal error"}'}]
 
 
-def main() -> None:
-    raise NotImplementedError
+async def _tool_benchmark_run(args: dict):
+    """Execute benchmark_run tool."""
+    try:
+        dataset = args.get("dataset", "core")
+        
+        if dataset not in ["core", "heldout"]:
+            return [{"type": "text", "text": '{"error": "invalid dataset"}'}]
+        
+        # Try to import and run the benchmark
+        try:
+            from benchmark.run_benchmark import run
+            result = run(dataset)
+            return [{"type": "text", "text": json.dumps(result)}]
+        except (ImportError, AttributeError):
+            return [{"type": "text", "text": '{"error": "benchmark not available yet"}'}]
+    except Exception as e:
+        logger.error(f"benchmark_run failed: {type(e).__name__}")
+        return [{"type": "text", "text": '{"error": "internal error"}'}]
+
+
+async def main():
+    """Run the MCP server on stdio."""
+    try:
+        from mcp.server import Server
+        from mcp.server.stdio import stdio_server
+        from mcp import types
+        
+        server = Server("serpshield")
+        
+        # Register tools using request handlers
+        @server.add_request_handler(types.ListToolsRequest)
+        async def handle_list_tools(request):
+            return types.ListToolsResult(
+                tools=[
+                    types.Tool(
+                        name="secure_search",
+                        description="Search with automatic prompt injection protection",
+                        inputSchema={
+                            "type": "object",
+                            "properties": {
+                                "query": {"type": "string", "description": "Search query"},
+                                "engine": {
+                                    "type": "string",
+                                    "enum": ["google", "google_news"],
+                                    "default": "google",
+                                    "description": "Search engine"
+                                },
+                                "num_results": {
+                                    "type": "integer",
+                                    "minimum": 1,
+                                    "maximum": 10,
+                                    "default": 10,
+                                    "description": "Number of results to return"
+                                }
+                            },
+                            "required": ["query"]
+                        }
+                    ),
+                    types.Tool(
+                        name="search_status",
+                        description="Get budget, cache stats, and recent search summary",
+                        inputSchema={
+                            "type": "object",
+                            "properties": {}
+                        }
+                    ),
+                    types.Tool(
+                        name="benchmark_run",
+                        description="Run benchmark test suite",
+                        inputSchema={
+                            "type": "object",
+                            "properties": {
+                                "dataset": {
+                                    "type": "string",
+                                    "enum": ["core", "heldout"],
+                                    "default": "core",
+                                    "description": "Which dataset to run"
+                                }
+                            }
+                        }
+                    )
+                ]
+            )
+        
+        @server.add_request_handler(types.CallToolRequest)
+        async def handle_call_tool(request):
+            if request.params.name == "secure_search":
+                content = await _tool_secure_search(request.params.arguments)
+            elif request.params.name == "search_status":
+                content = await _tool_search_status(request.params.arguments)
+            elif request.params.name == "benchmark_run":
+                content = await _tool_benchmark_run(request.params.arguments)
+            else:
+                content = [{"type": "text", "text": f'{{"error": "Unknown tool: {request.params.name}"}}'}]
+            
+            return types.CallToolResult(content=[types.TextContent(**c) for c in content])
+        
+        async with stdio_server() as (read_stream, write_stream):
+            await server.run(
+                read_stream,
+                write_stream,
+                server.create_initialization_options()
+            )
+    except ImportError:
+        logger.error("MCP server module not available")
+        sys.exit(1)
 
 
 if __name__ == "__main__":
-    main()
+    import asyncio
+    asyncio.run(main())
