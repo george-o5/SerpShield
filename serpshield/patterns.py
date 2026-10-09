@@ -49,6 +49,7 @@ S2_PATTERNS = [
     r"###\s*instruction\s*:\s*(?=.*?\b" + S2_INSTRUCTION_WORDS + r"\b)",
     r"\[\s*(?:SYSTEM|ASSISTANT)\s*\]\s*(?=.*?\b" + S2_INSTRUCTION_WORDS + r"\b)",
     r"<start>\s*(?:system|assistant)\s*:\s*(?=.*?\b" + S2_INSTRUCTION_WORDS + r"\b)",
+    r"(?:\{\s*\"role\"\s*:\s*\"(?:system|assistant)\"\s*[^}]*\})\s*(?=.*?\b" + S2_INSTRUCTION_WORDS + r"\b)",
 ]
 S2_REGEXES = [re.compile(p, re.IGNORECASE | re.MULTILINE) for p in S2_PATTERNS]
 
