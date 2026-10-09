@@ -27,9 +27,11 @@ from serpshield.budget import Budget, Cache
 DATASETS = {
     "core": Path(__file__).parent / "core" / "fixtures.jsonl",
     "core_variants": Path(__file__).parent / "core" / "variants.jsonl",
-    "heldout": Path(__file__).parent / "heldout" / "heldout_v1.json",
+    "heldout": Path(__file__).parent / "heldout" / "heldout_v2.json",
 }
 BENCHMARK_MD = Path(__file__).parent.parent / "docs" / "BENCHMARK.md"
+CORE_MD = Path(__file__).parent.parent / "docs" / "_bench_core.md"
+HELDOUT_MD = Path(__file__).parent.parent / "docs" / "_bench_heldout.md"
 
 
 # ---------------------------------------------------------------------------
@@ -789,8 +791,7 @@ def _render_heldout_tables(lines: list[str], res: dict) -> None:
     lines += [
         f"## Held-Out Dataset  (n={res['n']})",
         "",
-        "Held-out set authored by a separate AI session that never saw the detector code; "
-        "not an independent human red team; not tuned on; indicative only.",
+        "Held-out set authored by a separate AI chat with no access to this repository or the detector code; same team, not an independent human red team; detector not tuned on it; indicative only.",
         "",
         "| Metric | `balanced` preset | `strict` preset |",
         "|---|---|---|",
@@ -931,11 +932,11 @@ def main():
         choices=["core", "heldout"],
         dest="datasets",
         default=None,
-        help="Dataset(s) to run. May be repeated. Default: core",
+        help="Dataset(s) to run. May be repeated. Default: core and heldout",
     )
     args = parser.parse_args()
 
-    datasets = args.datasets or ["core"]
+    datasets = args.datasets or ["core", "heldout"]
     datasets = list(dict.fromkeys(datasets))  # deduplicate preserving order
 
     print(f"SerpShield Benchmark  (SERPSHIELD_MODE={os.environ.get('SERPSHIELD_MODE','live')})")
@@ -947,9 +948,31 @@ def main():
         result = run_benchmark(ds)
         all_results.append(result)
 
-    md = generate_markdown(all_results)
-    BENCHMARK_MD.write_text(md, encoding="utf-8")
-    print(f"\nWrote {BENCHMARK_MD}")
+    # Write separate files for core and heldout
+    core_results = [r for r in all_results if r and r.get("dataset") == "core"]
+    heldout_results = [r for r in all_results if r and r.get("dataset") == "heldout"]
+
+    if core_results:
+        core_md = generate_markdown(core_results)
+        CORE_MD.write_text(core_md, encoding="utf-8")
+        print(f"Wrote {CORE_MD}")
+
+    if heldout_results:
+        heldout_md = generate_markdown(heldout_results)
+        HELDOUT_MD.write_text(heldout_md, encoding="utf-8")
+        print(f"Wrote {HELDOUT_MD}")
+
+    # Concatenate into BENCHMARK.md
+    combined_md = ""
+    if core_results:
+        combined_md += CORE_MD.read_text(encoding="utf-8")
+    if heldout_results:
+        if combined_md:
+            combined_md += "\n"
+        combined_md += HELDOUT_MD.read_text(encoding="utf-8")
+
+    BENCHMARK_MD.write_text(combined_md, encoding="utf-8")
+    print(f"Wrote {BENCHMARK_MD}")
 
 
 if __name__ == "__main__":
