@@ -30,6 +30,12 @@ SerpShield sits between the agent and SerpApi. Every result is normalized, score
 
 ---
 
+## Why SerpApi-specific
+
+SerpShield is built around **SerpApi**, not search in general. It is shaped by real SerpApi responses captured in `recorded/`. A response carries many sections (`organic_results`, `ai_overview`, `related_questions`, `ads`, `perspectives`, …); only the fields SerpShield scans and labels are emitted, so everything else is dropped before the agent sees it. The trade-off is that useful data such as AI overviews is also dropped. A TTL cache and session, daily and hard credit caps keep usage predictable, and the slim envelope cut one recorded response from 72,986 B to 4,041 B. Roadmap: scan `ai_overview`, `related_questions` and `answer_box` as additional injection surfaces, and add more engines.
+
+---
+
 ## Contents
 
 - [How it works](#how-it-works)
